@@ -1,0 +1,13 @@
+US blacklists five more Chinese tech companies
+The move comes a month after Huawei was banned and put on the United States' "entity list."
+The US Commerce Department has blacklisted another five Chinese tech companies, preventing them from buying US-made chips and components. Like Chinese tech giant Huawei last month, the companies were added to the United State's "entity list" (PDF) due to national security concerns.
+The filing, spotted earlier Friday by CNBC, blocks China-based Higon, Sugon, Chengdu Haiguang Integrated Circuit, Chengdu Haiguang Microelectronics Technology and Wuxi Jiangnan Institute of Computing Technology.
+Sugon and Wuxi lead China's exascale high-performance computing development, the filing says. Sugon's computers have military users, while Wuxi is owned by the 56th Research Institute of the General Staff of China's People's Liberation Army "to support China's military modernization."
+Higan develops integrated circuits, electronic information systems, software and computer system integration, while the Chengdu entities design X86 architecture chips and produce integrated circuits.
+As pointed out by CNBC, US chip companies' stock fell following the announcement, with Nvidia down by 1%, Xilinx by 2.2% and Advanced Micro Devices by 2%.
+In addition to being put on the entity list last month, President Donald Trump signed an executive order essentially banning the company in light of national security concerns that Huawei had close ties with the Chinese government. Huawei has repeatedly denied that charge.
+Huawei is expected to take a $30 billion hit to its revenue as a result, although CEO Ren Zhengfei earlier this week said he is not too concerned about the loss.
+Huawei has filed a motion in US court to have US legislation that bars federal agencies from buying its products ruled unconstitutional, and has also sent an ex parte memo to the FCC in which it objects to being banned on the grounds of national security threats.
+Hardware and software vendors have been fleeing Huawei: Amazon Japan reportedly no longer offers Huawei devices for sale, and last month, Google locked Huawei out of its Android updates, though the US Commerce Department granted it a three-month general license to update existing devices.
+In a turnaround, Microsoft began selling its existing inventory of Huawei MateBook laptops earlier this week, saying it "will continue to respond to the many business, technical and regulatory complexities."
+Huawei at the end of May moved to trademark the name of its operating system, Hongmeng, in Peru.
