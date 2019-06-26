@@ -1,0 +1,12 @@
+500 organisms annotated with the Eukaryotic Genome Annotation Pipeline
+
+This month, the NCBI Eukaryotic Genome Annotation Pipeline annotated its 500th organism! The lucky winner is Pocillopora damicornis, a stony reef-building coral frequently used as an experimental model, whose larval dispersal and development are affected by environmental changes in the oceans.
+
+Stony coral (Pocillopora damicornis)
+
+
+Mammals dominate the list of annotated organisms with a total of 120, but we have increased coverage of invertebrates and plants – we’ve annotated 111 insects and 93 higher plants so far. See the full list of annotated organisms and request that your favorite organism(s) be annotated!
+
+The annotations are done on publicly released assemblies, and the quality of the results is highly dependent on the availability of RNA-Seq data for the organism, so thank you all for submitting your data to SRA.
+
+The data produced by the Eukaryotic Genome Annotation Pipeline is freely available in the Reference Sequences (RefSeq) collection, BLAST non-redundant and organism-specific databases, and the Gene database; it is also downloadable from the NCBI FTP site.
