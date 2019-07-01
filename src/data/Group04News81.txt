@@ -1,0 +1,29 @@
+Google says Chrome isn't killing ad-blocking extensions
+It's just trying to make extensions safer. But Google still has a lot of convincing to do.
+
+BY 
+STEPHEN SHANKLAND,
+
+A Google Chrome lapel pin
+Part of the debate concerns rules that ad blockers use to decide what to screen and what to display.
+
+Google isn't trying to kill ad blockers. That's the message in a pair of Google blog posts published Wednesday in response to criticism of the search giant's plan to improve extensions in its Chrome web browser.
+
+"We are not preventing the development of ad blockers or stopping users from blocking ads," said Devlin Cronin in a post on the Google Security Blog. "Instead, we want to help developers, including content blockers, write extensions in a way that protects users' privacy."
+
+Google in October revealed a broad plan to improve Chrome extensions. In January, developers noticed that part of the plan, called Manifest v3, could hurt ad blockers and other extensions that modify website content. Manifest v3 is designed to improve Chrome extensions' performance, privacy and security, but one part of that change limits how extensions can modify websites according to a long list of rules -- blocking content from internet addresses that supply ads, for example. Some developers have said this will hobble their ad-blocking and privacy extensions.
+
+"There's been a lot of confusion and misconception around both the motivations and implications of this change, including speculation that these changes were designed to prevent or weaken ad blockers," said Google's Simeon Vincent in a post on the Chromium Blog. "This is absolutely not the goal."
+
+Ghostery threatens an antitrust lawsuit
+Some extension authors aren't mollified, though.
+
+Ghostery, maker of a tracker-blocking extension, still doesn't like the new, somewhat higher limits and raised the prospect of legal action against Google.
+
+"This would basically mean that Google is destroying ad blocking and privacy protection as we know it," Ghostery President Jeremy Tillman said in a statement. "Whether Google does this to protect their advertising business or simply to force its own rules on everyone else, it would be nothing less than another case of misuse of its market-dominating position. If this comes true, we will consider filing an antitrust complaint."
+
+However, it's not clear how the move would protect Google's ad business. Even with a sharply curtailed list of filters, Google's ads could still be blocked, and given its power in online advertising, it's likely an ad blocker would indeed tackle Google's ads. 
+
+Part of the debate concerns rules that ad blockers use to decide what to screen and what to display. Chrome's current design permits lots of those rules, so for example an ad blocker can check to see if elements on a website are coming from a very long list of ad-related internet addresses. The new approach had a proposed limit to those rules, a maximum of 30,000, which could've hobbled ad blockers and other extensions using those lists. 
+
+Google didn't respond to a request for comment.
