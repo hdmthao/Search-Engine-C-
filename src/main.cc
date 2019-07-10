@@ -8,7 +8,6 @@ int main() {
     Engine* engine = new Engine();
 
     engine->Init();
-    std::cout << "OK";
     engine->Exit();
     SAFE_DELETE(engine);
 }

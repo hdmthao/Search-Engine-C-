@@ -1,7 +1,7 @@
 #ifndef SEARCHER_H
 #define SEARCHER_H
 
-#include "../trie/trienode.h"
+#include <unordered_map>
 
 // it is actually a trie node with map table to save memory
 class SearcherNode {

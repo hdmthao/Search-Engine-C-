@@ -34,3 +34,5 @@
 tags
 makefile
 bin/
+Session.vim
+demo.cpp

@@ -15,6 +15,7 @@ namespace util {
         std::string Trim(const std::string &s); // remove trailing space
         std::vector<std::string> Split(const std::string &s); // split a string to vector. Ex : "My name is Google" => ["My", "name", "is", "Google"]
         std::string ToLowerCase(const std::string &s);
+        std::string Normalize(const std::string &s);
     }
 
     // function for time
@@ -25,5 +26,13 @@ namespace util {
         // get different time of 2 time.
     }
 }
+
+#define SAFE_DELETE(pointer) {\
+    if (pointer != nullptr) {\
+        delete pointer;\
+        pointer = nullptr;\
+    }\
+\
+} \
 
 #endif
