@@ -18,12 +18,13 @@ public:
 class Searcher {
 private:
     SearcherNode* root;
+    bool Insert(const std::string &);
 
 public:
     Searcher();
     ~Searcher();
     
-    bool AddWord(const std::string &);
+    bool AddData(const std::string &);
     bool IsExistWord(const std::string &str);
 };
 

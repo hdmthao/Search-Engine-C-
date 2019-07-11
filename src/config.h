@@ -3,7 +3,12 @@
 
 #define ALPHABET_SIZE 255
 
+#include <string>
+
 namespace config {
+    namespace path {
+        extern const std::string DATA;
+    }
 }
 
 #endif

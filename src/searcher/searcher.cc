@@ -22,9 +22,9 @@ Searcher::~Searcher() {
 }
 
 // Insert a word to trie 
-bool Searcher::AddWord(const std::string &str) {
+bool Searcher::Insert(const std::string &str) {
     // Standarized word 
-    std::string word = util::string::ToLowerCase(str);
+    std::string word = util::string::Normalize(str);
     
     // word is empty so we cannot insert
     if (word.empty()) return false;
@@ -43,6 +43,16 @@ bool Searcher::AddWord(const std::string &str) {
         cur = cur->children[c];
     }
     cur->is_end_of_word = true;
+
+    return true;
+}
+
+bool Searcher::AddData(const std::string &str) {
+    std::vector<std::string> word_list = util::string::Split(str);
+
+    for (auto word : word_list) {
+        Insert(str);
+    }
 
     return true;
 }
