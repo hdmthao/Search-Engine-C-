@@ -18,15 +18,13 @@ Engine::~Engine() {
 // Init engine
 bool Engine::Init() {
     searcher = new Searcher();
-    std::cout << "Engine START OK\n";
     return true;
 }
 
 // free memory
 bool Engine::Exit() {
-    // SAFE_DELETE(searcher);
+    SAFE_DELETE(searcher);
 
-    std::cout << "Engine EXIT OK\n";
     return true;
 }
 
@@ -41,7 +39,6 @@ bool Engine::BuildSearcher() {
     std::string s;
     while (fi >> s) {
         searcher->AddData(s);
-        std::cout << s << "\n";
     }
     fi.close();
 

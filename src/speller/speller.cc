@@ -7,7 +7,6 @@ Speller::Speller(Searcher* searcher) : searcher(searcher), dict(nullptr) {
 }
 
 Speller::~Speller() {
-    SAFE_DELETE(searcher);
     SAFE_DELETE(dict);
 }
 

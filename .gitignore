@@ -36,3 +36,4 @@ makefile
 bin/
 Session.vim
 demo.cpp
+.vscode

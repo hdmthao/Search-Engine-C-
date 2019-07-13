@@ -8,9 +8,9 @@ class Engine {
 private:
     
     Speller* speller;
+    Searcher* searcher;
 
 public:
-    Searcher* searcher;
     Engine();
     ~Engine();
 
