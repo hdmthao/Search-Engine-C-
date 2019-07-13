@@ -10,12 +10,6 @@ Speller::~Speller() {
     SAFE_DELETE(dict);
 }
 
-
-bool Speller::Insert(std::string &s) {
-    if (dict->IsExistWord(s)) {
-        return false; // this world already exist
-    }
-
 bool Speller::AutoCorrect(const std::string & origin, std::string & fix){
 	fix = origin;
 	if (Search(fix))
