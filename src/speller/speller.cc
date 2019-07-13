@@ -7,7 +7,6 @@ Speller::Speller(Searcher* searcher) : searcher(searcher), dict(nullptr) {
 }
 
 Speller::~Speller() {
-    SAFE_DELETE(searcher);
     SAFE_DELETE(dict);
 }
 
@@ -44,7 +43,7 @@ bool Speller::AutoCorrect(const std::string & origin, std::string & fix){
 				inCorrectList.push(make_pair(newWord, rep + 1));
 			}
 		}
-		for (char j = 'a'; j < 'z'; j++) {
+		for (char j = 'a'; j <= 'z'; j++) {
 			//Insert a character
 			for (std::string::size_type i = 0; i < curWord.length() + 1; i++) {
 				std::string newWord = curWord.substr(0, i) + j + curWord.substr(i);
