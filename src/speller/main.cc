@@ -10,14 +10,14 @@
 bool Test_Speller(Engine* &engine) {
     engine->StartSpeller();
 	std::string fix;
-	std::string origin = "anonymuo";
+	std::string origin = "Te ycerattacks otok wn Irwnia";
 	float rtime = clock();
 	std::cout << "ORIGIN WORD : " << origin << "\n";
 	if (engine->speller->Check(origin, fix)) {
-		std::cout << "Correct Word Is :" << fix << "\n";
+		std::cout << "Correct Sentence Is :" << fix << "\n";
 	}
 	else {
-		std::cout << "This is a Incorrect Word !" << "\n";
+		std::cout << "This is a Incorrect Sentence !" << "\n";
 	}
 	rtime = (clock() - rtime) / CLOCKS_PER_SEC;
 	std::cout << "RUN TIME : " << float(rtime) << "s\n";
