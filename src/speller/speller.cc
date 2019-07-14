@@ -1,6 +1,7 @@
 #include "speller.h"
 #include "../util/util.h"
 #include <iostream>
+#include <queue>
 
 Speller::Speller(Searcher* searcher) : searcher(searcher), dict(nullptr) {
     dict = new Trie();
@@ -21,17 +22,6 @@ bool Speller::AutoCorrect(const std::string & origin, std::string & fix){
 		//std::cout << curWord << "\n";
 		int rep = inCorrectList.front().second;
 		inCorrectList.pop();
-		// delete a character
-		for (std::string::size_type i = 0; i < curWord.length(); i++) {
-			std::string newWord = curWord.substr(0, i) + curWord.substr(i + 1);
-			if (Search(newWord)) {
-				fix = newWord;
-				return 1;
-			}
-			if (rep < 1) {
-				inCorrectList.push(make_pair(newWord, rep + 1));
-			}
-		}
 		// swap 2 character
 		for (std::string::size_type i = 0; i < curWord.length() - 1; i++) {
 			std::string newWord = curWord.substr(0, i) + curWord[i+1] + curWord[i] + curWord.substr(i + 2);
@@ -67,21 +57,35 @@ bool Speller::AutoCorrect(const std::string & origin, std::string & fix){
 				}
 			}
 		}
+		// delete a character
+		for (std::string::size_type i = 0; i < curWord.length(); i++) {
+			std::string newWord = curWord.substr(0, i) + curWord.substr(i + 1);
+			if (Search(newWord)) {
+				fix = newWord;
+				return 1;
+			}
+			if (rep < 1) {
+				inCorrectList.push(make_pair(newWord, rep + 1));
+			}
+		}
 
 	}
 	return false;
 }
 
 bool Speller::Check(const std::string & origin, std::string & fix) {
-	bool isCorrect = 1;
 	fix = "";
-	std::vector <std::string> originWord = util::string::Split(origin);
+
+	std::string query = util::string::Normalize(origin);
+
+	std::vector <std::string> originWord = util::string::Split(query);
+	int count = 0;
 	for (int i = 0; i < originWord.size(); i++) {
-		isCorrect = isCorrect & AutoCorrect(originWord[i], originWord[i]);
+		count += AutoCorrect(originWord[i], originWord[i]);
 		fix += originWord[i] + " ";
 	}
 	fix.erase(fix.length() - 1, 1);
-	return isCorrect;
+	if (count == originWord.size()) return false; else return true;
 }
 
 

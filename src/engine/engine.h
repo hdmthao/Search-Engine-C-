@@ -7,10 +7,11 @@
 class Engine {
 private:
     
-    Speller* speller;
     Searcher* searcher;
 
 public:
+    Speller* speller;
+
     Engine();
     ~Engine();
 

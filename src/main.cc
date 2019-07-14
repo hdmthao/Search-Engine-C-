@@ -58,6 +58,17 @@ bool Test_Speller(Engine* engine) {
         Running("Test Speller");
         engine->StartSpeller();
         // TEst Here
+        std::string query = "", fix = "";
+        query = getString("Enter Query");
+        bool spell_status;
+        spell_status = engine->speller->Check(query, fix);
+        if (spell_status) {
+            Info("Did you mean: ", false);
+            std::cout << fix << "\n";
+        } else {
+            Info("Search for: ", false);
+            std::cout << query << "\n";
+        }
         engine->StopSpeller();
         Done("Test Speller");
     } catch (std::exception &e) {

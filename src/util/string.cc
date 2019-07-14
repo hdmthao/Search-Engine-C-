@@ -45,6 +45,7 @@ std::string util::string::Trim(const std::string &s)
 
 std::string util::string::Normalize(const std::string &s) {
     std::string word = util::string::Trim(s);
+	word = RemoveMark(word);
     return util::string::ToLowerCase(word);
 }
 
@@ -71,3 +72,25 @@ std::vector<std::string> util::string::Split(const std::string &str)
 	return words;
 }
 
+std::string util::string::RemoveMark(const std::string &s)
+{
+	std:: string st = s;
+	int i = 0;
+	while (i < st.length())
+	{
+		if ((st[i] == ' ' || st[i] == ',' || st[i] == '.' || st[i] == '?' || st[i] == '!' || st[i] == ':' || st[i] == ';') &&
+			(st[i + 1] == ' ' || st[i + 1] == ',' || st[i + 1] == '.' || st[i + 1] == '?' || st[i + 1] == '!' || st[i + 1] == ':' || st[i + 1] == ';'))
+		{
+			st[i] = st[i + 1] = ' ';
+			for (int j = i; j < st.length() - 1; j++)
+				st[j] = st[j + 1];
+			st.pop_back();
+			--i;
+		}
+		++i;
+	}
+	--i;
+	if (st[i] == ',' || st[i] == '.' || st[i] == '?' || st[i] == '!' || st[i] == ':' || st[i] == ';')
+		st.pop_back();
+	return st;
+}
