@@ -51,9 +51,38 @@ bool Engine::StartSpeller() {
     return true;
 }
 
+bool Engine::CheckSpell(const std::string &origin, std::string &fix) {
+    // return True if the origin string was fix atleast once word
+    bool spell_status = speller->Check(origin, fix);
+
+    return spell_status;
+}
 
 bool Engine::StopSpeller() {
     SAFE_DELETE(speller);
+
+    return true;
+}
+
+// Sugester
+bool Engine::StartSuggester() {
+    // Init Suggester
+    suggester = new Suggester();
+
+    return true;
+}
+
+std::vector<std::string> Engine::GetSuggest(const std::string &origin_query) {
+    // Return atleast 3 history query, query suggest base Frecency
+    std::vector<std::string> suggest_list;
+    suggest_list = suggester->GetSuggest(origin_query);
+
+    return suggest_list;
+}
+
+bool Engine::StopSuggester() {
+    // Free memory
+    SAFE_DELETE(suggester);
 
     return true;
 }

@@ -5,7 +5,7 @@ This month, the NCBI Eukaryotic Genome Annotation Pipeline annotated its 500th o
 Stony coral (Pocillopora damicornis)
 
 
-Mammals dominate the list of annotated organisms with a total of 120, but we have increased coverage of invertebrates and plants – we’ve annotated 111 insects and 93 higher plants so far. See the full list of annotated organisms and request that your favorite organism(s) be annotated!
+Mammals dominate the list of annotated organisms with a total of 120, but we have increased coverage of invertebrates and plants  weve annotated 111 insects and 93 higher plants so far. See the full list of annotated organisms and request that your favorite organism(s) be annotated!
 
 The annotations are done on publicly released assemblies, and the quality of the results is highly dependent on the availability of RNA-Seq data for the organism, so thank you all for submitting your data to SRA.
 

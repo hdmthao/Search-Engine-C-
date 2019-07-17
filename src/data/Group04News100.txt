@@ -12,7 +12,7 @@ The study published in Physical Review Letters outlined how scientists could use
 
 Secret of Dark Matter -"Enormous Beacon and Planet-Sized Particles" 
 
-The idea is that shortly after the Big Bang, quantum mechanical fluctuations led to the density distribution of matter that we observe today in the expanding universe. It's been suggested that some of those density fluctuations might have been large enough to result in black holes peppered throughout the universe. These so-called primordial black holes were first proposed in the early 1970s by Stephen Hawking and collaborators but have never been detected—it's still not clear if they exist at all.
+The idea is that shortly after the Big Bang, quantum mechanical fluctuations led to the density distribution of matter that we observe today in the expanding universe. It's been suggested that some of those density fluctuations might have been large enough to result in black holes peppered throughout the universe. These so-called primordial black holes were first proposed in the early 1970s by Stephen Hawking and collaborators but have never been detected it's still not clear if they exist at all.
 
 "Indistinguishable from Physics" -Three Alien-Technology Conjectures
 
@@ -20,7 +20,7 @@ The ability to detect gravitational waves, as demonstrated recently by the Laser
 
 "An Illusion or Portal to Another Universe" -Viewer's Guide to 1st Photo of Milky Way's Black Hole
 
-Cosmologists measure how far back in time an event occurred using redshift—the stretching of the wavelength of light associated with the expansion of the universe. Events further back in time are associated with larger redshifts. For this study, Koushiappas and Loeb calculated the redshift at which black hole mergers should no longer be detected assuming only stellar origin.
+Cosmologists measure how far back in time an event occurred using redshift the stretching of the wavelength of light associated with the expansion of the universe. Events further back in time are associated with larger redshifts. For this study, Koushiappas and Loeb calculated the redshift at which black hole mergers should no longer be detected assuming only stellar origin.
 
 "Big Bang Quasars" -Colossal Unknown Black Holes Detected at Dawn of the Cosmos
 
@@ -44,8 +44,8 @@ The only other possible explanation for black hole mergers at redshifts greater 
 
 "Evidence for non-Gaussianity would require new physics to explain the origin of these fluctuations, which would be a big deal," Loeb said.
 
-"The Last Photon Orbit" -Milky Way's Supermassive Black Hole ‘On Deck' for the EHT
+"The Last Photon Orbit" -Milky Way's Supermassive Black Hole On Deck' for the EHT
 
 
 
-The rate at which detections are made past a redshift of 40—if indeed such detections are made—should indicate whether they're a sign of primordial black holes or evidence for non-Gaussianity. But a non-detection would present a strong challenge to those ideas.
+The rate at which detections are made past a redshift of 40 if indeed such detections are made should indicate whether they're a sign of primordial black holes or evidence for non-Gaussianity. But a non-detection would present a strong challenge to those ideas.

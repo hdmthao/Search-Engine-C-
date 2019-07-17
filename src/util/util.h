@@ -4,7 +4,8 @@
 #include <string>
 #include <vector>
 #include <ctype.h>
-// 
+#include <ctime>
+
 namespace util {
     // function for string
     namespace string {
@@ -20,11 +21,14 @@ namespace util {
     }
 
     // function for time
-    namespace time { // use time.h libary.
-        // init time function
-        // get time interval of a process
-        // get current time to second
-        // get different time of 2 time.
+    namespace time {
+        class timer {
+        public: 
+            static clock_t t;
+            static bool SetTime(); // Set clock
+            static float GetTimeInterval(); // get time interval from start time
+            static long long GetCurrentTime(); // get current time to second
+        };
     }
 }
 

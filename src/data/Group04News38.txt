@@ -11,7 +11,7 @@ A total of 1246 hospitals contributed 8222 hospital-years. Compared to hospitals
 CONCLUSION:
 In this national study of hospitals with modern EHRs, EHR use was associated with better process of care measure performance but did not improve condition-specific readmission or mortality rates regardless of duration of EHR use, vendor choice, or Meaningful Use status. Further research is required to understand why EHRs have yet to improve standard outcome measures and how to better realize the potential benefits of EHR systems.
 
-© The Author(s) 2019. Published by Oxford University Press on behalf of the American Medical Informatics Association. All rights reserved. For permissions, please email: journals.permissions@oup.com.
+ The Author(s) 2019. Published by Oxford University Press on behalf of the American Medical Informatics Association. All rights reserved. For permissions, please email: journals.permissions@oup.com.
 
 KEYWORDS:
 electronic health record; hospital mortality; hospital readmission; meaningful use; process measures

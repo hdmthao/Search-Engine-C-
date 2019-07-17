@@ -5,11 +5,27 @@
 #include <iostream>
 #include <vector>
 #include <exception>
+#include <termios.h>
+#include <unistd.h>
 
 #define DONE " \x1b[32;1mDONE\x1b[0m"
 #define RUNNING " \x1b[36;1mRUNNING...\x1b[0m"
 #define FAIL " \x1b[31;1mFAIL\x1b[0m"
 
+
+int getch() {
+	struct termios oldt, newt;
+	int ch;
+
+	tcgetattr(STDIN_FILENO, &oldt);
+	newt = oldt;
+	newt.c_lflag &= ~(ICANON | ECHO);
+	tcsetattr(STDIN_FILENO, TCSANOW, &newt);
+	ch = getchar();
+	tcsetattr(STDIN_FILENO, TCSANOW, &oldt);
+
+	return ch;
+}
 
 void Info(std::string msg, bool newline = true) {
     std::cout << "\x1b[37;1m" << msg << "\x1b[0m";
@@ -60,8 +76,9 @@ bool Test_Speller(Engine* engine) {
         // TEst Here
         std::string query = "", fix = "";
         query = getString("Enter Query");
+        util::time::timer::SetTime();
         bool spell_status;
-        spell_status = engine->speller->Check(query, fix);
+        spell_status = engine->CheckSpell(query, fix);
         if (spell_status) {
             Info("Did you mean: ", false);
             std::cout << fix << "\n";
@@ -69,7 +86,9 @@ bool Test_Speller(Engine* engine) {
             Info("Search for: ", false);
             std::cout << query << "\n";
         }
+        Info("Time Eslapse: ", false);
         engine->StopSpeller();
+        std::cout << util::time::timer::GetTimeInterval() << "\n";
         Done("Test Speller");
     } catch (std::exception &e) {
         Fail("Test Speller");
@@ -80,6 +99,63 @@ bool Test_Speller(Engine* engine) {
     return true;
 }
 
+
+bool Test_Time() {
+    try {
+        Running("Test Time");
+        util::time::timer::SetTime();
+        Info("Current Time: ", false);
+        std::cout << util::time::timer::GetCurrentTime() << "\n";
+        Info("Time Eslapse: ", false);
+        std::cout << util::time::timer::GetTimeInterval() << "\n";
+        Done("Test Time");
+    } catch (std::exception &e) {
+        Fail("Test Time");
+        std::cout << e.what() << "\n";
+    }
+    return true;
+}
+
+bool Test_Suggester(Engine* engine) {
+    try {
+        Running("Test Suggester");
+        engine->StartSuggester();
+        std::string query = "";
+        int c = 0;
+        Info("Enter Query:");
+        while (c = getch()) {
+            // std::cout << c << "\n";
+            if (c == 10) { // enter
+                break;
+            }
+            if (c == 127) {
+                if (query.empty()) continue;
+                query.pop_back();
+            } else {
+                query += (char)(c);
+            }
+            Info("Enter Query: ", false);
+            std::cout << query << "\n";
+            std::vector<std::string> suggest_list = engine->GetSuggest(query);
+            for (int i = 0; i < suggest_list.size(); ++i) {
+                std::string msg = "Suggest (" + std::to_string(i + 1) + ") : ";
+                Info(msg, false);
+                std::cout << suggest_list[i] << "\n";
+            }
+            std::cout << "\n";
+        }
+
+        Info("Search For: ", false);
+        std::cout << query << "\n";
+        engine->StopSuggester();
+        Done("Test Suggester");
+    } catch(std::exception &e) {
+        Fail("Test Suggester");
+        std::cout << e.what() << "\n";
+    }
+
+    return true;
+}
 
 int main() {
     // test
@@ -107,6 +183,8 @@ int main() {
 
     std::vector<std::pair<int, std::string>> menu;
     menu.push_back({3, "Speller"});
+    menu.push_back({4, "Time"});
+    menu.push_back({5, "Suggester"});
     menu.push_back({0, "Exit"});
 
     while (true) {
@@ -123,6 +201,12 @@ int main() {
                 break;
             case 3:
                 Test_Speller(engine);
+                break;
+            case 4:
+                Test_Time();
+                break;
+            case 5:
+                Test_Suggester(engine);
                 break;
             default:
                 break;

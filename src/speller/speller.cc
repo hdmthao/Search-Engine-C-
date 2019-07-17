@@ -34,17 +34,6 @@ bool Speller::AutoCorrect(const std::string & origin, std::string & fix){
 			}
 		}
 		for (char j = 'a'; j <= 'z'; j++) {
-			//Insert a character
-			for (std::string::size_type i = 0; i < curWord.length() + 1; i++) {
-				std::string newWord = curWord.substr(0, i) + j + curWord.substr(i);
-				if (Search(newWord)) {
-					fix = newWord;
-					return 1;
-				}
-				if (rep < 1) {
-					inCorrectList.push(make_pair(newWord, rep + 1));
-				}
-			}
 			// Alterate a character
 			for (std::string::size_type i = 0; i < curWord.length() - 1; i++) {
 				std::string newWord = curWord.substr(0, i) + j + curWord.substr(i + 1);
@@ -53,6 +42,19 @@ bool Speller::AutoCorrect(const std::string & origin, std::string & fix){
 					return 1;
 				}
 				if (rep < 0) {
+					inCorrectList.push(make_pair(newWord, rep + 1));
+				}
+			}
+		}
+		for (char j = 'a'; j <= 'z'; j++) {
+			//Insert a character
+			for (std::string::size_type i = 0; i < curWord.length() + 1; i++) {
+				std::string newWord = curWord.substr(0, i) + j + curWord.substr(i);
+				if (Search(newWord)) {
+					fix = newWord;
+					return 1;
+				}
+				if (rep < 1) {
 					inCorrectList.push(make_pair(newWord, rep + 1));
 				}
 			}
@@ -68,9 +70,7 @@ bool Speller::AutoCorrect(const std::string & origin, std::string & fix){
 				inCorrectList.push(make_pair(newWord, rep + 1));
 			}
 		}
-
 	}
-	return false;
 }
 
 bool Speller::Check(const std::string & origin, std::string & fix) {
@@ -85,7 +85,7 @@ bool Speller::Check(const std::string & origin, std::string & fix) {
 		fix += originWord[i] + " ";
 	}
 	fix.erase(fix.length() - 1, 1);
-	if (count == originWord.size()) return false; else return true;
+	if (count == 0) return false; else return true;
 }
 
 
