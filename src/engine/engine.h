@@ -4,16 +4,18 @@
 #include "../searcher/searcher.h"
 #include "../speller/speller.h"
 #include "../suggester/suggester.h"
+#include "../ui/loadui/loadui.h"
 
 #include <vector>
 #include <string>
 
 class Engine {
 private:
-    
     Searcher* searcher;
     Speller* speller;
     Suggester* suggester;
+
+    bool BuildSearcher(const std::string &path_to_file);
 
 public:
 
@@ -24,8 +26,9 @@ public:
     bool Init();   
     bool Exit(); 
     
+
     // Searcher 
-    bool BuildSearcher();
+    bool Loading(LoadUI* loadui);
 
 
     // Speller

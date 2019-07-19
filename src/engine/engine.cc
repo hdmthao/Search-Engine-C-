@@ -4,7 +4,6 @@
 #include <iostream>
 #include <fstream>
 
-
 // constructor engine
 Engine::Engine() : searcher(nullptr) {
     
@@ -29,11 +28,29 @@ bool Engine::Exit() {
 }
 
 //Searcher
-bool Engine::BuildSearcher() {
-    std::ifstream fi(config::path::DATA);
+bool Engine::Loading(LoadUI* loadui) {
+    std::vector<std::string> file_list;
 
+    for (int i = 0; i < 100; ++i)
+    file_list.push_back(config::path::DATA);
+
+    int rate = file_list.size() / 100;
+
+    for (int i = 1; i <= file_list.size(); ++i) {
+        BuildSearcher(file_list[i - 1]);
+        if (i >= rate && i % rate == 0) {
+            loadui->Draw();
+        }
+    }
+    
+    return true;
+}
+
+bool Engine::BuildSearcher(const std::string &path_to_file) {
+    std::ifstream fi(path_to_file);
     if (!fi.is_open()) {
         // Log Here
+        return false;
     }
 
     std::string s;
@@ -44,6 +61,7 @@ bool Engine::BuildSearcher() {
 
     return true;
 }
+
 
 // Speller
 bool Engine::StartSpeller() {
