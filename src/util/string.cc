@@ -94,3 +94,21 @@ std::string util::string::RemoveMark(const std::string &s)
 		st.pop_back();
 	return st;
 }
+
+std::string util::string::RemoveUnicode(const std::string &s)
+{
+	std::string st = s;
+	int i = 0;
+	while (i < st.length())
+	{
+		if (int(st[i]) < 0 || int (st[i]) > 255)
+		{
+			for (int j = i; j < st.length() - 1; j++)
+				st[j] = st[j + 1];
+			st.pop_back();
+			--i;
+		}
+		++i;
+	}
+	return st;
+}
