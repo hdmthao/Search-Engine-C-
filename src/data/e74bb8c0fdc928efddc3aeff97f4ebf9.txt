@@ -1,0 +1,29 @@
+Era I
+Industrial Revolution
+Ue era 1 background.png
+Invention cell era 1 copy.png
+History
+Period		1820 - 1860
+Gameplay
+Elections		Party elections
+Mayor by Imperial mandate
+Parties		Party icon conservative.png Physiocratic Party
+Party icon liberal.png Free Democratic Party
+Party icon nationals.png National Swarelian Party
+Era I is one of the eras in Urban Empire.
+
+Background
+The industrial era ushered in by the arrival of the steam engine and widespread migration of people towards cities and industry changes the social and political landscape overnight. Your goal, as the Imperial-appointed mayor, is to usher in the new age by establishing a new city in Swarelia.
+
+Gameplay
+The earliest era is also the simplest one, meant to familiarize you with city building mechanics and lay the groundwork for future developments. Citizens have little in the way of needs - but on the other hand, you have little in the way of tools to provide for them.
+
+Available technologies
+Telegraph
+Thermodynamics
+Safety Authorities
+Gas Infrastructure
+Rights of Man
+Sanitation
+Photography
+Bessemer Process

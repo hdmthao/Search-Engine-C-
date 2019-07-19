@@ -1,0 +1,23 @@
+
+Which devices play Audible audiobooks but can't surf the web?
+Amber wants her son to be able play Audible stories but does not want him to have internet access 
+
+Jack Schofield
+
+
+Thu 23 May 2019 08.00BST
+
+
+Last modified on Thu 23 May 2019 08.25BST
+
+
+As a child I had a cassette tape player. I could choose the music and stories I wanted to listen to alone in my room without my parents worrying about me accessing the internet.
+My son loves listening to Audible stories on an old iPhone. I have blocked certain features but he keeps finding things to do that I havent blocked. I want a device that can download a lot of Audible stories so he can choose what to listen to, but without all the other temptations of an old phone or the risk of him going online. Amber
+This is the age of the internet, and the trend is for every device to be online all the time. This started with PCs and then smartphones, followed by TV sets, games consoles and digital video recorders. Now were getting connected cameras, fridges, doorbells and smart speakers, and the choice of products that cant connect to the internet is rapidly diminishing.
+You can still turn back the clock to a time when people used cables to transfer files  including ripped CDs and DVDs  from PCs to handheld devices such as PDAs, phones and MP3 players. Many of us still do this. However, the trend is towards synchronising devices with the cloud, and streaming content from online services such as Spotify and  yes  Audible.
+Amazon, which bought Audible in 2008, runs the worlds largest cloud in the form of AWS (Amazon Web Services), but you can still download Audible files for offline use.
+I guess you are supposed to protect children via a mixture of the UKs sometimes heavily censored internet, services like OpenDNSs FamilyShield, blocking specific IP addresses on your router, and device-level parental controls. But none of these stopped a flood of evil videos from being shown to young children on YouTube, for example, and even good content can have bad effects if used unwisely or to excess.
+Unfortunately, removing internet access completely would now eliminate all the products that Audible lists on its how to listen page, which nowadays doesnt even mention MP3 players.
+Audible may have lost interest in old-school MP3 players  ones without wifi  but they are still an option. The main points to look for are compatibility with Audibles copyright-protected file format, and the ability to bookmark files such as MP3 audiobooks and podcasts. (Remember there are many other sources of audiobooks, such as LibriVox and OverDrive, and your local library may have some.) A diminishing number of MP3 players meet these needs, and you are most likely to find them in SanDisk and Creative ranges.
+Most MP3 players can, of course, handle several audio formats including MP3, Microsofts WMA (Windows Media Audio) and AAC. However, if you bought one of these, youd have to convert Audible files to MP3 or whatever, to remove the DRM (digital rights management), which would be an extra job. You would also lose the special features built into Audible files, though some converters can at least split files into chapters or segments of a chosen length.
+Either way, a player must be able to resume the audio where you stopped listening. Otherwise, trying 

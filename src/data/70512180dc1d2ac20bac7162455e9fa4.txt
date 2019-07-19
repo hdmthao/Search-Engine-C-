@@ -1,0 +1,24 @@
+Antimicrobial chemicals found with antibiotic-resistance genes in indoor dust
+University of Oregon researchers have found links between the levels of antimicrobial chemicals and antibiotic-resistance genes in the dust of an aging building used for athletics and academics. One of the antimicrobials seen in the study is triclosan, a commonly used antibacterial ingredient in many personal care products. It is among antimicrobials that will be phased out within the next year from hand and bar soaps, according to a ruling Sept. 2 by the U.S. Food and Drug Administration.
+
+The findings of the new study reflect relationships in the dust, not that the antimicrobials are the reason for antibacterial genes being present.
+
+"We might be tempted to think of the antimicrobial chemicals as being guilty by association," said Erica M. Hartmann, a postdoctoral fellow at the UO's Biology and the Built Environment Center and Institute of Ecology and Evolution who led the study. She joined the faculty at Northwestern University this month.
+
+"We don't really know how the genes or the chemicals got there," she said. "They may have arrived by completely different routes and their being found together is a coincidence. However, we know that antimicrobial chemicals can cause an increase in antibiotic resistance in other situations, so I think these results provide a good reason to take a closer look at what's going on in dust."
+
+The FDA's ruling, Hartmann noted, does not yet require that antimicrobials be removed from many other products such as paints, baby toys, bedding, and kitchen utensils. "We don't have solid proof that putting antimicrobials in these products makes them any healthier, but we do know that triclosan in the environment can be harmful," she said.
+
+The study, published online ahead of print in the journal Environmental Science & Technology, is the first to document the coexistence of the chemicals and genes in indoor dust. In all, the paper reports six significant associations. Levels of triclosan in dust were determined in collaboration with the Biodesign Center for Environmental Security at Arizona State University.
+
+Triclosan has been linked with a gene that alters the ribosome -- a complex of RNA and protein in cells that is responsible for RNA translation -- in a way that makes bacteria antibiotic resistant. The research team identified several antibiotic-resistance genes, the most common of which conferred resistance to tetracycline antibiotics. "While present at low abundances, together these genes cover resistance to a wide spectrum of antibiotics," the researchers wrote.
+
+The chemicals and genes came from 44 samples from 31 varied-use spaces, using vacuum-fitted collectors. The building, completed in 1921, has window ventilation as well as infiltration of outdoor air through cracks around doors and windows. DNA processing involved the UO Genomics Core Facility, and data were processed with assistance from the lab of co-author Curtis Huttenhower of Harvard University's School of Public Health.
+
+Despite the findings, Hartmann said, people don't need to be readily alarmed. Antibiotic-resistance genes in the environment, for example, are 10 to 100 times less abundant than in the human gut, she said. In infants, the genes occur naturally in the absence of antibiotics during initial microbial colonization.
+
+"Antibiotic resistance is common in a lot of different places," she said. "Just because we find it in a certain building doesn't mean that everyone who goes into that building is going to get a MRSA infection. The building is still as safe as it was before the study, but now we have a better idea of how many antibiotic-resistance genes there are, and we have reason to believe that the amount of antibiotic resistance genes may be tied to the amount of antimicrobial chemicals."
+
+Triclosan and antibiotic resistance have been found in other places and in the environment, Hartmann said, but finding them in indoor dust brings the threat loser to home. Median concentrations of triclosan found in the dust were much less than those found as the active ingredient in toothpaste, where it helps to reduce plaque and gum disease. The new FDA ban does not include toothpaste.
+
+"The World Health Organization has said that we're underestimating community-acquired antibiotic-resistant infections," she said. "We know that hospitals and other healthcare settings are burdened by antibiotic-resistant pathogens. Homes and other buildings also can contain antibiotic resistance genes and and the use of antimicrobial chemicals in these buildings may be a contributing factor."

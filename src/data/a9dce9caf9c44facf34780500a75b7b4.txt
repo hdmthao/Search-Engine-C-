@@ -1,0 +1,18 @@
+People with alcohol dependency lack important enzyme
+A research group under the leadership of Linköping University Professor Markus Heilig has identified an enzyme whose production is turned off in nerve cells of the frontal lobe when alcohol dependence develops. The deficiency in this enzyme leads to continued use of alcohol despite adverse consequences. The discovery is now published in the number-one ranked psychiatric journal from the Nature Publishing Group, and could mean completely new possibilities for treating alcoholism.
+
+"We've worked hard for this. The enzyme, PRDM2, has previously been studied in cancer research, but we didn't know that it has a function in the brain," says Markus Heilig, professor of psychiatry and head of the Center for Social and Affective Neuroscience (CSAN) at Linköping University.
+
+He and his research group are linking together research into alcoholism and other addictive illnesses with advanced brain research. It has long been suspected that people with alcohol dependence have impaired function in the frontal lobes of the brain, but the underlying biological mechanisms have not been known. The research team behind the paper, which includes researchers from both Linköping University and University of Miami, is the first to identify this molecular mechanism.
+
+If frontal function is impaired, it is difficult for us to control our impulses. A person with intact impulse control can walk past a bar on a warm day and think 'A beer would be nice, but I can't have one now because I have to get back to work'. An alcoholic does not have sufficient impulse control to refrain, thinking: 'It's hot and I'm thirsty'.
+
+"PRDM2 controls the expression of several genes that are necessary for effective signalling between nerve cells. When too little enzyme is produced, no effective signals are sent from the cells that are supposed to stop the impulse," Professor Heilig tells us.
+
+Several years of dedicated research lie behind this breakthrough. The research, in which Dr Estelle Barbier - post-doctoral fellow at CSAN - had a central role, has shown that alcohol dependence in rats leads to a down-regulation of PRDM2 production, which in turn leads to disruption of impulse control. This is why the laboratory animals continue to consume alcohol, even when it is unpleasant. If they are subjected to stress, they also quickly relapse into drinking alcohol.
+
+In the next step, the researchers knocked out the production of PRDM2 in the frontal lobes of rats that were not dependent, and they observed the same behaviour - impulse control was disrupted.
+
+"We see how a single molecular manipulation gives rise to important characteristics of an addictive illness. Now that we're beginning to understand what's happening, we hope we'll also be able to intervene. Over the long term, we want to contribute to developing effective medicines, but over the short term the important thing, perhaps, is to do away with the stigmatisation of alcoholism," Professor Heilig says.
+
+LiU researchers have worked together with colleagues including Professor Claes Wahlestedt and his co-workers at Miami University.

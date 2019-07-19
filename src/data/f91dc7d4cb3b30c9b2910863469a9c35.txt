@@ -1,0 +1,16 @@
+Mobile Health Management Platform-Based Pulmonary Rehabilitation for Patients With Non-Small Cell Lung Cancer: Prospective Clinical Trial.
+Abstract
+BACKGROUND:
+Lung cancer patients experience various symptoms during treatment. Although pulmonary rehabilitation is an effective way to improve these symptoms, a medical environment of limited availability makes it difficult to provide seamless and adequate rehabilitation for lung cancer patients.
+
+OBJECTIVE:
+This study aimed to investigate the effects of a personalized pulmonary rehabilitation program using real-time mobile patient health data for patients with non-small cell lung cancer.
+
+METHODS:
+We conducted a prospective clinical trial in 64 patients with non-small cell lung cancer aged between 20 and 80 years at a large tertiary hospital in Seoul, South Korea. A 12-week personalized pulmonary rehabilitation program, called efil breath, was administered to determine the effectiveness of the newly developed rehabilitation app. Participants were randomly allocated to the fixed exercise or fixed-interactive exercise group (which received the personalized program). We measured changes in 6-minute walk distance (6MWD) and dyspnea (modified Medical Research Council [mMRC] score) at 6 weeks; and quality of life and service satisfaction at 12 weeks. We used the paired t test to analyze the variables.
+
+RESULTS:
+Patients used the newly developed mobile health pulmonary rehabilitation app and a real-time patient monitoring website. In all participants, significant changes were observed in 6MWD at 12 weeks from a mean of 433.43m (SD 65.60) to 471.25m (SD 75.69; P=.001), and mMRC from a mean score of 0.94 (0.66) to 0.61 (SD 0.82; P=.02). The intervention significantly improved their quality of life (EuroQol-visual analog scale [EQ-VAS]) compared with baseline (mean score 76.05, SD 12.37 vs 82.09, SD 13.67, respectively; P=.002).
+
+CONCLUSIONS:
+A personalized mobile health-based pulmonary rehabilitation app for recording and monitoring real-time health data of patients with non-small cell lung cancer can supplement traditional health care center-based rehabilitation programs. This technology can encourage improvement of physical activity, dyspnea, and quality of life.

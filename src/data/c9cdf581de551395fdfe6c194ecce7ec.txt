@@ -1,0 +1,26 @@
+Libra cryptocurrency: dare you trust Facebook with your money?
+John Naughton
+The social media giant’s foray into bitcoin territory – with some financial big hitters on board – should prompt suspicion
+We’ve known for ages that somewhere in the bowels of Facebook people were beavering away designing a cryptocurrency. Various names were bandied about, including GlobalCoin and Facebook Coin. The latter led some people to conclude that it must be a joke. I mean to say, who would trust Facebook, of Cambridge Analytica fame, with their money?
+
+Now it turns out that the rumours were true. Last week, Facebook unveiled its crypto plans in a white paper. It’s called Libra and it is a cryptocurrency, that is to say, “a digital asset designed to work as a medium of exchange that uses strong cryptography to secure financial transactions, control the creation of additional units and verify the transfer of assets”.
+
+Like bitcoin, then? Er, not exactly. Like bitcoin, Libra does use blockchain technology, but thereafter the two currencies part company. Whereas the value of bitcoin oscillates like Boris Johnson’s promises, Libra is supposed to be a low-volatility currency that will let its users buy things or send money to people with very low fees. It will be backed by reserves managed by a nonprofit organisation,called the Libra Association, which gives the token real-world value and oversees the governance of the blockchain technology that powers it.
+
+Advertisement
+
+This organisation is made up of members who pay an entrance fee of at least $10m to join, which gives them one vote on the governing council and entitles them to a share (proportionate to their investment) of the dividends from interest on the Libra reserve into which users pay their fiat (ie traditional) currencies when buying Libras. Current members of the association include the usual suspects such as Mastercard, PayPal and Visa, five venture capitalist firms, Vodafone and some oddballs such as Uber and outfits you’ve never heard of but which presumably were able to fork out the entrance fee. The association also signs up businesses that are prepared to accept Libra for payment.
+
+Here’s how it’s supposed to work. You cash in your hard-earned pounds, euros, dollars etc into the Libra reserve, which then “mints” an equivalent amount of Libras (at the prevailing exchange rate). If you decide to cash out by returning your Libras, they are “burned” and you get the equivalent back in pounds, euros, dollars, etc. So all of the available Libras at any point in time remain in circulation, backed by the reserves held by the association. And, in theory at least, you can always get your real money back at an exchange rate that corresponds roughly with that of the basket of currencies held by the reserve.
+
+So far, so very unlike bitcoin. And although Facebook came up with the idea – in theory at least – it doesn’t control the Libra. It only has one vote on the association council. This is shrewd, given that nobody in their right mind would trust anything controlled by the Zuckerberg empire.
+
+The underlying concept of the Libra is breathtakingly ambitious. It is to use the scale and network power of Facebook (which currently has 2.2 billion users) to enable anybody in the world to use a currency that enables them to pay for things and send money in a frictionless manner within – and across – territorial boundaries.
+
+It’s a bit like PayPal for everyone, including the 1.7 billion of our fellow humans who haven’t a hope in hell of getting a bank account. The idea is to create a new currency that has the global reach of the US dollar (which is the only currency guaranteed to be acceptable in almost every country, no matter how wretched or corrupt).
+
+Like I said, breathtakingly ambitious. Which is why governments and central banks across the world smell a rat. No sooner had the white paper been released, for example, than the French finance minister, Bruno Le Maire, declared that the Libra shouldn’t be seen as a replacement for traditional currencies. “It is out of the question,” he fumed, “that Libra become a sovereign currency. It can’t and it must not happen.” And he called on the Group of Seven central bank governors, the supposed guardians of the global monetary system, to prepare a report on Facebook’s wheeze for their July meeting.
+
+Among his concerns are questions of privacy, money laundering and the financing of terrorism. And, right on cue, at the European Central Bank’s annual symposium in Portugal, the Bank of England governor, Mark Carney, weighed in. “Anything that works in this world”, he said, “will become instantly systemic and will have to be subject to the highest standards of regulation.”
+
+Quite so. At one level, this looks like the standard reaction of established powers to an unruly disrupter. But before we dismiss it as the predictable huffing and puffing of worthies, it’s worth asking a couple of questions. One: are we comfortable with the idea of a new global currency controlled by a consortium of corporate bosses? After all, central bankers are at least appointed by democratic administrations. But nobody elected Zuckerberg & Co. And two, the biggest question of all: what does Facebook get out of it? At the moment, nobody knows. Stay tuned: this is going to get interesting.

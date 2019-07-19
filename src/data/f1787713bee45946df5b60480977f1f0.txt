@@ -1,0 +1,20 @@
+Team of robots learns to work together, without colliding
+When roboticists create behaviors for teams of robots, they first build algorithms that focus on the intended task. Then they wrap safety behaviors around those primary algorithms to keep the machines from running into each other. Each robot is essentially given an invisible bubble that other robots must stay away from. As long as nothing touches the bubble, the robots move around without any issues. But that's where the problems begin. "When you have too many robots together, they get so focused on not colliding with each other that they eventually just stop moving," said Georgia Tech roboticist Magnus Egerstedt, director of Georgia Tech's Institute of Robotics and Intelligent Machines. "Their safety behaviors take over and the robots freeze. It's impossible for them to go anywhere because any movement would cause their bubbles to pop."
+
+Egerstedt has created a solution. His team's new algorithms allow any number of robots to move within inches of each other, without colliding, to complete their task -- swapping locations on his lab floor. They are the first researchers to create such minimally invasive safety algorithms.
+
+In technical speak, the bots are using a set of safe states and barrier certificates to ensure each stays in its own safe set throughout the entire maneuver.
+
+"In everyday speak, we've shrunk the size of each robot's bubble to make it as small as possible," said Egerstedt. "Our system allows the robots to make the minimum amount of changes to their original behaviors in order to accomplish the task and not smack into each other."
+
+In a demo with four robots, the lab's machines approach from four different areas, meet in the middle, circle counterclockwise within inches of each other, then fan out into opposite directions. In another demonstration, eight robots perform the same task, this time circling clockwise before dispersing. Instead of keeping their distance and taking the long way around their neighbors, the robots move very independently wherever they wish.
+
+Avoiding collisions isn't anything new in robotics. And Google's self-driving cars are almost crash-free.
+
+"But we haven't seen thousands of autonomous cars on the road together yet," Egerstedt said. "Robots are very conservative -- they want to make sure they're safe. You couldn't pack the interstate with self-driving cars with today's technology."
+
+Egerstedt also said something similar to these algorithms could be used for the next generation of air traffic control. Instead of people directing the flow, planes will be given the authority in airspaces.
+
+"They'll have to be safer if we plan to pack the airspace more densely."
+
+The paper about the project, "Multi-objective Compositions for Collision-Free Connectivity Maintenance in Teams of Mobile Robots," has been accepted at this year's IEEE Conference on Decision and Control in Las Vegas.

@@ -1,0 +1,51 @@
+
+nasa.gov
+NASA Mobilizes to Aid California Fires Response
+Tony Greicius
+6-8 minutes
+
+Camp Fire on Nov. 8 from the Landsat 8 satellite
+
+An image of the Camp Fire on Nov. 8 from the Landsat 8 satellite.
+
+Credits: USGS/NASA/Joshua Stevens
+
+For the past two weeks NASA scientists and satellite data analysts have been working every day producing maps and damage assessments that can be used by disaster managers battling the Woolsey Fire near Los Angeles and the Camp Fire in Northern California. The agency-wide effort also deployed a research aircraft over the Woolsey Fire on Nov. 15 to identify burned areas at risk of mudslides in advance of winter rains expected in the area.
+
+Spearheaded by NASA's Disasters Program in the Earth Science Division, the team produces a variety of data products largely derived from satellite observations, including maps showing the locations of active fires, damage caused by fires, and burned areas that are susceptible to landslides and mudslides.
+
+These products are distributed to agencies working on the ground in California, including the state National Guard, Department of Forestry and Fire Protection (Cal Fire), the Governor's Office of Emergency Services, the California Earthquake Clearinghouse and the Federal Emergency Management Agency (FEMA).
+
+On Nov. 15, 2018, NASA’s C-20A aircraft took off from its base at NASA's Armstrong Flight Research Center Building 703 in Palmdale, California, carrying the Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR). The instrument, developed and operated by NASA's Jet Propulsion Laboratory, observed and mapped fire scar in the areas affected by the Woosley Fire. The goal was to identify areas at risk of catastrophic mudslides in the coming winter rains.
+
+NASA's Disasters Program mobilizes for intensive risk events globally, including earthquakes, wildfires, floods and severe weather. The program capitalizes on the wealth of environmental data gathered by Earth-observing satellites and other remote-sensing technology to help emergency response managers prepare for, respond to and recover from disasters. In 2017, the program responded to 89 events.
+
+"When disasters occur, our researchers become providers and distributors of images, data and damage assessments," said David Green, manager of the Disasters Program at NASA Headquarters in Washington. "We draw on NASA's technical expertise and strong relationships with our partner organizations to provide useful products to disaster managers."
+
+Much of the information is posted to a geographic information system (GIS)-based Disasters Mapping Portal so that datasets can be adapted by response agencies to meet their specific needs.
+
+The NASA team also responds to requests from agencies for specific information. For example, the Earthquake Clearinghouse asked for help identifying areas at risk, particularly areas where the wildfires are close to critical infrastructure, to help prioritize their response targets.
+
+The Advanced Rapid Imaging and Analysis (ARIA) team at NASA's Jet Propulsion Laboratory in Pasadena, California, quickly turned around a new "damage proxy map" derived from synthetic aperture radar images from European satellites. The GIS team, in turn, made the data more user-friendly so that California officials could identify how close the most severely damaged areas were to critical infrastructure like bridges and cellphone towers.
+
+Phil Beilin, information technology lead for the Earthquake Clearinghouse, found the data products NASA provided extremely helpful in his response efforts. With a standard online analysis tool, he was able to filter data from the damage proxy map to see the distance to critical infrastructure, such as a water treatment plant near the Woolsey Fire. "Being able to prioritize what to check in the field is very important, and this GIS format goes a long way to help that process, Beilin said. These data were also shared with the California Office of Emergency Services, Cal Fire, the California Environmental Protection Agency (CalEPA) and the California National Guard.
+
+NASA's mobilization in response to the California fires also involved deploying a research aircraft on Nov. 15 for a nighttime flight over the Woolsey Fire. The NASA C-20 aircraft carried sensors to map the fire scar, with a goal of identifying areas at risk of catastrophic mudslides in the coming winter rains.
+
+The flight was at night to stay out of the way of firefighting aircraft in the area. The aircraft took off from its base at NASA's Armstrong Flight Research Center in Palmdale, California, carrying the Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR), developed and operated by JPL. The instrument can "see" through smoke, clouds and the dark of night.
+
+UAVSAR data are often used by scientists to map ground elevation beneath the aircraft to study tectonic motion, but they can also be processed to map fire scars. The radar signals bounce off burned, barren terrain differently than they do from unburned, brush-covered hillsides.
+
+Andrea Donnellan of JPL used the instrument last year to image the fire scar from the Thomas Fire and the ensuing Montecito debris flows. She has been experimenting with combining that imagery with optical and thermal cameras. She emailed NASA Headquarters on Nov. 12, pointing out that the flight lines UAVSAR has been flying over the fire area and suggesting a priority order for new fire observations.
+
+"We quickly changed the flight missions we had planned on doing, redesigned where we were going to fly, and put this plan together to fly over these fires," said NASA Armstrong research pilot Dean Neely, who was in charge of preparing the C-20A aircraft that carries UAVSAR.
+
+The resulting UAVSAR image of the 150-square-mile (241-square-km) fire area shows the fire scar, including where vegetation has burned off steep slopes, destabilizing them and increasing the potential for mud and debris flows. With rain in the forecast, this information is timely. Debris flows triggered by rainstorms after fires sometimes claim more lives than the fires themselves, as happened after last year's Thomas Fire in Montecito, about 40 miles west of the Woolsey Fire.
+
+The UAVSAR data are shared by the Disasters Program team with agencies including Cal Fire, the U.S. Geological Survey, U.S. Forest Service, and the National Park Service.
+
+Updates on NASA's response to these California fires are available online.
+
+Last Updated: Nov. 21, 2018
+
+Editor: Tony Greicius

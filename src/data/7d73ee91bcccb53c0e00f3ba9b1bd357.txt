@@ -1,0 +1,18 @@
+Manipulation of liquid crystals could help control drug-delivery process
+Liquid crystals are strange substances, both fish and fowl. They can flow like a liquid, but have the orderly molecular structure of a crystalline solid. And that internal structure can be changed by small cues from outside. A group of scientists at the University of Chicago's Institute for Molecular Engineering has found a way to exploit this property to turn liquid crystals into a tool to manipulate the shape of synthetic cell membranes. The technique has potential for use in biology, medicine, and advanced materials development. The team reported its findings in the Aug. 10, 2016 edition of Science Advances.
+
+"What we've done is reproduced the beginnings of cell division in a synthetic system," said Juan de Pablo, Liew Family Professor in Molecular Engineering, who headed the group. When a cell divides, the spherical cell membrane stretches into an elliptical form, develops a waist in the middle, and then splits into two spherical cells. The scientists built sophisticated models that produced this behavior on the computer and then reproduced it in the real world, testing the model's predictions.
+
+"It's the first time that this has been done," said de Pablo. "It's a system that has been engineered at the molecular level using computer models."
+
+Cellular stand-ins
+
+Standing in for cells in the experiments were capsules, or "vesicles," a few microns in diameter (a fraction the width of a human hair) made of some of the same phospholipids that make up real cell membranes. These were immersed in a bath of liquid crystal oil whose molecules are slightly elongated rather than round. At temperatures above about 97 degrees Fahrenheit the oil behaves like any other oil. But when the temperature is lowered slightly, the molecules of the oil pack tightly against one another like cigarettes and align along a single direction.
+
+"When that happens, the liquid crystal presses on the vesicle more in one direction than in the other, so the vesicle becomes elongated," de Pablo said. "If you squash it more and more, it becomes an ellipsoid and the two ends become pointier and pointier. There is a point when the molecules around those points separate from one another and create a little gap in the membrane through which things could be squeezed out."
+
+Lipid vesicles are in current use for drug delivery. De Pablo envisions using the liquid crystal technique as a cunning way to control that process.
+
+"What we find intriguing is that we have a mechanism that will allow us to take vesicles loaded with something interesting, and by changing the temperature a little bit, we could deform the vesicle and have it squeeze out whatever it has inside without our ever touching the vesicle. And then as we restore the temperature to the original value, the vesicle becomes spherical again."
+
+Calculations indicate that squeezing more or less would alter the size of the gap, allowing for the release of contents of varying sizes. "But that's something that we still have to demonstrate," said de Pablo.

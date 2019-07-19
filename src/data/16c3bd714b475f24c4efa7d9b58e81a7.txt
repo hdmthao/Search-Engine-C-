@@ -1,0 +1,9 @@
+PHYSICISTS WRANGLED ELECTRONS INTO A QUANTUM FRACTAL
+Physicists have created an oddity known as a quantum fractal, a structure that could reveal new and strange types of electron behaviors.
+Fractals are patterns that repeat themselves on different length scales:  Zoom in and the structure looks the same as it does from afar. They’re common in the natural world. For instance, a cauliflower stalk looks like a miniature version of the full head. A lightning stroke splits into many branches, each of which has the same forked structure as the whole bolt.
+But in the tiny quantum realm, fractals aren’t so easy to come by. 
+Now scientists have artificially created a quantum fractal by placing carbon monoxide molecules on a copper surface. Confined between the molecules, electrons in the copper form a fractal shape of triangles within triangles called a Sierpinski triangle (SN Online: 12/30/02), the researchers report November 12 in Nature Physics. A full-fledged Sierpinski triangle would contain an infinite number of triangles, so the researchers created an approximation to that shape, with enough triangles for its repeating structure to be evident.
+Electrons inhabiting a fractal don’t live in 3-D like the rest of us.
+Nor do they exist in a flat 2-D world or a one-dimensional line. Instead they occupy an in-between, fractional number of dimensions. In this case, the scientists found that the electrons lived in approximately the number of dimensions expected for a Sierpinski triangle, 1.58.
+Quantum particles tend to act in unusual ways when confined to one or two dimensions .
+Scientists don’t yet know how electrons will behave in fractional dimensions, says physicist Cristiane Morais Smith of Utrecht University in the Netherlands. “What can come out of our work is completely uncharted territory.”

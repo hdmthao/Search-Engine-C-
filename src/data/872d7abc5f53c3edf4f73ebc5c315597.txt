@@ -1,0 +1,20 @@
+
+How can I make Windows 10 look more like Windows 7?
+Elizabeths new laptop has Windows 10 but she prefers Windows 7. What are her options? 
+
+Jack Schofield
+
+
+Thu 6 Jun 2019 08.00BST
+
+
+I now have a Lenovo laptop which has Windows 10 installed, but to be honest with you, I preferred Windows 7, which was on my last two computers. What would you suggest? Elizabeth
+As most Windows 7 users know  and if they dont yet, Microsoft will nag them about it soon  Windows 7s support stops in January 2020. After that, there will be no more security updates, except for companies that pay an annual fee that doubles every year. This is a powerful incentive to migrate from Windows 7 to Windows 10.
+My best suggestion is just to get used to Windows 10. Some people cling to obsolete versions of Windows but eventually most of them recognise they would have been better off if they had moved earlier. New versions of Windows always provide more stability and better security, even if they get other things wrong. (Full screen apps in Windows 8 is a classic example but Microsoft fixed that in Windows 10.)
+I shared your love of Windows 7: I recommended people to move to it as soon as possible and stick with it for as long as possible. I kept it on my desktop PC, which doesnt have a touchscreen, instead of moving to Windows 8. I changed my mind after using Windows 10 for some time, because it did more and worked better. That persuaded me to stick with the free upgrade.
+Try using Windows 10 for six months before having a play with an earlier version. Hindsight often makes the old stuff look clunky and out of date.
+Do you miss any features from Windows 7? Microsoft dumped several things in the transition via Windows 8. The main ones were the Windows Media Centre, the bundled games, the desktop gadgets and the built-in DVD compatibility. The separate Windows Live Essentials suite, including Windows Live Mail and Movie Maker, was terminated with extreme prejudice.
+Windows Media Centre was the home theatre software launched with XP and not many people used it. (It is not to be confused with the Windows Media Player, which continues.) The desktop gadgets introduced with Windows Vista also perished but most people only used the nice clock.
+For some Windows 7 users the games were the biggest loss. Happily, there are free clones of Solitaire, Spider Solitaire, Hearts, FreeCell (the best!) and Minesweeper. Microsoft also has some free but ad-supported versions in the Microsoft Store. Chess Titans, developed by the now-defunct Oberon Games, is harder to replace but Chess Giants (9.90) is pitching for that market. Otherwise, Windows XP games run in Windows 10 and (so far) Windows updates do not remove them.
+Games, Live Mail and some other programs were casualties of Microsofts shift from traditional desktop programs (which use the Win32 applications programming interface) to packaged Microsoft Store apps (which use the new WinRT or Windows Runtime API). Store apps are easier to install, update and remove because they dont use the Windows Registry. They are also touch-friendly, more secure, and can be suspended in the background to save resources.
+However, not all the old Win32 utilities are dead. Microsoft Paint and Internet Explorer still ship with Windows 10, despite being replaced by Paint 3D and Edge. The 

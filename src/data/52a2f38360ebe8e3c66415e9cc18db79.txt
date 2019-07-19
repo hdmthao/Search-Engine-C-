@@ -1,0 +1,45 @@
+Stormworks: Build and Rescue Wiki
+
+STORMWORKS: BUILD AND RESCUE
+Logo.png
+Developer(s)
+Sunfire Software Limited
+Publisher(s)
+Green Man Gaming Publishing
+Platform(s)
+Windows / Mac OS
+Release date(s)
+February 28, 2018 (early access)
+Genre(s)
+Physics sandbox
+Stormworks: Build and Rescue is a physics sandbox game where the player designs and operates vehicles for their own sea-rescue service.
+
+Contents
+1	Build, Plan, Rescue
+2	Vehicle Design
+3	Navigate, Steer, Pilot
+4	Logistical Challenges
+5	Dramatic, Simulated World
+6	Videos
+7	Screenshots
+8	See also
+
+Build, Plan, Rescue
+Stormworks is the game where you design and pilot your own sea-rescue service, in a rich and dramatic physics playground.
+
+Steer or fly your custom-designed, block based, programmable vehicles into fierce oceanic storms. Plan and execute thrilling rescues in a variety of challenging crisis scenarios.
+
+Vehicle Design
+Design vehicles by placing blocks in a rich editing suite, decorate with paint, and program the behaviour using the powerful logic system. Choose from a wide array of tools and components for designing planes, helicopters, boats, and more.
+
+Navigate, Steer, Pilot
+Test your designs to their limit in a physics driven sandbox simulation, where your vehicles performance is a direct result of your design. Use the dial and indicator components to display feedback on the vehicles logic system, while examining your vehicle's handling, buoyancy, and stability in fierce weather.
+
+Logistical Challenges
+Embark on missions to operate your sea-rescue service. Design and deploy new vehicle designs to respond to the logistical and emergency scenarios across the open ocean, island facilities, rigs, and more.
+
+Dramatic, Simulated World
+The day-night cycle, and dynamic weather system creates diverse environments, from calm still sunny mornings, to fierce stormy nights. Strong winds can turn the ocean simulation from gentle ripples to fierce heaving waves, all while the vehicles simulate a physically based displacement-buoyancy system.
+
+
+from the official site

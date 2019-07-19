@@ -1,0 +1,26 @@
+During drought, dry air can stress plants more than dry soil
+Newly published research by Indiana University scientists finds that low relative humidity in the atmosphere is a significant, growing and often under-appreciated cause of plant stress in hot, dry weather conditions. The finding suggests that models used to gauge the impact of drought on ecosystems should be refined to more accurately account for the role of low atmospheric humidity. It will become more important in the future, as the Earth's climate grows warmer and lower humidity has an increasing impact.
+
+And as these humidity levels fall, plants may become less effective at removing carbon from the atmosphere, reducing their ability to offset climate change. At the same time, agricultural management strategies like irrigation, which improve soil moisture but have a smaller effect on humidity, may become less effective in the future.
+
+"There is much uncertainty when it comes to our ability to predict future patterns of carbon uptake by plants," said Kimberly Novick, assistant professor in the IU Bloomington School of Public and Environmental Affairs and the lead author of the study. "A lot of that uncertainty is related to an incomplete understanding of how ecosystems respond to drought.
+
+"Our work suggests that properly specifying how plants respond to variations in atmospheric humidity is one way to reduce this uncertainty."
+
+The study, "The increasing importance of atmospheric demand for ecosystem water and carbon fluxes," was published in the journal Nature Climate Change. Darren Ficklin, assistant professor in the IU Bloomington College of Arts and Sciences' Department of Geography, is the second author. Lixin Wang, assistant professor of earth sciences in the School of Science at Indiana University-Purdue University Indianapolis, and Richard Phillips, associate professor in the IU Bloomington College of Arts and Sciences' Department of Biology, also are among 13 co-authors.
+
+Dry weather affects plants in two basic ways: via changes in moisture in the soil and relative humidity in the atmosphere. Think of it as a supply-and-demand situation, Novick said. Soil moisture supplies water to plants; during drought, it supplies less. Low relative humidity creates a "demand" that pulls water from plants; during drought, the dry atmosphere demands more water.
+
+Plants have evolved to close their stomates -- tiny pores on the surface of their leaves -- during dry weather to prevent the loss of excessive moisture. But plants also uptake carbon dioxide from the atmosphere through their stomates. When the stomates close, they capture less carbon.
+
+Before this study, it had been difficult to know how much of plants' response to drought was because of low soil moisture and how much was because of low relative humidity. Climate models tended to rely on soil moisture, which is easy to measure and to manipulate experimentally -- even though plant scientists know that low relative humidity could have an important, independent effect.
+
+Novick, Ficklin and their colleagues were able to separate the effects of soil moisture and relative humidity by analyzing data collected in hourly increments from 38 "flux towers" in the AmeriFlux Network, a collection of sites in various ecosystems that collect important micro-meteorological data every hour, and share these data with other researchers. While soil moisture changes little over the course of a day, humidity can vary significantly, allowing for the effects of soil moisture and humidity to be independently assessed using these "high-frequency" data.
+
+One of the flux towers, in Morgan-Monroe State Forest north of Bloomington, is operated by a team led by Novick and Phillips in cooperation with the Indiana Department of Natural Resources.
+
+The analysis found that soil moisture and relative humidity have markedly different influences on plant functioning at different times of the day. Over time, humidity tends to be the dominant influence as weather grows hotter and drier, especially in temperate forest ecosystems that are especially important in removing carbon dioxide from the atmosphere.
+
+In addition to having important implications for the management of agricultural systems, including row crops and forests, the findings may help scientists anticipate future effects of climate change, Novick said.
+
+Although the study doesn't focus on carbon fluxes, scientists know that plants remove less carbon from the atmosphere when their stomates are closed to reduce water loss. Thus, as the climate gets hotter and dryer, plants will become less capable of taking in carbon, which will lessen their ability to counteract climate change. Testing this hypothesis forms the foundation of ongoing work being conducted by the study's authors.

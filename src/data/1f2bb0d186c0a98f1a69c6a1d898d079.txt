@@ -1,0 +1,29 @@
+Scientists have restored cellular activity to pig brains hours after the animals’ death — an unprecedented feat. This revival, achieved with a sophisticated system of artificial fluid, took place four hours after the pigs’ demise at a slaughterhouse.
+
+“This is a huge breakthrough,” says ethicist and legal scholar Nita Farahany of Duke University, who wasn’t involved in the research. “It fundamentally challenges existing beliefs in neuroscience. The idea of the irreversibility of loss of brain function clearly isn’t true.”
+
+The results, reported April 17 in Nature, may lead to better treatments for brain damage caused by stroke or other injuries that starve brain tissue of oxygen. The achievement also raises significant ethical puzzles about research on brains that are not alive, but not completely dead either.
+
+In the study, the brains showed no signs of the widespread neural activity thought to be required for consciousness. But individual nerve cells were still firing. “There’s this gray zone between dead animals and living animals,” says Farahany, who coauthored a perspective piece in Nature.
+
+The experiments were conducted on pigs that had been killed in a food processing plant. These animals were destined to become pork. “No animals died for this study,” the authors of the new work write in their paper.
+
+After decapitation, about 300 pig heads were put on ice and transported to a Yale University laboratory, where researchers surgically removed the brains. Four hours post mortem, researchers put 32 of these brains in an artificial system known as BrainEx — a chamber with specially designed blood replacement fluid that pumps through the blood vessels, delivering oxygen, sugar and other sustaining ingredients at body temperature to keep the brains operating.
+
+During six hours in the BrainEx system, these dead brains showed signs of activity. Oxygen and sugar went into the brain tissue, and carbon dioxide came out, analyses of the fluid showed. That suggested the brains were still busy metabolically. Some of the nerve cells in the hippocampus and prefrontal cortex, key brain areas for complex thinking, appeared healthy under a microscope. And nerve cells could still fire off signals, studies on individual cells in brain slices showed. In contrast, brains that weren’t in the BrainEx system deteriorated.
+
+
+PUMP IT An artificial fluid courses through this pig brain after death, keeping the cells oxygenated and fed.
+
+Z. VRSELJA ET AL/NATURE 2019
+The results suggest that brains, perhaps even human ones, are much more resilient than once thought. “That’s the punchline,” says study coauthor Nenad Sestan, a neuroscientist at Yale. The technique offers a new way to study animal brains in labs, experiments that might yield insights into countering human brain damage caused by strokes or other injuries, he says.  
+
+The study is also notable for what it did not observe — coordinated widespread brain activity that could be detected by electrodes on the brains’ surfaces. That sort of activity can indicate some level of awareness. If the scientists had observed such signals, the experiment would have been stopped immediately, says study coauthor Stephen Latham, a bioethicist at Yale. “If it does happen, we’re going to have to regroup because it would pose this unique problem of creating some kind of experience or awareness in an organ that’s completely isolated from any living being,” he says.
+
+In the BrainEx system, the fluid was designed to contain a compound that blocks neural activity; researchers suspected that too much nerve cell action would be harmful to the brains. The scientists don’t know whether removing that blocking compound would have allowed more complex patterns of brain activity, or whether such signals would eventually emerge after more time in the fluid.
+
+The research isn’t close to being ready to be used on human brains, scientists say. Still, the method raises the possibility that similar approaches could one day restore some function to human brain tissue.
+
+Rules for experiments involving living people are strict, bioethicist Christine Grady of the National Institutes of Health in Bethesda, Md., said in an April 16 news briefing.
+
+“Once a human dies and their tissue is in a laboratory, there are many fewer restrictions on what can be done,” Grady said. New abilities to preserve dead tissue will spur people to think about “whether or not there need to be new rules about how we deal with those tissues,” whether they come from a pig or a person.

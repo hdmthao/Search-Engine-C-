@@ -1,0 +1,24 @@
+
+How can I increase my laptops storage space?
+Marex has run out of space for music and graphic design work; thankfully, adding an SSD is easy 
+
+Jack Schofield
+
+
+Thu 16 May 2019 08.00BST
+
+
+Last modified on Thu 16 May 2019 08.29BST
+
+
+I use a Dell 15-5577 laptop with 8GB of memory for music production and graphic design. The problem is that its 256GB SSD is not enough to store all my projects. An external drive is not an option because I want everything in the same drawer and its a pain to carry it everywhere with me. I need help with how to swap out my existing SSD with a larger capacity one, say 512GB. While Im at it, should I also upgrade memory? Marex
+The Dell Inspiron 15-5577 was sold as an affordable 15.6in gaming laptop with an Intel Core i5 or i7 Kaby Lake (7th generation) processor and an Nvidia GTX 1050 graphics chip. It costs from 799 to 1,299 depending on the processor, graphics, storage and type of screen installed. It also has an Ethernet port, three USB 3.0 ports and a full-size SD card slot.
+Reviews suggested the base-level screen was somewhat lacking and one said the 256GB SSD was slow. However, if your machines screen meets your needs then it is a good specification for your purposes.
+Now you can get extra benefits from its ability to handle upgrades. You should certainly be able to do these yourself, with the help of the service manual and couple of YouTube videos.
+Theres only one screw to hold the back on your laptop, so physically installing an M2 SSD and an 8GB memory module is a two-minute job. With some upgradeable laptops, it can take longer to get the back off.
+If youre a bit geeky, the best way to find out whats inside a PC is to run Sandra Lite. This will tell you lots of things you didnt know, and several things you would rather not know. But if youre a normal person, just go to your local Crucial website. You dont even need to know which make or model of laptop you own. Crucial has a small utility that will analyse your PC and tell you which SSD and memory upgrades will be compatible, so you can buy them on the spot.
+You can, of course, use the information to shop around. Ive been a happy Crucial customer for many years, and no longer bother.
+In your case, the crucial info is whether the 256GB SSD occupies your laptops SATA drive bay or whether it fits into the separate M2 NVMe slot (take the back off and see if the drive bay is empty). Whichever one you have, buy the other.
+If your laptop has its SSD in the drive bay, you could add a 250GB Crucial MX500 SSD (37.19) or 500GB SSD (61.19) to the M2 slot.
+If your SSD is in the M2 slot, you should be able to install a 240GB Crucial BX500 SSD (26.39) or a 480GB SSD (51.59) in the empty drive bay. Alternatively, you could install a 1TB 2.5in hard drive for under 40.
+Most of the benefits of having an SSD come from using it as the boot drive to run the operating system and your main applications. You should be OK with data stored on a spinning hard drive, especially if you use it on mains power and tell it 

@@ -1,0 +1,58 @@
+New technology helps search teams find people in wilderness
+HONOLULU (AP) — Yesenia D’Alessandro loaded a GPS tracking app on her cellphone and trudged into a remote Hawaii forest, joining more than 100 other volunteers looking for a missing hiker.
+
+She climbed through muddy ravines, crossed streams and faced steep drop-offs in the thick tangle of trees and ferns where her college friend Amanda Eller vanished last month.
+
+“You have to search everywhere,” said D’Alessandro, who flew in from Maryland. “You have to go down to that stream bed, even though you don’t want to. She could be down there.”
+
+D’Alessandro and others gathered GPS data of the ground they covered, and organizers put it on a specialized digital map to help better understand where to look next.
+
+
+The technology led volunteers to Eller, who was found next to a waterfall and survived for 17 days in the Maui forest by eating plants and drinking stream water. Her dramatic rescue shows how emerging technology helps search teams more efficiently scour the wilderness for missing people.
+
+“It kind of led us to search outside of that high-priority area to where we actually found Amanda,” her father, John Eller, said.
+
+More U.S. teams are turning to the technology that combines cellphone GPS with digital maps detailing cliffs, caves, waterways and other hard-to-search terrain. It helps manage the work of large numbers of volunteers.
+
+The system showed when Hawaii searchers had covered a 2-mile (3-kilometer) radius around Eller’s car. After that, searchers sent a helicopter farther into the forest, where they spotted the 35-year-old physical therapist and yoga instructor.
+
+“We never would have pushed out if we hadn’t searched the reasonable area first. There’s no reason to start reaching further and further out of the box if we hadn’t completely searched the box,” said Chris Berquist, a volunteer search leader.
+
+David Kovar, advocacy director for the nonprofit National Association for Search and Rescue, said most search and rescue teams use digital maps. That could mean anything from basic Google Maps to specialized software called SARTopo, which California search and rescue experts used to advise Maui volunteers from afar.
+
+Search organizers in Hawaii asked volunteers to download a $3.99 app called GPS Tracks, which draws lines on a map showing where a user has walked.
+
+GPS data revealed that searchers were covering the same areas repeatedly as heavy foliage or natural barriers like cliffs blocked their path, Berquist said. Organizers started dropping digital pins on volunteers’ maps to give them targets, pushing volunteers to cover more ground and making the search more accurate.
+
+
+When searchers ran into cliffs or pools of water, Berquist had them place digital pins on their maps. Organizers then sent drone pilots or rappelling experts to the cliffs and divers to the water.
+
+Organizers fed the GPS data to the California team, which used SARTopo to overlay it on topographical maps, allowing everyone to see what areas had already been searched and what still needed to be checked.
+
+Matt Jacobs, a California software engineer and search volunteer, developed SARTopo more than eight years ago after noticing teams struggling to match details on wilderness maps drawn by different agencies.
+
+What started as a hobby project has grown in popularity in the past couple of years to become Jacobs’ full-time job. Search and rescue teams from Oregon to North Carolina have started using it.
+
+Searchers used it in March as 100 volunteers fanned out in a Northern California forest, eventually finding 8-year-old Leia Carrico and her 5-year-old sister, Caroline, who got lost near their home.
+
+Last month, teams used it to help locate a 67-year-old hiker who had veered off a trail in a state park north of San Francisco. A California Highway Patrol airplane using an infrared camera spotted the man.
+
+SARTopo also is becoming available as a cellphone app, which will make it even easier to directly connect the GPS data with digital maps so searchers can view them wherever they are.
+
+Government officials are looking at adopting new technology, including in Hawaii. Most large searches are done by volunteers because many places don’t do enough of them to keep official teams on staff.
+
+Maui firefighters used hand-drawn maps as they looked for Eller over the first three days of her going missing. That’s because the trail system in the Makawao Forest Reserve where she got lost doesn’t appear on Google Maps. County officials also overlaid aerial searches onto a satellite map.
+
+Yatsushiro said the Maui Fire Department would adopt similar technology used by volunteers — who kept the search going after the first three days — if firefighters found it helpful after studying available options.
+
+Mike St. John, volunteer leader of the search and rescue unit at the Marin County Sheriff’s Office in California, said GPS tracking of where people have looked is “really critical.”
+
+“It’s about using GPS maps and utilizing GPS to make sure you’re hitting your assignment,” said St. John, who was among those in California advising the Maui team.
+
+St. John said his search and rescue experts are not set up to offer the same type of help to others that they gave to Maui but are trying to figure out how to do that in the future.
+
+Berquist, the Hawaii search leader, visited California this week to talk with St. John about how Marin County’s volunteer program works. He aims to set up something similar back in Maui.
+
+After technology helped find Eller, her father is donating software and other equipment to Berquist’s team, developing a search and rescue app and giving $10,000 to support Hawaii searches and rescues.
+
+“We saw a huge need. And we feel so lucky with everything everybody did for us, so we’re looking to give back,” John Eller said.

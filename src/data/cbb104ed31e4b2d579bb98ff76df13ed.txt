@@ -1,0 +1,32 @@
+Lawsuit accuses Los Angeles start-up Pinscreen of misrepresenting its technology
+A former executive at Los Angeles-based start-up Pinscreen alleges in a lawsuit he was unfairly fired and assaulted by co-workers after he accused the company of misrepresenting its technological capabilities.
+
+Iman Sadeghi was Pinscreen’s vice president of engineering for about six months before his termination in August 2017.
+
+Sadeghi alleges he was lured away from a position at Google to join Pinscreen, which specializes in building algorithms that can produce animations on their own or create fake videos. Upon joining the company, Sadeghi said he discovered Pinscreen did not possess the know-how to produce the technology as promised.
+
+Sadeghi’s suit, which was filed June 11, alleges workers had to manually create some of Pinscreen’s avatars rather than rely on automation — particularly for a paper submitted to annual computer graphics conference called Siggraph.
+
+When Sadeghi confronted Pinscreen’s founder and chief executive, Hao Li, about the issue — as well as unpaid overtime — he was terminated, the complaint alleges.
+
+Afterward, the two got into a scuffle at the company’s office over possession of Sadeghi’s work laptop. Sadeghi alleges he fled the office, but was followed by Pinscreen employees who attacked him and grabbed the laptop.
+
+Li dismissed the lawsuit’s allegations in a phone interview Wednesday. He pointed to the company’s app as proof that Pinscreen’s technology works and said he would defend his technology in court.
+
+“All the allegations are 100% false,” said Li, who fired Sadeghi after he deemed him “unproductive.”
+
+Li said Sadeghi was a “disgruntled employee” and that he embellished the incident over the laptop.
+
+“There was no assault,” Li said. “There was no battery. It’s like when you play soccer and a guy touches you. There’s nothing.”
+
+Li said he demanded the laptop back because it included Pinscreen’s source code.
+
+Sadeghi’s suit says security staff at Pinscreen’s office building on Wilshire Boulevard possess video that corroborates his description of the incident.
+
+Sadeghi declined to comment.
+
+Pinscreen has garnered attention for its work in building automated 3-D avatars. Li’s research helped Apple produce its animojis — the cartoon creature avatars that use augmented reality sensors in the iPhone X's camera to move in tandem with a user's face.
+
+The company is among several working on technology that can quickly create realistic-looking artificial video. While that could help filmmakers, video game designers and app developers, critics fear it could also be exploited to spread misinformation.
+
+Pinscreen has raised $3.8 million in venture funding and counts Softbank Ventures Korea among its backers.

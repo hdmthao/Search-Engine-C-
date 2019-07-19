@@ -1,0 +1,88 @@
+Pure Farming 2018 Wiki
+Developer(s)
+Ice Flames
+Publisher(s)
+Techland Publishing
+Engine
+Unity 3D
+Version
+ ?
+Platform(s)
+PC, PS4, XBOX ONE
+Release date(s)
+13th of March, 2018
+Genre(s)
+Simulation, Farming, Economy
+Mode(s)
+Singleplayer
+Rating(s)
+ESRB: Everyone
+Media/distribution
+Digital or box versions
+System requirements
+Windows 10,8,7 (64 bit)
+
+Pure Farming PC, XBOX and PS4 Boxes
+Use the latest technology and state-of-the-art licensed machines to manage all aspects of modern farming, from cultivating land and growing crops to breeding livestock and producing green energy. Travel between Europe, Asia, and both Americas to plant region-specific crops such as hemp, coffee beans, cherries, and olives using dedicated farming vehicles. Play the way you like best: three vastly different modes means this game is meant for you, no matter if you are a simulation veteran or an enthusiastic newcomer.
+
+Contents
+1	Story
+2	Features
+2.1	Free Farming
+2.2	My First Farm
+2.3	Farming Challenges
+3	Mods
+4	Game development
+5	Reception
+6	Products
+6.1	DLC
+7	Social Media
+Story
+The game's main character inherits a farm in Montana, USA, after his grandfather passed away. The deteriorated state of the farm, the need to pay off debts and a terrible situation of agriculture in the area motivate him to develop and raise the farm to the highest standards.
+
+
+The gameplay involves constant expanding and improving the farm by buying new machines, raising livestock and growing crops. The player can also oversee farms in other countries.
+
+Features
+The game has a Campaign mode as well as a Challenge mode. Campaign mode is aimed at less experienced players with a defined main goal, enabling the players to get acquainted with the game mechanics numerous animal models: chickens, rabbits, pigs, cows, sheep with a realistic economic model. The Gameplay is divided into fruit-farming, raising livestock, greenhouse cultivation, field farming and growing crops
+
+
+Challenge mode is a modern approach to supervising farms by in-game use of a tablet and a drone. Weather is affecting the environment. Use of realistic depiction of machines and vehicles in varied locations based on such countries as Japan, USA, Colombia, Italy and Germany (DLC).
+
+Free Farming
+The Free Farming mode gives you a complete freedom in how you play. Set the parameters of your game and simply run the farm your way. With all machines and facilities available for purchase from the get-go, your goal is to build a global farming empire - with absolutely no hand-holding.
+
+My First Farm
+This mode is designed to teach you the ins and outs of modern agriculture. Thanks to detailed objectives and helpful tips, you will learn step by step how to use farming machines, harvest crops, produce green energy, and more. ItÅfs a handy introduction to farming simulation that will make you more than ready to run a virtual farm on your own.
+
+Farming Challenges
+Farming Challenges are realistic scenarios that let you face extreme situations, such as saving crops from fire or sustaining the farm despite a severe drought. Each of these 20 challenges will put your farming skills to the test through sets of obligatory and optional tasks, while taking just an hour of your time. A bite-sized fun thatÅfs perfect when youÅfre on a tight schedule.
+
+Mods
+A tool created specifically for the community allows importing machines and vehicles; the players can also add their own models. The free model importer was designed and created also with the less experienced players in mind.
+
+More information: Modding Manual
+
+Game development
+The game was first presented in 2016 during the largest computer game expo in Europe - Gamescom. The first announcement stated that the game would be released by the end of the following year. The development studio Ice Flames decided to postpone the release date to the beginning of 2018 due to technical reasons connected with the decision to port the game to Playstation 4 and Xbox One consoles.
+
+It is worth noticing that the development team was able to port and release a game with such a large open world, created using the Unity 3D game engine, for both consoles. This is the first world of that size and variety created for consoles using that engine.
+
+Reception
+The game was very well received thanks to its global approach to overseeing farm subsidiaries on several continents at once, which makes it the first farming simulator enabling the players to use rare machines and grow crops featured nowhere else in these types of computer games.
+
+
+Products
+Pure Farming
+Pure Farming Deluxe
+DLC
+Pure Farming 2018 - Orange Orchard - free
+Pure Farming 2018 - Montana Goats - free
+Pure Farming 2018 - Germany Map
+Pure Farming 2018 - Special Outfit Pack
+Pure Farming 2018 - Landini REX-F
+Pure Farming 2018 - Lindner Geotrac 134ep
+Pure Farming 2018 - Gomselmash Palesse CS-200
+Pure Farming 2018 - JCB Large Wheeled Loader 435S - free
+
+Please get the prices from your favourite game store platforms.

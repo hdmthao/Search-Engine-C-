@@ -1,0 +1,15 @@
+Play games with no latency
+
+One of the most challenging issues for game players looks to be resolved soon with the introduction of a zero-latency gaming environment. A KAIST team developed a technology that helps game players maintain zero-latency performance. The new technology transforms the shapes of game design according to the amount of latency.
+
+Latency in human-computer interactions is often caused by various factors related to the environment and performance of the devices, networks, and data processing. The term 'lag' is used to refer to any latency during gaming which impacts the user's performance.
+
+Professor Byungjoo Lee at the Graduate School of Culture Technology in collaboration with Aalto University in Finland presented a mathematical model for predicting players' behavior by understanding the effects of latency on players. This cognitive model is capable of predicting the success rate of a user when there is latency in a 'moving target selection' task which requires button input in a time constrained situation.
+
+The model predicts the players' task success rate when latency is added to the gaming environment. Using these predicted success rates, the design elements of the game are geometrically modified to help players maintain similar success rates as they would achieve in a zero-latency environment. In fact, this research succeeded in modifying the pillar heights of the Flappy Bird game, allowing the players to maintain their gaming performance regardless of the added latency.
+
+Professor Lee said, "This technique is unique in the sense that it does not interfere with a player's gaming flow, unlike traditional methods which manipulate the game clock by the amount of latency. This study can be extended to various games such as reducing the size of obstacles in the latent computing environment."
+
+This research, in collaboration with Dr. Sunjun Kim from Aalto University and led by PhD candidate Injung Lee, was presented during the 2019 CHI Conference on Human Factors in Computing Systems last month in Glasgow in the UK.
+
+This research was supported by the National Research Foundation of Korea (NRF) (2017R1C1B2002101, 2018R1A5A7025409), and the Aalto University Seed Funding Granted to the GamerLab respectively.

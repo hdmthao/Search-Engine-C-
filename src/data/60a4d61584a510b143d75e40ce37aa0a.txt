@@ -1,0 +1,31 @@
+The complicated future of offshore wind power in the US
+Research lays out thorny challenges facing renewable sector
+Date:
+April 2, 2019
+Source:
+Yale School of Forestry & Environmental Studies
+Summary:
+In recent years the US Department of Energy laid out an ambitious plan to grow the US offshore wind sector. Researchers make the case that it might not be as easy as it seems, citing specifically the challenge of supplying rare-earth metals needed to build these offshore wind turbines.
+FULL STORY
+Over the past decade, wind power production in the U.S. has tripled, becoming the largest source of renewable energy in the country, the American Wind Energy Association has reported. There are more than 56,800 wind turbines in 41 states and territories, generating more than 6 percent of the nation's electricity, supporting more than 105,000 jobs and garnering billions of dollars in private and public investment.
+
+While the vast majority of that production is happening on land -- a rare exception being a small commercial wind farm off the Rhode Island coast -- the U.S. Department of Energy (DOE) has laid out an ambitious plan to expand the nation's wind sector into offshore waters.
+
+A new Yale study found that implementation will not be as simple -- or, potentially, as green -- as it may seem.
+
+Writing in the journal Nature Sustainability, Tomer Fishman, a former post-doctoral student at Yale School of Forestry & Environmental Studies (F&ES) and current lecturer at the IDC Herzliya in Israel, and Thomas Graedel, a professor emeritus at F&ES, challenged the DOE's plan, focusing specifically on the challenge of supplying rare-earth metals needed to build these offshore wind turbines and the environmental, economic, and geopolitical issues at play.
+
+Turbines like the ones off of Rhode Island, Fishman said, are enormous; they're as tall as the Washington Monument and have a blade diameter longer than a football field. These turbines also require incredibly powerful magnets that use the element neodymium, a rare-earth metal. And they require enormous amounts of it: roughly 2,000 pounds is needed to produce each magnet.
+
+Nearly all of the world's neodymium is mined in China, where costs are cheaper and environmental regulations are less stringent, Fishman said. The magnets are built in Japan, then shipped to France where they are fitted into the turbines. Each step along the way, issues -- like the current fractious trade relationship between the U.S. and China, for example -- can "cause a bottleneck in the supply chain," he said.
+
+The DOE plan also does not consider the availability of neodymium, Fishman said. The U.S. has mined neodymium in the past -- at California's Mountain Pass rare earth mine -- but financial troubles and environmental concerns brought operations to a halt several years ago.
+
+Fishman and Graedel sought to address the potential issues in their paper, putting specific calculations to the plans laid out by the DOE. They found that creating a domestic program to build and install offshore wind turbines would create a complex web, raising questions of natural resource consumption, regional demand, and the recyclability of the turbine technology -- in particular, the reuse of neodymium.
+
+Fishman said their calculations could kickstart a realistic conversation of internalizing production of these turbines, which he believes is possible with the proper management.
+
+"We can't be sure that offshore wind power will take off in the U.S., but there are a lot of positives," Fishman said. "We've seen land-based wind power in the U.S. succeed, in spite of political partisanship. Though this has added layers of complexity, there's some promise there."
+
+"What we're doing now is creating a roadmap to navigate the timing and scale of production," he added. "We're really starting from scratch, which give us the time to do it right and conduct more research. This is a good starting point."
+

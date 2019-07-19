@@ -1,0 +1,18 @@
+New tools assess the future of wind power
+Using software tools developed by Near Zero, a research group hosted by the Carnegie Institution for Science's Department of Global Ecology, a team of researchers has completed the largest expert survey yet on any energy technology, in this case wind energy. Near Zero conducts research and assessment of energy and climate issues, focusing on integrating quantitative analysis with expert judgment. In this way, they inform decision-making to accelerate the global transition to a near-zero emission energy system. To support this work, Near Zero has developed open-source software tools to examine where experts agree and disagree and why.
+
+Using Near Zero's online expert survey platform, researchers were able to gather responses from 163 of the world's foremost experts on wind energy to forecast future costs for this energy source. The study, led by Ryan Wiser, Group Leader in the Electricity Markets and Policy Group at Lawrence Berkeley National Laboratory, is published in the September 12, 2016, advanced on-line publication of Nature Energy.
+
+On average, the participants expected wind power costs to continue falling for the next several decades, for three major classes of wind turbines, both onshore and offshore, with prices falling by 24-30% by 2030, and 35-41% by 2050.
+
+"The cost of wind power is a crucial issue, since aggressively cutting greenhouse gas emissions will likely involve scaling up wind power further," remarked Near Zero's leader Mike Mastrandrea.
+
+To gauge how much wind power production might scale up, researchers often use energy system models, such as the International Energy Agency's World Energy Outlook model, or the integrated assessment models used for generating scenarios assessed by the Intergovernmental Panel on Climate Change (IPCC). The models' assumptions about future costs of wind energy have an important influence on modeling results for the future potential for wind energy, Wiser and colleagues argue.
+
+Future costs of wind energy are often forecasted by looking at how past costs have fallen, following a "learning curve," and then extrapolating that curve into the future. Another method for estimating future costs is through bottom-up engineering assessments, looking at the costs of various parts of wind turbines.
+
+Surveys of experts--known as expert elicitations--are an additional method for forecasting the future, which allows for more scope for experts to draw on technical knowledge as well as their informed opinion about future developments.
+
+The new elicitation using Near Zero's platform asked experts to estimate future wind power costs under a range of scenarios--including a median scenario as well as "high cost" and "low cost" cases. This allowed the study to assign probabilities to the range of possible scenarios.
+
+"The elicitation results will enable energy-system and integrated-assessment models to better explore these options," the paper argued.

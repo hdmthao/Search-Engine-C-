@@ -1,0 +1,71 @@
+Viridi Wiki
+Contents
+1	About the Game
+2	System requirements
+2.1	Desktop
+2.2	Mobile
+3	Soundtrack
+3.1	Track List
+4	External links
+About the Game
+Viridi is most simply described as a plant growing simulator, and stretches the definition of what would traditionally be considered a game. It was designed as an escape from the bustle of everyday life, and rewards players for their persistence in caring for a pot of succulents primarily through the satisfaction of a job-well-done -- though there are achievements to record your accomplishments as well. The official description reads:
+
+Åg	Viridi is a meditative potted plant app for both desktop (PC/OSX) and mobile (Android/iOS). Nurture a small pot of succulents that grow in real time. Viridi is a safe haven, a place you can return to for a moment of peace and quiet whenever you need it.	?
+It is based around a free-to-play model, wherein players pay absolutely nothing to download, install, and play the game. What you get for free is a single pot, the choice between three starter packs of plants (each containing 10 plants), one free seed per week, and the ability to earn the full range of achievements with enough patience.
+
+Paid content comes in the form of additional seeds beyond your starter pack and weekly freebies, as well as additional environments such as the Grove. Seeds vary in price from $0.09 to $0.39, and the additional environments are between $2.99 and $4.99.
+
+System requirements
+Desktop
+Minimum Requirements
+Windows	Mac OS X	Steam OS + Linux
+OS: Windows XP
+Processor: 2.0ghz
+Memory: 1 GB Ram
+Graphics: Must support shader model 2.0
+Direct X: Version 9.0
+Storage: 200 MB available space
+OS: 10.7+
+Processor: 2.0ghz
+Memory: 1 GB Ram
+Graphics: Must support shader model 2.0
+Network: Broadband Internet connection
+Storage: 200 MB available space
+Processor: 2.0ghz
+Memory: 1 GB Ram
+Graphics: Must support shader model 2.0
+Network: Broadband Internet connection
+Storage: 200 MB available space
+Viridi's desktop system requirements are fairly low, owing to its simple visuals and its subsequent release on mobile platforms. While it is noted that a broadband internet connection is required, this is only necessary to download the game, perform updates, complete transactions, or sync Steam Cloud save data -- it can otherwise be played offline, and save data can be synced upon reconnection to the Internet. It is also possible to play the game without using Steam Cloud for save data by visiting the game's settings in your Steam client, though Steam Cloud is "on" by default.
+
+Mobile
+Minimum Requirements
+Android	iOS
+OS: 3.0 or later
+OS: 7.0 or later
+The game's mobile system requirements are less specific, instead requiring only that you meet a particular version of each platform's operating system.
+
+Soundtrack
+Viridi includes its own original soundtrack (OST) by composed and performed by Michael Bell. This is available as a separate downloadable package of WAV files via Steam or BandCamp.
+
+Track List
+Circle Snail (02:20)
+Cucurbita (02:43)
+Drought and Heat (02:02)
+Fat Plants (02:36)
+Garden Under Glass (03:56)
+Helios (02:15)
+Hens and Chicks (01:58)
+Let the Soil Dry (01:40)
+Light and Shade (02:23)
+Medicine Plant (02:17)
+Microhabitat (02:09)
+Morning Dew (01:42)
+Mote (01:42)
+Phototrope (01:36)
+Winter Sunlight (01:57)
+Xerophyte (01:38)
+External links
+Viridi on Steam (Windows, OS X, Linux)
+Viridi on Google Play (Android)
+Viridi on iTunes (iOS)

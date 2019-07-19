@@ -1,0 +1,33 @@
+How language developed: Comprehension learning precedes vocal production
+Green monkeys' alarm calls allow conclusions about the evolution of language
+Date:
+May 27, 2019
+Source:
+Deutsches Primatenzentrum (DPZ)/German Primate Center
+Summary:
+Researchers recently investigated how the closely related West African green monkeys react to unknown sounds.
+Human language and communication skills are unique in the animal kingdom. How they developed in the course of evolution is being researched, among other things, using the alarm call system of vervet monkeys. East African vervet monkeys warn their conspecifics against predators with special alarm calls that mean "leopard," "eagle" or "snake."
+
+In a recently published study, scientists from the German Primate Center (DPZ) -- Leibniz Institute for Primate Research have investigated how the closely related West African green monkeys react to unknown sounds. To do this, they flew a drone over a group of West African green monkeys and later played them a sound recording of the drone noise. From the reactions of the animals, the researchers were able to conclude that the animals learn very quickly what the drone noise means. However, the monkeys did not create a new alarm call, but used a call that the East African vervet monkey uses to warn against aerial predators like eagles. This suggests that the call structure is conserved and was determined long ago in the course of evolution (Nature Ecology & Evolution).
+
+There are three main predators that pose a threat to East African vervet monkeys: leopards, eagles and snakes. For each of these predators, the monkeys have developed special alarm calls to which the animals respond with appropriate strategies: When the call for "leopard" is uttered, they climb a tree, when they hear the call for "eagle," they search the sky and hide and when the call for "snake" is uttered, they stand on two legs and remain motionless. The closely related West African green monkeys also emit alarm calls for leopards and snakes, however none for aerial predators. With these animals, the team around behavioral scientist Julia Fischer from the German Primate Center has now carried out a playback experiment in order to investigate the evolution of the alarm call system and ultimately to draw conclusions about the development of language.
+
+The drone experiment
+
+West African green monkeys occur near the DPZ research station Simenti in Senegal. Julia Fischer and her team have confronted these animals with a new potential threat from the air: a drone, which they flew over the animals at a height of 60 meters. The sounds of the drone were recorded and later played to the animals. The researchers wanted to find out how quickly the animals learned the meaning of the sounds. In the playback experiment, the animals reacted to the drone sound with alarm calls, some searched the sky and hid. These alarm calls were very different from the sounds the animals made in the presence of snakes and leopards. However, the calls resembled the alarm calls that East African vervet monkeys utter when an eagle approaches from the air.
+
+Fast auditory learning
+
+"The animals quickly learned what the previously unknown sounds mean and remembered this information," says Julia Fischer, head of the Cognitive Ethology Laboratory at the German Primate Center and lead author of the study. "This shows their ability for auditory learning."
+
+Vocal production conserved during evolution
+
+The West African green monkeys have warned their conspecifics of the new threat from the air with a call that sounds very similar to the calls that the closely related East African vervet monkeys utter when threatened by an eagle. "The structure of the alarm calls seems to be deeply rooted in the evolution of vervet monkeys," Julia Fischer adds.
+
+Story Source:
+
+Materials provided by Deutsches Primatenzentrum (DPZ)/German Primate Center. Note: Content may be edited for style and length.
+
+Journal Reference:
+
+Franziska Wegdell, Kurt Hammerschmidt, Julia Fischer. Conserved alarm calls but rapid auditory learning in monkey responses to novel flying objects. Nature Ecology & Evolution, 2019; DOI: 10.1038/s41559-019-0903-5

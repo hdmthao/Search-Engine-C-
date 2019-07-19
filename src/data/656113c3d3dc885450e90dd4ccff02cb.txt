@@ -1,0 +1,32 @@
+Snails' speedy insulin
+University of Utah researchers have found that the structure of an insulin molecule produced by predatory cone snails may be an improvement over current fast-acting therapeutic insulin. The finding suggests that the cone snail insulin, produced by the snails to stun their prey, could begin working in as few as five minutes, compared with 15 minutes for the fastest-acting insulin currently available. Biologist Helena Safavi, co-author on a paper describing the cone snail insulin published September 12 in Nature Structural & Molecular Biology, says that studying complex venom cocktails can open doors to new drug discoveries. "You look at what venoms animals make to affect the physiology of their prey, and you use that as a starting point," she says. "You can get new ideas from venoms. To have something that has already been evolved -- that's a huge advantage."
+
+Along with colleagues from Australia, U biochemists Danny Chou and Maria Disotuar, and biologists Joanna Gajewiak and Baldomero Olivera contributed to the study.
+
+Small and speedy
+
+Human insulin is a hormone that is produced in the pancreas and secreted to aid in the body's uptake of glucose. The insulin molecule consists of an "A" region and a "B" region. Diabetes mellitus disorders arise from impairment of the body's normal production of insulin. The most effective treatment for diabetes is injection of synthetic insulin.
+
+But a part of the B region causes insulin molecules to stick together and form aggregations of six insulin molecules. It's how insulin is stored in the pancreas. But injected insulin must de-aggregate into individual molecules before doing a person any good - and that process can take up to an hour. The fastest-acting insulin on the market, Humalog, still takes 15-30 minutes to become active. "The ideal scenario would be to take the region off of the B chain" Safavi says. "But then you completely abolish insulin activity."
+
+Chou, Safavi, and colleagues found that insulin produced by the cone snail Conus geographus lacked the segment of the B region that causes aggregation. Tests on insulin receptors in the lab showed that although the snail insulin was less effective than human insulin, it was still effective, and could possibly start acting in five minutes.
+
+Insulin as a weapon
+
+The Conus geographus snail is a predatory cone snail, eating fish. C. geographus and its relatives have developed complex brews of venoms to rapidly paralyze prey fish. Some snails use venom to overload the fish's nervous system, sending it into "excitotoxic shock." Others, including C. geographus, secrete insulin, alongside other compounds, into the water, causing the blood sugar in nearby fish to plummet and sending the fish into hypoglycemic sedation. Once the fish is stunned, the snail engulfs and consumes it.
+
+In 2015, Safavi and U biology professor Baldomero Olivera described C. geographus' so-called "weaponized insulin," suited for quick action. In a related paper published Aug. 16 in Molecular Biology and Evolution, Safavi and colleagues describe how weaponized insulins evolved rapidly to more effectively target prey.
+
+"It makes sense because the snail has to very rapidly induce insulin shock in its fish prey, so it has evolved something very fast acting," Safavi says.
+
+Putting snail insulin to work
+
+Studying the structure of the cone snail insulin could help researchers modify human insulin to lose its self-aggregation but retain its potency, Safavi says. "Now we can look at the human insulin and see if we can make it more snail-like."
+
+The team still needs to conduct more experiments to measure how quickly snail insulin, or a modified human insulin, would work when injected into an organism. Fish are affected almost instantly because the insulin passes over the gills. In humans, the process may take a few minutes longer.
+
+Chou studies human insulin for use in an artificial pancreas device that could automatically deliver insulin in response to changing blood sugar levels, much as the natural organ does. The first generation of such a device may be available as soon as next year. Cone snail-inspired insulin, although "still not as good as we want for human use," Chou says, could replace the current fast-acting insulin used in artificial pancreas development.
+
+Bio-inspiration
+
+"It's really about learning from nature," Chou says. Safavi agrees. "People think it's easy to make drugs," she says. "But where do you start? You have to have some kind of idea of what a drug should look like, what kind of properties the drug should have, so it's very difficult to design novel drugs. That's why we use the snail venom system."

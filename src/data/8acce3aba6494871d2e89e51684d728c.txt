@@ -1,0 +1,66 @@
+Apple says iPhone X's Face ID can't be easily spoofed. But your face isn't exactly private
+Your passcode can be cracked, but your face is yours and yours alone. That's the thinking behind Apple's latest iPhone security measure, which is more high-tech and a bit more intimate than anything else on the market.
+
+With Face ID, which Apple unveiled Tuesday, owners of the company's new top-of-the-line iPhone X will be able to unlock their phone, pay for products and use mobile apps just by glancing at their device.
+
+"Nothing has ever been simpler, more natural and effortless," Phil Schiller, senior vice president of worldwide marketing, said during Apple's first product launch at its new headquarters in Cupertino, Calif. "Face ID is the future of how we unlock our smartphones and protect our sensitive information."
+
+Though still a novel concept for many Americans, biometric technology — which includes face, fingerprint, iris and retina recognition identification systems — has been a hotbed of research this decade. With Apple's backing, the field just got its most high-profile boost yet and could soon become the industry standard, even if many consumers aren't quite comfortable with the concept.
+
+Technologists tout a futuristic experience that is more secure than entering a passcode. They predict the technology could one day be used to unlock cars, withdraw money from ATMs or enter connected homes.
+
+"You can share your password. You can share your car keys. But you can't share your biometrics," said George Avetisov, chief executive of biometric security firm HYPR Corp.
+
+With Touch ID, Apple's fingerprint technology, the chance that a random person could unlock your phone with his or her fingerprint is 1 in 50,000, Apple said; with Face ID, it's 1 in 1 million.
+
+Both systems store biometric data locally on the device rather than on a centralized server that could be targeted by hackers. That makes biometrics attractive from a privacy and security standpoint, Avetisov said.
+
+Revenue for the biometrics scan software industry is projected to reach $5.5 billion this year, with estimated growth of 5.2% annually for the next five years, according to a May report from IBISWorld. The market research firm noted "prolific expansion" since 2012 and named biometrics one of the nation's five top performing niche industries.
+
+Facial recognition technology has slowly crept into everyday life, most notably with personal photos. Upload a picture to Facebook, and the social media giant suggests friends to tag. Google and Apple can automatically identify faces in photos, making it easier for users to search their photos for a specific friend or relative.
+
+But Face ID takes facial recognition a step further. It works by relying on an advanced suite of tech — including an infrared camera, flood illuminator, front camera, dot projector, proximity sensor and ambient light sensor — packed into the front of the new iPhone X, which starts at $999.
+
+To set it up, hold your iPhone X in front of your face and move your head around slowly. That becomes the stored version on your phone.
+
+To use it, glance at the front-facing camera. The dot projector beams out more than 30,000 invisible infrared dots, and the infrared camera captures an image.
+
+Apple uses the infrared image and dot pattern and pushes them through neural networks — a kind of machine learning model — to create a mathematical model of your face, and then checks that model against the stored image captured during the setup phase. Once it detects a match, the phone unlocks; Face ID will also work with Apple Pay and third-party apps.
+
+Face ID is sophisticated enough to work in the dark, and to learn your face under different circumstances — so go ahead and wear those funky glasses or grow that hipster beard.
+
+Schiller said Apple also worked hard to ensure the technology "can't be easily spoofed." Photographs won't fool it, and Apple even worked with professional mask makers and makeup artists in Hollywood to protect against attempts to beat Face ID, he said.
+
+The tech also requires user attention — your eyes have to be open, and you can't be looking away (meaning there's little risk of intrusion while you sleep).
+
+Identical twins may trip up the system, but for them and anyone else averse to using their faces, the iPhone X can still be unlocked using an old-fashioned passcode.
+
+Although Apple said Face ID will provide users with more security, the technology also raises unsettling questions about unauthorized uses, particularly by law enforcement.
+
+Last year, federal officials dropped their legal fight against Apple after figuring out a way to unlock the iPhone used by an assailant in the 2015 San Bernardino terrorist attack. Apple had refused to comply with agencies' request to engineer a way around the iPhone's security measures, saying that doing so would set a dangerous precedent.
+
+Ultimately, FBI technology experts were aided by an outside group, which provided a backdoor technique to extract information from the phone. That left a vexing debate over a user's privacy versus collective security unresolved.
+
+With Face ID set up, it is plausible that law enforcement could use a suspect's face to unlock his or her iPhone, said Patrick Moorhead, principal analyst at Moor Insights and Strategy.
+
+Fatemeh Khatibloo, an analyst with Forrester Research, said authorities in the U.S. cannot compel you to provide your PIN or passcode. Faces, on the other hand, are public, so Face ID is functionally less private from a legal perspective, she said.
+
+Apple did not respond to a call for comment on the matter; the FBI referred an inquiry to the Department of Justice, which said it did not have an immediate comment.
+
+Many big tech companies have invested in facial technology in recent years. Facebook last year acquired FacioMetrics, which let smartphones analyze facial images in real time, and in 2015, Snapchat bought Looksery, a start-up that applied filters to users' faces.
+
+Apple reportedly acquired two companies that were developing facial recognition technology: Israeli start-up RealFace and San Diego start-up Emotient, which uses artificial intelligence to read facial expressions and emotions. According to Crunchbase, RealFace was acquired this year and Emotient was bought in January 2016.
+
+Despite major investments in the biometrics field, shoppers outside the Apple store at the Grove on Tuesday afternoon overwhelmingly said they were squeamish about the idea of facial recognition.
+
+"It feels like privacy is getting scarce," said Byron Miranda, an audio visuals integrator from Los Angeles who was shopping with his family. "There comes a point where you go too far. I don't want my phone recognizing me that way."
+
+Shopper Mike Strong, a 29-year-old who serves in the Navy, simply called it "creepy."
+
+But just as users were quick to come around on Touch ID, the same is likely to happen with Face ID. Time and again, Apple has pushed through innovations and made them widespread while turning others obsolete. Think about what iPods did to compact discs, and what the iPhone did to the Blackberry.
+
+As Steve Jobs famously said, "A lot of times, people don't know what they want until you show it to them."
+
+Deepak Dutt, chief executive of mobile security firm Zighra, credited Apple's introduction of Touch ID in 2013 with bringing biometrics more into the consumer consciousness.
+
+"Now we're just seeing the next wave and next generation," he said. "Apple has a way of creating markets."

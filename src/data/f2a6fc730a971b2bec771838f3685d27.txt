@@ -1,0 +1,74 @@
+
+nasa.gov
+NASA is Everywhere: Farming Tech with Roots in Space
+Loura Hall
+6-7 minutes
+
+Steve Swanson harvesting lettuce in space.
+
+NASA astronaut Steve Swanson harvests red romaine lettuce on the space station, the first fresh produce grown and eaten in space. The Veggie project, which is ongoing, uses a controlled-release fertilizer to nourish the growing plants.
+
+Credits: NASA
+
+False Color Image
+
+This false color image demonstrates the applications of remote sensing in precision farming. The goal of precision farming is to improve farmers’ profits and harvest yields while reducing the negative impacts of farming on the environment.
+
+Credits: NASA/USGS
+
+High Efficiency Lighting
+
+The High Efficiency Lighting with Integrated Adaptive Control (HELIAC) system uses targeted solid-state LEDs to efficiently grow plants.
+
+Credits: Orbital Technologies Corporation
+
+Touching Plant Leaves
+
+By measuring electrical pulses, AgriHouse’s sensors can determine several characteristics important to plant health. The sensors can remain attached through wind and rain while leaving the plant unharmed.
+
+Credits: : AgriHouse Brands Ltd.
+
+Growing plants can be tough, whether you’re on a spaceship or Earth. A special fertilizer made it easier for astronauts on the International Space Station and farmers down below, resulting in just one of the space program’s many contributions to agriculture.
+
+Numerous farming tools have roots at NASA. Over the years, companies large and small have partnered with the agency, honed technologies and delivered innovations to benefit the industry. These are just a few examples:
+1. Self-driving tractors
+
+The story starts with GPS, which was still new in the 1990s when John Deere started using it for precision agriculture. The company wanted to go a step further and create a system to guide tractors autonomously. The challenge was that uncorrected GPS could be off by up to 30 feet due to data errors, drift in the GPS satellites’ internal clocks and other factors.
+
+Today, self-driving tractors cultivate the majority of America’s farmland, and many of them still rely on NASA technology.
+
+The NASA-developed software corrected for GPS signal errors and increased location accuracy to mere inches instead of feet. The advancement resulted in perhaps one of NASA’s most important contributions to modern society – highly accurate GPS navigation anywhere on Earth, including crop fields.
+2. Water management
+
+NASA can study an area without ever touching it. Remote sensing employs a variety of instruments onboard different satellites to monitor Earth’s health from space.
+
+Agriculture powerhouse states in the U.S. are sometimes threatened by dry spells and drought. High-resolution NASA satellite data helps water resource managers develop tools to plan for and mitigate their impacts.
+
+NASA’s Ames Research Center partnered with the California Department of Water Resources to do just that. One project aimed to help growers match irrigation with the biological needs of each crop. Another initiative involved monitoring areas where land is uncultivated, to allow for prompt emergency relief.
+3. Crop forecasting
+
+A number of NASA spinoffs in agriculture deal with understanding the current state of crop growth throughout the growing season and predicting final crop yields with that data.
+
+Based on a NASA model, commercial software predicts corn production for farmers, ethanol producers and grain traders. It provides daily updates on the state of corn vegetation, incorporating nearly 30 variables including NASA satellite data.
+
+NASA also helped train algorithms to classify land types using satellite imagery. The work spawned a commercial computer learning program, now used with drone images, to assess the types, stages of growth, and health of crops in fields. The program inventories farmers’ fields and can predict annual crop yields.
+4. LED systems
+
+Space farming, whether on the International Space Station or in tests for future Moon- or Mars-based agriculture, is an area where NASA leads the way in technology development.
+
+NASA’s Kennedy Space Center in Florida partnered with a small business to advance technologies for growing food crops in space. One result of the research was a LED light system, components of which have been incorporated into a variety of agricultural greenhouse and consumer aquarium lighting features. The lighting systems can be adapted to a specific plant during any growth stage, allowing maximum efficiency in light absorption by all available photosynthetic tissues.
+5. Texts from plants
+
+Thirsty plants can send text messages in order to “ask" for more water. NASA-supported research resulted in a leaf sensor that can monitor plants with electrical pulses, letting anyone from astronauts to farmers measure plant water levels directly.
+
+Space technology often finds another purpose here on Earth. In many cases, people don’t realize some of what they use daily was influenced by NASA. One industry at a time, the agency will share how NASA is everywhere.
+
+NASA has a long history of transferring technology to the private sector. Each year, the agency’s Spinoff publication profiles about 50 NASA technologies that have transformed into commercial products and services, demonstrating the wider benefits of America’s investment in its space program. Spinoff is a publication of the Technology Transfer program in NASA’s Space Technology Mission Directorate.
+
+For more information on how NASA is bringing its technology down to Earth, visit:
+
+http://technology.nasa.gov
+
+Last Updated: Feb. 14, 2019
+
+Editor: Loura Hall

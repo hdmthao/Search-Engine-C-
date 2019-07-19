@@ -1,0 +1,14 @@
+A strange thing happened in the stratosphere
+This disruption to the wind pattern - called the "quasi-biennial oscillation" - did not have any immediate impact on weather or climate as we experience it on Earth's surface. But it does raise interesting questions for the NASA scientists who observed it: If a pattern holds for six decades and then suddenly changes, what caused that to happen? Will it happen again? What effects might it have? "The quasi-biennial oscillation is the stratosphere's Old Faithful," said Paul Newman, Chief Scientist for Earth Sciences at NASA's Goddard Space Flight Center, Greenbelt, Maryland, and lead author on a new paper about the event published online in Geophysical Research Letters. "If Old Faithful stopped for a day, you'd begin to wonder about what was happening under the ground."
+
+Winds in the tropical stratosphere, an atmospheric layer that extends from about 10 to 30 miles above Earth's surface, circulate the planet in alternating easterly and westerly directions over roughly a two-year period. Westerly winds develop at the top of the stratosphere, and gradually descend to the bottom, about 10 miles above the surface while at the same time being replaced by a layer of easterly winds above them. In turn, the easterlies descend and are replaced by westerlies.
+
+This pattern repeats every 28 months. In the 1960s scientists coined it the "quasi-biennial oscillation." The record of these measurements, made by weather balloons released in the tropics at various points around the globe, dates to 1953.
+
+The pattern never changed - until late 2015. As the year came to a close, winds from the west neared the end of their typical descent. The regular pattern held that weaker easterly winds would soon replace them. But then the westerlies appeared to move upwards and block the downward movement of the easterlies. This new pattern held for nearly half a year, and by July 2016 the old regime seemed to resume.
+
+"It's really interesting when nature throws us a curveball," Newman said.
+
+The quasi-biennial oscillation has a wide influence on stratospheric conditions. The amount of ozone at the equator changes by 10 percent between the peaks of the easterly and westerly phases, while the oscillation also has an impact on levels of polar ozone depletion.
+
+With this disruption now documented, Newman and colleagues are currently focused on studying both its causes and potential implications. They have two hypotheses for what could have triggered it - the particularly strong El Niño in 2015-16 or the long-term trend of rising global temperatures. Newman said the scientists are conducting further research now to figure out if the event was a "black swan," a once-in-a-generation event, or a "canary in the coal mine," a shift with unforeseen circumstances, caused by climate change.

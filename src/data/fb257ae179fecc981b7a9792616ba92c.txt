@@ -1,0 +1,12 @@
+CHEATERS NEVER PROSPER Fortnite virus disguised as aim bot hits almost 100,000 players
+FORTNITE players are always looking for every advantage they can get--but this week some went too far and paid the price for it.
+76,000 PC players who thought they, unlike England ace Harry Kane, needed some help finding the target downloaded a third-party app for Epic Games' shooter, and were hit with a nasty virus.
+Lured in by the promise of free V-bucks and automatic aiming were hit with a nasty hack that took control of their computers and intercepted all their internet traffic.
+The hack was spotted by streaming company Rainway thanks to errors it threw up for users who were hit and also running their software.
+A little detective work on Rainway's part discovered the app was responsible for what is known as a 'man in the middle' attack.
+The app installed a root certificate on the computers of anyone who installed it, giving it permission to change anything and everything on those gamers' computers with reckless abandon.
+your Battle Stars
+The most obvious change was it changing Windows' settings to route all web traffic through their own server on the way to the wider Internet.
+That meant the nefarious hackers could then automatically change every single web page viewed by the infected users to include their own advertising code, potentially making a significant amount of money.
+The nature of the attack also means that they could monitor all data being sent by those computers, collecting usernames, passwords, and anything else that those users did.
+Want to keep yourself safe from this kind of attack? Don't download random programs to 'help' your gaming--that way lies only pain.

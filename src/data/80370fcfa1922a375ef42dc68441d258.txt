@@ -1,0 +1,10 @@
+BIZARRE METALS MAY HELP UNLOCK MYSTERIES OF HOW
+EARTH 'S MAGNETIC FIELD FORMS
+Weird materials called Weyl metals might reveal the secrets of how Earth gets its magnetic field.
+The substances could generate a dynamo effect, the process by which a swirling, electrically conductive material creates a magnetic field, a team of scientists reports in the Oct. 26 Physical Review Letters.
+Dynamos are common in the universe, producing the magnetic fields of the Earth, the sun and other stars and galaxies. But scientists still don’t fully understand the details of how dynamos create magnetic fields. And, unfortunately, making a dynamo in the lab is no easy task, requiring researchers to rapidly spin giant tanks of a liquefied metal, such as sodium .
+First discovered in 2015, Weyl metals are topological materials, meaning that their behavior is governed by a branch of mathematics called topology, the study of shapes like doughnuts and knots (SN: 8/22/15, p. 11). Electrons in Weyl metals move around in bizarre ways, behaving as if they are massless.
+Within these materials, the researchers discovered, electrons are subject to the same set of equations that describes the behavior of liquids known to form dynamos, such as molten iron in the Earth’s outer core. The team’s calculations suggest that, under the right conditions, it should be possible to make a dynamo from solid Weyl metals.
+It might be easier to create such dynamos in the lab, as they don’t require large quantities of swirling liquid metals. Instead, the electrons in a small chunk of Weyl metal could flow like a fluid, taking the place of the liquid metal.
+The result is still theoretical. But if the idea works, scientists may be able to use Weyl metals to reproduce the conditions that exist within the Earth, and better understand how its magnetic field forms.
+

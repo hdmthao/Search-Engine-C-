@@ -1,0 +1,54 @@
+Norwegian prisons rehabilitate criminal offenders
+The research project "The Social Costs of incarceration" is the largest study of imprisonment and return to a normal life that has ever been conducted in Europe. In the study, researchers looked at prison sentences linked to recidivism. In addition, the researchers looked at the extent to which former inmates have returned to work. What makes the project unique is linking large administrative data sets to data sets from the courts.
+
+They have done this to measure the effect of what happens when the criminals have received different penalties for the same offense because they randomly met different judges in court with different leniency towards incarcerating. In other words: if a judge incarcerates differently for the same offense, what will be the consequences for the offender in the long term?
+
+"The results show that the Norwegian prison model with extensive use of labour training while serving time, gives surprisingly good results," says Professor Katrine Løken at the Department of Economics, University of Bergen (UiB), who led the research project.
+
+The study shows:
+
+Five years after conviction, there is a 27 per cent lower risk that convicts who have been in prison have committed new crimes, compared to those who were given more lenient penalties, like probation and community service. For the 60 per cent of inmates who had not been employed for the last five years preceding the conviction, the decline in criminal activity is even bigger. Among these the risk that they have committed new crimes after five years was reduced by 46 per cent. In addition, the proportion who are working are 40 per cent higher after five years, contrasted with those who have received more lenient penalties. The group of inmates who lose their jobs because they have gone to prison, have no positive effect of being imprisoned, however they do not commit more criminal offences than the other group when they are released.
+
+The study is published as a Working Paper in Economics at the University of Bergen.
+
+Work is the key
+
+The effect of imprisonment on a criminal path is not well known. In Western countries there are major differences in the incarceration systems. In Scandinavian countries such as Norway, the prison system focuses on rehabilitation and job training.
+
+If rehabilitation programmes in prison work, is your opinion that we should send more offenders to jail?
+
+"Not necessarily. Work is the key to get out of a criminal pattern. We see that labour-programmes in prison give people opportunities, while those offenders that are not sentenced to prison, are more difficult to follow up," says Løken, adding:
+
+"A relevant question is whether we should aim for full package of job-training outside prison. But research shows that work training outside of prison is more difficult to enforce. It appears that a certain element of coercion is needed to get offenders on a new track."
+
+Katrine Løken stresses that the research does not take a stand on the principle of imprisonment, but simply says something about how prison is perceived for the individual, and shows the effects of different sentencing.
+
+Opposite results in the US
+
+The idea for the project came after researchers heard about a couple of American studies of imprisonment with similar research method. In one of the newer US studies,from Texas, they find however that time served in prison leads to relapse into crime and exclusion from working life. The Norwegian researchers were curious if they would find the same tendencies in Norway.
+
+"But the main reason why we thought the area could also be interesting to study in Norway is the unique data sets that exist here. While the US study was only conducted in one particular state in the US, we could get a total overview of all convicts in Norway over a long time period," says Løken.
+
+Unique Norwegian registry
+
+In Norway there are data for the whole population from Statistics Norway (SSB). In addition there are data records of all criminals in Norway.
+
+The researchers intertwined these datasets against the Norwegian legal data base "Lovdata" and could thus identify how different judges sentenced the same offense differently. Then they measured the effect of the prison sentence and whether it was conditional or unconditional, and saw how this influenced future criminal behaviour and attachment to the labour market.
+
+"By focusing on the direct impact of a judge's sentencing, we ended up with a better set of data, which told us much more about the effect of prison than most previous studies have been able to," says Løken.
+
+FACTS: The Social Costs of Incarceration
+
+Norwegian prison study conducted using data from all decisions in court from 2005 to 2009.
+
+Scientists in the project followed 22,000 prisoners, who were all convicted of criminal activity in Norway during the period. On average offenders served six months in jail.
+
+The researchers divided the convicts into two groups, those who had a job when they were sentenced, and those who did not. The researchers connected these data sets to Lovdata and could thus see how each judge sentenced differently for the same offense.
+
+They then measured the effect of the prison sentence and whether it was conditional or unconditional, and saw how this influenced future criminal behaviour and attachment to the labour market.
+
+By comparing offenders who had committed the same type of crime, but who were sentenced to penalties of different types, it is possible to isolate the effect of prison.
+
+The number of inmates in prisons in Western countries has risen sharply over the last 30 years. In the US, the number has increased from 220 per 100,000 in 1980 to 700 per 100,000 in 2012. In Western Europe, the number of inmates increased from 62 per 100,000 in 1980 to 112 in 2010.
+
+Katrine Løken is one of four researchers behind the article "Incarceration, Recidivism and Employment". The other three are Gordon Dahl from UC San Diego and Magne Mogstad and Manudeep Bhullar, both from the University of Chicago.

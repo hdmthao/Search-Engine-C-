@@ -1,0 +1,35 @@
+
+Fine-tuning renewables could help Texas balance energy resources
+Study shows increasing importance of wind, solar to state's power production
+Date:
+December 5, 2018
+Source:
+Rice University
+Summary:
+A new study analyzes Texas' mix of wind and solar energy resources, and how to achieve better balance between them going forward.
+FULL STORY
+Timing and placement of wind and solar power facilities are critical factors for Texas electricity providers that juggle their output with other resources to provide a balanced flow of energy. Rice University researchers have some suggestions on how they can integrate widely varying sources more efficiently.
+
+Rice undergraduate student Joanna Slusarewicz, along with environmental engineer Daniel Cohan, performed an analysis of recent peaks in production from West and South Texas renewable resources and suggested that the state's power production can be made more reliable by adjusting where and when those resources are deployed.
+
+Their open-access paper is published in Renewables: Wind, Water and Solar.
+
+While established wind and a growing set of solar generators provided about 18 percent of Texas' power in 2017, judicious use could help those resources punch above their weight as coal-fired power plants leave the landscape, the researchers wrote. (Three Texas coal plants have closed this year and a fourth closure is anticipated.)
+
+Slusarewicz studied weather data from the National Renewable Energy Laboratory and records compiled by the nonprofit Electric Reliability Council of Texas (ERCOT) from 2007 to 2013 that tracked wind power from West and South Texas as well as statewide commercial solar generation. She determined the most reliable power production going forward will come from the combination of solar and West Texas wind, but coastal wind has a significant role to play as well.
+
+Her conclusions showed that while ERCOT is conservative in its estimates of peak generation from West Texas wind during both summer and winter, producers could get the best bang for their energy bucks by adding coastal wind production. South Texas' coastal winds, she found, are most active when power is needed most, at peak usage on hot summer days.
+
+Slusarewicz found little difference in solar power's peak contribution whether it came from panels that move on two axes to more accurately track the sun through its arc rather than 1-axis systems that merely track east to west. She also found that combining the output of wind and solar facilities can enhance their firm capacity, a measure of the amount of power the sites can reasonably guarantee.
+
+"A major problem with clean energy is that it's not necessarily reliable," said Slusarewicz, a Rice junior. "Sun and wind, by their nature, are not going to consistently provide power when you know you need it."
+
+She said batteries remain too expensive to store Texas-sized amounts of energy for later use. "I did this project to see if there is a way, before we even start building more wind and solar farms, to distribute their current output to take advantage of differences in climate throughout the state," Slusarewicz said.
+
+Cohan said Texas presents a unique opportunity to learn how to balance energy resources because of several factors: first, because the state's energy grid is largely self-contained, and second, because of its size and range of climates.
+
+"ERCOT does some forward-looking studies of how much wind and solar they expect to be added to the grid and how many coal or other sources might retire, but they don't look at where the two are situated to have the best features," said Cohan, an associate professor of civil and environmental engineering at Rice.
+
+He noted that Texas energy grid stakeholders targeted locations for wind power through a competitive renewable energy zones process mediated by ERCOT.
+
+"There's a legacy in Texas to identify the most sensible places to locate wind power, but that hasn't carried over yet to where solar farms should best be located or how to bridge some of the coastal wind sites to West Texas transmission zones," Cohan said. "Only in the past couple of years has solar become competitive with wind. Now Texas has two strong renewable options. That's why this is the time to look at integrating these sources so they can do better than either can do on its own."

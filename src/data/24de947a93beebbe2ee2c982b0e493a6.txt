@@ -1,0 +1,19 @@
+Here’s how big tech companies like Google and Facebook set salaries for software engineers. 
+KEY POINTS
+Software engineers are highly sought after and well paid in Silicon Valley, but the actual amount they make correlates to a single number.
+This is called levels, or the technical ladder.
+Entry level engineers can make over $150,000 from Google or Facebook, according to some estimates. When recent college graduates and friends Zuhayeer Musa and Zaheer Mohiuddin started to break into the software industry, everything they found on the internet about engineering jobs seemed to be missing the actual information they needed: How much do these jobs pay?
+Software engineers straight out of college often make six-figure salaries, not counting equity compensation. Depending on seniority, some coders make millions of dollars per year. But where on that spectrum any given engineer lands often depends on a single number -- what’s often called a “level.”
+At Google, for example, entry-level engineers start at Level 3. Apple has five levels for engineers, from ICT2 up to ICT6. Microsoft’s system starts at 59 for a software development engineer and goes up to 80 for a “technical fellow,” or one of the leaders of their given field.
+The higher your level is, the higher your compensation — and Musa and Mohiuddin realized that their peers had a lot of questions about how the levels worked. If a Level 4 at Google gets a new job at Facebook, what level should they be? If someone gets promoted to ICT3 at Apple, how much should they make?
+“In this new age where churn rates are very high, people are hopping around much more than they used to be,” Musa said. “It’s useful to know about levels if you’re going to Facebook to Microsoft to Amazon to Google, you want to know where you’re coming in and what your level is.”
+So the two friends made a website to crowdsource Silicon Valley salary data from workers at big tech companies, and it took off.
+“It’s personal for me. I was going through a job transition myself, I had only 2 years experience but had gotten promoted,” Mohiuddin said, adding that he’s seen friends get screwed over when changing companies.
+“We both decided why not build a simple, visual tool, showing levels across the different companies?” Musa added.
+Salaries start over $150,000.
+The crowdsourced data on levels.fyi shows that software engineers get paid extremely well at companies like Google, Facebook, Amazon, Apple, and Microsoft.
+Levels.fyi estimates that a Level 3 at Google, or an entry-level engineer who likely just graduated from college, should make $189,000 in total compensation, or about $124,000 in salary and $43,000 in stock compensation. At Facebook, an E3 — an entry-level “software engineer 3” — should make $166,000 per year total, according to the levels.fyi estimate.
+Compensation goes up as level goes up and can even accelerate in an exponential fashion, the website’s founders said.
+For example, at Google a Level 7, which is considered the top level for the vast majority of engineers, can make $608,000, according to levels.fyi.
+“It differs from company to company, but a bunch of companies have converged on almost the same system where there will be about six levels,” said Osman Ahmed Osman, a former Quora hiring manager who is now writing a book on technical recruiting. Each level has a slightly different job title at each company, but they closely correlate.
+“Google and Facebook are examples of companies where things are pretty similar,” he continued.

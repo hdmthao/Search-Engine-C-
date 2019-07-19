@@ -1,0 +1,25 @@
+Cattle and Crops Wiki
+Cattle and Crops
+Cattle and Crops is a farming simulation game created and developed by Masterbrain Bytes GmbH & Co. KG. It was released on Steam Early Access on June 9, 2017. The full version release of game is scheduled for Q2 2019.
+
+Contents
+1	Description
+2	Features
+3	Screenhots
+4	Videos
+5	External links
+Description
+Cattle and Crops is a new generation of farming simulation designed with special attention to detail. The game engine is based off the C4 engine by Terathon, which has been heavily improved to match the requirements wanted to achieve for the game.
+
+The game will be available on these platforms: Windows, Linux and Mac OS.
+
+You have the choice: control the vehicles yourself and experience realistic driving or leave the work to your employees, lean back and enjoy the field ballet.
+
+Features
+Brands - Supported by our license partners in the industry
+Management - Your employees will help you take care of your farm, your animals and your estate.
+Multiplayer - Join your friends in conquering the maps.
+Modding Support- Enhance the game with your own vehicles and maps
+Simulation - Detailed machinery and realistic harvesting techniques
+Vegetation - Plant growth and health depending on multiple ground conditions
+Weather - Advanced weather system influencing your farming strategies

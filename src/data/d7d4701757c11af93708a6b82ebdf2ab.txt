@@ -1,0 +1,28 @@
+The Underhollow is a dungeon brawl in which eight teams of three players must battle and evade each other on a maze-like map in search of Roshefort, Roshan's rarest cheese. This game mode is only available to owners of The International 2018 Battle Pass.
+Gameplay
+General information
+Be the last team standing to win.
+Dead allies can be revived to 50% HP/MP by clicking on their gravestone and waiting a few seconds.
+If an enemy dies, but their team remains alive, you can eliminate the enemy completely by clicking on their gravestone. This takes 20 seconds.
+A team is defeated when all its members are dead.
+Eliminate other players to acquire their gold and items.
+Heroes
+Players can pick from most of the heroes available in Dota. Their abilities remain unchanged from the base game of Dota.
+Heroes start at Level 1, and have an Enchanted Mango, The Underhollow Escape Potion, and two Healing Salve Healing Salves.
+Rooms
+Clearing a room of enemy NPCs spawns a treasure chest at the center of the room, which drops gold bags, random items based on the room's tier, and health and mana potions.
+Clearing a room also rewards each player in the room with gold and experience.
+The amount of experience and gold gained differs based on the encounter type (creature encounters and chest encounters), and are scaled by 0.5 for each encounter level, starting at x1 for encounter level 1 to up to x2.5 for encounter level 4.
+Base gold per player for a creature encounter is 75. Base gold for per player for a chest encounter is 100.
+Base experience per player for a creature encounter is 300. Base experience per player for a chest encounter is 200.
+Shops have a 50% chance to appear in rooms. They sell items and healing potions.
+Rooms closer to the center are more difficult and contain better loot.
+Rooms range from level 1 to level 4. Certain encounters can only be found in certain room levels. A table of these encounters is below.
+Each depth level (cavern ring segment) contains a decreasing amount of trap rooms (higher depth means deeper towards the center of the cavern):
+Depth 1 has 4 traps
+Depth 2 has 2 traps
+Depth 3 has 1 trap
+Depth 4 has 0 traps
+Roshan destroys a ring of rooms every five minutes, starting with the easier outer ring. Players in destroyed rooms take very high damage per second.
+The contents of the map are randomly generated each time you play, so while the rooms physically remain the same, their location, difficulty and rewards will differ.
+By default, every room will always have between 5 and 7 breakables and between 5 and 7 trees positioned randomly around the room. Unless it is a special room or if a particular encounter spawns additional trees and/or breakables.

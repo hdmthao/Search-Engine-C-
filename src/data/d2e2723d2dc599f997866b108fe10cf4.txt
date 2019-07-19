@@ -1,0 +1,51 @@
+Apple's Screen Time feature proves you're addicted to your iPhone
+
+I spent 36 hours and 23 minutes on my iPhone last week. That's almost an entire work week frittered away on Netflix, Twitter and Slack.
+
+Clearly, I have a problem.
+
+And the odds are, you do too. Because, face it -- we all spend too much time staring at our phones.
+
+Apple wants to help us with that.
+
+Beginning today, anyone with an iPhone 5S and later can glean detailed information about just how often, and for how long, they interact with their device. On Monday, Apple (AAPL) released the public beta of iOS 12, the latest version of its mobile operating system. It includes a suite of features designed to track your phone usage and help you cut down on screen time.
+
+Apple is the latest company to address a mounting issue created by its own products. "Time well spent" is the hot catchphrase in Silicon Valley as tech titans like Google (GOOG) and Facebook (FB) roll out features to help people make better use of their time. I've spent two weeks using iOS 12, and although it hasn't changed my habits just yet, I am much more aware of -- and anxious about -- my relationship with my phone.
+
+Related: Tim Cook reveals his tech habits: I use my phone too much
+
+The new operating system is available now as a beta (which almost certainly includes bugs and isn't recommended for most users) and coming to everyone later this year. It includes performance improvements, group FaceTime calls, customizable Animoji's that look like you, and new augmented reality powers. But the central feature is Screen Time.
+
+The tool, found under settings, tallies the time you spend on your phone by day and week, and breaks it down by app and category. It shows how many notifications you receive and how often you pick up your phone (I grab mine every six minutes). You receive all this info in a convenient weekly report that makes it hard to deny you just might have a problem.
+
+"Each person has to make the decision when they get their numbers as to what they would like to do," Apple CEO Tim Cook told CNN when he announced the feature last month.
+
+After reading my reports, I decided to cut down on social media, which sucked up six hours of my week. I used the Screen Time tools to limit my daily time on Twitter (TWTR) and Instagram and all the rest to just 15 minutes. I soon upped it to one hour, because Screen Time takes its job very seriously. Hit your self-imposed limit and the screen goes gray, making it impossible to see the app. You have the option to extend your time by 15 minutes or waive the limit for the day.
+
+I quickly formed a habit of repeatedly hitting the snooze button while thumbing through Twitter, and eventually just turned off the feature entirely.
+
+Another feature, called "Do Not Disturb," lets you shut down all your notifications and calls. You can schedule regular blackouts, or simply let your phone shut them down automatically based upon your location, your calendar, and more. I opted to schedule my executive time from 6pm to 9pm, when I'm usually ignoring my phone anyway. That still didn't stop me from peeking at the screen. I couldn't help it. You probably can't, either.
+
+"The biochemistry of your brain is urging you to check in. That's really hard to change," said Dr. Larry Rosen, a psychologist and author who focuses on how people use technology.
+
+Stop looking at your phone, he says, and your anxiety mounts. It's called nomophobia, the fear of being without your phone, although you might know it as FOMO--fear of missing out.
+
+Related: iOS 12 highlights: Memoji, tech addiction tool, group FaceTime
+
+Apple isn't alone in trying to help people with this. Google unveiled similar features for Android, and Facebook is testing time-tracking and alarms in its apps. Such features are the first baby steps toward changing how people use technology. They won't solve the mounting problem of tech addiction, but Rosen says they'll make people aware of the problem.
+
+He's got a point. Seeing just how much time I spend thumbing my phone was sobering, if not entirely helpful. Screen Time, like the Android features, doesn't provide any context for the data, no suggestions for how I might change my behavior, no clues to what's normal or even acceptable. It's hard to know, looking at my weekly report, if 36 hours and change on my phone is dangerously high, or just mildly excessive.
+
+Rosen says his research shows that young adults spend about five hours a day on their devices and glance at them 50 to 60 times. A survey from Deloitte put that figure at 47 times daily.
+
+As for me, Screen Time tells me I pick up my iPhone X a whopping 75 times a day. That shocked me almost as much as learning I look at the damned thing every six minutes. But without knowing where I sit on the bell curve of phone use, it's hard to know what to do.
+
+"If we want to change how people are habitually interacting with their phone, just giving them more numbers is not going to cut it," said Ramsay Brown, a neuroscientist and COO of Boundless Mind. His company makes software designed to change user behavior, including a tool called Space that forces you to wait for apps to launch.
+
+If you want to make the jump from being aware of your behavior to changing it, Brown suggests starting with fewer notifications. Apple has new features to help with that. iOS 12 provides more granular control over silencing notifications from some apps, or grouping them in a "stack" so one alert notifies you of the 25 comments left on your latest Instagram post. Siri also will suggest changes to your settings based upon your behavior.
+
+All of that should help, because those infernal notifications trigger half of all phone pickups, Rosen says. If you want to do more, weed out the apps you're most likely to waste time on (Goodbye, Twitter! See you later, Slack!) by burying them inside a folder or deleting them entirely.
+
+And finally, go easy on yourself. Don't try to make radical changes all at one. I tried limiting myself to 15 minutes on Twitter, than an hour. That plan that quickly fell apart. Rather than beat myself up, I'll try using it just a little less, paying more attention to the people around me, and maybe deleting a few apps.
+
+It may not work. But at least Screen Time has made me aware of the problem. That's the point.

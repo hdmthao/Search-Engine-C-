@@ -1,0 +1,29 @@
+Rollercoaster Tycoon World Wiki
+Game Features
+This page lists the core game features that appear in RollerCoaster Tycoon World. Many of these features are exclusive to RCTW, while others may appear in all of the RCT editions.
+
+Contents
+1	Building tools
+2	Expansive customization support
+3	Enhanced park interaction features
+4	Native sharing and social features:=
+Building tools
+Freeform object placement: In RCTW, all objects, including rides, scenery, and buildings, can be placed on any spot of the map at any angle. In other editions, objects had to fit on a certain grid and in most circumstances, could only be placed angled 90, 180, 270, or 360 degrees.
+Paths: There are many varieties of paths available that the player can place. RCTW allows the player to place paths, like other objects, at any angle, allowing for curved paths for the first time. In other editions, paths must fit on the same grid that objects must ft on.
+Coaster builder: All editions of RollerCoaster Tycoon allow for pre-built coaster designs or custom-made. Custom-made designs, in the first 3 editions, have several degrees of curves, banks, and slopes that can be used to build coasters. In RCTW, the player can choose the precise angle that coasters can curve, bank, and slope at.
+Terraforming: RollerCoaster Tycoon World allows for the player to change the terrain of the park, including adding lakes, waterfalls, holes, and mountains. All of the other editions allow for raising and lowering the terrain, although some of them don't allow for many of the more intricate terraforming-features available in RCTW.
+Expansive customization support
+UGC Tools: These are present exclusively in RCTW, and allow the player to customize the game anyway they like. This includes scenery, guests, rides, and many other game features.
+Themed maps: In RCTW, when the player creates a park, they can choose from a variety of themes for the interior and exterior of the map. In the other editions, there are multiple scenarios with different themes, but Sandbox mode still is generic themed.
+Enhanced park interaction features
+Multiple game modes: In RCTW, there are 3 game modes available. In Sandbox, the player can build whatever they want with no limitations, while in Career and Scenario modes, they must complete missions with a certain amount of money available. In RCT1 and RCT2, Sandbox mode is not available, meaning that the player can only play scenarios.
+Themes: Rides, scenery, shops, and many more objects are organized into different themes. Having a variety of themes in a park usually attracts the most guests.
+Advanced physics calculations: The Coasters are the most realistic in RCTW. This is due to complex physics that allow for a wide variety of designs and a lot more possibilities than other editions. In RCT3 and RCTW, coasters are able to actually fall of the tracks, though this features is more realistic in the latter.
+Riding coasters: The player can ride coasters they build in RCT3 and RCTW using the coaster camera.
+Services: There are 4 different services in RCTW: Medical, Janitorial, Entertainment and Mechanical, which aid the player when creating a park.
+Native sharing and social features:=
+Social media integration: RCTW provides an easy way for the player to share what they create in the game via social media.
+Freeform cameras: There are multiple ways to view your park, such as from the guests point of view and from a birds-eye view. This feature appears somewhat in all of the RCT editions, but there are a lot more possibilities in RCTW.
+FriendÅfs lists and stat comparisons: The player is able to view the statistics of other parks that other people have made while in their park, such as when they created their latest coaster or when they last edited the park. Players can also visit other users' parks, so that they can give feedback about their park. These features are exclusive to RCTW.
+Native steam workshop support: Native Steam Workshop allows the player to customize many of the in-game features. It allows players to create their own custom rides, scenery, and more.
+Screenshots: You can take a screenshot and get it from the RCTW directory by pressing F11. This can then be used for UGC creation covers, sharing parks, etc.

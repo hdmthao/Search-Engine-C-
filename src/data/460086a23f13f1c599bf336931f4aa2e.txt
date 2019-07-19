@@ -1,0 +1,26 @@
+Almost Nobody Can Write This Letter of the Alphabet Correctly
+The alphabet is a little like a baseball team. You’ve got your everyday players—your A’s and E’s and S’s. Then you’ve got your benchwarmers—your X’s and Q’s and Z’s. They’ve got character, but you’re not going to go a whole nine innings with them.
+
+If we don’t use all 26 letters the same amount, we at least recognize them equally, right? Not so much. A new study in the Journal of Experimental Psychology: Human Perception and Performance reveals that there’s one letter we think we know well, but we don’t: The lower case “g.” We can recognize it—usually—we can read it, but for the life of us, we can’t draw it. That curious truth holds clues to how the brain learns and why, sometimes, it fails to learn.
+
+The lower-case g actually comes in two typographic forms: The fish hook, a circle with a left facing curl beneath it, and the loop-tail, two closed, connected circles with a sort of rightward-facing tassel on the top one. While the loop-tail is everywhere, however, it’s the rare person who can reproduce it on demand.
+
+To investigate this phenomenon, a group of researchers in the Department of Cognitive Science at Johns Hopkins University first conducted a survey to determine exactly how common the loop-tail is. Selecting 100 books in each of three categories—adult fiction and nonfiction, children’s picture books and children’s chapter books—they looked for which type of g was used in each. The results weren’t even close. Of the children’s picture books, 74% used the loop-tail; that figure rose to 89% in the children’s chapter books and 97% in all adult books.
+
+But in three different experiments, such constant exposure did not seem to have improved people’s recognition of the letter much at all.
+
+In the first, 38 adult subjects were asked to name any letters they could think of that have two different lower-case forms in print. Only two of the 38 named the g, and only one of those was able to draw it correctly. (The letter “A” also has two lower case forms: The so-called one-story a, or a circle with a vertical line on its right side, and the two-story a, or a lower loop with a leftward pointing arch atop it. It’s that one that is commonly used in printed text. Twenty-two of the 38 subjects acknowledged those two forms and all of those 22 correctly reproduced them.)
+
+The second experiment should have been a gimme for the subjects—but it wasn’t. In this one, 16 people were asked to read a paragraph silently, but any time they encountered a word with a g, they were to say it aloud. There were fourteen g-words in the paragraph and all of them used loop-tails. When the subjects were asked afterwards to draw the g they had just seen, however, half drew the fish tail. Only one of the people who attempted to draw the loop-tail did so correctly.
+
+In the final experiment, 25 subjects were shown four different variations on the loop-tail g, one of them correct and three with various features reversed. Only 28% of them picked out the correct one. More than half—56%—chose a version in which the entire lower half was backwards.
+
+The reason for the confusion, the researchers believe, is that unlike other lowercase letters, the loop-tail g is as much a stylistic conceit as an actual letter. We are required to recognize it but, typically, not to reproduce it.
+
+“In the case of the looptail g,” the researchers wrote, “we assume that stored knowledge will not necessarily include a motor plan.”
+
+That explains why we can’t write the g, but why can’t we even tell a properly reproduced one from an incorrect one. That, the researchers suspect, has something to do with the parsimonious way we process data.
+
+“In the absence of experience in writing a letter,” they explain, “readers learn only those visual features that are important for distinguishing letters from another.”
+
+In the case of the two-story a, the comparative simplicity of its design gives us less to mix up. The g, with its fancier style, causes us more trouble. We read, it seems, the way we do so many other things: Just accurately enough to get it right, but please don’t bother us with the details.

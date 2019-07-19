@@ -1,0 +1,22 @@
+AI IN E-COMMERCE: How artificial intelligence can help retailers deliver the highly personalized experiences shoppers desire
+Business Insider Intelligence, Business Insider's premium research service.
+
+One of retailers' top priorities is to figure out how to gain an edge over Amazon. To do this, many retailers are attempting to differentiate themselves by creating highly curated experiences that combine the personal feel of in-store shopping with the convenience of online portals.
+
+These personalized online experiences are powered by artificial intelligence (AI). This is the technology that enables e-commerce websites to recommend products uniquely suited to shoppers, and enables people to search for products using conversational language, or just images, as though they were interacting with a person.
+
+Using AI to personalize the customer journey could be a huge value-add to retailers. Retailers that have implemented personalization strategies see sales gains of 6-10%, a rate two to three times faster than other retailers, according to a report by Boston Consulting Group (BCG). It could also boost profitability rates 59% in the wholesale and retail industries by 2035, according to Accenture.
+
+In a new report from Business Insider Intelligence, we illustrate the various applications of AI in retail and use case studies to show how this technology has benefited retailers. It assesses the challenges that retailers may face as they implement AI, specifically focusing on technical and organizational challenges. Finally, the report weighs the pros and cons of strategies retailers can take to successfully execute AI technologies in their organization.
+
+Here are some key takeaways from the report:
+
+Digitally native retailers are setting new standards for the customer journey by creating highly curated experiences through the use of AI. This has enabled them to cater to consumers' desire to interact with mobile apps and websites as they would with an in-store sales representative.
+By mimicking the use of AI among e-commerce pureplays, brick-and-mortars can implement similar levels of personalization. AI can be used to provide personalized websites, tailored product recommendations, more relevant product search results, as well as immediate and useful customer service.
+However, there are several barriers to AI adoption that may make implementation difficult. By and large, these hurdles stem from a general unpreparedness of legacy retailers' systems and organizational structures to handle the huge troves of data AI solutions need to be effective.
+For many retailers, successfully leveraging AI will require partnering with third parties. Because of the barriers involved, employing an in-house strategy can be extremely costly and difficult. This has led to the rise of AI commerce startups, which can provide a more cost-effective approach to overhauling the customer experience.
+In full, the report:
+
+Provides an overview of the numerous applications of AI in retail, using case studies of how retailers are currently gaining an advantage using this technology. These applications include personalizing online interfaces, tailoring product recommendations, increasing the relevance of shoppers search results, and providing immediate and useful customer service.
+Examines the various challenges that retailers may face when looking to implementing AI, which typically stems from data storage systems being outdated and inflexible, as well as organizational barriers that prevent personalization strategies from being executed effectively.
+Gives two different strategies that retailers can use to successfully implement AI, and discusses the advantages and disadvantages of each strategy.

@@ -1,0 +1,34 @@
+Can 1 cosmic enigma help solve another?
+Astrophysicists from the Johns Hopkins University have proposed a clever new way of shedding light on the mystery of dark matter, believed to make up most of the universe. The irony is they want to try to pin down the nature of this unexplained phenomenon by using another, an obscure cosmic emanation known as "fast radio bursts."
+
+In a paper published online by the journal Physical Review Letters the team of astrophysicists argues that these extremely bright and brief flashes of radio-frequency radiation can provide clues about whether a particular kind of ancient black hole is what makes up dark matter.
+
+Julian Munoz, a Johns Hopkins graduate student and the paper's lead author, said fast radio bursts, or FRBs, provide a direct and specific way of detecting black holes of a specific mass, which are the suspect dark matter.
+
+Munoz wrote the paper along with Ely D. Kovetz a post-doctoral fellow, Marc Kamionkowski, the William R. Kenan Jr. Professor of Physics and Astronomy, and Liang Dai, who completed his doctorate in astrophysics at Johns Hopkins last year. Dai is now a NASA Einstein Postdoctoral Fellow at the Institute for Advanced Study in Princeton.
+
+The paper builds on a hypothesis offered in a paper published this spring by Munoz, Kovetz and Kamionkowski along with five Johns Hopkins colleagues. Also published in Physical Review Letters, that research made a speculative case that the collision of black holes detected early in the year by the Laser Interferometer Gravitational-Wave Observatory (LIGO) had actually revealed dark matter, a substance not yet identified but believed to make up 85 percent of the mass of the universe.
+
+The earlier paper made what Kamionkowski called a "plausibility argument" that LIGO had found dark matter. The study took as a point of departure the fact that the objects detected by LIGO fit within the predicted range of mass of so-called "primordial" black holes. Unlike black holes that formed from imploded stars, primordial black holes are believed to have formed from the collapse of large expanses of gas during the birth of the universe.
+
+The existence of primordial black holes has not been established with certainty, but they have been suggested before as a possible solution to the riddle of dark matter. With so little evidence of them to examine, the hypothesis had not gained a large following among scientists.
+
+The LIGO findings, however, raised the prospect anew, especially as the objects detected in that experiment conform to the mass predicted for dark matter.
+
+The Johns Hopkins team calculated how often these primordial black holes would form binary pairs, and eventually collide. Taking into account the size and elongated shape believed to characterize primordial black hole binary orbits, the team came up with a collision rate that conforms to the LIGO findings.
+
+Key to the argument is that the black holes that LIGO detected fall within a range of 29 to 36 solar masses, meaning that many times the mass of the sun. The new paper considers the question of how to test the hypothesis that dark matter consists of black holes of roughly 30 solar masses.
+
+That's where the fast radio bursts come in. First observed only a few years ago, these flashes of radio frequency radiation emit intense energy, but last only fractions of a second. Their origins are unknown, but believed to lie in galaxies outside the Milky Way.
+
+If the speculation about their origins is true, Kamionkowski said, the radio waves would travel great distances before they're observed on Earth, perhaps passing a black hole. According to Einstein's theory of general relativity, the wave would be deflected when it passes a black hole. If it passes close enough, it could be split into two rays shooting off in the same direction - creating two images from one source.
+
+The new study shows that if the black hole has 30 times the mass of the sun, the two images will arrive a few milliseconds apart. If roughly 30-solar-mass primordial black holes are dark matter, there is a chance that any given fast radio burst will be deflected in this way and followed in a few milliseconds by an echo.
+
+"The echoing of FRBs is a very direct probe of dark matter," Munoz said. "While gravitational waves might 'indicate' that dark matter is made of black holes, there are other ways to produce very-massive black holes with regular astrophysics, so it would be hard to convince oneself that we are detecting dark matter. However, gravitational lensing of fast radio bursts has a very unique signature, with no other astrophysical phenomenon that could reproduce it."
+
+Kaimonkowski said that while the probability for any such FRB echo is small, "it is expected that several of the thousands of FRBs to be detected in the next few years will have such echoes ... if black holes make up the dark matter."
+
+So far, only about 20 fast radio bursts have been detected and recorded since 2001. The very sensitive instruments needed to detect them can look at only very small slices of the sky at a time, limiting the rate at which the bursts can be found. A new telescope expected to go into operation this year that seems particularly promising for spotting radio bursts is the Canadian Hydrogen Intensity Mapping Experiment. The joint project of the University of British Columbia, McGill University, the University of Toronto and the Dominion Radio Astrophysical Observatory stands in British Columbia.
+
+"Once the thing is working up to their planned specifications, they should collect enough FRBs to begin the tests we propose," said Kamionkowski, estimating results could be available in three to five years.

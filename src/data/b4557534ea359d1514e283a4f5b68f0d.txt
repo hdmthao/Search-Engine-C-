@@ -1,0 +1,17 @@
+Oxygen Not Included Wiki
+
+Oxygen Not Included is an early alpha space-colony simulation video game developed by Klei Entertainment. The release date was February the 15th on Steam. Oxygen Not Included allows players to manage their Duplicants and help them dig, build and maintain a subterranean asteroid colony. Duplicants will need food, oxygen, sanitary and ambient temperatures to keep them alive, and even more than that to keep them happy.
+
+Contents
+1	System requirements
+1.1	Minimum
+2	See also
+3	External links
+System requirements
+Minimum
+OS: Windows 7 or higher 64 bit, MacOS 10.9 or higher, Ubuntu 14.04 or higher
+Processor: 2.0 GHz Dual core
+Memory: 4 GB RAM
+Graphics: Intel HD 4600 (AMD or NVIDIA equivalent)
+DirectX: Version 11
+Storage: 2 GB available space

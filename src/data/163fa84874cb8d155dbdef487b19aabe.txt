@@ -1,0 +1,28 @@
+Fire Pro Wrestling World Wiki
+Fire Pro Wrestling World.jpg
+Fire Pro Wrestling World is a wrestling game created and developed by Spike Chunsoft Co., Ltd..
+
+Contents
+1	Description
+2	Features
+3	System requirements
+3.1	Minimum requirements
+4	Screenshots
+5	Videos
+6	External links
+Description
+The greatest grappling game returns to take on the world! Customize every aspect of the match, from your wrestler to the ring itself, in your fight for the championship belt.
+
+Features
+PLAY ONLINE: Organize exhibition matches, tournaments, leagues, championship bouts and battle royals with players from around the world.
+MIX UP THE RULES: Modes include Deathmatch (steel cage, barbed wire or landmines), MMA rules and no-holds barred Gruesome Fighting.
+UNLIMITED CUSTOMIZATION: Create your dream wrestler from over a thousand devastating moves and even more body parts to battle for custom championship belts. Personalize the ring, mat logos and even the referee!
+REALISTIC SIMULATION: Give your creations personalities with a robust CPU logic system that defines their every action. Does your wrestler play to the crowd, or play dirty? You provide actors for the ringside drama.
+System requirements
+Minimum requirements
+OS: Windows 7
+Processor: Intel(R) Core(TM) i5
+Memory: 4 GB RAM GB RAM
+Graphics: DirectX 9.0c compatible video card with minimum 512MB of VRAM
+DirectX: Version 9.0
+Storage: 4 GB available space

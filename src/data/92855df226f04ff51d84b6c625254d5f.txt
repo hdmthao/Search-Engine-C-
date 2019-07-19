@@ -1,0 +1,28 @@
+Mark Zuckerberg defends Facebook's decision to keep up doctored Pelosi video
+Zuckerberg acknowledges, though, that Facebook could have acted quicker to stop the video from spreading.
+
+James Martin/CNET
+Facebook CEO and co-founder Mark Zuckerberg said Wednesday that the social network could have acted more quickly to flag a doctored video that made House Speaker Nancy Pelosi appear drunk. But he defended the company's decision to leave up the video, one version of which got nearly 3 million views on social media.
+
+Zuckerberg said Wednesday it took awhile for Facebook's systems to flag it and for fact-checkers to rate the video as false, which reduced its spread on the site.
+
+"During that time, it got more distribution than our policy ... should have allowed," Zuckerberg said at the Aspen Ideas Festival in Colorado. "So that was an execution mistake."
+
+YouTube removed the video, but Facebook and Twitter left it up. On desktop, Facebook displayed related articles next to video from fact-checkers. Users who tried to share the video on Facebook's mobile app also saw a notice mentioning there was additional reporting from fact-checkers. 
+
+Zuckerberg's remarks come as Facebook continues to grapple with what content to leave up or pull down from its site. This week, the company is expected to release a report about an oversight board it's creating to review some of its toughest content moderation decisions. 
+
+Facebook came under fire for leaving the Pelosi video up, including from the lawmaker herself, who said the social network's decision showed that the company's leaders were "willing enablers" of Russian interference in the 2016 US presidential election. Zuckerberg reportedly called Pelosi to explain the company's decision, but she didn't return his call and wasn't "eager" to hear what he had to say.
+
+On Wednesday, Zuckerberg defended how the company handles fake news. Instead of removing fake news, the company will show it lower in the News Feed and display articles from fact-checkers. Harvard law professor Cass Sunstein, who interviewed Zuckerberg on stage, received an applause from the audience after he asked the tech mogul why the company doesn't take down content that "reasonable observers" don't know is fake. 
+
+Zuckerberg said the company has to tread carefully when it comes to misinformation because of free speech concerns. Facebook's rules mention there's a "fine line" between fake news and satire and opinion. 
+
+"This is a topic that can be very easily politicized," Zuckerberg said. "People who don't like the way that something was cut...will kind of argue that...it did not reflect the true intent or was misinformation. But we exist in a society...where we value and cherish free expression."
+
+Zuckerberg also said it's currently evaluating its policy around "deepfakes," a technique that uses artificial intelligence to create videos of people doing or saying something they didn't. The Pelosi video wasn't considered a deepfake video.
+
+Zuckerberg said he thinks there's a "good case" that deepfakes are different than traditional misinformation.
+
+"The policies continue to evolve," he said. "As technology develops..we continue to think through them."
+

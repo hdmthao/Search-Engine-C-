@@ -1,0 +1,48 @@
+Scientists discover signalling circuit boards inside body's cells
+Date:
+May 24, 2019
+Source:
+University of Edinburgh
+Summary:
+Cells in the body are wired like computer chips to direct signals that instruct how they function, research suggests. Unlike a fixed circuit board, however, cells can rapidly rewire their communication networks to change their behavior. The discovery of this cell-wide web turns our understanding of how instructions spread around a cell on its head.
+Cells in the body are wired like computer chips to direct signals that instruct how they function, research suggests.
+
+Unlike a fixed circuit board, however, cells can rapidly rewire their communication networks to change their behaviour.
+
+The discovery of this cell-wide web turns our understanding of how instructions spread around a cell on its head.
+
+It was thought that the various organs and structures inside a cell float around in an open sea called the cytoplasm.
+
+Signals that tell the cell what to do were thought to be transmitted in waves and the frequency of the waves was the crucial part of the message.
+
+Researchers at the University of Edinburgh found information is carried across a web of guide wires that transmit signals across tiny, nanoscale distances.
+
+It is the movement of charged molecules across these tiny distances that transmit information, just as in a computer microprocessor, the researchers say.
+
+These localised signals are responsible for orchestrating the cell's activities, such as instructing muscle cells to relax or contract.
+
+When these signals reach the genetic material at the heart of the cell, called the nucleus, they instruct minute changes in structure that release specific genes so that they can be expressed.
+
+These changes in gene expression further alter the behaviour of the cell. When, for instance, the cell moves from a steady state into a growth phase, the web is completely reconfigured to transmit signals that switch on the genes needed for growth.
+
+Researchers say understanding the code that controls this wiring system could help understand diseases such as pulmonary hypertension and cancer, and could one day open up new treatment opportunities.
+
+The team made their discovery by studying the movement of charged calcium molecules inside cells, which are the key messages that carry instructions inside cells.
+
+Using high-powered microscopes, they were able to observe the wiring network with the help of computing techniques similar to those that enabled the first ever image of a black hole to be obtained.
+
+Scientists say their findings are an example of quantum biology -- an emerging field that uses quantum mechanics and theoretical chemistry to solve biological problems.
+
+The study, published in Nature Communications, was funded by the British Heart Foundation.
+
+Professor Mark Evans, of the University of Edinburgh's Centre for Discovery Brain Sciences, said: "We found that cell function is coordinated by a network of nanotubes, similar to the carbon nanotubes you find in a computer microprocessor.
+
+"The most striking thing is that this circuit is highly flexible, as this cell-wide web can rapidly reconfigure to deliver different outputs in a manner determined by the information received by and relayed from the nucleus. This is something no human-made microprocessors or circuit boards are yet capable of achieving."
+
+Story Source:
+
+Materials provided by University of Edinburgh. Note: Content may be edited for style and length.
+
+Journal Reference:
+
+Jingxian Duan, Jorge Navarro-Dorado, Jill H. Clark, Nicholas P. Kinnear, Peter Meinke, Eric C. Schirmer, A. Mark Evans. The cell-wide web coordinates cellular processes by directing site-specific Ca2 flux across cytoplasmic nanocourses. Nature Communications, 2019; 10 (1) DOI: 10.1038/s41467-019-10055-w

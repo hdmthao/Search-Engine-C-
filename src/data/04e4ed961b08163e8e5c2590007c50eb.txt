@@ -1,0 +1,24 @@
+The proteins that domesticated our genomes
+EPFL scientists have carried out a genomic and evolutionary study of a large and enigmatic family of human proteins, to demonstrate that it is responsible for harnessing the millions of transposable elements in the human genome. The work reveals the largely species-specific gene-regulatory networks that impact all of human biology, in both health and disease. The human genome contains millions of sequences derived from so-called transposable elements, genetic units that “jump” around the entire genome. Long considered as junk DNA, transposable elements are now recognized as influencing the expression of genes. However, the extent of this regulation and how it is harnessed were so far unknown. EPFL scientists have now taken the first extensive look at a family of ~350 human proteins, showing that they establish a complex interplay with transposable elements to create largely human-specific gene regulatory networks. Published in Nature, the work also traces the evolutionary history of these proteins, and opens up a new dimension in genetics and medicine.
+
+The lab of Didier Trono at EPFL revealed a few years ago that a protein serving as cofactor to many KZFPs (KRAB-containing zinc-finger proteins) was involved in silencing transposable elements during the first few days of embryogenesis. Now he and his collaborators have carried out an extensive analysis of human KZFPs, retracing their evolutionary history and identifying their genomic targets.
+
+The scientists combined phylogenetics – the study of evolutionary relationships between different species, with genomics — the study of how the genome of an organism conditions its biology. By comparing the genomes of 203 vertebrates, they first traced the origin of KZFPs back to a common ancestor of tetrapods (four-legged animals) and coelacanth, a fish that evolved over 400 million years ago. This evolutionary conservation of the KZFP-transposable element system hints to its fundamental importance.
+
+Trono’s team then mapped out the genomic targets of most human KZFPs, finding that the greatest fraction recognizes transposable elements. “The vast majority of KZFPs binds to specific motifs in transposable elements,” says Trono. “For each KZFP we were able to assign one subset of transposable elements, and also found that one transposable element can often interact with several KZFPs. It is a highly combinatorial and versatile system.”
+
+The EPFL scientists finally went on to demonstrate that KZFPs can convert transposable elements in exquisitely fine-tuned regulatory platforms that influence the expression of genes, which likely takes place at all stages of development and in all human tissues.
+
+“After emerging some 420 million years ago, KZFPs evolved rapidly in a lineage-specific fashion, parallel to the invasion of host genomes by transposable elements,” says Trono. “This co-evolution resulted in shaping human gene regulatory networks that are largely proper to our species or at least primate-restricted — the farther away in evolution, the fewer the similarities.”
+
+The data from the study demonstrate that KZFP partner up with transposable elements to create what the authors call “a largely species-restricted layer of epigenetic regulation”. Epigenetics refers to biological processes — mostly biochemical modifications of the DNA and its associated proteins — that condition the expression or repression of genes. As a field, epigenetics has come into prominence in recent years, revealing a previously unimagined complexity and elegance in genetics.
+
+“KZFPs contribute to make human biology unique,” says Trono. “Together with their genomic targets, they likely influence every single event in human physiology and pathology, and do so by being largely species-specific — the general system exists in many vertebrates, but most of its components are different in each case.” The findings of this work will help scientists identify possible shortcomings of current animal models and construct a more accurate picture of how genes work in humans.
+
+“This paper lifts the lid off something that had been largely unsuspected: the tremendous species-specific dimension of human gene regulation”, says Trono. “It has profound implications for our understanding of human development and physiology, and gives us a remarkable wealth of resources to examine how disturbances of this system might result in diseases such as cancer”.
+
+This study was funded by the Swiss National Science Foundation, the European Research Council, and the Fonds de la Recherche en Santé du Québec. The DNA sequencing part of the work was carried out at the University of Lausanne Genomic Technologies Facility.
+
+Reference
+
+Michaël Imbeault, Pierre-Yves Helleboid, Didier Trono. KRAB-ZFPs contribute to the evolution of gene regulatory networks.Nature 08 March 2017. DOI: 10.1038/nature21683

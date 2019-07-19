@@ -1,0 +1,16 @@
+Why fears over smartphone 'addiction' are based on flawed evidence.
+Most studies into the impact of technology use on psychological wellbeing rely on flawed measures say researchers.
+Surveys are often used to understand how people use their smartphone, but these are poorly related to actual smartphone use when measured with an app.
+This means that existing evidence suggesting that screen time is "addictive" cannot be used to justify any change of policy.
+The UK Parliament's Science and Technology Committee recently held an inquiry into social media use including the effects of screen time on the health of young people.
+But Dr David Ellis of Lancaster University and Brittany Davidson from The University of Bath say official policy should not solely rely on existing studies using self reports.
+Dr Ellis said "Knowing how much someone thinks or worries about their smartphone use leaves many questions unanswered."
+The team examined 10 "addiction" surveys for measuring people's technology use such as the Smartphone Addiction Scale and the Mobile Phone Problem Use Scale, which generate scores that determine use.
+They then compared these self-reports with data from Apple Screen Time which provides an objective measurement of:
+How many minutes people used their phones
+How often they picked it up
+How many notifications they received
+The researchers discovered weak relationships between how much people think they use their smartphones and how much they actually do.
+Miss Davidson added "Our results suggest that the majority of these self-report smartphone assessments perform poorly when attempting to predict real-world behaviour. We need to revisit and improve these measurements moving forward."
+High smartphone usage has been previously linked to anxiety and depression but Dr Ellis said there is insufficient evidence to support these conclusions.
+"Scales that focus on the notion of technology 'addiction' performed very poorly and were unable to classify people into different groups (e.g, high vs low use) based on their behaviour."

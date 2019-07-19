@@ -1,0 +1,10 @@
+Robocalls are clogging hospital phone lines, report says
+It's a new type of medical "epidemic" with serious implications, The Washington Post reports.
+For most people with phones, robocalls are a pesky, mostly unavoidable irritation. But at hospitals, incessant spam calls can have more serious implications, The Washington Post reported earlier this week.
+Administrators say phone lines tied up by scammers are interfering with emergency calls, hampering emergency communication between ambulances and the hospital and the hospital and families. The Post called it a new type of "epidemic" and cited a day in April 2018 at Tufts Medical Center in Boston when "a wave of thousands of robocalls that spread like a virus from one phone line to the next, disrupting communications for hours."
+On April 30, 2018, between 9:30 a.m. and 11:30 p.m., the medical center received 4,500 calls, Taylor Lehmann, the facility's chief information security officer, told the Post. Each call was mostly the same -- the voice reportedly spoke in Mandarin and threatened deportation unless the person who took the call provided personal information.
+Steven Cardinal, a top security official at the Medical University of South Carolina, told the Post that hospital staff has to pick up the phone. There's no indication that a call is phony until they answer it.
+New Jersey Rep. Frank Pallone Jr. tweeted on Monday about hospitals' problem with robocalls.
+"These calls to health care institutions and patients are extremely dangerous to the public health and patient privacy. The @FCC and @TheJusticeDept need to go after these criminals with the seriousness and urgency this issue deserves," Pallone Jr. said.
+Hospitals (and everyone else) might see some relief in the future. Earlier this month, the Federal Communications Commission gave carriers like T-Mobile and Verizon power to "aggressively block" unwanted robocalls. The rules will now allow wireless carriers to block those robocalls for customers by default. Companies will also let consumers block calls from unknown numbers themselves.
+Tufts Medical Center didn't immediately respond to request for comment.

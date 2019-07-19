@@ -1,0 +1,20 @@
+Killing superbugs with star-shaped polymers, not antibiotics
+The study, published today in Nature Microbiology, holds promise for a new treatment method against antibiotic-resistant bacteria (commonly known as superbugs). The star-shaped structures, are short chains of proteins called 'peptide polymers', and were created by a team from the Melbourne School of Engineering.
+
+The team included Professor Greg Qiao and PhD candidate Shu Lam, from the Department of Chemical and Biomolecular Engineering, as well as Associate Professor Neil O'Brien-Simpson and Professor Eric Reynolds from the Faculty of Medicine, Dentistry and Health Sciences and Bio21 Institute.
+
+Professor Qiao said that currently the only treatment for infections caused by bacteria is antibiotics. However, over time bacteria mutate to protect themselves against antibiotics, making treatment no longer effective. These mutated bacteria are known as 'superbugs'.
+
+"It is estimated that the rise of superbugs will cause up to ten million deaths a year by 2050. In addition, there have only been one or two new antibiotics developed in the last 30 years," he said.
+
+Professor Qiao and his team have been working with peptide polymers in the past few years. Recently, the team created a star-shaped peptide polymer that was extremely effective at killing Gram-negative bacteria - a major class of bacteria known to be highly prone to antibiotic resistance - while being non-toxic to the body.
+
+In fact, tests undertaken on red blood cells showed that the star-shaped polymer dosage rate would need to be increased by a factor of greater than 100 to become toxic.
+
+The star-shaped peptide polymer is also effective in killing superbugs when tested in animal models. Furthermore, superbugs showed no signs of resistance against these peptide polymers.
+
+The team discovered that their star-shaped peptide polymers can kill bacteria with multiple pathways, unlike most antibiotics which kill with a single pathway.
+
+They believe that this accounts for the superior performance of the star-shaped peptide polymers over antibiotics. One of these pathways includes 'ripping apart' the bacteria cell wall. (see image).
+
+While more research is needed, Professor Qiao and his team believe that their discovery is the beginning of unlocking a new treatment for antibiotic-resistant pathogens.

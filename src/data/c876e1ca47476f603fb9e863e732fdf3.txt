@@ -1,0 +1,17 @@
+Electronic health records systems and hospital clinical performance: a study of nationwide hospital data.
+OBJECTIVE:
+Electronic health records (EHRs) were expected to yield numerous benefits. However, early studies found mixed evidence of this. We sought to determine whether widespread adoption of modern EHRs in the US has improved clinical care.
+
+METHODS:
+We studied hospitals reporting performance measures from 2008-2015 in the Centers for Medicare and Medicaid Services Hospital Compare database that also reported having an EHR in the American Hospital Association 2015 IT supplement. Using interrupted time-series analysis, we examined the association of EHR implementation, EHR vendor, and Meaningful Use status with 11 process measures and 30-day hospital readmission and mortality rates for heart failure, pneumonia, and acute myocardial infarction.
+
+RESULTS:
+A total of 1246 hospitals contributed 8222 hospital-years. Compared to hospitals without EHRs, hospitals with EHRs had significant improvements over time on 5 of 11 process measures. There were no substantial differences in readmission or mortality rates. Hospitals with CPSI EHR systems performed worse on several process and outcome measures. Otherwise, we found no substantial improvements in process measures or condition-specific outcomes by duration of EHR use, EHR vendor, or a hospital's Meaningful Use Stage 1 or Stage 2 status.
+
+CONCLUSION:
+In this national study of hospitals with modern EHRs, EHR use was associated with better process of care measure performance but did not improve condition-specific readmission or mortality rates regardless of duration of EHR use, vendor choice, or Meaningful Use status. Further research is required to understand why EHRs have yet to improve standard outcome measures and how to better realize the potential benefits of EHR systems.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of the American Medical Informatics Association. All rights reserved. For permissions, please email: journals.permissions@oup.com.
+
+KEYWORDS:
+electronic health record; hospital mortality; hospital readmission; meaningful use; process measures

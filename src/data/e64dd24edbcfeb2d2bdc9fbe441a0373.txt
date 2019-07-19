@@ -1,0 +1,40 @@
+https://www.businessinsider.com/4-questions-answered-about-uranium-enrichment-in-iran-nuclear-deal-2019-6
+
+Nuclear weapons and Iran's uranium — 4 things to know about one of the Iran deal's most important elements
+Miles A. Pomper, The Conversation 7m 
+
+Editor's note: Iranian leaders have threatened to withdraw from a 2015 agreement that limits their nation's nuclear activities. Under the deal, the United States and five other world powers lifted economic sanctions they had imposed to prevent Iran from developing nuclear weapons. 
+But President Trump removed the US from the deal in 2018 and reimposed sanctions. 
+Miles Pomper, a senior fellow at the Middlebury Institute of International Studies at Monterey, explains one of the key activities that the Iran deal covers — uranium enrichment — and why it is central to both peaceful nuclear energy programs and building nuclear weapons. 
+
+1. What is uranium enrichment?
+
+Uranium can fuel nuclear power plants and nuclear bombs because some of its isotopes, or atomic forms, are fissile: Their atoms can be easily split to release energy. 
+Freshly mined uranium contains more than 99% of an isotope called uranium 238, which is not fissile, plus a tiny fraction of uranium 235, which is fissile. 
+Enrichment is an industrial process to increase the proportion of U-235. It's usually done by passing uranium gas through devices called centrifuges, which rotate at high speeds. This process sifts out U-235, which is lighter than U-238. 
+Commercial nuclear power plants run on low-enriched uranium fuel, which contains 3-5% U-235. Further processing can produce highly enriched uranium, which contains more than 20% U-235. 
+
+2. How is enriching uranium connected to making nuclear weapons?
+
+The same technology is used to enrich uranium for either nuclear power or nuclear weapons. Nuclear weapons typically contain uranium enriched to 80% U-235 or more, which is known as weapon-grade uranium. 
+Nuclear weapons can also can be powered with plutonium, but Iran would need to irradiate uranium fuel in its Arak nuclear reactor and build an additional facility to separate plutonium from the spent fuel to take that route. Currently its uranium work poses a more immediate risk. 
+Both nuclear power and nuclear weapons rely on nuclear chain reactions to release energy, but in different ways. A commercial nuclear power plant uses low-enriched uranium fuel and various design elements to generate a slow nuclear chain reaction that produces a constant stream of energy. 
+In a nuclear weapon, specially designed high explosives cram together enough weapon-grade uranium or plutonium to produce an extremely fast chain reaction that generates an explosion. 
+Producing a nuclear weapon involves more than making highly enriched uranium or plutonium, but experts generally view this as the most time-consuming step. It's also the stage that is most visible to outsiders, so it is an important indicator of a country's progress. 
+
+3. How good is Iran at enriching uranium?
+
+Iran's work on uranium enrichment has proceeded in fits and starts, but now experts generally believe that if it exits the nuclear deal, it could make enough highly enriched uranium for a nuclear weapon. 
+These efforts began in the late 1980s, while Iran was engaged in a bloody war with Iraq. The first centrifuges and designs were provided by Abdul Qadeer Khan, a Pakistani nuclear scientist who ran a black market network for nuclear technologies from the 1970s through the early 2000s. 
+These machines were poor-quality, frequently secondhand models and often broke down. And the United States and Israel reportedly carried out espionage operations, including cyberattacks, to further disable Iran's enrichment ability. 
+Iran continues to have technical problems in producing more advanced centrifuges. Nonetheless, it improved their performance sufficiently in the years leading up to the 2015 deal that observers widely believe Iran could produce enough material for a nuclear weapons program. 
+The 2015 agreement deal set limits on Iran's research and development activities to limit further progress, but Iran is already testing the legal boundaries of these restrictions. 
+
+4. How does the Iran deal limit Iran's activities?
+
+The agreement limits how much uranium Iran can enrich and to what level. It also specifies how much enriched uranium Iran can stockpile, how many and what types of centrifuges it can use, and what kinds of research and development activities it can conduct. 
+All of these limits are designed to prevent Iranian scientists from amassing enough highly enriched uranium for a nuclear weapon — roughly 10 to 30 kilograms (22 to 65 pounds), depending on the device's design and the bomb-makers' sophistication and experience - in under a year. That delay is seen as long enough to give the international community time to respond if Iran decided to go nuclear. 
+The agreement also restricts Iran's plutonium separation research, and requires it to accept International Atomic Energy Agency inspections to ensure that it is not using peaceful nuclear activities as a cover to produce weapons. 
+If Iran does not exit the agreement, restrictions on its enrichment activities are scheduled to start easing in 2026 and largely end in 2031, although international monitoring will continue after that. 
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.

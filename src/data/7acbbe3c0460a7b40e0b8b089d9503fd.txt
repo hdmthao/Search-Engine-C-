@@ -1,0 +1,93 @@
+June 17, 2019
+NASA Scientists Find Sun’s History Buried in Moon’s Crust
+Summary:
+
+The Sun’s rotation rate in its first billion years is unknown.
+Yet, this spin rate affected solar eruptions, influencing the evolution of life.
+A team of NASA scientists think they’ve figured it out by using the Moon as critical evidence.
+Solar flare
+NASA's Solar Dynamics Observatory captured this image of a solar flare on Oct. 2, 2014. The solar flare is the bright flash of light on the right limb of the Sun. A burst of solar material erupting out into space can be seen just below it.
+Credits: NASA/SDO
+Solar Flare
+The Sun is why we’re here. It’s also why Martians or Venusians are not. 
+
+When the Sun was just a baby four billion years ago, it went through violent outbursts of intense radiation, spewing scorching, high-energy clouds and particles across the solar system. These growing pains helped seed life on early Earth by igniting chemical reactions that kept Earth warm and wet. Yet, these solar tantrums also may have prevented life from emerging on other worlds by stripping them of atmospheres and zapping nourishing chemicals.  
+
+Just how destructive these primordial outbursts were to other worlds would have depended on how quickly the baby Sun rotated on its axis. The faster the Sun turned, the quicker it would have destroyed conditions for habitability.  
+
+This critical piece of the Sun’s history, though, has bedeviled scientists, said Prabal Saxena, an astrophysicist at NASA’s Goddard Space Flight Center in Greenbelt, Maryland. Saxena studies how space weather, the variations in solar activity and other radiation conditions in space, interacts with the surfaces of planets and moons. 
+
+Now, he and other scientists are realizing that the Moon, where NASA will be sending astronauts by 2024, contains clues to the ancient mysteries of the Sun, which are crucial to understanding the development of life.
+
+“We didn’t know what the Sun looked like in its first billion years, and it’s super important because it likely changed how Venus’ atmosphere evolved and how quickly it lost water. It also probably changed how quickly Mars lost its atmosphere, and it changed the atmospheric chemistry of Earth,” Saxena said.    
+
+The Sun-Moon Connection
+Saxena stumbled into investigating the early Sun’s rotation mystery while contemplating a seemingly unrelated one: Why, when the Moon and Earth are made of largely the same stuff, is there significantly less sodium and potassium in lunar regolith, or Moon soil, than in Earth soil?   
+
+This question, too, revealed through analyses of Apollo-era Moon samples and lunar meteorites found on Earth, has puzzled scientists for decades — and it has challenged the leading theory of how the Moon formed.    
+
+Apollo 16 sample
+A closeup view of Apollo 16 lunar sample no. 68815, a dislodged fragment from a parent boulder roughly four feet high and five feet long.
+Credits: NASA/JSC
+Apollo 16 Lunar Sample
+Our natural satellite took shape, the theory goes, when a Mars-sized object smashed into Earth about 4.5 billion years ago. The force of this crash sent materials spewing into orbit, where they coalesced into the Moon.  
+
+“The Earth and Moon would have formed with similar materials, so the question is, why was the Moon depleted in these elements?” said Rosemary Killen, an planetary scientist at NASA Goddard who researches the effect of space weather on planetary atmospheres and exospheres.   
+
+The two scientists suspected that one big question informed the other — that the history of the Sun is buried in the Moon’s crust.   
+
+Killen’s earlier work laid the foundation for the team’s investigation. In 2012, she helped simulate the effect solar activity has on the amount of sodium and potassium that is either delivered to the Moon’s surface or knocked off by a stream of charged particles from the Sun, known as the solar wind, or by powerful eruptions known as coronal mass ejections. 
+
+Saxena incorporated the mathematical relationship between a star’s rotation rate and its flare activity. This insight was derived by scientists who studied the activity of thousands of stars discovered by NASA’s Kepler space telescope: The faster a star spins, they found, the more violent its ejections. “As you learn about other stars and planets, especially stars like our Sun, you start to get a bigger picture of how the Sun evolved over time,” Saxena said.  
+
+Using sophisticated computer models, Saxena, Killen and colleagues think they may have finally solved both mysteries. Their computer simulations, which they described on May 3 in the The Astrophysical Journal Letters, show that the early Sun rotated slower than 50% of baby stars. According to their estimates, within its first billion years, the Sun took at least 9 to 10 days to complete one rotation.  
+
+They determined this by simulating the evolution of our solar system under a slow, medium, and then a fast-rotating star. And they found that just one version — the slow-rotating star — was able to blast the right amount of charged particles into the Moon’s surface to knock enough sodium and potassium into space over time to leave the amounts we see in Moon rocks today.   
+
+“Space weather was probably one of the major influences for how all the planets of the solar system evolved,” Saxena said, “so any study of habitability of planets needs to consider it.” 
+
+Life Under the Early Sun
+The rotation rate of the early Sun is partly responsible for life on Earth. But for Venus and Mars — both rocky planets similar to Earth — it may have precluded it. (Mercury, the closest rocky planet to the Sun, never had a chance.)
+
+Earth’s atmosphere was once very different from the oxygen-dominated one we find today. When Earth formed 4.6 billion years ago, a thin envelope of hydrogen and helium clung to our molten planet. But outbursts from the young Sun stripped away that primordial haze within 200 million years.
+
+As Earth’s crust solidified, volcanoes gradually coughed up a new atmosphere, filling the air with carbon dioxide, water, and nitrogen. Over the next billion years, the earliest bacterial life consumed that carbon dioxide and, in exchange, released methane and oxygen into the atmosphere. Earth also developed a magnetic field, which helped protect it from the Sun, allowing our atmosphere to transform into the oxygen- and nitrogen-rich air we breathe today.
+
+“We were lucky that Earth’s atmosphere survived the terrible times,” said Vladimir Airapetian, a senior Goddard heliophysicist and astrobiologist who studies how space weather affects the habitability of terrestrial planets. Airapetian worked with Saxena and Killen on the early Sun study.
+
+Artist's conception of Early Earth
+An artistic conception of the early Earth, showing a surface pummeled by large impact, resulting in extrusion of deep-seated magma onto the surface.
+Credits: Simone Marchi
+Early Earth
+Had our Sun been a fast rotator, it would have erupted with super flares 10 times stronger than any in recorded history, at least 10 times a day. Even Earth's magnetic field wouldn't have been enough to protect it. The Sun's blasts would have decimated the atmosphere, reducing air pressure so much that Earth wouldn’t retain liquid water. “It could have been a much harsher environment,” Saxena noted.
+
+But the Sun rotated at an ideal pace for Earth, which thrived under the early star. Venus and Mars weren’t so lucky. Venus was once covered in water oceans and may have been habitable. But due to many factors, including solar activity and the lack of an internally generated magnetic field, Venus lost its hydrogen — a critical component of water. As a result, its oceans evaporated within its first 600 million years, according to estimates. The planet’s atmosphere became thick with carbon dioxide, a heavy molecule that's harder to blow away. These forces led to a runaway greenhouse effect that keeps Venus a sizzling 864 degrees Fahrenheit (462 degrees Celsius), far too hot for life.
+
+Mars, farther from the Sun than Earth is, would seem to be safer from stellar outbursts. Yet, it had less protection than did Earth. Due partly to the Red Planet’s weak magnetic field and low gravity, the early Sun gradually was able to blow away its air and water. By about 3.7 billion years ago, the Martian atmosphere had become so thin that liquid water immediately evaporated into space. (Water still exists on the planet, frozen in the polar caps and in the soil.)
+
+After influencing the course for life (or lack thereof) on the inner planets, the aging Sun gradually slowed its pace and continues to do so. Today, it revolves once every 27 days, three times slower than it did in its infancy. The slower spin renders it much less active, though the Sun still has violent outbursts occasionally.
+
+Exploring the Moon, Witness of Solar System Evolution 
+To learn about the early Sun, Saxena said, you need to look no further than the Moon, one of the most well-preserved artifacts from the young solar system.  
+
+“The reason the Moon ends up being a really useful calibrator and window into the past is that it has no annoying atmosphere and no plate tectonics resurfacing the crust,” he said. “So as a result, you can say, ‘Hey, if solar particles or anything else hit it, the Moon’s soil should show evidence of that.’”
+
+
+Visualization of the Moon's permanently shadowed regions, or PSRs, using images taken by NASA's Lunar Reconnaissance Orbiter. PSRs are places on the Moon that haven't seen the Sun in millions, or even billions, of years. While the Earth's tilted axis allows sunlight to fall everywhere on its surface, even at the poles, for at least part of the year, the Moon's tilt relative to the Sun is only 1.6°, not enough to get sunlight into some deep craters near the lunar north and south poles. PSRs are therefore some of the coldest, darkest places in the solar system.
+Credits: NASA Goddard/Ernie Wright
+More information
+Apollo samples and lunar meteorites are a great starting point for probing the early solar system, but they are only small pieces in a large and mysterious puzzle. The samples are from a small region near the lunar equator, and scientists can’t tell with complete certainty where on the Moon the meteorites came from, which makes it hard to place them into geological context. 
+
+Since the South Pole is home to the permanently shadowed craters where we expect to find the best-preserved material on the Moon, including frozen water, NASA is aiming to send a human expedition to the region by 2024.  
+
+If astronauts can get samples of lunar soil from the Moon’s southernmost region, it could offer more physical evidence of the baby Sun’s rotation rate, said Airapetian, who suspects that solar particles would have been deflected by the Moon’s erstwhile magnetic field 4 billion years ago and deposited at the poles: “So you would expect — though we’ve never looked at it — that the chemistry of that part of the Moon, the one exposed to the young Sun, would be much more altered than the equatorial regions. So there’s a lot of science to be done there."
+
+Banner image: An animated .gif created from images of the Sun taken by NASA's Solar Dynamics Observatory, which observes the Sun 24/7. This image shows the Sun in a wavelength (171 angstrom) of ultraviolet light.
+
+Related:
+ 
+By Lonnie Shekhtman and Miles Hatfield
+NASA’s Goddard Space Flight Center, Greenbelt, Md.
+Last Updated: June 17, 2019
+Editor: Svetlana Shekhtman
+Tags:  Artemis, Earth's Moon, Goddard Space Flight Center, Moon to Mars, Solar System, Space Weather, Sun

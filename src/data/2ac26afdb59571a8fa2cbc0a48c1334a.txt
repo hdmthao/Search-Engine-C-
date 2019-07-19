@@ -1,0 +1,13 @@
+DIGITAL HEALTH BRIEFING: Amazon, Berkshire, JPMorgan crown CEO of health venture — Salesforce targets payers with CRM suite — Breach exposes 270,000 patients' records
+Welcome to DIGITAL HEALTH BRIEFING, the newsletter providing the latest news, data, and insight on how digital technology is disrupting the healthcare ecosystem, produced by Business Insider Intelligence.
+
+
+CORPORATE GIANTS NAME CEO OF HEALTH VENTURE: Amazon, Berkshire Hathaway, and JPMorgan Chase have appointed Dr. Atul Gawande as the head of their newly formed healthcare company — which was announced in January 2018 with the lofty goal of lowering the cost of healthcare in the US. Employers bear the brunt of rising healthcare costs: US employers contributed more than $13,000 per covered worker with a family health plan in 2017, according to Kaiser Family Foundation estimates. That’s up about 60% from 2006. With more than one million combined employees, the corporate trio has a strong incentive to reduce healthcare spending.
+
+Dr. Gawande’s appointment could provide some insight into the possible avenues the partnership will explore. Gawande brings a background in surgery and a focus on improving the delivery of care to the partnership. Perhaps most indicative of the joint venture's future endeavors is Gawande's role as founding executive director of Ariadne Labs, a Boston-based innovation lab focused on improving the delivery of care of serious illnesses, childbirth, and surgery — three areas that have a significant role in employer-based healthcare spending.
+
+Given Gawande's background, here's what the new company might explore:
+
+Treating chronic illnesses and delivering end-of-life care. Chronic illnesses are already the biggest strain on the healthcare industry, accounting for 86% of the $2.7 trillion spent in annual health care costs in the US in 2014 alone. That’s set to rise as the US stares down an expanding aging population.
+Improving childbirth delivery. Gawande could apply his expertise from Ariadne Labs to reduce preventable pregnancy-related spending, such as the use of medically unnecessary cesarean sections, which adds billions in avoidable healthcare spending each year.
+Avoiding unnecessary surgeries and medical tests. Gawande has been an outspoken proponent of reducing unnecessary medical tests and surgeries. In his writing, Gawande pointed to a Walmart-sponsored program that found that about 30% of the spinal procedures employees were told they needed were inappropriate.

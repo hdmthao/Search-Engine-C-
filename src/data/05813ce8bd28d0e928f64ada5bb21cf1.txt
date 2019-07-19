@@ -1,0 +1,16 @@
+Bacteria supply their allies with munitions
+Many bacteria possess molecular spear guns, which they fire at enemies and rivals, thus putting them out of action. The tips of these nano-spear guns, known as Type VI secretion system (T6SS), are loaded with toxic molecules that lead to death of their adversaries. However, sometimes close related bacteria come under fire. The team of Prof. Marek Basler, infection biologist at the Biozentrum of the University of Basel, has shown for the first time, that in contrast to their enemies the harpooned sister cells actually profit from the attack: After a T6SS injection, they are able to reuse specific proteins to produce their own spear guns. Thus the related bacterial strains help each other to enlarge their arsenal of weapons and to fight their competitors.
+
+Bacteria harpoon their opponents - and their allies
+
+The T6SS is firmly attached to the bacterial cell envelop. The tiny spear with a sharp tip is surrounded by a flexible sheath. "When bacteria fire their spear guns, the sheath rapidly contracts in just a few milliseconds and ejects the spear out of the cell into by-standing bacteria," says Basler describing the mechanism. "The attackers then recycle the harpoon proteins remaining in the cell." In this maneuver, the bacteria also hit related bacterial strains that do the same as the attackers: They disassemble the harpoon into their protein components and reuse these for new T6SS assembly.
+
+Recycling is everything: Bacteria also provide unarmed allies with munitions
+
+That closely related bacteria share their proteins through this type of spear gun attack and then recycle the components, has been demonstrated by the researchers for the first time, using the cholera pathogen, Vibrio cholerae. For this, they mixed T6SS-deficient bacteria that lack the proteins needed for the spear gun production with normal T6SS-producing Vibrio bacteria. "The special thing about Vibrio cholerae is that it assembles spear guns all the time and fires them aimlessly," explains Andrea Vettiger, author of the study. "If one of T6SS-defecient bacteria is randomly hit, it disassembles the spear gun to its individual components, the shaft and tip proteins, and reassembles its own functional harpoon.
+
+Also the translocated tip-linked toxins can be recycled by the attacked cell. And even bacteria that no longer produce any proteins can assemble a T6SS by reusing the harpooned proteins provided by their neighboring sister cells."
+
+Bacteria fight together against competitors
+
+Additionally, the researchers observed the related bacterial strains also cooperate with each other and join forces in their defense against undesirable rivals. Thus, two Vibrio strains can cooperate to kill a third competitor, even if one of them lacks individual T6SS components or the toxins for the spear tip. They combine their resources and produce their weapons together. "Although we have only observed this interbacterial complementation under laboratory conditions, we are convinced that this form of cooperation plays an important role in nature and provides some bacterial communities with a survival advantage," says Basler.

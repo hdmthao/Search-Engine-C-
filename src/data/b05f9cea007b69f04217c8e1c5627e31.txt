@@ -1,0 +1,47 @@
+How to Build a Robo Advisor: Advice for Starting a Robo Advisory
+With the tremendous growth in robo advisor assets under management (AUM), financial institutions are scrambling to figure out how to build and become a robo advisor.
+Starting a robo advisor service combines financially savvy with big data analytics, as well as a comprehensive understanding to how robo advisors work.
+
+How Do Robo Advisors Work?
+Robo advisors are platforms that leverage algorithms to handle users' investment platforms. These services analyze each customer's current financial status, risk aversion, and goals. From here, they recommend the best portfolio of stocks available based on that data.
+
+And these automated financial services are poised to transform the tremendous worldwide wealth management industry.
+
+MyPrivateBanking's report, Robo Advisor 3.0, takes an in-depth look at the basic challenge of every robo advisor: how to craft a presence that succeeds in convincing website visitors to sign up as investors and then remain on board.
+
+In this data-driven assessment, the report looks at the characteristics, business models, and strengths and weaknesses of the top robo advisors around the world. The research was conducted on a total of 76 active robo advisors worldwide - 29 in the U.S. and Canada, 38 in seven European countries and nine in the Asia-Pacific region. We've compiled a full list of robo advisors analyzed below.
+
+The exhaustive report provides comprehensive answers and data on how to optimize the individual onboarding stages (How it works, Client Assessment, Client Onboarding, Communication and Portfolio Reporting) and details five best practices for each stage. Furthermore, the report provides strategies to appeal to different segments such as Millennials, baby boomer investors approaching retirement, and high net worth individuals (HNWIs), and analyzes the impact of new technologies.
+
+The report provides comprehensive analysis and data-driven insights on how to utilize robo advisors to win and keep clients:
+
+What a robo advisor platform should offer to successfully convert prospects into happy clients.
+Which robo advisor features work and why.
+What are best practices for the different stages in the digital customer journey.
+How long clients need to onboard on the surveyed robo advisors and which specialized offers are given.
+What the client assessment process should include 
+How client communication should be (inbound for customer service and outbound for news, education and commentary).
+What good portfolio reporting looks like, so that it meets the information needs of the customer.
+How B2B providers are positioned in the development of robo advisory services and what they offer.
+How robo advisors should adopt their strategies to appeal to different segments such as Millennials, baby boomer investors approaching retirement, and high net worth individuals (HNWIs).
+Which robo advisors provide specialized options such as micro-investing, rewards schemes or hedging strategies, and in what manner.
+What the impacts of new technologies are, such as the use of artificial intelligence for client interaction and narrative generation on the robo advisor model.
+How the future of digital success will look for robo advisors.
+Appendix containing data on the web presences of more than 70 robo advisors alongside the digital customer journey process.
+And much more.
+
+Analyzed robo advisors in this report include:
+North America: Acorns, Asset Builder, Betterment, Blooom, Bicycle Financial, BMO SmartFolio, Capital One Investing, Financial Guard, Flexscore, Future Advisor, Guide Financial, Hedgeable, iQuantifi, Jemstep, Learnvest, Liftoff, Nest Wealth, Personal Capital, Rebalance IRA, Schwab Intelligent Portfolios, SheCapital, SigFig, TradeKing Advisors, Universis, Wealthbar, Wealthfront, Wealthsimple, Wela, Wisebanyan
+
+Europe: AdviseOnly, Advize, comdirect, Easyfolio, EasyVest, ETFmatic, Fairr.de, FeelCapital, Fiver a Day, Fundshop.fr, GinMon, Investomat, KeyPlan, KeyPrivate, Liqid, Marie Quantier, Money on Toast, MoneyFarm, Nutmeg, Parmenion, Quirion, rplan, Scalable Capital, Simply EQ, Sutor Bank, Swanest, SwissQuote ePrivateBanking, True Potential Investor, True Wealth, Vaamo, VZ Finanz Portal, Wealth Horizon, Wealthify, WeSave, Whitebox, Yellow Advice, Yomoni, Zen Assets.
+
+Asia-Pacific: 8 Now!, Ignition Direct & Ignition Wealth, InvestSMART, Mizuho Bank Smart Folio, Movo, Owners Advisory, QuietGrowth, ScripBox, StockSpot
+
+Here's how you get this exclusive Robo Advisor research:
+To provide you with this exclusive report, MyPrivateBanking has partnered with Business Insider Intelligence, Business Insider's premium research service, to create The Complete Robo Advisor Research Collection.
+
+If you're involved in the financial services industry at any level, you simply must understand the paradigm shift caused by robo advisors.
+
+Investors frustrated by mediocre investment performance, high wealth manager fees and deceptive sales techniques are signing up for automated investment accounts at a record pace.
+
+And the robo advisor field is evolving right before our eyes. Firms are figuring out on the fly how to best attract, service and upsell their customers. What lessons are they learning? Who's doing it best? What threats are traditional wealth managers facing? Where are the opportunities for exponential growth for firms with robo advisor products or models?

@@ -1,0 +1,45 @@
+Direct from distant planet: Spectral clues to puzzling paradox
+Spectrographic analysis yields empirical benchmark for newborn 'hot Jupiter'
+Date:
+June 10, 2019
+Source:
+Rice University
+Summary:
+CI Tau b is a paradoxical planet, but new research about its mass, brightness and the carbon monoxide in its atmosphere is starting to answer questions about how a planet so large could have formed around a star that's only 2 million years old.
+CI Tau b is a paradoxical planet, but new research about its mass, brightness and the carbon monoxide in its atmosphere is starting to answer questions about how a planet so large could have formed around a star that's only 2 million years old.
+
+At today's meeting of the American Astronomical Society, astronomers Christopher Johns-Krull of Rice University and Lisa Prato of Lowell Observatory presented findings from a four-year near-infrared spectroscopic analysis of light from CI Tau b, a close-orbiting giant exoplanet, or "hot Jupiter," in a nine-day orbit around its parent star about 450 light years from Earth in the constellation Taurus.
+
+"The exciting thing is that we are able to detect light directly from the planet, and it's the first time that's been done for a close-in planet around a star this young," said Johns-Krull, professor of physics and astronomy and co-author of a study that's slated for publication in AAS's Astrophysical Journal Letters. "The most valuable way to learn how planets form is to study planets, like CI Tau b, that are either still forming or have just formed."
+
+For decades, most astronomers believed giant planets like Jupiter and Saturn formed far from their stars over periods of 10 million years or more. But the discovery of dozens of "hot Jupiters" led to new theoretical models that describe how such planets might form.
+
+Johns-Krull said CI Tau b's age made it the perfect candidate for observation with the Immersion Grating Infrared Spectrograph (IGRINS), a unique, high-resolution instrument that was used during observations of CI Tau b from McDonald Observatory's 2.7-meter Harlan J. Smith Telescope and Lowell Observatory's 4.3-meter Discovery Channel Telescope.
+
+Because each atomic element and molecule in a star emits light from a unique set of wavelengths, astronomers can look for specific signatures, or spectral lines, to see if an element is present in a distant star or planets. Spectral lines can also reveal the temperature and density of a star and how fast it's moving.
+
+Prato said the research team used the spectral lines from carbon monoxide to distinguish the light emitted by the planet from the light emitted by the nearby star.
+
+"Many of the spectral lines that are in the planet are also in the star," Prato said. "If both the planet and star were stationary, their spectral lines would all blend together, and we wouldn't be able to tell what was from the star and what was from the planet. But because the planet rapidly orbits the star, its lines shift back and forth dramatically. We can subtract out the star's lines and see only the lines from the planet. And from those, we can determine how bright the planet is, relative to the star, which tells us something about how it formed."
+
+That's because the brightness of a star or planet depends upon both its size and temperature.
+
+"Direct observational evidence of the mass and brightness of CI Tau b is particularly useful because we also know it orbits a very young star," said Rice Ph.D. student Laura Flagg, the lead author of the forthcoming study. "Most of the hot Jupiters we've found are orbiting middle-aged stars. CI Tau's age gives a tight constraint for putting models to the test: Can they produce a planet this bright and this massive in so little time?"
+
+Flagg's analysis of spectral lines from carbon monoxide showed that CI Tau b has a mass of 11.6 Jupiters and is about 134 times fainter than its parent star. Prato said that provides strong evidence that it formed via a "hot start," a theoretical model that describes how gravitational instabilities could form giant planets more rapidly than traditional models.
+
+Prato said the new study provides a unique empirical yardstick by which to measure competing theories.
+
+"At about 2 million years old, CI Tau b is by far the youngest hot Jupiter directly detected," she said. "We now have a mass and brightness for it -- the only directly measured mass and brightness for a young hot Jupiter -- and that provides very strong tests for planet-formation models."
+
+IGRINS, which was designed by study co-author Daniel Jaffe of the University of Texas at Austin, uses a silicon-based diffraction grating to improve both the resolution and number of near-infrared spectral bands that can be observed from distant objects like CI Tau b and its parent star. IGRINS was moved from McDonald to Lowell midway through the study.
+
+Additional co-authors include Larissa Nofi and Joe Llama of Lowell Observatory, and Kendall Sullivan and Gregory Mace of both UT Austin and its McDonald Observatory. The research was supported by Rice, the National Science Foundation (AST-1461918, AST-1229522 and AST-1702267), UT Austin, the Korea Astronomy and Space Science Institute, NASA (18-XRP18_2-0138) and Lowell Observatory.
+
+Story Source:
+
+Materials provided by Rice University. Note: Content may be edited for style and length.
+
+Journal Reference:
+
+Laura Flagg, Christopher M. Johns-Krull, Larissa Nofi, Joe Llama, L. Prato, Kendall Sullivan, D. T. Jaffe, Gregory Mace. CO Detected in CI Tau b: Hot Start Implied by Planet Mass and MK. arXiv.org, June 7, 2019 (submitted); [link]

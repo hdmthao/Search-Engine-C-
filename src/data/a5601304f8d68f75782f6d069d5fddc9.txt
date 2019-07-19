@@ -1,0 +1,20 @@
+Customers report Verizon, Cloudflare disruptions
+Network connectivity has since been fixed, the companies say.
+A previous version of the story inaccurately cited another network experiencing disruptions. The story has since been updated.
+Service disruptions hit Verizon and Cloudflare network users early Monday, affecting customers largely throughout the Northeast but also in other parts of the country.
+Most of the reported Verizon Fios phone and Internet service outages were concentrated in Virginia, Massachusetts, New York, New Jersey, Pennsylvania, Rhode Island and Michigan.
+In a tweet, Verizon Support said server issues also affected Reddit, the live-streaming platform Twitch and video gaming platform Discord.
+Spokesman David Weissmann confirmed in an email that Verizon was aware of “an intermittent disruption in Internet service” and that engineers were working to resolve the issue. At 10 a.m., the systems were back online.
+Cloudflare Chief Technology Officer John Graham-Cumming told the Washington Post that Verizon failed to intercept the issue from a fiber-optic network services provider. This caused a routing leak that led to the widespread system outage.
+“Normally a large network would do some kind of filtering,” Graham-Cumming said. “But in this case, [Verizon] passed it on.”
+Because of this, Verizon customers lost large chunks of internet access and passed on the faulty information to other networks like Cloudflare, Graham-Cumming said. This affected 10 percent of Cloudflare’s traffic.
+Graham-Cumming added that Verizon still has not responded to the company’s outreach. Cloudflare CEO Matthew Prince echoed this on Twitter.
+It’s networking malpractice that the NOC at @verizon has still not replied to messages from other networking teams they impacted, including ours, hours after they mistakenly leaked a large chunk of the Internet’s routing table.
+— Matthew Prince 🌥 (@eastdakota) June 24, 2019
+Some users took to Twitter to express their frustrations. New Jersey Transit said its website was experiencing technical outages because of Verizon.
+We appreciate your patience and are currently investigating the issue. We will provide more information as it becomes available. ^JTP
+— Verizon Support (@VerizonSupport) June 24, 2019
+The website https://t.co/vS42xUXKa3 is continuing to experience technical difficulties due to a Verizon network outage. Technical staff is aware of the issue and working to resolve it as quickly as possible. We apologize for the inconvenience.
+— NJ TRANSIT (@NJTRANSIT) June 24, 2019
+Verizon is having some serious issues this morning, and down detector reflects that as you'd expect. However, I made a minor tweak to the graphic they provide that I think they should seriously consider adding automatically. pic.twitter.com/adL54eR7h9
+— Michael Chiaramonte (@clearvus) June 24, 2019

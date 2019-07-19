@@ -1,0 +1,8 @@
+She designs high-tech responses to human health problems
+As aging and chronic disease plague more and more patients, Elizabeth Mynatt sees solutions in intelligent and assistive technologies.
+Like other computer scientists, Elizabeth Mynatt uses cutting-edge tech. What sets her apart is her holistic, humanistic approach. “I always say I’m designing for both sides of the equation,” she says. “And the people side is always the hardest.”
+
+Mynatt’s work on health informatics and assistive technology has allowed blind programmers to take advantage of graphical computer applications, helped pediatric epilepsy patients and their caregivers use mobile sensing apps, and supported older adults who want to age in place. “The burdens of chronic disease and aging populations are increasingly falling to patients and families,” she says. “And because they’ve grown up with technology, they’re looking to tech to have a role—and to make things better.”
+
+One of Mynatt’s recent artificial intelligence projects is a preconfigured tablet computer that gives breast-cancer patients in rural Georgia personalized advice on everything from surgery and chemotherapy to dealing with anxiety and connecting to social services. Her latest effort, in partnership with Emory University, helps aging patients diagnosed with mild cognitive impairment, the stage that can lead to dementia.
+“In my work, I always ask, What are the fundamental human needs here? And how does human behavior come into this situation?” says Mynatt. “Only when you combine the answers to both those questions do you end up creating designs that powerfully improve ways that people can take care of their own health and their families.”

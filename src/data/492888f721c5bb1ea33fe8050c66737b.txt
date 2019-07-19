@@ -1,0 +1,21 @@
+Mostly dead bacteria can sometimes be resurrected as antibiotic-resistant cells.
+
+A protein that pumps toxic chemicals out of E. coli bacterial cells can buy time for even nearly dead microbes to become antibiotic resistant. The protein, known as the AcrAB-TolC multidrug efflux pump, doesn’t work well enough to defeat antibiotics on its own. But it can move enough antibiotic molecules out of bacterial cells to allow production of real resistance proteins, researchers report in the May 24 Science.  
+Bacteria often swap DNA, including some antibiotic-resistance genes. Scientists have known for decades that antibiotic-resistance genes are often carried on small circles of DNA called plasmids. Two bacteria that come in contact with each other can pass these plasmids from antibiotic-resistant cells to sensitive ones. But that was thought to happen when antibiotics aren’t around to kill sensitive cells.
+
+Common wisdom holds that treating bacteria with antibiotics should stop bacteria in the act of swapping antibiotic-resistance genes, says Kim Lewis, a microbiologist at Northeastern University in Boston not involved in the study. At least, “yesterday, that’s what I would have told you,” he says. “Today, having read that paper, I have to change my views.”
+
+Bacterial geneticist Christian Lesterlin of CNRS-INSERM at the University of Lyon in France and colleagues wanted to know more about how bacteria pass antibiotic resistance to one another. The researchers genetically engineered E. coli to make fluorescent proteins that allowed the team to watch under the microscope in real time as bacteria swapped plasmids and made antibiotic-resistance proteins.
+
+
+VIVA LA RESISTANCE  Researchers captured E. coli bacteria in the act of becoming resistant to the antibiotic tetracycline. Some bacteria already contained a circular piece of DNA, called a plasmid, which carries antibiotic-resistance genes. Those resistant cells (green) pass the plasmid to sensitive cells (red). Once the plasmid has transferred (yellow dots), sensitive bacteria begin making proteins that make the microbes resistant to the antibiotic. The bacteria turn increasingly green as they become resistant to the antibiotic.
+
+The swaps happen quickly. Within three hours, about 70 percent of sensitive E. coli had become resistant to the antibiotic tetracycline, Lesterlin’s team discovered. When tetracycline was added to the bacteria, about a third of the microbes that were still sensitive also became tetracycline-resistant. “That was very, very surprising,” Lesterlin says.
+
+Once bacteria get the plasmid DNA, they still have to turn on resistance genes and produce the proteins that ultimately fight off antibiotics — in this case a protein called TetA that pumps tetracycline out of bacteria. Tetracycline blocks protein production, so when the drug is around, bacteria that haven’t yet made TetA will be nearly dead and shouldn’t be able to take advantage of newly acquired resistance genes, Lewis says.
+
+But mostly dead bacteria are still slightly alive thanks to the multidrug protein pump — at least enough to sometimes be able to eke out some TetA proteins, which then export all of the antibiotic and eventually return the microbes to full life, the researchers found.
+
+The multidrug pump also helped bacteria stay alive long enough to develop resistance to other antibiotics. Disabling or removing that pump stopped bacteria from developing resistance. Drugs that disable that pump protein might be able to stop the spread of antibiotic resistance through plasmids. But no such drugs are safe to use in people yet, Lesterlin says.
+
+“There’s no good news for human well-being” in the study, he says. Still, “it’s better to know your enemy and what type of weapon it has.”  

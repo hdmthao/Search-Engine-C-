@@ -1,0 +1,45 @@
+California passes strictest online privacy law in the country
+
+California just passed the nation's toughest data privacy law.
+
+Gov. Jerry Brown signed the California Consumer Privacy Act of 2018 on Thursday, hours after its unanimous approval by the State Assembly and Senate.
+
+The law, which takes effect in 2020, gives consumers sweeping control over their personal data. It grants them the right to know what information companies like Facebook and Google are collecting, why they are collecting it, and who they are sharing it with. Consumers will have the option of barring tech companies from selling their data, and children under 16 must opt into allowing them to even collect their information at all.
+
+Assembly member Ed Chau and state Sen. Robert Hertzberg introduced the legislation on June 21. It drew the support of some privacy advocates including Common Sense Media.
+
+"The state that pioneered the tech revolution is now, rightly, a pioneer in consumer privacy safeguards, and we expect many additional states to follow suit," James P. Steyer, CEO and founder of Common Sense Media, said in a statement. "Today was a huge win and gives consumer privacy advocates a blueprint for success. We look forward to working together with lawmakers across the nation to ensure robust data privacy protections for all Americans."
+
+Related: What you need to know about Europe's new data law
+
+Although most privacy advocates support the law, some expressed lingering concerns because it includes a few loopholes. Technology companies can, for example, "share" people's data even if a consumer bars them from selling it. And the law allows companies to charge higher prices to consumers who opt out of having their data sold.
+
+"For the first time California is explicitly allowing 'pay for privacy' deals that are in direct contradiction to our privacy rights," Emily Rusch, executive director of the nonprofit California Public Interest Research Group, said in a statement.
+
+While not as strict as the General Data Protection Requirements, the European Union's expansive privacy regulations that took effect last month, California's law provides some of the strongest regulations in the country.
+
+Lawmakers moved swiftly to pass the bill to preempt a November ballot initiative that would have codified more stringent rules. The law that passed on Thursday was close enough to the ballot initiative that Alastair Mactaggart, the San Francisco real estate developer who launched the measure, agreed to withdraw it.
+
+Tech companies and legislators preferred the bill to an initiative because it provides more options for refining the requirements down the line. In most cases, once voters approve a ballot initiative, the law can be changed only through another ballot initiative.
+
+The swift passage of the legislation prompted concern from the Internet Association, which lobbies on behalf of tech companies.
+
+"Data regulation policy is complex and impacts every sector of the economy, including the internet industry," Robert Callahan, the group's vice president of state government affairs, said in a statement. "That makes the lack of public discussion and process surrounding this far-reaching bill even more concerning."
+
+Related: Facebook faces new regulatory backlash over data privacy
+
+The delay before the new legislation takes effect gives lawmakers, regulators and tech companies time to revise it and sort out the specifics. That led some privacy advocates to warn the fight for greater consumer protection is not yet over.
+
+"The exact impact remains in flux, since the new rules will not take effect until 2020 and we anticipate that the California legislature will consider many changes to the new law in the months and years to come," Lee Tien, a senior staff attorney at the Electronic Frontier Foundation, said in a statement to CNNMoney.
+
+The ACLU of Northern California said the legislation falls "woefully short."
+
+"This measure was hastily drafted and needs to be fixed," the ACLU's Nicole Ozer said in a statement. "Effective privacy protections must be included that actually protect against rampant misuse of personal information, make sure that companies cannot retaliate against Californians who exercise their privacy rights, and ensure that Californians can actually enforce their personal privacy rights."
+
+Public support for greater protection of consumer data rose in the wake of several recent breaches and scandals. Facebook (FB) has faced particular scrutiny since the revelation that Cambridge Analytica, a political consulting firm based in the United Kingdom, collected the personal information of as many as 87 million Facebook users.
+
+"While not perfect, we support (the law) and look forward to working with policymakers on an approach that protects consumers and promotes responsible innovation," Will Castleberry, Facebook's vice president of state and local public policy, said in a statement.
+
+Google also prefers the law to the ballot measure, but believes it needs some changes.
+
+"[This law] imposes sweeping novel obligations on thousands of large and small businesses around the world, across every industry," said Google spokesperson Katherine Williams in a statement. "We appreciate that California legislators recognize these issues and we look forward to improvements to address the many unintended consequences of the law."

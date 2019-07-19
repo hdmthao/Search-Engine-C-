@@ -1,0 +1,27 @@
+Is it true that my ISP is spying on my web browsing? Does DuckDuckGo fix that?
+
+Yes, your ISP (Internet Service Provider) is likely spying on your web browsing, and yes, DuckDuckGo can help you significantly cut down on their ability to spy on you. Your ISP is the company that gets you onto the Internet – your home Internet or mobile data provider. If your ISP is spying on you, it means they can use or sell your browsing history to others for things like creepy ads that follow you around the Internet or to junk mail providers.
+
+Whenever you connect to a website or other place on the Internet, you can be using either an encrypted (secure) connection, or an unencrypted (unsecure) connection. In a web browser, you can check on whether you are using an encrypted connection by looking for a padlock or similar icon in the address bar. If you see that icon, you should also see an "https://" at the beginning of the website address, rather than "http://".
+
+If a website is using an encrypted connection (i.e., HTTPS, like https://duckduckgo.com/):
+
+ISPs cannot see which specific pages within that website you visit (everything after the '/').
+ISPs cannot see what you search for or what you type into forms.
+ISPs can still see the domain of the website you are visiting (everything up to the '/').
+
+When you do a search, you may have noticed that you can see your search terms in the address bar. That might make you think, even if the search engine is using an encrypted connection (i.e., starts with https), then your ISP can still see your search terms. But, actually that's not correct — the ISP can only see the domain part — the rest (everything after that first slash) — is actually encrypted and the ISP cannot see it (see picture).
+
+What all this means is that with your web surfing, you can block ISPs from spying on you to a great extent by using as many encrypted (secure) connections as possible. Unfortunately, that’s not something you can do entirely on your own – the website you want to visit has to offer an encrypted connection option, but more and more of them are doing just that.
+
+How DuckDuckGo can help you use more encrypted connections
+
+At DuckDuckGo, we offer a tool to help you more regularly use encrypted connections when browsing the Internet. If you’re unfamiliar with DuckDuckGo, we are an Internet privacy company that empowers you to seamlessly take control of your personal information online, without any tradeoffs. We operate a private search engine alternative to Google at https://duckduckgo.com, and offer additional apps and extensions to protect you from Google, Facebook, Twitter and other tracker networks, no matter where you go on the Internet.
+
+So, how do our apps and extensions help you use encrypted connections? They offer Smarter Encryption, which is a feature that automatically ensures that you use encrypted connections to websites whenever available. You don’t even have to think about it; this feature works in the background, silently redirecting you to secure website connections. We keep a list of millions of websites that offer encrypted connections, and make sure to encrypt your connections to those sites.
+
+On desktop, you can get our Smarter Encryption by installing DuckDuckGo Privacy Essentials for Firefox or Chrome. On mobile, you can get Smarter Encryption by using our DuckDuckGo Privacy Browser on iOS or Android. In addition to Smarter Encryption, our apps and browser extensions include other privacy essentials like tracker blocking and private search.
+
+Unfortunately, some websites still do not offer encrypted versions. You can’t change that, and neither can we. But, if you want to take further steps to protect your privacy, you can use a Virtual Private Network (VPN). Doing so isn’t as seamless as our tool, and there are a lot of VPN options and considerations, so we have put together a guide for further information. You could also go one step further and use a technology called "Tor;" we have another guide with information on that option.
+
+In any case, you should consider using our tool or another similar tool to make sure you are using more encrypted connections when surfing the Internet. Doing so will cut down significantly on the ability of your ISP from spying on your browsing history. And it’s not just your ISP that can do this. When you connect to a website unencrypted, many parties could spy on you (like the ISP of the website you are connecting to), or anyone snooping on your wifi. Using encrypted connections will help shut the blinds on all of them.

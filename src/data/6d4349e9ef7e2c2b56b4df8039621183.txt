@@ -1,0 +1,22 @@
+These are the trends creating new winners and losers in the card-processing ecosystem
+This is a preview of a research report from Business Insider Intelligence, Business Insider's premium research service. To learn more about Business Insider Intelligence, click here.
+
+Digital disruption is rocking the payments industry. But merchants, consumers, and the companies that help move money between them are all feeling its effects differently.
+
+For banks, card networks, and processors, the digital revolution is bringing new opportunities — and new challenges. With new ways to pay emerging, incumbent firms can take advantage of solid brand recognition and large customer bases to woo new customers and keep those they already have.
+
+And for consumers, the digital revolution is providing more choice and making their lives easier. Digital wallets are simplifying purchases, allowing users to pay online with only a username and password and in-store with just a swipe of their thumb.
+
+In a new report, Business Insider Intelligence explores the digital payments ecosystem today, its growth drivers, and where the industry is headed. It begins by tracing the path of an in-store card payment from processing to settlement across the key stakeholders. That process is central to understanding payments, and has changed slowly in the face of disruption. The report also forecasts growth and defines drivers for key digital payment types through 2021. Finally, it highlights five trends that are changing payments, looking at how disparate factors, such as surprise elections and fraud surges, are sparking change across the ecosystem.
+
+Here are some key takeaways from the report:
+
+Digital growth is accelerating the pace at which payments are becoming faster, cheaper, and more convenient. That benefits both nimble startups and legacy providers that invest in innovation.
+Mobile payments are continuing to take off. On mobile devices, e-commerce, P2P payments, remittances, and in-store payments are each expected to rise as customer engagement shifts from more established channels.
+Power is shifting to companies that control the customer experience. As the selling power of physical storefronts shifts to digital devices, the companies that control the apps and platforms that occupy users' attentions are increasingly encroaching on payment providers' territory.
+Alternative technologies are moving from the idea stage to reality. Widespread investments in blockchain technology last year are beginning to result in services hitting the market, promising to further squeeze margins for payments providers.
+In full, the report:
+
+Traces the path of an in-store card payment from processing to settlement across the key stakeholders.
+Forecasts growth and defines drivers for key digital payment types through 2021.
+Highlights five trends that are changing payments, looking at how disparate factors, such as surprise elections and fraud surges, are sparking change across the ecosystem.

@@ -1,0 +1,57 @@
+Bees can do basic arithmetic
+Date:
+February 6, 2019
+Source:
+RMIT University
+Summary:
+Researchers set out to test whether bees could do math, building on a groundbreaking finding that bees understand the concept of zero. The new study shows bees can be taught to recognize colors as symbolic representations for addition and subtraction, and use this information to solve arithmetic problems. The revelation that even the miniature brain of a honeybee can grasp basic mathematical operations has implications for the future development of AI.
+FULL STORY
+Researchers have found bees can do basic mathematics, in a discovery that expands our understanding of the relationship between brain size and brain power.
+
+Building on their finding that honeybees can understand the concept of zero, Australian and French researchers set out to test whether bees could perform arithmetic operations like addition and subtraction.
+
+Solving maths problems requires a sophisticated level of cognition, involving the complex mental management of numbers, long-term rules and short term working memory.
+
+The revelation that even the miniature brain of a honeybee can grasp basic mathematical operations has implications for the future development of Artificial Intelligence, particularly in improving rapid learning.
+
+Led by researchers from RMIT University in Melbourne, Australia, the new study showed bees can be taught to recognise colours as symbolic representations for addition and subtraction, and that they can use this information to solve arithmetic problems.
+
+RMIT's Associate Professor Adrian Dyer said numerical operations like addition and subtraction are complex because they require two levels of processing.
+
+"You need to be able to hold the rules around adding and subtracting in your long-term memory, while mentally manipulating a set of given numbers in your short-term memory," Dyer said.
+
+"On top of this, our bees also used their short-term memories to solve arithmetic problems, as they learned to recognise plus or minus as abstract concepts rather than being given visual aids.
+
+"Our findings suggest that advanced numerical cognition may be found much more widely in nature among non-human animals than previously suspected.
+
+"If maths doesn't require a massive brain, there might also be new ways for us to incorporate interactions of both long-term rules and working memory into designs to improve rapid AI learning of new problems."
+
+There is considerable debate around whether animals know or can learn complex number skills.
+
+Many species can understand the difference between quantities and use this to forage, make decisions and solve problems. But numerical cognition, such as exact number and arithmetic operations, requires a more sophisticated level of processing.
+
+Previous studies have shown some primates, birds, babies and even spiders can add and/or subtract. The new research, published in Science Advances, adds bees to that list.
+
+A school for bees? How the honeybees were trained
+
+The experiment, conducted by PhD researcher Scarlett Howard in the Bio Inspired Digital Sensing-Lab (BIDS-Lab) at RMIT, involved training individual honeybees to visit a Y-shaped maze.
+
+The bees received a reward of sugar water when they made a correct choice in the maze, and received a bitter-tasting quinine solution if the choice was incorrect.
+
+Honeybees will go back to a place if the location provides a good source of food, so the bees returned repeatedly to the experimental set-up to collect nutrition and continue learning.
+
+When a bee flew into the entrance of the maze they would see a set of elements, between 1 to 5 shapes.
+
+The shapes were either blue, which meant the bee had to add, or yellow, which meant the bee had to subtract.
+
+After viewing the initial number, the bee would fly through a hole into a decision chamber where it could choose to fly to the left or right side of the maze.
+
+One side had an incorrect solution to the problem and the other side had the correct solution of either plus or minus one. The correct answer was changed randomly throughout the experiment to avoid bees learning to visit just one side of the maze.
+
+At the beginning of the experiment, bees made random choices until they could work out how to solve the problem. Eventually, over 100 learning trials that took 4 to 7 hours, bees learned that blue meant +1, while yellow meant -1. The bees could then apply the rules to new numbers.
+
+Scarlett Howard said the ability to do basic maths has been vital in the flourishing of human societies historically, with evidence that the Egyptians and Babylonians used arithmetic around 2000BC.
+
+"These days, we learn as children that a plus symbol means you need to add two or more quantities, while a minus symbol means you subtract," she said.
+
+"Our findings show that the complex understanding of maths symbols as a language is something that many brains can probably achieve, and helps explain how many human cultures independently developed numeracy skills."

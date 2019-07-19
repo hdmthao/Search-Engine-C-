@@ -1,0 +1,4 @@
+New BLAST results to become the default view August 1, 2019
+We have been offering the new BLAST results page (Figure 1) for you to try out since April and have been collecting your comments and feedback.   Thank you all for your input on this new results display.  Over 90% of your comments have been positive.   We have made several changes to the page that address issues or problems that you have pointed out and are also working on adding several additional features that you have suggested in future releases.
+
+At this time, 96% of you who have tried the new page have kept it as your default results page.  We are planning to make the new page the default for everyone on August 1, 2019. We will still provide access to the old results for some time to allow people who have workflows or teaching materials to adjust to the new display.

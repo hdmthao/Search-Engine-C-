@@ -1,0 +1,16 @@
+Astronomers observe star reborn in a flash
+An international team of astronomers using Hubble have been able to study stellar evolution in real time. Over a period of 30 years dramatic increases in the temperature of the star SAO 244567 have been observed. Now the star is cooling again, having been reborn into an earlier phase of stellar evolution. This makes it the first reborn star to have been observed during both the heating and cooling stages of rebirth. Even though the Universe is constantly changing, most processes are too slow to be observed within a human lifespan. But now an international team of astronomers have observed an exception to this rule. "SAO 244567 is one of the rare examples of a star that allows us to witness stellar evolution in real time", explains Nicole Reindl from the University of Leicester, UK, lead author of the study. "Over only twenty years the star has doubled its temperature and it was possible to watch the star ionising its previously ejected envelope, which is now known as the Stingray Nebula."
+
+SAO 244567, 2700 light-years from Earth, is the central star of the Stingray Nebula and has been visibly evolving between observations made over the last 45 years. Between 1971 and 2002 the surface temperature of the star skyrocketed by almost 40 000 degrees Celsius. Now new observations made with the Cosmic Origins Spectrograph (COS) on the NASA/ESA Hubble Space Telescope have revealed that SAO 244567 has started to cool and expand.
+
+This is unusual, though not unheard-of [1], and the rapid heating could easily be explained if one assumed that SAO 244567 had an initial mass of 3 to 4 times the mass of the Sun. However, the data show that SAO 244567 must have had an original mass similar to that of our Sun. Such low-mass stars usually evolve on much longer timescales, so the rapid heating has been a mystery for decades.
+
+Back in 2014 Reindl and her team proposed a theory that resolved the issue of both SAO 244567's rapid increase in temperature as well as the low mass of the star. They suggested that the heating was due to what is known as a helium-shell flash event: a brief ignition of helium outside the stellar core [2].
+
+This theory has very clear implications for SAO 244567's future: if it has indeed experienced such a flash, then this would force the central star to begin to expand and cool again -- it would return back to the previous phase of its evolution. This is exactly what the new observations confirmed. As Reindl explains: "The release of nuclear energy by the flash forces the already very compact star to expand back to giant dimensions -- the born-again scenario."
+
+It is not the only example of such a star, but it is the first time ever that a star has been observed during both the heating and cooling stages of such a transformation.
+
+Yet no current stellar evolutionary models can fully explain SAO 244567's behaviour. As Reindl elaborates: "We need refined calculations to explain some still mysterious details in the behaviour of SAO 244567. These could not only help us to better understand the star itself but could also provide a deeper insight in the evolution of central stars of planetary nebulae."
+
+Until astronomers develop more refined models for the life cycles of stars, aspects of SAO 244567's evolution will remain a mystery.

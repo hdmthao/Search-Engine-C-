@@ -1,0 +1,44 @@
+Behind the magic: Making moving photos a reality
+Date:
+June 11, 2019
+Source:
+University of Washington
+Summary:
+Researchers have figured out how to take a person from a 2D photo or a work of art and make them run, walk or jump out of the frame. The system also allows users to view the animation in three dimensions using augmented reality tools.
+
+People moving in and out of photographs used to be reserved for the world of Harry Potter. But now computer scientists at the University of Washington have brought that magic to real life.
+
+Their algorithm, Photo Wake-Up, can take a person from a 2D photo or a work of art and make them run, walk or jump out of the frame. The system also allows users to view the animation in three dimensions using augmented reality tools. The researchers will be presenting their results June 19 at the Conference on Computer Vision and Pattern Recognition in Long Beach, California. This research first attracted media attention when it was posted in preprint form in December on ArXiv.
+
+"This is a very hard fundamental problem in computer vision," said co-author Ira Kemelmacher-Shlizerman, an associate professor at the UW's Paul G. Allen School of Computer Science & Engineering. "The big challenge here is that the input is only from a single camera position, so part of the person is invisible. Our work combines technical advancement on an open problem in the field with artistic creative visualization."
+
+Previously, researchers thought it would be impossible to animate a person running out of a single photo.
+
+"There is some previous work that tries to create a 3D character using multiple viewpoints," said co-author Brian Curless, a professor in the Allen School. "But you still couldn't bring someone to life and have them run out of a scene, and you couldn't bring AR into it. It was really surprising that we could get some compelling results with using just one photo."
+
+The applications of Photo Wake-Up are numerous, the team says. The researchers envision this could lead to a new way for gamers to create avatars that actually look like them, a method for visitors to interact with paintings in an art museum -- say sitting down to have tea with Mona Lisa -- or something that lets children to bring their drawings to life. Examples in the research paper include animating the Golden State Warriors' Stephen Curry to run off the court, Paul McCartney to leap off the cover of the "Help!" album and Matisse's "Icarus" to leave his frame.
+
+To make the magic a reality, Photo Wake-Up starts by identifying a person in an image and making a mask of the body's outline. From there, it matches a 3D template to the subject's body position. Then the algorithm does something surprising: In order to warp the template so that it actually looks like the person in the photo, it projects the 3D person back into 2D.
+
+"It's very hard to manipulate in 3D precisely," said co-author Chung-Yi Weng, a doctoral student in the Allen School. "Maybe you can do it roughly, but any error will be obvious when you animate the character. So we have to find a way to handle things perfectly, and it's easier to do this in 2D."
+
+Photo Wake-Up stores 3D information for each pixel: its distance from the camera or artist and how a person's joints are connected together. Once the template has been warped to match the person's shape, the algorithm pastes on the texture -- the colors from the image. It also generates the back of the person by using information from the image and the 3D template. Then the tool stitches the two sides together to make a 3D person who will be able to turn around.
+
+Once the 3D character is ready to run, the algorithm needs to set up the background so that the character doesn't leave a blank space behind. Photo Wake-Up fills in the hole behind the person by borrowing information from other parts of the image.
+
+Right now Photo Wake-Up works best with images of people facing forward, and can animate both artistic creations and photographs of real people. The algorithm can also handle some photos where people's arms are blocking part of their bodies, but it is not yet capable of animating people who have their legs crossed or who are blocking large parts of themselves.
+
+"Photo Wake-Up is a new way to interact with photos," Weng said. "It can't do everything yet, but this is just the beginning."
+
+This research was funded by the National Science Foundation, UW Animation Research, UW Reality Lab, Facebook, Huawei and Google.
+
+Story Source:
+
+Materials provided by University of Washington. Original written by Sarah McQuate. Note: Content may be edited for style and length.
+
+Related Multimedia:
+
+Examples of animations made using Photo Wake-up
+Journal Reference:
+
+Chung-Yi Weng, Brian Curless, Ira Kemelmacher-Shlizerman. Photo Wake-Up: 3D Character Animation from a Single Photo. Arxiv.org, Dec. 5, 2018 (submitted); [link]

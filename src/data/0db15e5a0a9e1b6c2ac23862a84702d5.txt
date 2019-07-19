@@ -1,0 +1,18 @@
+Voyager 2 has entered interstellar space. The spacecraft slipped out of the huge bubble of particles that encircles the solar system on November 5, becoming the second ever human-made craft to cross the heliosphere, or the boundary between the sun and the stars.
+Coming in second place is no mean achievement. Voyager 1 became the first spacecraft to exit the solar system in 2012. But that craft’s plasma instrument stopped working in 1980, leaving scientists without a direct view of the solar wind, hot charged particles constantly streaming from the sun (SN Online: 9/12/13). Voyager 2’s plasma sensors are still working, providing unprecedented views of the space between stars.
+“We’ve been waiting with bated breath for the last couple of months for us to be able to see this,” NASA solar physicist Nicola Fox said at a Dec. 10 news conference at the American Geophysical Union meeting in Washington, D.C.
+NASA launched the twin Voyager spacecraft in 1977 on a grand tour of the solar system’s planets (SN: 8/19/17, p. 26). After that initial tour was over, both spacecraft continued travelling through the bubble of plasma that originates at the sun.
+“When Voyager was launched, we didn’t know how large the bubble was, how long it would take to get [to its edge] and whether the spacecraft could last long enough to get there,” said Voyager project scientist Edward Stone of Caltech.
+For most of Voyager 2’s journey, the spacecraft’s Plasma Science Experiment measured the speed, density, temperature, pressure and other properties of the solar wind. But on November 5, the experiment saw a sharp drop in the speed and the number of solar wind particles that hit the detector each second. At the same time, another detector started picking up more high-energy particles called cosmic rays that originate elsewhere in the galaxy.
+Waning wind
+Voyager 2 saw a steep drop in solar wind, or heliospheric, particles on November 5, and recorded an increase in galactic cosmic ray particles, which come from the rest of the galaxy. Those signs make scientists think the spacecraft has left the sun’s protective bubble.
+Using particles to track Voyager 2’s journey
+ 
+GSFC/JPL-CALTECH/NASA
+Those measurements suggest that Voyager 2 has reached the region where the solar wind slams into the colder, denser population of particles that fill the space between stars. Voyager 2 is now a little more than 18 billion kilometers from the sun.
+Intriguingly, Voyager 2’s measurements of cosmic rays and magnetic fields — which Voyager 1 could still make when it crossed the boundary — did not exactly match up with Voyager 1’s observations.
+“That’s what makes it interesting,” Stone said. The variations are probably from the fact that the two spacecraft exited the heliosphere in different places, and that the sun is at a different part of its 11-year activity cycle than it was in 2012. “We would have been amazed if they had looked the same.”
+The Voyagers probably have between five and 10 years left to continue exploring interstellar space, said Voyager project manager Suzanne Dodd from NASA’s Jet Propulsion Laboratory in Pasadena, Calif.
+“Both spacecraft are very healthy if you consider them senior citizens,” Dodd said. The biggest concern is how much power they have left and how cold they are — Voyager 2 is currently about 3.6° Celsius, close to the freezing point of its hydrazine fuel. In the near future, the team will have to turn off some of the spacecraft’s instruments to keep the craft operating and sending data back to Earth.
+“We do have difficult decisions ahead,” Dodd said. She added that her personal goal is to see the spacecraft last until 2027, for a total of 50 years in space. “That would be fantastic.”
+

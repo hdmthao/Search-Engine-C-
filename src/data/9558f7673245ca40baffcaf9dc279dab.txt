@@ -1,0 +1,57 @@
+Mysterious holes in Antarctic sea ice explained by years of robotic data
+Date:
+June 10, 2019
+Source:
+University of Washington
+Summary:
+Why did a giant hole appear in the sea ice off Antarctica in 2016 and 2017, after decades of more typical sea ice cover? Years of Southern Ocean data have explained the phenomenon, helping oceanographers to better predict these features and study their role in global ocean cycles.
+The winter ice on the surface of Antarctica's Weddell Sea occasionally forms an enormous hole. A hole that appeared in 2016 and 2017 drew intense curiosity from scientists and reporters. Though even bigger gaps had formed decades before, this was the first time oceanographers had a chance to truly monitor the unexpected gap in Antarctic winter sea ice.
+
+A new study led by the University of Washington combines satellite images of the sea ice cover, robotic drifters and even seals outfitted with sensors to better understand the phenomenon. The research explores why this hole appears in only some years, and what role it could play in the larger ocean circulation.
+
+The study was published June 10 in the journal Nature.
+
+"We thought this large hole in the sea ice -- known as a polynya -- was something that was rare, maybe a process that had gone extinct. But the events in 2016 and 2017 forced us to reevaluate that," said lead author Ethan Campbell, a UW doctoral student in oceanography. "Observations show that the recent polynyas opened from a combination of factors -- one being the unusual ocean conditions, and the other being a series of very intense storms that swirled over the Weddell Sea with almost hurricane-force winds."
+
+A "polynya," a Russian word that roughly means "hole in the ice," can form near shore as wind pushes the ice around. But it can also appear far from the coast and stick around for weeks to months, where it acts as an oasis for penguins, whales and seals to pop up and breathe.
+
+This particular spot far from the Antarctic coast often has small openings and has seen large polynyas before. The biggest known polynyas at that location were in 1974, 1975 and 1976, just after the first satellites were launched, when an area the size of New Zealand remained ice-free through three consecutive Antarctic winters despite air temperatures far below freezing.
+
+Campbell joined the UW as a graduate student in 2016 to better understand this mysterious phenomenon. In a stroke of scientific luck, a big one appeared for the first time in decades. A NASA satellite image in August 2016 drew public attention to a 33,000-square-kilometer (13,000-square-mile) gap that appeared for three weeks. An even bigger gap, of 50,000 square kilometers (19,000 square miles) appeared in September and October of 2017.
+
+The Southern Ocean is thought to play a key role in global ocean currents and carbon cycles, but its behavior is poorly understood. It hosts some of the fiercest storms on the planet, with winds whipping uninterrupted around the continent in the 24-hour darkness of polar winter. The new study used observations from the Southern Ocean Carbon and Climate Observations and Modeling project, or SOCCOM, which puts out instruments that drift with the currents to monitor Antarctic conditions.
+
+The study also used data from the long-running Argo ocean observing program, elephant seals that beam data back to shore, weather stations and decades of satellite images.
+
+"This study shows that this polynya is actually caused by a number of factors that all have to line up for it to happen," said co-author Stephen Riser, a UW professor of oceanography. "In any given year you could have several of these things happen, but unless you get them all, then you don't get a polynya."
+
+The study shows that when winds surrounding Antarctica draw closer to shore, they promote stronger upward mixing in the eastern Weddell Sea. In that region, an underwater mountain known as Maud Rise forces dense seawater around it and leaves a spinning vortex above. Two SOCCOM instruments were trapped in the vortex above Maud Rise and recorded years of observations there.
+
+Analysis shows that when the surface ocean is especially salty, as seen throughout 2016, strong winter storms can set off an overturning circulation. Warmer, saltier water from the depths gets churned up to the surface, where air chills it and makes it denser than the water below. As that water sinks, relatively warmer deep water of about 1 degree Celsius (34 F) replaces it, creating a feedback loop where ice can't reform.
+
+Under climate change, fresh water from melting glaciers and other sources will make the Southern Ocean's surface layer less dense, which might mean fewer polynyas in the future. But the new study questions that assumption. Many models show that the winds circling Antarctica will become stronger and draw closer to the coast -- the new paper suggests this would encourage more polynyas to form, not fewer.
+
+These are the first observations to prove that even a smaller polynya like the one in 2016 moves water from the surface all the way to the deep ocean.
+
+"Essentially it's a flipping over of the entire ocean, rather than an injection of surface water on a one-way trip from the surface to the deep," said co-author Earle Wilson, who recently completed his doctorate in oceanography at the UW.
+
+One way that a surface polynya matters for the climate is for the deepest water in the oceans, known as Antarctic Bottom Water. This cold, dense water lurks below all the other water. Where and how it's created affects its characteristics, and would have ripple effects on other major ocean currents.
+
+"Right now people think most of the bottom water is forming on the Antarctic shelf, but these big offshore polynyas might have been more common in the past," Riser said. "We need to improve our models so we can study this process, which could have larger-scale climate implications."
+
+Large and long-lasting polynyas can also affect the atmosphere, because deep water contains carbon from lifeforms that have sunk over centuries and dissolved on their way down. Once this water reaches the surface that carbon could be released.
+
+"This deep reservoir of carbon has been locked away for hundreds of years, and in a polynya it might get ventilated at the surface through this really violent mixing," Campbell said. "A large carbon outgassing event could really whack the climate system if it happened multiple years in a row."
+
+Other co-authors on the paper are Kent Moore at the University of Toronto, who was the 2016-17 Canada Fulbright Visiting Chair in Arctic Studies at the UW; Casey Brayton at the University of South Carolina; and Lynne Talley and Matthew Mazloff from Scripps Institution of Oceanography at the University of California, San Diego. SOCCOM is funded by the National Science Foundation. Campbell was supported by the U.S. Department of Defense through the National Defense Science & Engineering Graduate Fellowship program. Additional funding is from the NSF, the National Oceanic and Atmospheric Administration, the University of Washington and Scripps Institution of Oceanography.
+
+Story Source:
+
+Materials provided by University of Washington. Original written by Hannah Hickey. Note: Content may be edited for style and length.
+
+Related Multimedia:
+
+Satellite imagery, instrumented seal
+Journal Reference:
+
+Ethan C. Campbell, Earle A. Wilson, G. W. Kent Moore, Stephen C. Riser, Casey E. Brayton, Matthew R. Mazloff, Lynne D. Talley. Antarctic offshore polynyas linked to Southern Hemisphere climate anomalies. Nature, 2019; DOI: 10.1038/s41586-019-1294-0

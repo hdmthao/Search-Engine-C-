@@ -1,0 +1,39 @@
+Bitcoin causing carbon dioxide emissions comparable to Las Vegas or Hamburg
+Hardware and IP addresses analyzed to assess the carbon footprint of the cryptocurrency
+Date:
+June 13, 2019
+Source:
+Technical University of Munich (TUM)
+Summary:
+The use of Bitcoin causes around 22 megatons in carbon dioxide emissions annually -- comparable to the total emissions of cities such as Las Vegas or Hamburg.
+The use of Bitcoin causes around 22 megatons in CO2 emissions annually -- comparable to the total emissions of cities such as Hamburg or Las Vegas. That is the conclusion of the most detailed analysis to date of the cryptocurrency's carbon footprint. For their study, an interdisciplinary team of researchers at the Technical University of Munich (TUM) analyzed such data as the IPO filings of hardware manufacturers and the IP addresses of Bitcoin "miners."
+
+Although Bitcoin is a virtual currency, the energy consumption associated with its use is very real. For a Bitcoin transfer to be executed and validated, a mathematical puzzle must be solved by an arbitrary computer in the global Bitcoin network. The network, which anyone can join, rewards the puzzle solvers in Bitcoin. The computing capacity used in this process -- known as Bitcoin mining -- has increased rapidly in recent years. Statistics show that it quadrupled in 2018 alone.
+
+Consequently, the Bitcoin boom raises the question of whether the cryptocurrency is imposing an additional burden on the climate. Several studies have attempted to quantify the CO2 emissions caused by Bitcoin mining. "These studies are based on a number of approximations, however," says Christian Stoll, who conducts research at the Technical University of Munich (TUM) and the Massachusetts Institute of Technology (MIT).
+
+"Detective work" to track down the power consumption
+
+Therefore, a team of management sciences and informatics researchers at TUM has carried out the most detailed calculation of the carbon footprint of the Bitcoin system to date. Working like detectives, they proceeded step by step to gather conclusive data.
+
+The team began by calculating the power consumption of the network. This depends primarily on the hardware used for Bitcoin mining. "Today special systems are used, known as ASIC-based miners," explains Stoll. In 2018 the three manufacturers who control the ASIC miner market planned IPOs. The team used the mandatory IPO filings to calculate the market shares of the companies' respective products. The study also had to consider whether the mining was being done by someone running just one miner at home or in one of the large-scale "farms" set up in recent years by professional operators. "In those operations, extra energy is needed just for the cooling of the data center," says Stoll. To investigate the orders of magnitude involved, the team used statistics released by a public pool of different miners showing the computing power of its members.
+
+68 percent of computing power located in Asia
+
+The researchers determined the annual electricity consumption by Bitcoin, as of November 2018, to be about 46 TWh. And how much CO2 is emitted when this energy is generated? Here, too, the research team wanted to go beyond mere estimates. The key question, therefore: Where are the miners located?
+
+Once again, live tracking data from the mining pools provided the decisive information. "In these groups, miners combine their computing power in order to get a quicker turn in the reward for solving puzzles -- similar to people in lottery pools," explains Stoll. The IP addresses in the statistics published by the two biggest pools showed that miners tend to join pools in or near their home countries. Based on these data, the team was able to localize 68 percent of the Bitcoin network computing power in Asian countries, 17 percent in European countries, and 15 percent in North America. The researchers cross-checked this conclusion against the results of another method by localizing the IP addresses of individual miners using an internet of things search engine. They then combined their results with statistics on the carbon intensity of power generation in the various countries.
+
+"Linking large-scale mining operations to renewable energy production"
+
+The conclusion of the study: The Bitcoin system has a carbon footprint of between 22 and 22.9 megatons per year. That is comparable to the footprint of such cities as Hamburg, Vienna or Las Vegas.
+
+"Naturally there are bigger factors contributing to climate change. However, the carbon footprint is big enough to make it worth discussing the possibility of regulating cryptocurrency mining in regions where power generation is especially carbon-intensive," says Christian Stoll. "To improve the ecological balance, one possibility might be to link more mining farms to additional renewable generating capacity."
+
+Story Source:
+
+Materials provided by Technical University of Munich (TUM). Note: Content may be edited for style and length.
+
+Journal Reference:
+
+Christian Stoll, Lena Klaaßen, Ulrich Gallersdörfer. The Carbon Footprint of Bitcoin. Joule, 2019; DOI: 10.1016/j.joule.2019.05.012

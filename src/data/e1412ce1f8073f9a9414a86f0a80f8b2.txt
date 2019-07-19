@@ -1,0 +1,13 @@
+Prospective observational study comparing burn surgeons' estimations of wound healing after skin grafting to photo-assisted methods.
+Abstract
+INTRODUCTION:
+Appropriate graft healing after split-thickness skin graft and early recognition of complications (graft loss) are critical to burn patient management. Larger mesh ratio expansions and Meek micrografting may pose a greater challenge in estimating the percentage of wound healing. This study looks at the reliability of photograph assessments and the concordance of bedside evaluation to photograph assessments of wound healing after skin grafting.
+
+METHODS:
+Three assessment methods for percentage of wound healing after skin Grafting were assessed: (1) clinicians' bedside rating, (2) clinician assessment of high-definition photographs, and (3) digital image analysis through color subtraction using Adobe Photoshop. We compared each method using a mixed-effects model on absolute agreement using intra-class correlation (ICC) and Bland Altman (BA) plots.
+
+RESULTS:
+Fourteen burn patients were enrolled with 38 grafted wounds (100 sites). Bedside assessments had a mean ICC of 0.64 (compared to digital image analysis) and 0.69 (compared to photo assessment), with a wide range on BA-plots. Inter-rater reliability of photo assessment was excellent (0.96) among six clinicians. Repeated photo-assisted assessments had good intra-rater reliability (ICC: photo assessment: 0.88; digital analysis: 0.97).
+
+CONCLUSIONS:
+Bedside wound healing assessments show variability; photograph documentation of sequential wound progression could supplement active clinical management or studies for more reliable assessments.

@@ -1,0 +1,27 @@
+Apple iPhone change will make it harder for cops to crack locked phones
+
+Apple will soon close an iPhone security gap allowing access to personal data on locked iPhones, an entry point that law enforcement agencies have used to gather evidence.
+
+An upcoming iPhone software update will shut down the Lightning port on devices after the phone has been locked for one hour. After that, the port can only be used to charge the device using a power adapter.
+
+Police had been using the security loophole to crack iPhones with the help of outside technology firms. The issue first came to light when the Justice Department filed a legal action against Apple seeking its help to create a security backdoor into an iPhone used by San Bernardino gunman Syed Farook, who with his wife, Tashfeen Malik, carried out the December 2015 mass shooting that left 14 dead.
+
+FBI hacks into terrorist’s iPhone without Apple
+
+The DOJ dropped the challenge after the FBI paid a then-unidentified third party to unlock the phone. But during the legal standoff, President Trump criticized Apple for not complying with the FBI and DOJ.
+
+At the time Apple CEO Tim Cook said complying would be "too dangerous," requiring a new version of the iPhone's software that could allow anyone to unlock any iPhone they possessed. Cook has maintained his concern about the dangers of weakened security in digital devices in recent months as Facebook found itself mired in a scandal over the potential misuse of user data by political firm Cambridge Analytica.
+
+Apple, in a statement to USA TODAY, said its move to close the security gap is being taken to protect consumers, not to hinder police. “We’re constantly strengthening the security protections in every Apple product to help customers defend against hackers, identity thieves and intrusions into their personal data," the statement reads. "We have the greatest respect for law enforcement, and we don’t design our security improvements to frustrate their efforts to do their jobs."
+
+The move was first reported by various new outlets, including Reuters and The New York Times.
+
+During its annual developers conference earlier this month, Apple promised improved security measures in its iOS 12 software, due this fall, aimed to protect your private data from apps on the device.
+
+Law enforcement has increasingly used third-party tech firms to access smartphones during criminal investigations. Israeli newspaper Yedioth Ahronoth reported in 2017 that Cellebrite, an Israeli company based in Petah Tikva, a suburb of Tel Aviv, had helped the FBI unlock Farook's iPhone. Subsequently, another company, U.S. startup Grayshift, earlier this year also began touting its ability to unlock iPhones to law enforcement with its $15,000 GrayKey tool, according to media reports.
+
+The investigative drive to access locked devices won't likely subside, wrote the Manhattan District Attorney’s office in a Smartphone Encryption and Public Safety report, issued in November 2017. During the first ten months of 2017, the office said it had obtained search warrants on 1,200 devices, more than 700 of which were locked.
+
+Thousands more were held by local and state law enforcement agencies, the report says, while the FBI has about 7,000 devices – more than half of those seized during 2017. The report notes that Apple has consented to new government requirements imposed by the Chinese government, including keeping data servers within mainland China. "In other words, the only way to resolve the encryption dilemma in the United States will be through legislation, too," the report says.
+
+The Associated Press contributed to this story.

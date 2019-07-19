@@ -1,0 +1,17 @@
+'Cryoegg' to explore under Greenland Ice Sheet
+UK scientists head to Greenland this week to trial new sensors that can be placed under its 2km-thick ice sheet.
+The instruments are designed to give researchers unique information on the way glaciers slide towards the ocean.
+Dubbed "Cryoeggs", the devices will report back on the behaviour of the meltwaters that run beneath the ice.
+This water acts to lubricate the flow of glaciers, and in a warmer world could increase the volume of ice discharged to the ocean.
+This would push up global sea levels - potentially by as much as 7m, if all the ice on Greenland were to melt.
+Scientists want to understand how fast the process could unfold.
+"Our models have done a fantastic job so far in building a picture of what might happen, but they've essentially been working blind because we have so little data from the bed of the Greenland ice sheet," said Dr Liz Bagshaw from Cardiff University.
+"We have some measurements from cabled instruments and from the bottom of boreholes, but we don't have enough data to figure out what's going on across the whole of the ice sheet, to determine how much of that 7m might end up in the ocean," she told BBC News.
+It's a 1.2kg, 120mm-diameter sphere. Inside are the electronics for three sensors, to measure water temperature, pressure and conductivity.
+The egg's compact volume also contains a radio to send its data through the ice, back to the surface. A battery should enable remote working for up to a year.
+The Cardiff-led team has been developing the concept for a number of years, and it incorporates some fascinating technology choices.
+The radio system is taken from smart meters that would normally be reporting consumers' gas and electricity usage. This radio's low-frequency transmissions should better penetrate the thick ice.
+And the antenna at the ice surface that receives those radio transmissions is held in a children's climbing frame.
+"Polar expeditions require versatility," said Cardiff electrical engineer Dr Mike Prior-Jones.
+"This frame is like scaffolding for kids, so when I'm not using it for the antenna I can turn it into a workbench or into seating.
+"One of the joys of environmental science engineering is that it can be quite 'Heath-Robinson' - you won't immediately find everything you need ready-made in a Campbell Scientific (instrument) catalogue."

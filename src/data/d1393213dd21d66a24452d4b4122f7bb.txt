@@ -1,0 +1,21 @@
+Tech Tent: Facebook’s deepfake dilemma
+In a video on Instagram this week, Mark Zuckerberg confessed to controlling the stolen data of billions of people and said he owed it all to an organisation called Spectre.
+The video was of course faked, and on this week's Tech Tent we examine the dilemma it posed for Instagram's owner Facebook.
+A few weeks ago, the social media giant came under fire for allowing a doctored video of the US House Speaker Nancy Pelosi to remain up.
+So how would it react when the faked video of its founder emerged?
+The video featured the real Mark Zuckerberg, but the voice and the words emerging from his mouth were not his.
+It was the work of two artists, Daniel Howe and a man going by the name of Bill Posters, and was part of an installation on show in Sheffield this week.
+When we spoke to Bill Posters he told us that the video had been planned long before the row over Facebook's treatment of Nancy Pelosi.
+The aim was to throw a light on Facebook's business model, which involved using behavioural psychology to persuade people to share intimate details of their lives so that they could be targeted with advertising.
+"We're shining the light on Facebook and Zuckerberg himself to ask what happens now when it's your privacy and your data that's been used in obscure or unintended ways" he said.
+Unsurprisingly, Facebook did not remove the video, It said it followed the same policy as with the Nancy Pelosi video and other misinformation on its services - let third party fact-checkers determine whether it was fake, and then make it less visible in users' feeds rather than taking it down.
+Bill Posters points out that the video featured the hashtag #deepfake and was never meant to deceive anybody.
+It is hard to believe that anybody happening across this artwork with a voice which sounds nothing like Mark Zuckerberg would be fooled.
+But month by month, deepfake technology is getting ever more sophisticated.
+Soon, it will become extremely difficult to spot whether words have been put into the mouths of politicians, or whether celebrities' faces have been placed in scenes where they were not present.
+Both identifying such videos and deciding what to do about them will become an even greater challenge for Facebook's moderators, while giving the company a powerful role in determining the limits of free expression.
+Bill Posters says that means things need to change.
+"To do that it needs collective understanding of very hard, obscure, hidden technologies and methods. But it also needs regulatory oversight as well," he said.
+The call for regulation of Facebook and the other US tech giants is getting louder - from Europe in particular.
+Tech Tent also hears from European Commissioner Carlos Moedas and leading UK tech figure Hermann Hauser, who both insist that Europe is setting the pace - with the GDPR data privacy directive just one example.
+And Hermann Hauser has one radical solution to the huge power and dominant market share of Google, Amazon and Facebook - break them up.

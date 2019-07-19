@@ -1,0 +1,11 @@
+Emergency presidential alert texts could be faked, researchers say
+Fake presidential alerts could be sent to tens of thousands of phones, according to a report out of the University of Colorado Boulder.
+US presidential alerts sent out as nationwide emergency text messages could be vulnerable to hacks, according to researchers at the University of Colorado Boulder. The university has already alerted US government officials to the security problem.
+Wireless Emergency Alerts (WEA) are geographically targeted messages that alert mobile users in the US about missing children (via Amber Alerts), severe weather and presidential announcements of national emergencies.
+In a test of the presidential alert messaging system, the Federal Emergency Management Agency (FEMA) famously sent out a message nationwide from President Donald Trump in Oct. 2018. Hawaii was the victim of a false alert about an incoming ballistic missile in January of last year.
+Now CU Boulder is saying presidential alert messages could be spoofed. Researchers say they found a backdoor that let them mimic alerts and blast fake messages to people confined to a small area, such as a city block or a sports stadium.
+"Sending the emergency alert from the government to the cell towers is reasonably secure," said Sangtae Ha, assistant professor in the Department of Computer Science and co-author of the research report. "But there are huge vulnerabilities between the cell tower and the users."
+The researchers developed software mimicking the presidential alert format and then used commercially available wireless transmitters to send the messages to phones within their radius. The team had a success rate of hitting 90% of all phones in the area it tested.
+"We only need to broadcast that message into the right channel, and the smartphone will pick it up and display it," Ha said, adding that it could be sent to tens of thousands of phones.
+The researchers tested across both the Apple iPhone X and Samsung Galaxy S8.
+FEMA didn't immediately respond to a request for comment.

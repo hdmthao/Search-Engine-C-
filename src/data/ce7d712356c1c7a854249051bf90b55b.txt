@@ -1,0 +1,15 @@
+Knowledge about dietary supplements and trust in advertising them: Development and validation of the questionnaires and preliminary results of the association between the constructs.
+BACKGROUND:
+Despite offering little overall benefit and emerging concerns about their safety, dietary supplements have become increasingly popular. Trust in advertising them may contribute to high confidence in dietary supplements in public opinion.
+
+AIM:
+To develop and validate a screening questionnaire intended for the general public regarding knowledge about dietary supplements and a questionnaire on trust in advertising dietary supplements, and to identify the association between these constructs.
+
+MATERIALS AND METHODS:
+The development and validation of the measures was overseen by the panels of experts. The conceptual frameworks of the constructs were scientifically well grounded. A set of semi-structured interviews and anonymous web-based surveys was performed. The final questionnaire was applied to 220 non-medically educated people and 121 medically educated people.
+
+RESULTS:
+A 17-item questionnaire on knowledge about dietary supplements and eight-item questionnaire on trust in advertising dietary supplements were developed. The measures presented satisfactory proof of validity, however, the psychometric properties of the questionnaire on knowledge were modest. Both the knowledge about dietary supplements in the study group and trust in advertising them were low. A significant negative relationship was found between knowledge about dietary supplements and trust in advertising them among the general public (Pearson's r = -0.42, 95%CI: -0.52 to -0.30, p<0.0001). This association was especially pronounced in people who reported not taking dietary supplements (Pearson's r = -0.61, 95%CI: -0.76 to -0.39, p<0.0001).
+
+CONCLUSIONS:
+The extensive advertising of dietary supplements appears to be in conflict with promoting evidence-based knowledge about them, which raises substantial concerns for the public health. The results of the study are only preliminary and require further confirmation and exploration.

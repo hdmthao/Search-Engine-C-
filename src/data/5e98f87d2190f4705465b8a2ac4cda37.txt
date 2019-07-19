@@ -1,0 +1,46 @@
+April 25, 2019
+The Giant Galaxy Around the Giant Black Hole
+Galaxy M87
+The galaxy M87, imaged here by NASA's Spitzer Space Telescope, is home to a supermassive black hole that spews two jets of material out into space at nearly the speed of light. The inset shows a close-up view of the shockwaves created by the two jets.
+Credits: NASA/JPL-Caltech/IPAC
+Full image and caption
+On April 10, 2019, the Event Horizon Telescope (EHT) unveiled the first-ever image of a black hole's event horizon, the area beyond which light cannot escape the immense gravity of the black hole. That giant black hole, with a mass of 6.5 billion Suns, is located in the elliptical galaxy Messier 87 (M87). EHT is an international collaboration whose support in the U.S. includes the National Science Foundation.
+
+This image from NASA's Spitzer Space Telescope shows the entire M87 galaxy in infrared light. The EHT image, by contrast, relied on light in radio wavelengths and showed the black hole's shadow against the backdrop of high-energy material around it.
+
+Located about 55 million light-years from Earth, M87 has been a subject of astronomical study for more than 100 years and has been imaged by many NASA observatories, including the Hubble Space Telescope, the Chandra X-ray Observatory and NuSTAR. In 1918, astronomer Heber Curtis first noticed "a curious straight ray" extending from the galaxy’s center. This bright jet of high-energy material, produced by a disk of material spinning rapidly around the black hole, is visible in multiple wavelengths of light, from radio waves through X-rays. When the particles in the jet impact the interstellar medium (the sparse material filling the space between stars in M87), they create a shockwave that radiates in infrared and radio wavelengths of light but not visible light. In the Spitzer image, the shockwave is more prominent than the jet itself.
+
+Galaxy M87
+The galaxy M87 looks like a hazy, blue space-puff in this image from NASA's Spitzer Space Telescope. At the galaxy's center is a supermassive black hole that spews two jets of material out into space.
+Credits: NASA/JPL-Caltech/IPAC
+Full image and caption
+The brighter jet, located to the right of the galaxy's center, is traveling almost directly toward Earth. Its brightness is amplified due to its high speed in our direction, but even more so because of what scientists call "relativistic effects," which arise because the material in the jet is traveling near the speed of light. The jet's trajectory is just slightly offset from our line of sight with respect to the galaxy, so we can still see some of the length of the jet. The shockwave begins around the point where the jet appears to curve down, highlighting the regions where the fast-moving particles are colliding with gas in the galaxy and slowing down.
+
+The second jet, by contrast, is moving so rapidly away from us that the relativistic effects render it invisible at all wavelengths. But the shockwave it creates in the interstellar medium can still be seen here.
+
+Located on the left side of the galaxy's center, the shockwave looks like an inverted letter "C." While not visible in optical images, the lobe can also be seen in radio waves, as in this image from the National Radio Astronomy Observatory's Very Large Array.
+
+Galaxy M87
+This wide-field image of the galaxy M87 was taken by NASA's Spitzer Space Telescope. The top inset shows a close-up of two shockwaves, created by a jet emanating from the galaxy’s supermassive black hole. The Event Horizon Telescope recently took a close-up image of the silhouette of that black hole, show in the second inset.
+Credits: NASA/JPL-Caltech/Event Horizon Telescope Collaboration
+Full image and caption
+By combining observations in the infrared, radio waves, visible light, X-rays and extremely energetic gamma rays, scientists can study the physics of these powerful jets. Scientists are still striving for a solid theoretical understanding of how gas being pulled into black holes creates outflowing jets.
+
+Infrared light at wavelengths of 3.6 and 4.5 microns are rendered in blue and green, showing the distribution of stars, while dust features that glow brightly at 8.0 microns are shown in red. The image was taken during Spitzer's initial "cold" mission.
+
+The Jet Propulsion Laboratory in Pasadena, California, manages the Spitzer Space Telescope mission for NASA's Science Mission Directorate in Washington. Science operations are conducted at the Spitzer Science Center at Caltech in Pasadena. Space operations are based at Lockheed Martin Space Systems in Littleton, Colorado. Data are archived at the Infrared Science Archive housed at IPAC at Caltech. Caltech manages JPL for NASA.
+
+More information on Spitzer can be found at its website:
+
+http://www.spitzer.caltech.edu/
+
+Calla Cofield
+Jet Propulsion Laboratory, Pasadena, Calif.
+626-808-2469
+calla.e.cofield@jpl.nasa.gov
+
+2019-074
+
+Last Updated: April 26, 2019
+Editor: Tony Greicius
+Tags:  Black Holes, Galaxies, Jet Propulsion Laboratory, Spitzer Space Telescope, Universe

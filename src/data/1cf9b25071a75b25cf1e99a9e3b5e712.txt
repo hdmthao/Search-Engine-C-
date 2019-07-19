@@ -1,0 +1,48 @@
+Waymo will add up to 62,000 FCA minivans to self-driving fleet
+
+SAN FRANCISCO — Waymo's self-driving mission is about to mushroom.
+
+The Alphabet-owned autonomous car company announced Thursday that it is significantly ramping up its partnership with Fiat Chrysler and over time will add up to 62,000 Pacifica Hybrid minivans to its fleet. 
+
+That's a significant bump from a January announcement in which Waymo, which started out as Google's self-driving car project in 2009, said it would add "thousands" of new FCA minivans. 
+
+The news speaks to the quickening pace of Waymo's development of fully self-driving vehicles, which have been testing around the Phoenix area for more than a year. Currently, a select group of users have been demoing Waymo's self-driving ride hailing service, but the company plans to open it to the public in the Arizona city laster this year.
+
+There are as yet no details on how such a service would work and cost, but ride hailing companies such as Uber and Lyft have also been pushing hard in the self-driving car tech space because removing the driver from ride hailing would radically improve their bottom line.
+
+“Waymo's goal from day one has been to build the world’s most experienced (artificial) driver and give people access to self-driving technology that will make our roads safer,” Waymo CEO John Krafcik said in a statement.
+
+More: Warning, drivers: Your car can cruise on its own, but you're still responsible
+
+More: Tesla, Uber crashes spotlight automatic emergency braking. Here's what it won't do.
+
+Sergio Marchionne, CEO of Fiat Chrysler, added that strategic partnerships with technology-focused companies — a popular approach for big automakers of late — "will help to drive innovative technology to the forefront.”  
+
+So far, FCA has provided Waymo with around 600 minivans, which are built to Waymo's specifications to accommodate the installation of the company's various autonomous car sensors — namely radar, cameras and LiDAR, or light detection and ranging lasers. Those sensors help self-driving cars see their environment and react accordingly.
+
+Autonomous car testing was thrust into the spotlight in March when an Uber self-driving Volvo SUV killed a pedestrian in Tempe, Ariz. Uber immediately halted all of its autonomous testing, and then pulled out of Arizona altogether.
+
+The ride hailing company says it will resume testing in San Francisco, Pittsburgh and Toronto after federal investigations into the crash are completed.
+
+A preliminary report indicated that while Uber's sensors detected the pedestrian well before the actual collision, the car's computer wasn't sure how to categorize what it was seeing and delayed its reactions.
+
+Recent crashes of Tesla automobiles while on Autopilot — the electric automaker's name for its driver-assist features that require human oversight — have renewed discussion about how technology is changing the driver experience.
+
+While many driver assist features such as lane keeping and adaptive cruise control can ease fatigue and even save a driver in an emergency, some of the Tesla accidents suggest drivers often abdicate their responsibilities and get distracted by other tasks.
+
+The two executives are standing in front of a white Jaguar I-Pace SUV with Waymo logos and visible self-driving sensor hardware.
+Waymo CEO John Krafcik and Jaguar Land Rover CEO Ralf Speth with a Jaguar I-Pace fitted with Waymo's self-driving technology. (Photo: Jaguar Land Rover)
+
+A recent Tesla crash in Utah was the result of the driver not touching any controls for 80 seconds — she said she was looking at her phone — until the vehicle slammed into a stopped fire truck at 80 mph. 
+
+Automakers appear torn between touting new driver-assist features in futuristic ads while also warning drivers in manuals and with visual and audio prompts that they must stay focused on the road.
+
+Such features, categorized as Level 2 systems, are different from autonomous systems being developed by Waymo and others, which are considered Level 4 and 5 systems and do not require driver input.
+
+Some companies will begin testing self-driving cars without safety drivers in some states, and have suggested future cars will not have steering wheels or pedals.
+
+While Waymo has built and tested a prototype two-person car that has no controls, its growing fleet of consumer-facing vehicles will be far more traditional. Besides the growing partnership with FCA for Pacifica minivans, Waymo has also inked an agreement with Jaguar Land Rover for 20,000 I-PACE vehicles.
+
+To date, Waymo self-driving cars have logged 6 million miles on public roads and 5 billion miles in simulations.
+
+So far, what accidents that have been reported by the company and authorities involving Waymo cars largely been the fault of human drivers hitting the Waymo car, typically from behind after they thought the Waymo car was going to proceed. 

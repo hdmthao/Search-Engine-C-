@@ -1,0 +1,25 @@
+How archaeologists determine the date of ancient sites and artifacts
+From radiocarbon dating to comparing designs across the ages, archaeologists gather clues to calculate the age of artifacts.
+Ask an archaeologist how old the site they’re excavating is, and they may not have an answer. Though they may have a hunch, a site can only be accurately dated after it’s been discovered and excavated.
+
+Determining a site’s archaeological age isn’t always easy, but researchers have a variety of relative techniques—methods that provide a rough chronology—and absolute ones—more accurate ways to prove an object’s age—at their disposal.
+Relative dating
+Relative techniques were developed earlier in the history of archaeology as a profession and are considered less trustworthy than absolute ones. There are several different methods.
+
+In stratigraphy, archaeologists assume that sites undergo stratification over time, leaving older layers beneath newer ones. Like a layer cake or slice of lasagna, a site’s lower layers are assumed to be older than those that lie above them. Archaeologists use that assumption, called the law of superposition, to help determine a relative chronology for the site itself. Then, they use contextual clues and absolute dating techniques to help point to the age of the artifacts found in each layer. (Learn how archaeologists dated the earliest metal body part in Europe.)
+Seriation, in which groups of artifacts from the same site are statistically analyzed and put into chronological order, can also point to a site’s age. Objects can be grouped based on style or frequency to help determine a chronological sequence.
+
+Relative dating has its limits. Its techniques are often subjective, and an artifact’s location within a site or relative to other objects may not reflect its actual chronological age, as things may have gotten shifted around at some point in time. For a more precise date, archaeologists turn to a growing arsenal of absolute dating techniques.
+
+Absolute dating
+Perhaps the most famous absolute dating technique, radiocarbon dating was developed during the 1940s and relies on chemistry to determine the ages of objects. Used on organic matter, the technique measures the amount of radioactive carbon decay to determine an object’s age. Its inventor, Willard Libby, eventually won a Nobel Prize for his discovery.
+
+Thermoluminescence dating measures how many years have elapsed since the heating of a material containing a crystalline mineral. The technique can provide dates for sediments, ceramics, and other materials. Dendochronology, the study of tree rings, can date wooden structures or objects.
+A variety of other chemistry-based techniques can also be used. In some cases, archaeologists also find dates written on objects or recorded in historical records to provide absolute dates. (Discover how researchers figured out when pre-historic footprints were left in Canada.)
+
+Absolute dating has its drawbacks: Techniques can be expensive and provide less clarity than their name might suggest. Radiocarbon dating, for example, can only be performed on objects younger than 62,000 years old, only results in date ranges, and can be thrown off when objects come into contact with younger organic material. Nonetheless, newer dating techniques have expanded archaeologists’ ability to home in on sites’ ages and histories.
+
+Putting these tools together
+Relative and absolute dating techniques are often combined, as when a historical chronicle or pottery style is used to provide a more precise date for an object that has been placed within a 500-year range by a chemical technique. (Here's how archaeologists are unraveling the mystery of Roanoke Island.)
+
+Since most absolute dating techniques use samples of material uncovered during an excavation, archaeologists may attempt to come up with a rough date while a site is still being examined. This process, which relies on contextual information, is known as spot dating. This data can guide absolute dating later in the process.

@@ -1,0 +1,16 @@
+Vitamin D suppresses cellular pathways of diabetes complication in liver.
+Abstract
+OBJECTIVES:
+The aim of this study was to investigate the effect of vitamin D on glucose metabolism, as well as the expression of five key genes involved in the development of diabetes complications in liver tissue of diabetic rats.
+
+MATERIALS AND METHODS:
+Twenty-four male Sprague-Dawley rats were randomly divided into three groups (8 rats in each group). The first group served as control and the other two groups received an intraperitoneal injection of 45 mg/kg streptozotocin to develop diabetes. Groups were treated for four weeks either with placebo or vitamin D (two injections of 20000 IU/kg). Thereafter, serum levels of glucose, insulin and HbA1c were assessed. Liver tissue was examined for the level of advanced glycation end products (AGEs) and the gene expression of AGE cellular receptor (AGER), glyoxalase-1 (GLO-1), aldose reductase (AR), O-linked N-acetylglucosamine transferase (OGT) and glutamine/ fructose-6-phosphate aminotransferase (GFAT).
+
+RESULTS:
+Vitamin D injection resulted in a significant increase in plasma level of 25-hydroxycholecalciferol, which could improve hyperglycemia about 11% compared to placebo-receiving diabetic rats (P=0.005). Insulin level increased as a result of vitamin D treatment compared to control (3.31±0.65 vs. 2.15±0.79; P= 0.01). Serum HbA1c and liver AGE concentrations had a slight but insignificant reduction following vitamin D intake. Moreover, a significant decline was observed in gene expression of AGER and OGT in liver tissue (P=0.04 and P<0.001 respectively).
+
+CONCLUSION:
+Vitamin D might contribute in ameliorating diabetes complications not only by improving blood glucose and insulin levels, but also by suppressing AGER and OGT gene expression in the liver.
+
+KEYWORDS:
+Advanced glycation end – products; Cholecalciferol; Diabetes complications; Hexosamine pathway Vitamin D

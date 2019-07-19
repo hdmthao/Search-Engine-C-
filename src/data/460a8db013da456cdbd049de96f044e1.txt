@@ -1,0 +1,22 @@
+Images from Sun's edge reveal origins of solar wind
+Ever since the 1950s discovery of the solar wind - the constant flow of charged particles from the sun - there's been a stark disconnect between this outpouring and the sun itself. As it approaches Earth, the solar wind is gusty and turbulent. But near the sun where it originates, this wind is structured in distinct rays, much like a child's simple drawing of the sun. The details of the transition from defined rays in the corona, the sun's upper atmosphere, to the solar wind have been, until now, a mystery. Using NASA's Solar Terrestrial Relations Observatory, or STEREO, scientists have for the first time imaged the edge of the sun and described that transition, where the solar wind starts. Defining the details of this boundary helps us learn more about our solar neighborhood, which is bathed throughout by solar material - a space environment that we must understand to safely explore beyond our planet. A paper on the findings was published in The Astrophysical Journal on Sept. 1, 2016.
+
+"Now we have a global picture of solar wind evolution," said Nicholeen Viall, a co-author of the paper and a solar scientist at NASA's Goddard Space Flight Center in Greenbelt, Maryland. "This is really going to change our understanding of how the space environment develops."
+
+Both near Earth and far past Pluto, our space environment is dominated by activity on the sun. The sun and its atmosphere are made of plasma - a mix of positively and negatively charged particles which have separated at extremely high temperatures, that both carries and travels along magnetic field lines. Material from the corona streams out into space, filling the solar system with the solar wind.
+
+But scientists found that as the plasma travels further away from the sun, things change: The sun begins to lose magnetic control, forming the boundary that defines the outer corona - the very edge of the sun.
+
+"As you go farther from the sun, the magnetic field strength drops faster than the pressure of the material does," said Craig DeForest, lead author of the paper and a solar physicist at the Southwest Research Institute in Boulder, Colorado. "Eventually, the material starts to act more like a gas, and less like a magnetically structured plasma."
+
+The breakup of the rays is similar to the way water shoots out from a squirt gun. First, the water is a smooth and unified stream, but it eventually breaks up into droplets, then smaller drops and eventually a fine, misty spray. The images in this study capture the plasma at the same stage where a stream of water gradually disintegrates into droplets.
+
+Before this study, scientists hypothesized that magnetic forces were instrumental to shaping the edge of the corona. However, the effect has never previously been observed because the images are so challenging to process. Twenty million miles from the sun, the solar wind plasma is tenuous, and contains free-floating electrons which scatter sunlight. This means they can be seen, but they are very faint and require careful processing.
+
+In order to resolve the transition zone, scientists had to separate the faint features of the solar wind from the background noise and light sources over 100 times brighter: the background stars, stray light from the sun itself and even dust in the inner solar system. In a way, these images were hiding in plain sight.
+
+Images of the corona fading into the solar wind are crucial pieces of the puzzle to understanding the whole sun, from its core to the edge of the heliosphere, the region of the sun's vast influence. With a global perspective, scientists can better understand the large-scale physics at this critical region, which affect not only our planet, but also the entire solar system.
+
+Such observations from the STEREO mission - which launched in 2006 - also help inform the next generation of sun-watchers. In 2018, NASA is scheduled to launch the Solar Probe Plus mission, which will fly into the sun's corona, collecting more valuable information on the origin and evolution of the solar wind.
+
+STEREO is the third mission in NASA Heliophysics Division's Solar Terrestrial Probes program, which is managed by Goddard for the Science Mission Directorate, in Washington, D.C.

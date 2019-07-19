@@ -1,0 +1,19 @@
+
+Alarming and unnecessary: Facebooks new cryptocurrency must be resisted
+Contact author
+
+
+Wed 19 Jun 2019 15.30BST
+
+
+Last modified on Wed 19 Jun 2019 16.12BST
+
+
+Have you heard about Facebooks new cryptocurrency, called Libra? Its basic pitch boils down to we messed up your privacy and gave your data to all sorts, and let foreign actors screw up your elections  now lets see what we can do with banking!
+Thats the quick way to view its announcement of Libra, which will be operated by Calibra, a new Facebook subsidiary. David Marcus, the brain behind it at Facebook, used the companys typically humble phrasing to explain it thus: The mission for Libra is a simple global currency and financial infrastructure that empowers billions of people.
+You probably thought that we already had a global currency and financial infrastructure, and youd be right: a loose alliance of banks and central banks around the world keeps the lights on and the bills paid. So why does Facebook want to tear it all down?
+Libra isnt, strictly, a cryptocurrency (for tediously technical reasons). Unlike the yo-yoing bitcoin, its value is set against a basket of what well call real currencies such as the peso, pound and dollar; thats decided by the Libra Association of about 100 organisations including Facebook, Visa, Mastercard, eBay, PayPal, Spotify, Uber and others. Theyve each paid at least $10m to be involved and thus endowed the project with a $1bn pot.
+Essentially, Calibra will print lots of digital numbered banknotes, and youll buy them (with real money) and transfer them to someone else in exchange for some service or good; they can then either convert them back to real money, or use them to buy something from someone, who can then either convert them to real money, or use them to  you get the idea. Its like buying credits on Xbox, PlayStation or Nintendo, except youll have to prove your identity to Facebook via a passport or national ID card.
+The aims are far loftier than buying games: From the beginning, Calibra will let you send Libra to almost anyone with a smartphone, as easily and instantly as you might send a text message and at low-to-no cost, says the Facebook announcement. At this, tens of millions of people in Africa, India and Afghanistan will roll their eyes. Theyve been sending money  real money, not tokens  to each other on mobile phones (not even smartphones) since 2007 via SMS, using the M-Pesa system, which doesnt require banks or Facebook.
+What else? In time, we hope to offer additional services for people and businesses, like paying bills with the push of a button, buying a cup of coffee with the scan of a code or riding your local public transit without needing to carry cash or a metro pass. Of course, millions of people across Europe and Asia already do this every day, paying with their phone or even smartwatch. To know why Facebook thinks this is revelatory you have to understand that the US has only recently shifted from swiping credit cards to chip-and-pin; people in shops there look at you strangely if you wave your phone at the card reader.
+And as for paying bills with the push of a button, only those ensconced in the primitive US banking system could think that was smart. Its a place that relies on paper cheques so heavily that if 

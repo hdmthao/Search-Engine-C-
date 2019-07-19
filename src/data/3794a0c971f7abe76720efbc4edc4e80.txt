@@ -1,0 +1,23 @@
+Russian hackers targeted Ukraine's water supply, security service claims
+Officials say the attack targeted "critical infrastructure" and could have caused a "man-made disaster" if it had been successful.
+By Alexander J Martin, technology reporter
+
+An overflow station that cleans Ukraine's water supply has been targeted by Russian hackers, officials have claimed.
+
+The Security Service of Ukraine said Kremlin-sponsored attackers targeted "critical infrastructure" that sanitises the nation's clean water.
+
+"In close cooperation with the administration of the company, [the Ukrainian security service] managed to prevent a potential man-made disaster," the agency added.
+
+There is an ongoing campaign of hostile cyber activities targeting Ukraine which appear to have originated in Russia - but this seems to be the first which directly put water sanitation at risk.
+
+VPNFilter, the malware that security services discovered to be behind the attack, is modular. This means it can be deployed with different features for espionage, as well as cause damage to the systems it infiltrates.
+
+It was first detected in May by Talos Intelligence, the security arm of computer networking company Cisco.
+At the time, the Ukrainian security service warned that the Russian government was preparing an enormous cyber attack targeting the Champions League final, although this did not occur.
+
+That would have taken place a year after another "powerful" cyber attack on the country spread across the world, taking down Chernobyl's radiation monitoring system in the process.
+
+Earlier this year, the UK and the US attributed that attack - known as NotPetya - to the Russian government, which annexed the Crimean peninsula in eastern Ukraine in 2014.
+Many of the large cyber attacks targeting Ukraine have been launched around national holidays, in addition to power grid attacks which were staged shortly before Christmas in 2015 and 2016.
+
+A recent warning about intrusions into internet infrastructure issued by the National Cyber Security Centre suggested the Russian government was attempting to hack into the UK's critical national infrastructure for the first time.

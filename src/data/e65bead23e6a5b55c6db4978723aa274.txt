@@ -1,0 +1,32 @@
+First accurate simulation of a virus invading a cell
+For the first time, scientists know what happens to a virus' shape when it invades a host cell, thanks to an experiment by researchers at Penn State College of Medicine and University of Pittsburgh School of Medicine. Understanding how the virus shape changes could lead to more effective anti-viral therapies. The experiment was designed to investigate how a virus' protein shell -- its capsid -- changes as it prepares to inject its genetic material into a cell. These altered virus particles are known as A-particles, or virus entry intermediates.
+
+In previous experiments, exposing a virus to extreme heat or proteins caused the shape of the entire capsid to change. These were the closest observable simulations to a virus invading a cell that had been devised at the time.
+
+"Using these lab tricks, my lab and those of other researchers were able to create high-resolution structures of the altered virus particles, but all of these tricks were triggering the capsid from all directions," said Susan Hafenstein, assistant professor of medicine and microbiology and immunology, Penn State College of Medicine.
+
+Hafenstein hypothesized that in a more realistic simulation, only the part of the virus that interacted with receptors on the cell would change shape.
+
+In the new experiment, Hafenstein and her coinvestigators simulated the surface of a cell by using mock membranes called nanodiscs. They inserted human cell receptors protein molecules that let outside signals into the cell -- into the nanodiscs, the first time this has been done to capture a virus capsid. The results were reported in a recent edition of the journal Science Advances.
+
+"This particular receptor has a long tail that it buries into the cell membrane," Hafenstein explained. "In our experiment, it buried its tail into the nanodisc, giving us a mock membrane displaying the appropriate receptor to bind to the virus."
+
+The researchers then added virus capsids to the receptor membranes and observed the resulting changes to the capsid using an imaging technique called cryo-electron microscopy.
+
+When the thousands of 2D images they took were reassembled into a 3D capsid -- a process much like a CAT scan -- they found that previously observed shape changes happened only at the where the receptors bound to the virus.
+
+"Our work shows that a pore opens up only at that one point of interaction with the host cell," Hafenstein said. "And that's what's going to set up the capsid to release the genetic material into the cell. We think we have captured the first physiologically accurate virus capsid prepared to enter the host. All the ones that we had studied previously showed changes taking place all over the capsid."
+
+A recent advance to cryo-electron microscopy -- direct electron detecting -- made the observation possible.
+
+"This way of taking images has allowed us to take really fast images that can then be corrected into perfect data," Hafenstein said. "Now we can get atomic resolution using cryoEM."
+
+The researchers used a virus called coxsackievirus B3 (CVB3) in their experiment. CVB3 is a type of picornavirus, a family of rapidly mutating small RNA viruses that causes illnesses ranging from the common cold to pancreatitis to polio.
+
+RNA viruses -- a group that also includes HIV -- change every time they replicate. These highly-mutating viruses can escape antiviral medications.
+
+The ultimate goal is to understand intricacies in the steps of the virus life cycle, such as how the virus enters the host cell, and to direct antivirals to those specific steps, Hafenstein said. "Then, if the virus mutates away to escape the drug, it will also lose the ability to enter the cell."
+
+Next, Hafenstein's group plans to use a larger nanodisc to capture the process of the virus interacting with the mock membrane.
+
+"Because the nanodiscs in this set of experiments were so small, we're not getting the best picture of the interaction, and that's one place to improve," she said. This, she hopes, will reveal "the most important step--figuring out what triggers the release of the RNA into the cell."

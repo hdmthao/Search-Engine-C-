@@ -1,0 +1,56 @@
+Questions mount for Facebook — and Mark Zuckerberg isn't answering them
+A data mining firm's alleged misuse of Facebook user data is ballooning into one of the highest-profile crises that the social media giant has ever faced. Yet Facebook's highest-profile executives have so far been noticeably absent from the conversation.
+
+Since Cambridge Analytica was accused this weekend of misappropriating data linked to 50 million accounts in an attempt to sway users' political opinions, Facebook has faced questions from Congress and the Federal Trade Commission and has seen its stock price drop by around 10%.
+
+But the company's chief executive, Mark Zuckerberg, and chief operating officer, Sheryl Sandberg, have remained silent. Neither has issued a public statement, and neither addressed employees at a company meeting about the controversy Tuesday.
+
+In their place, high-ranking managers with much less name recognition have taken to Twitter to defend the company — with mixed results.
+
+It's a tactic that Eden Gillott Bowe, president of crisis management firm Gillott Communications, likened to "a really expensive, high-stakes game of chess."
+
+In times of scandal, it's not unusual for a company to send out a lower-ranking official with knowledge on the issue to speak rather than a top executive, Gillott Bowe said. The hope is that lower-ranking staff can quell concerns without risking more valuable pieces.
+
+"If you start bringing in the king and queen, then it sends the message that this is a much bigger story than we thought it was going to be, it elevates the issue, and it creates a whole new news cycle," she said.
+
+When this practice works, the news cycle moves on and people quickly forget that there was ever an issue to begin with. But if the mounting pressure on Facebook and the company's falling stock price are anything to go by, the company's efforts at explaining away the controversy have so far failed to calm regulators and investors.
+
+The day before news broke of Cambridge's alleged activities, Facebook released a statement, attributed to deputy general counsel Paul Grewal, announcing that it had suspended the data mining firm for violating company guidelines.
+
+Facebook's head of hardware, Andrew Bosworth, added on Twitter that Facebook was committed to "vigorously enforcing" its policies and "will take whatever steps are required to see that this happens." A day later, he tweeted to clarify that the violation was not a data breach and on Monday posted on his Facebook page a lengthy explanation of Cambridge Analytica's violations and the steps he says his company is taking to protect user data.
+
+Alex Stamos, Facebook's chief security officer, took to Twitter on Sunday to reiterate that Cambridge Analytica's violation of Facebook guidelines did not constitute a data breach. Hours later, he deleted those tweets, and wrote that he did so "not because they were factually incorrect but because I should have done a better job weighing in."
+
+He went on: "I'm going to step away from this one. I really care about privacy and security, as well as platform openness, freedom from censorship and stopping authoritarians who use the internet as a weapon. I just wish I was better about talking about these things in the reality of 2018."
+
+On Tuesday, Stamos was again on Twitter, disputing reports that he plans to leave Facebook because of disagreements with Sandberg over how the social network can halt the spread of misinformation.
+
+Throughout all this, Zuckerberg and Sandberg stayed mum.
+
+Despite being prolific Facebook users, Sandberg last posted on Saturday about being at a kids' debate day, and Zuckerberg last posted on March 2, commemorating Passover.
+
+Neither Stamos, Bosworth, nor Facebook responded to a request for comment. It is unclear whether Facebook encouraged or was aware of the employees' tweets before they were published.
+
+Executive silence after a scandal can help or hurt a company, according to crisis management experts. Speaking too soon — and claiming too much responsibility — can potentially put an executive on the hook when it comes to litigation and depositions.
+
+Dan Hill, the chief executive of communications strategy firm Hill Impact, gave the example of Mary Barra, who became CEO of General Motors around the time it issued safety recalls because of deadly ignition switches. After claiming full responsibility for the company's problems, "she was never able to get away from it," Hill said.
+
+"She became the centerpiece of it. She was the spokesperson for the company. On the one hand it may look like you're showing leadership, but if you're the spokesperson during the crisis, it can also be hugely distracting," he said.
+
+Zuckerberg might be familiar with the downside of a knee-jerk response. Days after the 2016 presidential election, he dismissed concerns that the dissemination of fake news on social media influenced the outcome of the election, telling an audience at a technology conference that it was a "pretty crazy idea." A year later, he expressed regret at his comments and admitted that Facebook "played a far bigger role in this election."
+
+Facebook announced Monday that it had hired a digital forensics firm to investigate the Cambridge Analytica matter. The firm paused its efforts at the request of the British Information Commissioner's Office, which is now conducting its own investigation.
+
+In a statement sent to ABC News, Facebook said: "Mark, Sheryl and their teams are working around the clock to get all the facts and take appropriate action moving forward, because they understand the seriousness of this issue."
+
+But staying silent for too long — especially when other communication efforts have failed to quell the controversy — can also do damage.
+
+"The longer you stay silent, the more guilty you look," said Gillott Bowe. "It's not always fair, but that's the way it works."
+
+It's not just a matter of looking guilty, either. Andrew Gilman, founder of the CommCore Consulting Group, said that executives with the power and influence of Zuckerberg and Sandberg have a responsibility to show that they care about their users and are taking steps to address the issue.
+
+"It sounds like a playbook answer, but people really care about that kind of thing," Gilman said.
+
+He likened their silence to going to church and not hearing the standard prayers; audiences are quick to realize that something is missing.
+
+"There's no such thing as 'no comment,'" Gilman said. "No comment, or lack of comment, can be perceived as damaging. And given that Facebook is all about communication, one would expect something."
