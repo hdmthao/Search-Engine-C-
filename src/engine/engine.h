@@ -4,7 +4,6 @@
 #include "../searcher/searcher.h"
 #include "../speller/speller.h"
 #include "../suggester/suggester.h"
-#include "../ui/loadui/loadui.h"
 
 #include <vector>
 #include <string>
@@ -28,8 +27,8 @@ public:
     
 
     // Searcher 
-    bool Loading(LoadUI* loadui);
-
+    // bool Loading(LoadUI* loadui);
+    bool Loading();
 
     // Speller
     bool StartSpeller();

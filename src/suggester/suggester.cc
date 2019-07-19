@@ -56,7 +56,6 @@ bool Suggester::Start() {
         getline(fi, time_s,',');
         unsigned short int rank = std::stoul(rank_s);
         unsigned int time = std::stoul(time_s);
-        // std::cout << query << " " << rank << " " << time << "\n";
         InsertQuery(query, rank, time);
     }
     fi.close();
