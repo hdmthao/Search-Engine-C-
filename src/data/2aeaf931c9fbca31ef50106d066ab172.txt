@@ -1,0 +1,19 @@
+Microsoft's new OneDrive Personal Vault ups your cloud storage security
+Microsoft's storage service wants to take over the space Dropbox is exiting.
+
+Microsoft building
+Microsoft's head is up in the clouds.
+
+Matthias Balk/picture alliance via Getty Images
+It seems when one box closes, another box opens. Microsoft announced Tuesday it will add a new feature to its OneDrive cloud storage service called Personal Vault, which provides a secure solution for your most sensitive and important data. This new service may fill a vacuum left by Dropbox's recent transition from its original online data storage model to a central collaboration hub.
+
+Your Personal Vault.
+
+Microsoft
+Personal Vault is essentially a partitioned sector of your OneDrive account that requires a strong password or two-factor authentication for entry. This could be face or fingerprint scan, a PIN or code sent via SMS, or via the Microsoft Authenticator app. (The basic OneDrive account just needs a single password to sign in, although users can opt for two-factor authentication.)
+
+While its basic 5GB free account will remain unchanged, OneDrive is increasing the amount of storage in its basic plan from 50GB to 100GB without increasing its $1.99-per-month fee. Whether you have a paid or free OneDrive account, Personal Vault will be available to you, according to a Microsoft representative. Office 365 subscribers who already get 1TB of storage as part of their subscription can also increase their available storage as needed in 200GB increments, starting at $1.99 and going up to an additional 1TB for $9.99.
+
+One small hitch in Personal Vault's quest to be everyone's secure storage: It's available to Windows 10 users running version 1903 and higher with the OneDrive sync client 19.106 or above, but Mac users are relegated to access it only via their browsers at onedrive.com. There's also a OneDrive app for both Android and iOS.
+
+Microsoft says Personal Vault will be available "soon" in Australia, Canada and New Zealand, spreading to the rest of the world by the end of 2019.

@@ -1,0 +1,31 @@
+How crowdsourcing is helping to improve the troublesome last mile of e-commerce delivery
+This is a preview of a research report from Business Insider Intelligence, Business Insider's premium research service. To learn more about Business Insider Intelligence, click here.
+As the steady rise of e-commerce pushes logistics companies and their retail partners to deliver more parcels, faster, speedy delivery is becoming a major competitive advantage.
+
+And no company has capitalized on this opening like Amazon, which has made a name for itself in fulfillment with its Prime and Prime Now delivery offerings. Now, Amazon's retail competitors — and their logistics partners — are exploring new models and technologies in a race to meet consumers' growing demand for faster delivery. Crowdsourced delivery is one model gaining popularity — it leverages local, nonprofessional couriers to get packages to customers' doors, sometimes in less than an hour.
+
+This model allows companies to satisfy consumers' growing demand for faster online deliveries. Younger consumers, in particular, who have grown up in a digital, on-demand economy have high expectations for fast delivery. A survey released earlier this year by American Express and Forrester found that 57% of North American internet users aged 23-27 said same-day delivery would make them more loyal to a retailer's brand, and 56% of respondents aged 16-22 said the same.
+
+These Gen Z and younger Gen Y consumers will make up the bulk of shoppers within the next decade, with Gen Z alone expected to be the largest generation by 2026, according to A.T. Kearney. Additionally, 25% of online shoppers surveyed in a study by research firm L2 said they'd abandon a shopping cart if a retailer didn't offer same-day delivery. This growing demand will drive up same-day delivery volumes to account for $200 billion in US online sales — about 25% of the US e-commerce market — by 2025, according to McKinsey.
+
+Many crowdsourced delivery startups, like Postmates, Instacart, and Deliv, have sprung up around the world, and have collectively attracted several billion dollars in investment. Each works in a slightly different way, but they all follow a similar blueprint for executing deliveries:
+
+Once an order is placed on a crowdsourced delivery company's app — either by the customer or a retailer — the delivery is assigned to one of the part-time couriers using the app. Couriers can either bid to accept a delivery, or may be automatically assigned one based on their proximity to the pickup location.
+After the order is picked and packed, the assigned courier delivers it to the recipient, using their own vehicle. The pickup and delivery can be made "on-demand," meaning right away, or scheduled for a specific time window, such as between 5 p.m. and 6 p.m.
+The recipient or courier then confirms that the order has been safely delivered, and the courier receives compensation from the delivery company.
+In this report, Business Insider Intelligence examines the rise of the crowdsourcing model in the last-mile delivery space, which is becoming a crucial segment of the logistics industry with the growth of e-commerce. We detail the top use cases for crowdsourced deliveries, as well as the benefits and challenges of using this model for delivering online orders. We also provide some insights into how crowdsourced deliveries can be better optimized for retail e-commerce deliveries. And lastly, we explain the long-term potential of the startups populating the crowdsourced delivery space as automation starts to play a bigger role in the last mile.
+
+Here are some of the key takeaways from the report:
+
+Retailers are looking for ways to deliver goods faster to consumers' doorsteps to stave off Amazon's threat and meet customer expectations.
+To accomplish that, retailers and delivery providers are zeroing in on the "last mile" of fulfillment, the most expensive and time-consuming part of the delivery process, which is when a package reaches the customer's address.
+Startups like Postmates, Instacart, and others are looking to disrupt the last-mile delivery space by leveraging the "Uber model," and connecting businesses to nonprofessional couriers who can deliver goods instantly.
+Crowdsourcing can drastically speed up deliveries in urban areas, where there is a high density of deliveries and potential couriers to be matched.
+However, as delivery volumes increase, crowdsourced delivery startups will need to further optimize their deliveries to improve cost efficiencies.
+Many of the deliveries these startups perform today will likely be automated in the future, raising the possibility that these startups may eventually look to incorporate new technologies like delivery drones or self-driving delivery vehicles.
+In full, the report:
+
+Details the factors driving investment and growth in crowdsourced delivery startups.
+Examines the benefits and drawbacks of using crowdsourcing to deliver online orders.
+Explains how crowdsourced delivery startups can improve their cost efficiencies to tackle greater delivery volumes
+Explores the role that crowdsourcing will play in the future of delivery once automated delivery options, like drones and robots, arrive.

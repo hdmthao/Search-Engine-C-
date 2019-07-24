@@ -1,0 +1,18 @@
+Pre-saving music online can cost you privacy, report says
+“Pre-saving” albums and singles is an increasingly common part of the promotional process for big music releases – but many users do not realise they are paying for that access with their personal data, a report has warned.
+
+A pre-save is the streaming music equivalent of a pre-order: before a big release hits services such as Spotify or Apple Music, fans are encouraged to save the album to their library, ensuring it will be immediately available the second it is launched.
+
+Promoted through mailing lists, social media accounts and artist websites, a pre-save typically involves the fan clicking a link to “sign in with Spotify” to enable the record label to automatically save the album to their user account on the streaming service.
+
+But the access granted to the label goes far beyond simply adding tracks to a music library, industry publication Billboard has warned. To pre-save a new Little Mix single, for instance, users were asked to give Sony Music 17 permissions, including the continuous ability to view their entire library, what music they’re playing, and the device they’re playing it on, as well as their email address and who they follow on the device.
+
+Only one permission, to “add and remove items in Your Library”, is actually needed to pre-save an item.
+
+Glastonbury 2019: Friday with Stormzy, George Ezra and Sheryl Crow – as it happened
+ Read more
+The benefits of a pre-save for the user are sometimes unclear, since it is just as easy to save an album once it is already out, and there is no risk of digital streaming services selling out of a release. But the benefits for the labels are clear: access to significant, ongoing information about the music tastes of fans, which could be used to shape future signings, personalise marketing, and keep an eye on upcoming trends.
+
+“Pre-save campaigns, which boost the first-week listening that can drive strong chart debuts, quickly became a music business marketing staple after Spotify added the feature as part of a 2017 update to its API, the software that allows online programs to share data,” Billboard reported. “But the feature has also become a way for major labels, and sometimes other rights holders, to get data on listeners.”
+
+Not every platform is ripe for this use. Apple Music limits the amount of information labels can get from the platform, and prevents them from reading users’ email addresses even with permission.

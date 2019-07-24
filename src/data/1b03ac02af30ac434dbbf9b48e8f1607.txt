@@ -1,0 +1,45 @@
+The mantis shrimp's perfect shield
+How it's inspiring a new class of lightweight, impact-resistant materials
+Date:
+June 10, 2019
+Source:
+University of California - Riverside
+Summary:
+The shield-like tail segment, or telson, of the smasher mantis shrimp is a multiscale structure with ridges on the outside and a structure shaped like a spiral staircase on the inside. It's inspiring a new class of lightweight, impact-resistant materials for helmets, cars, and more
+How do you protect yourself from the perfect striking weapon? You develop the perfect shield.
+
+If you're a mantis shrimp with a clublike arm tough enough to crack clamshells, you'd better not get into any fights with your pals. But the tiny crustaceans, among the ocean's feistiest creatures, can't resist taking swipes at each other over habitat, so they evolved a specialized shield in their tail segment called a telson that absorbs the blows. The telson is a multiscale structure with ridges on the outside and a structure shaped like a spiral staircase on the inside. It's inspiring a new class of lightweight, impact-resistant materials for helmets, cars, and more.
+
+Research led by David Kisailus, the Winston Chung Endowed Professor in Energy Innovation at UC Riverside's Marlan and Rosemary Bourns College of Engineering; and Pablo Zavattieri, a professor and University Faculty Scholar at Purdue's Lyles School of Civil Engineering have unlocked the telson's secret -- with an eye toward creating better materials for sports, aerospace, and a multitude of other applications.
+
+Kisailus, whose lab investigates biological composite structures as inspiration for new materials, said a paper by Duke University's Sheila Patek about the telson's ability to absorb energy, inspired him to investigate the role multiscale architectural features have on impact resistance.
+
+Some species of mantis shrimp, called smashers because of their powerful dactyl club, inhabit cavities in coral reefs. Competition for the limited number of suitable caves is fierce and the mantis use their telson to protect themselves from devastating blows. Less aggressive types of mantis shrimp, called spearers -- after the appendage they use to stab prey -- also have a telson. Spearers live in the sand, which is abundant, and thus have fewer conflicts over habitat.
+
+Kisailus, the lead researcher of a multi-university grant funded by the Air Force Office of Scientific Research, and his team initiated the studies of both the large-scale architecture as well as the internal structure of both types of telson and subjected each to mechanical testing. They found a helicoidal structure within this specialized shield that prevents cracks from growing and ultimately dissipates significant amounts of energy from strikes to avoid catastrophic failure. The helicoidal, or twisted plywood-like, structure is similar to one the researchers previously identified in the smasher's dactyl club that allows it to crack clamshells without breaking itself.
+
+"For over a decade, we have been studying the dactyl club of the smashing type of mantis shrimp. We realized that if these organisms were striking each other with such incredible forces, the telson must be architected in such a way to act like the perfect shield," Kisailus said. "We found that not only did the telson of the smasher contain the helicoid microstructure, but there were significantly more layers in the smashing type than the spearing type."
+
+Zavattieri added there is always a trade-off between amount of material required for protection and lightweight capacity for fast deployment as demonstrated by the smasher.
+
+"Having access to one the most efficient materials architectures, such as the helicoid, in conjunction with a clever geometry, makes this another winner solution found by nature," he said.
+
+The researchers also revealed the function of highly curved ridges, called carinae, that run the length of the telson in the smashing mantis by performing mechanical tests on the telson as well as 3D printed replicas of its structure.
+
+"When we observed the carinae, it was obvious that they stiffened the telson along its long axis," Kisailus said. "However, we found that the carinae also allowed the telson to flex inward when forces were applied perpendicular to its long axis. This enabled us to discover the non-obvious function of these ridges, which was to absorb significant amounts of energy during a strike. Pablo's models then validated our hypotheses."
+
+Zavattieri applied simple mechanics principles and computational modeling to understand the role of the carinae.
+
+"We found that these geometrical features can lead to both stiffening or softening structural behavior. These competing mechanisms are in principle counter-intuitive, and there is still more to learn from these species," Zavattieri said. "Moreover, these principles can then be applied to applications where lightweight impact protection is needed."
+
+Kisailus and his team have been incorporating the findings into development of highly impact-resistant materials for use in helmets and other structural materials.
+
+"It is a very exciting time for us as we have engaged with multiple entities, including aerospace, sports, and automotive teams, who are interested in implementing this technology," Kisailus said. "Two of my team members are currently working with the Air Force Research Labs to make lighter, stronger materials."
+
+Story Source:
+
+Materials provided by University of California - Riverside. Original written by Holly Ober. Note: Content may be edited for style and length.
+
+Journal Reference:
+
+Nicholas A. Yaraghi, Adwait A. Trikanad, David Restrepo, Wei Huang, Jesus Rivera, Steven Herrera, Mikhail Zhernenkov, Dilworth Y. Parkinson, Roy L. Caldwell, Pablo D. Zavattieri, David Kisailus. The Stomatopod Telson: Convergent Evolution in the Development of a Biological Shield. Advanced Functional Materials, 2019; 1902238 DOI: 10.1002/adfm.201902238

@@ -1,0 +1,27 @@
+https://www.businessinsider.com/florida-city-paid-600k-hackers-shows-us-unprepared-for-threat-2019-6
+
+A Florida city paid a $600,000 bitcoin ransom to hackers who took over its computers — and it's a massive alarm bell for the rest of the US
+Sinéad Baker 12m 
+
+A Florida city's council voted to pay a ransom of $600,000 in Bitcoin to hackers that targeted its computer systems — and the payout is a sign of how unprepared much of the US is to deal with a coming wave of cyber attacks. 
+The city council of Riviera Beach, 50 miles north of Fort Lauderdale, voted on Monday to meet the demands of their hackers in the hope of getting back their compromised data, CBS News reported. 
+According to The Palm Beach Post, the attack began on May 29, when a employee from the police department opened an email attachment that contained malware. 
+The software quickly spread through the city's computer systems, affecting its email system and even the 911 dispatch operations. 
+The New York Times reported that the hackers demanded their ransom in bitcoin. The paper noted that there is no guarantee that hackers will honor their end of the deal after getting the money. 
+CBS reported that the council already voted to spend $1 million on new computers after the attack. 
+A spokeswoman for the city told the New York Times that it was working with law enforcement and security consultants. "We are well on our way to restoring the city system," she said. 
+Riviera Beach is a stark example, but far from the only US city to be crippled by a cyber attack. 
+Security experts in the federal government and the private sector have repeatedly warned that much of the US public infrastructure is dangerously exposed to cyber attacks, but many institutions are slow to respond. 
+The city of Baltimore is one of the highest-profile victims, and has spent much of the past month paralyzed by a cyber attack which froze a large chunk of its computer network. 
+The attack began in early May, shutting down infrastructure for its email systems and the payment of water bills. 
+As recently as June 12, local media reported that 30% of city employees still had no email access, and many services would not return to full functionality for months. The city's latest estimate is that the attack has cost it more than $18 million. 
+Hackers had demanded Baltimore pay a $76,000 ransom, but the city refused. 
+Elsewhere, a ransomware attack on Atlanta in March 2018 ultimately cost the city some $2.6 million. 
+Albany in New York, San Diego in California, Sarasota in Florida, and a Los Angeles hospital have also faced similar attacks. 
+Tyler Moore, a University of Tulsa cybersecurity professor, told The Guardian in June that "attackers have found a playbook that is working." They continue to target smaller governments until they find some that are vulnerable and are willing to pay. 
+The US Department of Security warned in 2018 that governments around the US were being hit by malware that is "among the most costly and destructive." 
+Small-scale attacks like these, while damaging themselves, could also be a precursor to something larger. 
+Last month, Business Insider published an extensive feature describing how a large-scale cyber attack — particularly one targeted at the electricity grid — could cripple the US. 
+Some experts believe that US cyber-defenses will continue to be ignored until an attack so catastrophic that people are forced to take notice. 
+James Andrew Lewis, a senior vice president and technology director at the Center for Strategic and International Studies, told Business Insider: "I'm often asked: How many people have died in a cyberattack? Zero. 
+"Maybe that's the threshold. People underappreciate the effects that aren't immediately visible to them." 

@@ -1,0 +1,40 @@
+Examining ethical issues surrounding wearable brain devices marketed to consumers
+Date:
+May 22, 2019
+Source:
+Cell Press
+Summary:
+Wearable brain devices are now being marketed directly to consumers and often claim to confer benefits like boosting memory and modulating symptoms of depression. A team of neuroethicists looked at the range of products being sold online and questioned the claims made by companies about these products.
+Wearable brain devices are now being marketed directly to consumers and often claim to confer benefits like boosting memory and modulating symptoms of depression. But despite the size of this market, little is known about the validity of these claims and, substantiated or not, the related ethical consequences or repercussions.
+
+In a perspective being published in the journal Neuron on May 22, a team of neuroethicists looked at the range of products being sold online and questioned the claims made by companies about these products. They identified 41 devices for sale, including 22 recording devices and 19 stimulating devices. The goal of the project was to look at issues of transparency, rights, and responsibility in the way these products are marketed and sold.
+
+"When it comes to biotechnology, and in particular brain technology, there is a heightened level of responsibility around ethical innovation," says senior author Judy Illes, a professor of Neurology and Canada Research Chair in Neuroethics at the University of British Columbia. "The great news is that it doesn't cost a lot of money to innovate ethically: it just takes some more thought, good messaging, and consideration of potential consequences. There are many experts who are poised to help this industry in a practical, solution-oriented way. It's worth it for companies to take the time to do it right."
+
+The authors established four general categories for the claims about wearable brain devices:
+
+Wellness: benefits like stress reduction, improved sleep, and weight loss
+Enhancement: including improved cognition and productivity and greater physical performance
+Practical applications: uses like research and enhanced worker safety
+Health: improvement of conditions such as those affecting behavior and attention, as well as certain neurodegenerative diseases
+Despite wide-ranging claims, there have been few studies evaluating the scientific validity of any of them. The authors didn't seek to evaluate the products' effectiveness in this review. Instead, they looked at how manufacturers could communicate the potential outcomes from using these devices -- both positive and negative -- in a more ethically responsible way.
+
+The neuroscience wearables market has parallels to other direct-to-consumer medical products. This includes herbs and supplements, home genetic testing kits, so-called wellness CT scans, and "keepsake" 3D ultrasounds offered to pregnant women. By marketing them for wellness or recreation rather than health, companies that sell these products and services are able to avoid regulatory oversight from agencies such as the Food and Drug Administration.
+
+"We have concerns, however, that people could turn to these devices rather than seeking medical help when they might actually need it," Illes notes. "They may also choose these devices over conventional medical treatments that they have been offered. There are a lot of potential effects that we don't know much about."
+
+Symptoms and side effects that could result from use of these products include redness or other irritation where the devices contact the skin, headaches, pain, tingling, and nausea. Some of the products mention the possibility of side effects in their packaging, but there haven't been any studies looking at how common or serious the effects may be.
+
+The researchers note that warning labels advising consumers about risk are largely lacking. "I would consider this an important, responsible message to consumers, but as far as I know, few of these products have it," Illes says.
+
+Illes and her team believe that because some of these products are marketed for children, who may be particularly vulnerable to their effects on the brain, extra caution is needed. "Their bodies and brains are still developing," she says. "What are the claims for these products and how do we manage and appreciate them both for their potential benefits and possible risks?" Additional caution may also be needed for use of neuroscience wearables in the elderly, another population that may have a higher risk of potential harm.
+
+There are also issues related to neuroscience wearable products that record brain activity. "How are these data used, and who has access to them?" Illes asks. "These are things we don't know. We should be asking these questions."
+
+Story Source:
+
+Materials provided by Cell Press. Note: Content may be edited for style and length.
+
+Journal Reference:
+
+Iris Coates McCall, Chloe Lau, Nicole Minielly, Judy Illes. Owning Ethical Innovation: Claims about Commercial Wearable Brain Technologies. Neuron, 2019; 102 (4): 728 DOI: 10.1016/j.neuron.2019.03.026

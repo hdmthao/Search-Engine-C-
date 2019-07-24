@@ -1,0 +1,16 @@
+New service improves cloud storage usage on mobile devices
+New service improves cloud storage usage on mobile devices
+Published: Thursday, September 8, 2016 - 05:10 in Mathematics & Economics
+A new service developed at Binghamton University, State University of New York could improve performance of mobile devices that save data to the cloud. Storage and computing power is limited on mobile devices, making it necessity to store data in the cloud. However, with the myriad of apps from a myriad of developers that use the cloud, the user experience isn't always smooth. Battery life can be taxed due to extended synchronization times and clogged networks when multiple apps are trying to access the cloud all at the same time.
+
+"We may be using many different apps developed by different developers that make use of cloud storage services, whereas on PCs we tend to use apps offered by the official providers. This app and developer diversity can cause problems due to a developer's inexperience and/or carelessness," said Yifin Zhang, assistant professor of computer science at Binghamton University's Thomas J. Watson School of Engineering and Applied Science.
+
+Zhang and a team of Binghamton University researchers designed and developed StoArranger, a service to intercept, coordinate and optimize requests made by mobile apps and cloud storage services. StoArranger works as a "middleware system," so there is no change to how apps or an iPhone or Android-device run, just improved performance of both the device and the network overall. Essentially, StoArranger takes cloud storage requests--either to upload a file or to open a file for editing--and orders them in the best way to save power, get things completed as quickly as possible and minimize the amount of data used to complete the tasks.
+
+Even though the work could affect millions of mobile devices and users-- e.g. Microsoft's cloud computing and storage system Azure had 10 trillion objects stored on its servers as of January 2015--it is only a promising first step in the development of StoArranger, which isn't commercially available. Further research is scheduled for evaluation experiments, and a full paper will be submitted later this year.
+
+"We are planning on developing an app for public use," Zhang said. "We are trying to solve problems without changing operating systems or the existing apps, which makes our solution practical and scalable to existing smartphone users."
+
+Zhang presented the paper with Binghamton PhD candidates Yongshu Bai and Xin Zhang, both co-authors of the paper, at the proceedings of the seventh ACM SIGOPS Asia-Pacific Workshop on Systems (APSys '16) in Hong Kong in August.
+
+"The programming committee thought the work presented is a good demonstration of the negative effects of the way that current cloud storage providers chose to deploy their services," said Zhang. "The solution we proposed could be a practical way to solve the problem."

@@ -1,0 +1,40 @@
+Study finds increased ocean acidification due to human activities
+Oceanographers from MIT and Woods Hole Oceanographic Institution report that the northeast Pacific Ocean has absorbed an increasing amount of anthropogenic carbon dioxide over the last decade, at a rate that mirrors the increase of carbon dioxide emissions pumped into the atmosphere. The scientists, led by graduate student Sophie Chu, in MIT's Department of Earth, Atmospheric, and Planetary Sciences, found that most of the anthropogenic carbon (carbon arising from human activity) in the northeast Pacific has lingered in the upper layers, changing the chemistry of the ocean as a result. In the past 10 years, the region's average pH has dropped by 0.002 pH units per year, leading to more acidic waters. The increased uptake in carbon dioxide has also decreased the availability of aragonite -- an essential mineral for many marine species' shells.
+
+Overall, the researchers found that the northeast Pacific has a similar capacity to store carbon, compared to the rest of the Pacific. However, this carbon capacity is significantly lower than at similar latitudes in the Atlantic.
+
+"The ocean has been the only true sink for anthropogenic emissions since the industrial revolution," Chu says. "Right now, it stores about 1/4 to 1/3 of the anthropogenic emissions from the atmosphere. We're expecting at some point the storage will slow down. When it does, more carbon dioxide will stay in the atmosphere, which means more warming. So it's really important that we continue to monitor this."
+
+Chu and her colleagues have published their results in the Journal of Geophysical Research: Oceans.
+
+Tipping the scales
+
+The northeast Pacific, consisting of waters that flow from Alaska's Aleutian Islands to the tip of southern California, is considered somewhat of a climate canary -- sensitive to changes in ocean chemistry, and carbon dioxide in particular. The region sits at the end of the world's ocean circulation system, where it has collected some of the oldest waters on Earth and accumulated with them a large amount of dissolved inorganic carbon, which is naturally occurring carbon that has been respired by marine organisms over thousands of years.
+
+"This puts the Pacific at this already heightened state of high carbon and low pH," Chu says.
+
+Add enough atmospheric carbon dioxide into the mix, and the scales could tip toward an increasingly acidic ocean, which could have an effect first in sea snails called pteropods, which depend on aragonite (a form of calcium carbonate) to make their protective shells. More acidic waters can make carbonate less available to pteropods.
+
+"These species are really sensitive to ocean acidification," Chu says. "It's harder for them to get enough carbonate to build their shells, and they end up with weaker shells, and have reduced growth rates."
+
+Protecting shells
+
+Chu and her colleagues originally set out to study the effects of ocean acidification on pteropods, rather than the ocean's capacity to store carbon. In 2012, the team embarked on a scientific cruise to the northeast Pacific, where they followed the same route as a similar cruise in 2001. During the month-long journey, the scientists collected samples of pteropods, as well as seawater, which they measured for temperature, salinity, and pH.
+
+Upon their return, Chu realized that the data they collected could also be used to gauge changes in the ocean's anthropogenic carbon storage. Ordinarily, it's extremely difficult to tease out anthropogenic carbon in the ocean from carbon that naturally arises from breathing marine organisms. Both types of carbon are classified as dissolved inorganic carbon, and anthropogenic carbon in the ocean is miniscule compared to the vast amount of carbon that has accumulated naturally over millions of years.
+
+To isolate anthropogenic carbon in the ocean and observe how it has changed through time, Chu used a modeling technique known as extended multiple linear regression -- a statistical method that models the relationships between given variables, based on observed data. The data she collected came from both the 2012 cruise and the previous 2001 cruise in the same region.
+
+She ran a model for each year, plugging in water temperature, salinity, apparent oxygen utilization, and silicate. The models then estimated the natural variability in dissolved inorganic carbon for each year. That is, the models calculated the amount of carbon that should vary from 2001 to 2012, only based on natural processes such as organic respiration. Chu then subtracted the 2001 estimate from the 2012 estimate -- a difference that accounts for sources of carbon that are not naturally occurring, and are instead anthropogenic.
+
+Sinking carbon
+
+The researchers found that since 2001, the northeast Pacific has stored 11 micromoles per kilogram of anthropogenic carbon, which is comparable to the rate at which carbon dioxide has been emitted into the atmosphere. Most of this carbon is stored in surface waters. In the northern part of the region in particular, anthropogenic carbon tends to linger in shallower waters, within the upper 300 meters of the ocean. The southern region of the northeast Pacific stores carbon a bit deeper, within the top 600 meters.
+
+Chu says this shallow storage is likely due to a subpolar gyre, or rotating current, that pushes water up from the deep, preventing surface waters from sinking. In contrast, others have observed that similar latitudes in the Atlantic have stored carbon much deeper, due to evaporation and mixing, leading to increased salinity and density, which causes carbon to sink.
+
+The team calculated that the increase in anthropogenic carbon in the upper ocean caused a decrease in the region's average pH, making the ocean more acidic as a result. This acidification also had an effect on the region's aragonite, decreasing its saturation state over the last decade.
+
+While the total amount of anthropogenic carbon appears to be increasing with each year, Chu says the rate at which the northeast Pacific has been storing carbon has remained relatively the same since 2001. That means that the region could still have a good amount of "room" to store carbon, at least for the foreseeable future. But already, her team and others are seeing in the acidification trends the ocean's negative response to the current rate of carbon storage.
+
+"It would take hundreds of thousands of years for the ocean to absorb the majority of CO2 that humans have released into the atmosphere," Chu says. "But at the rate we're going, it's just way faster than anything can keep up with."

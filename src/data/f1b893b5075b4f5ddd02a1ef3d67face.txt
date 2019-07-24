@@ -1,0 +1,20 @@
+Antibody discovery could help create improved flu vaccines
+Farber Cancer Institute investigators report they have discovered a type of immune antibody that can rapidly evolve to neutralize a wide array of influenza virus strains - including those the body hasn't yet encountered. The body's ability to make the adaptable antibody suggests potential strategies for creating improved or even "universal" influenza vaccines, according to a team led by Wayne A. Marasco, MD, PhD, a cancer immunologist and virologist at Dana-Farber, reporting in the journal Nature Communications.
+
+The novel infection-fighting protein, named 3I14 mAb, is a "broadly neutralizing antibody," so-called because it can recognize and disable a diverse group of the 18 different strains of influenza virus that circulate around the globe. Marasco reported the discovery of broadly neutralizing antibodies in 2009.
+
+According to the new report, the 3I14 antibody demonstrated it could neutralize the two main types of influenza A virus, group 1 and 2, and protected mice against lethal doses of the virus.
+
+The 3I14 antibody is made by the human immune system's "memory" B cells - white blood cells that circulate in the blood and reside in the spleen and bone marrow. When a person is exposed to an infectious agent, or receives a vaccine made from pieces of that agent, B cells that respond to the invaders can generate a memory of the specific type or strain. Pools of these memory B cells constitute a reserve defensive force that can quickly recognize and attack the microbe or virus should it enter the body again.
+
+Unlike most infectious agents that can be protected against with a one-time vaccination, influenza is a shape-shifting virus that constantly and rapidly mutates, and also combines with other flu viruses from animals and birds. The shape changing occurs every flu season and is responsible for seasonal flu that we are vaccinated against yearly. The more dramatic changes that occur when new viruses emerge from animal and bird reservoirs are responsible for potentially more serious pandemics such as occurred in 2009.
+
+The discovery of the new broadly neutralizing antibody came after Marasco and his colleagues took blood samples from seven blood bank donors that were shown to harbor these types of antibodies in their blood and challenged their immune B cells in the laboratory with an array of flu viruses. The researchers ultimately identified one B cell population "that recognized all the strains we screened against it," Marasco said. Sorting through the B cells' DNA, the scientists isolated the gene that carried the instructions for the 3I14 antibody.
+
+The antibody proved that it could bind to the unchanging stem portion of flu viruses. And the antibody's genetic makeup gave it the flexibility to adapt or evolve, through mutations, to neutralize a myriad of flu viruses.
+
+The investigators challenged the B cells with a bird flu virus of the H5 type that the immune cells had never encountered. While the 3I14 antibody didn't initially bind strongly to the virus, the researchers introduced a single DNA mutation - a change in one letter of genetic code - that increased its binding strength to H5 by 10 times. "To our delight, we made one mutation and it did the job," Marasco said. "This was a simple mutation that would readily occur in nature."
+
+What these results suggest, he said, is that the memory B cells of the immune system may be continuously diversifying through mutations. As a result, he said, through this mechanism, B cells "may lay down immunologic memory that can recognize all virus strains, present and future."
+
+Ideally, Marasco said, vaccination strategies could be devised to build up in individuals a pool of memory B cells that aren't committed to making a single antibody type; instead, "you would hope to store B cells that have broad activity that, with minimum activity, can recognize all strains."

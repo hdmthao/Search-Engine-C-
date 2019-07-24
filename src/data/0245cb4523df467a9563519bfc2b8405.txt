@@ -1,0 +1,14 @@
+Amazon sued over Alexa child recordings in US
+Amazon is being sued over its smart assistant's recordings of children.
+Two US cases allege the firm lacks consent to create voiceprints that could let it keep track of a youngster's use of Alexa-enabled devices and thus build up a "vast level of detail about the child's life".
+Amazon has said it only stores data once a device-owner has given it permission to do so.
+And it says parents can delete a child's profile and recordings.
+Lawyers involved in the cases are seeking damages for the two plaintiffs involved, as well as others who are being invited to join the class-action lawsuits in nine states where it's claimed Amazon is in breach of privacy laws.
+Amazon said in January more than 100 million devices featuring Alexa had been sold worldwide, ranging from its own Echo speakers to third-party products including headphones, fridges and televisions.
+"Amazon has a longstanding commitment to preserving the trust of our customers and their families, and we have strict measures and protocols in place to protect their security and privacy," a spokeswoman told the BBC.
+Software on enabled devices listens out for a wake word - which can be set to be Alexa, Amazon or computer. If it is detected, audio captured just prior to the wake word as well as what was said immediately afterwards, is transmitted to Amazon's computer servers for processing.
+Because mistakes are sometimes made, recordings can be transmitted when the wake word is not actually used.
+The recordings are stored, allowing Amazon to use them to create a model of a user's voice characteristics to help the service learn to adapt to quirks in the different ways different people make requests as well as to provide tailored responses to different users in the home.
+Registered users can prevent this happening by withdrawing consent. They also have the option to actively train the system to better recognise their voice by repeating a series of phrases.
+Human operators listen to some of the clips to tag them in order to help the machine-learning system involved become more accurate.
+Users can delete stored utterances via an app or via Amazon's website. In addition, they can ask Alexa to delete the last recording or last day's worth of recordings via a voice command.

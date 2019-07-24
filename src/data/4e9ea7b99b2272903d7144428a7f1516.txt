@@ -1,0 +1,24 @@
+Male chemistry primes females for reproduction -- but at a cost
+A research team led by a Northwestern University scientist has discovered that male animals, through their invisible chemical "essence," prime female animals for reproduction but with the unfortunate side effect of also hastening females' aging process. "The male signals trigger the female to 'go for it' -- to put more effort into reproduction -- but then the body suffers," said Ilya Ruvinsky, of the department of molecular biosciences at Northwestern's Weinberg College of Arts and Sciences. "There is a fine balance between reproduction and body maintenance, and this balance can be tipped by the male. We now are starting to tease apart this complexity."
+
+Using the tiny transparent roundworm C. elegans, a well-established model for biomedical research, Ruvinsky and Erin Z. Aprison identified two distinct signals produced by males that affect female reproduction. The females sense the signals and respond by altering their physiology.
+
+"We were investigating how animals reproduce under conditions that are closer to natural environments than the cushy life in the laboratory when we found this," Ruvinsky said. "One signal causes an earlier onset of puberty in juvenile females. The other slows down aging of the reproductive system in mature females, keeping them fertile longer. However, it also speeds up aging of the body."
+
+A male animal doesn't even have to be present to cause these changes in a female -- a miniscule amount of two male pheromones is enough to affect aging. Pheromones are small molecules produced and released by animals into the environment to alter the physiology or behavior of other members of the species. Although the signals target reproduction, even sterile females -- ones without eggs -- experience these profound changes.
+
+"Our results regarding puberty onset echo previous findings in mice," Ruvinsky said. "In mammals, males also produce signals that manipulate the timing of sexual maturation of females. This raises an intriguing possibility that a basic mechanism controlling the rate of sexual development is similar in all animals. Because of this universality, our findings may have implications for humans."
+
+Fortunately, the research suggests that the effects on sexual maturation, the reproductive system and overall body health can be separated, providing an area for future study. Understanding these basic mechanisms could lead to therapies that delay puberty and prolong fertility in humans as well as combat aging.
+
+The study offers a simple explanation for a curious biological phenomenon: Male signals do not so much aim to harm females, but instead act to maximize females' readiness for reproduction.
+
+"The harmful effects appear to be collateral damage, rather than the goal," Ruvinsky said.
+
+Ruvinsky and Aprison used genetics and imaging to characterize female responses to male signals, including prolonged fertility and decreased longevity. They also demonstrated that steroid hormones, which are involved in a wide variety of developmental and physiological processes in all animal species, play a key role in converting a male signal into faster sexual maturation in females.
+
+The researchers conducted their work using C. elegans because this simple organism of barely 1,000 cells is easy to manipulate, has a short lifespan and offers a tremendous arsenal of experimental tools. This laboratory workhorse, affectionately called "the worm," has previously yielded numerous insights into basic biological phenomena that have dramatic implications for human health.
+
+The study will be published online Sept. 8 by the life sciences journal Current Biology. The research also will appear in print in the Oct. 24 issue.
+
+The paper is titled "Sexually antagonistic male signals manipulate germline and soma of C. elegans hermaphrodites." The research was conducted at the University of Chicago, with which Ruvinsky and Aprison were affiliated before moving to Northwestern.

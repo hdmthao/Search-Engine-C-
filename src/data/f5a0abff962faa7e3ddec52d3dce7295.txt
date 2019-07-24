@@ -1,0 +1,37 @@
+Brains of birds synchronize when they sing duets
+Date:
+June 12, 2019
+Source:
+Max-Planck-Gesellschaft
+Summary:
+Vocal control areas in the brain of weaver birds fire in time when they sing together.
+When a male or female white-browed sparrow-weaver begins its song, its partner joins in at a certain time. They duet with each other by singing in turn and precisely in tune. A team led by researchers from the Max Planck Institute for Ornithology in Seewiesen used mobile transmitters to simultaneously record neural and acoustic signals from pairs of birds singing duets in their natural habitat. They found that the nerve cell activity in the brain of the singing bird changes and synchronizes with its partner when the partner begins to sing. The brains of both animals then essentially function as one, which leads to the perfect duet.
+
+White-browed sparrow-weavers (Plocepasser mahali) live together in small groups in trees in southern and eastern Africa. Each bird has a roosting nest with an entrance and an exit. The dominant pair will have a breeding nest which is easily recognisable by the fact that one passage is closed to prevent eggs from falling out. In addition to the dominant pair, there are up to eight other birds in the group that help build nests and raise the young. All group members defend their territory against rival groups through duets of the dominant pair and choruses together with the helpers.
+
+White-browed sparrow-weavers are one of the few bird species that sing in duet. It was assumed that some cognitive coordination between individuals was required to synchronise the syllables in the duet, however the underlying neuronal mechanisms of such coordination were unknown.
+
+Miniature transmitters enable recording under natural conditions
+
+"White-browed sparrow-weavers cannot develop their complex social structure in the laboratory. We were therefore only able to investigate the mechanisms of the duet singing in the natural habitat of the birds," says Cornelia Voigt, one of the three lead authors of the study. Because of this, researchers and technicians at the Max Planck Institute for Ornithology in Seewiesen developed mobile microphone transmitters to record the singing in the wild. These weigh only 0.6 g and were attached to the bird like a backpack.
+
+With another newly developed transmitter, weighing only 1 g, the scientists could also make a synchronous record of the brain activity in the birds while they were singing in their natural environment. An antenna placed near the birds' tree recorded up to eight of these signals in parallel. With the help of an external sound card and a laptop, the singing and the brain signals were synchronously recorded with millisecond precision. "The technology we have developed must withstand the extreme conditions of the Kalahari Savannah in northern South Africa," says Susanne Hoffmann, a scientist in the Department of Behavioural Neurobiology. "The electronics for recording the signals were stored in a car. During the day, it got so hot that the laptop almost began to glow. But the recordings all worked well, even when the birds and their transmitters were caught in one of the few downpours."
+
+Brain activity of the duetting birds synchronizes
+
+Lisa Trost, also a scientist in the department, says: "Fortunately, the procedure for fixing the implants for neuronal measurements on the heads of the birds did not take long. After complete recovery, the respective bird was quickly returned to the group and did not lose its social status. All birds sang in the tree immediately after their return." The researchers recorded almost 650 duets. In many cases, the males began with the song and the partner joined in after some introductory syllables. The syllables between the duetting pair followed each other without delay and in perfect coordination. The coordination was so precise that analysis showed only a 0.25s delay between the duetting partners' singing bouts.
+
+The singing of songbirds is controlled by a network of brain nuclei, the vocal control system. In one of these nuclei, the HVC, the call of the partner bird triggers a change in neuronal activity in the bird that began singing. This, in turn, affects its own singing. The result is a precise synchronization of the brain activity of both birds. "The rhythmic duet of the individuals is achieved through sensory information that comes from the partner," says Manfred Gahr, who led the study. The brains of the partners form a network that functions like an extended circuit to organize the temporal pattern for the duet. The researchers suspect that similar mechanisms are also responsible for coordinating movement during social interactions in humans (e.g. dancing with a partner).
+
+"Until now, this kind of study has only been performed in the laboratory. Measuring the activity of nerve cells in the field using wireless transmitters is much less stressful for the birds," says Susanne Hoffmann. "We hope this study has laid the foundation for the further development of neuroethology."
+
+Story Source:
+
+Materials provided by Max-Planck-Gesellschaft. Note: Content may be edited for style and length.
+
+Related Multimedia:
+
+Images of Plocepasser mahali pair and research setup
+Journal Reference:
+
+Susanne Hoffmann, Lisa Trost, Cornelia Voigt, Stefan Leitner, Alena Lemazina, Hannes Sagunsky, Markus Abels, Sandra Kollmansperger, Andries Ter Maat, Manfred Gahr. Duets recorded in the wild reveal that interindividually coordinated motor control enables cooperative behavior. Nature Communications, 2019; 10 (1) DOI: 10.1038/s41467-019-10593-3

@@ -1,0 +1,39 @@
+Big tech vs. free speech? It's not that simple
+After Facebook’s Opens a New Window.  and other social media Opens a New Window.  companies’ recent moves to ban Louis Farrakhan, Alex Jones, Milo Yiannopoulos and other extremists some pundits are calling for the end of the safe harbor that allows the companies to moderate content, while others are calling for more active regulation of big tech Opens a New Window.  companies.
+
+These sorts of government interventions would chill online speech and represent a seismic shift in the way the internet works, to the detriment of everyone.
+
+MORE FROM FOXBUSINESS.COM...
+APPLE'S STOCK IS HAVING ITS WORST MONTH OF THE YEAR. HERE'S WHY Opens a New Window.
+CHINA'S HUAWEI CREATED US ECONOMIC CRISIS: CTA CEO Opens a New Window.
+Currently, under Section 230 of the 1990s Communications Decency Act, Facebook and other online platforms are not liable for the content posted by their users. Section 230 enabled the explosion of the user-created content we now take for granted. The popularity of blogging was made possible by digital platforms not having to check each and every user post.
+
+
+Before Section 230, internet service providers (ISPs) faced what is known as the moderator’s dilemma. Courts had found that the early internet service provider Compuserve was not liable for content posted on its bulletin boards because it did not moderate the content. However, Compuserve’s competitor Prodigy wanted to maintain family-friendly boards, and so it moderated content to an extent.
+
+Courts found that this meant Prodigy was liable for content posted by its users and could be sued alongside a given user posting libelous content. The dilemma was whether to accept the possibility of unmoderated content turning a company’s boards into a sewer that damaged its brand, or to accept possibly ruinous liability by trying to stop that.
+
+Protects users, too
+Crucially, the law doesn’t just protect “big tech.” As the Electronic Frontier Foundation points out, it protects users too. If I post to a site something I found online, I’m not liable for posting that content. Any organization with a website that allows user comments or interaction is also protected by Section 230. It’s easy to see how this helped the growth of online communities. The moderator’s dilemma was solved.
+
+Moreover, because the law allows moderation without liability, site owners are free to decide what kind of content to allow their users to post. When I ran a blog years ago, it felt like a never-ending war against spam commenters, and I’d delete spam as soon as I found it.
+
+That’s why most sites developed a form of “community standards,” which would often include rules against trolling or flaming other users, and even against posting blatantly offensive content, such as Holocaust denial. Yes, sites could ban users—I had to do it myself a couple of times.
+
+Rules are necessary in online communities to ensure bad speech does not drive out good. Low-value posts drive away people with something to contribute—hence the admonition not to read the comments on certain sites, like YouTube.
+
+Social media platforms have their own, expansive versions of community standards, breach of which can lead to one being blocked from using the site. No one likes to be put in “Facebook jail,” but such standards are necessary for the continued sustainability of online platforms.
+
+Virtually impossible
+The platforms’ critics claim that those rules and their enforcement amount to editorial control, meaning that the platforms are acting like publishers and therefore should be liable for their content, as the Court decided in the Prodigy case. Yet Congress passed Section 230 precisely to allow moderation.
+
+In fact, given the scale of the platforms’ user base, not to mention the many different languages involved, genuine editorial oversight is virtually impossible given current technology. Moreover, attempts to use technology to proactively enforce community standards have not been successful—attempts to teach algorithms to recognize Islamist terrorist propaganda, for instance, have repeatedly flagged legitimate Arabic news content.
+
+The hope of those who claim to value free speech is that platforms would decide to act like Compuserve and eschew moderation. The potential for damage to the brand is so significant that that is unlikely to happen.
+
+If the platforms were to lose their safe harbor, we would likely see a significant chilling of political speech online. Online platforms would have strong incentives to ban any post that seems remotely controversial or defamatory. This would especially be the case if government regulators were looking over their shoulder.
+
+The great democratization of political expression unleashed by the internet could be reversed. Political opinion would once again become the preserve of newspapers and opinion journals, and millions of political voices would be silenced overnight.
+
+Free speech would be relegated to a few unmoderated boards. All the problems community standards solved would be more rampant than ever.
+

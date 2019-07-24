@@ -1,0 +1,23 @@
+
+Wheres the cheapest place to store 500GB of data online?
+Reeling from a Dropbox price hike, Kate wants somewhere cheaper to store her 500GB of photos and files
+
+Jack Schofield
+
+
+Thu 20 Jun 2019 09.26BST
+
+
+Last modified on Thu 20 Jun 2019 09.37BST
+
+
+Ive just received notification that my Dropbox account is going up in price to more than 90 a year. I like Dropboxs interface and ease of use from the mobile app, but 90 seems steep for what I require. What cheaper options do I have for securely storing about 500GB of photos and files? Kate
+Most of us just evolve the way we do things by making convenient short-term decisions. A price jolt should prompt you to rethink how you are storing your data, where you are storing it, and why. Different people have different devices and different needs, so I cant pick the best strategy for you or anybody else. However, I can give you a few things the think about.
+The core question, of course, is why you need to store 500GB of stuff online in the first place. You could buy a 4TB external hard drive for less than 90.
+The first and best reason is that you often need access to the same data from multiple devices, some of which you use while away from home. The second  very sensible  reason might be that you want an off-site backup where your data will be safe if youre burgled, your house burns down, or there is some other catastrophe.
+A third reason might be that you are sharing your photos and (less likely) data with friends and family, or possibly with the public. Millions of people shared their photos on Flickr, and billions share reduced-quality versions on social networking services such as Facebook and Instagram.
+A fourth reason might be that you have no way to keep a local backup. If so, you are in trouble. Online storage services are like lobster pots: its easy to get into them but hard to get out.
+In a better world, you would be able to move 500GB of data from one service to any other in a few seconds, without downloading it and re-uploading it. Sadly, thats not the case today. And if your data only exists in one online storage pot, then you have no backup and your data is at risk. People lose data every day because they forget and cant recover passwords, their accounts are hacked, or their service provider has a hardware malfunction or makes a mistake.
+Some people lose data when services close down, like Flickr, or go bust, like Streamload. Some people lost data when Megauploads servers were seized by the FBI. Some could lose data when The Big One hits California. Having only one copy of their data in one online pot is a gamble that many people will lose.
+You should have local copies and backups of everything, so that you can walk away and just let Dropbox close your account. If you are not in that position, keep paying Dropbox until you are.
+Dropbox has increased its starting price to 95.88 a year, which is 7.99 a month if paid annually. However, it also doubled the storage allowance to 2TB, which used to cost about $200 (158) a year, and it has added some extra features. Its still competitive with other leading services that usually dont store 30 days 

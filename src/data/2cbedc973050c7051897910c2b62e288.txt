@@ -1,0 +1,42 @@
+New laser provides ultra-precise tool for scientists probing the secrets of the universe
+Researchers have developed a new laser that makes it possible to measure electron transition energies in small atoms and molecules with unprecedented precision. The instrument will help scientists test one of the bedrock theories of modern physics to new limits, and may help resolve an unexplained discrepancy in measurements of the size of the proton. The team will present their work during the Frontiers in Optics (FiO) / Laser Science (LS) conference in Rochester, New York, USA on 17-21 October 2016.
+
+"Our target is the best tested theory there is: quantum electrodynamics," said Kjeld Eikema, a physicist at Vrije University, The Netherlands, who led the team that built the laser. Quantum electrodynamics, or QED, was developed in the 1940s to make sense of small unexplained deviations in the measured structure of atomic hydrogen. The theory describes how light and matter interact, including the effect of ghostly 'virtual particles.' Its predictions have been rigorously tested and are remarkably accurate, but like extremely dedicated quality control officers, physicists keep ordering new tests, hoping to find new insights lurking in the experimentally hard-to-reach regions where the theory may yet break down.
+
+A promising tool for the next generation of tests is the new high-intensity laser. It produces pulses of deep ultraviolet light with energies large enough to bump electrons in some of the simplest atoms and molecules into a higher energy level.
+
+"For increased precision, you have to do these QED tests in the most simple atoms and molecules," Eikema explained.
+
+The team has already tested the laser on molecular hydrogen. They measured the frequency of light required to excite a certain electron transition with a preliminary uncertainty of less than one part per 100 billion, more than 100 times better than previous measurements.
+
+The Challenge of Ultra-Precise Measurements in the UV
+
+The key challenge for the team wasn't really producing the deep UV light -- a feat that has been accomplished before -- but in finding a way to keep the measurements precise.
+
+Short pulses, which are easier to produce for UV light, make inherently uncertain measurements, due to the Heisenberg uncertainty principle. One way around this is to use a technique called Ramsey interferometry, which requires two pulses of light separated by an incredibly precise period of time.
+
+What Eikema and his colleagues did that had never been done before was to get the two pulses by extracting them from a device, called a frequency comb laser, uniquely suited to create precisely timed pulses.
+
+"People normally think that if you take just two pulses out of a frequency comb then you destroy the beauty of a frequency comb, but we do it in a special way," Eikema said.
+
+Extracting and amplifying the pulses introduced uncertainties, but the team found that if they hit an atom or molecule with differently spaced pulse pairs and then analyzed the results simultaneously, the uncertainties in effect canceled out. Even better, it also canceled out an unwanted effect called the AC-Stark effect, which arises when the high-intensity light used for measurement actually changes the structure of an atom or molecule.
+
+"Using this method we actually restore all the properties of the frequency comb, and we also get exciting new properties," Eikema said. "This was our eureka moment."
+
+Finding the Holy Grail of QED Tests
+
+The team's next goal is to use their laser to measure the first electron transition energy of a positively charged helium atom, called He+.
+
+He+ is the one of the "holy grails" for testing QED, Eikema said, because the properties of the nucleus have been extensively studied, it can be trapped with electromagnetic fields and observed for a very long time, and the QED effects are larger in helium than in hydrogen.
+
+"If it's possible to measure this transition in He+, people will immediately do it, because it's a very nice, clean transition," he said.
+
+A test of QED in He+ might also help resolve the proton radius problem, a new puzzle gripping the physics community after complementary tests turned up conflicting measurements of the proton's size. The discrepancy could be due to a problem with QED theory, and so a better test would help scientists see whether or not QED theory still holds at this unprecedented new level of precision.
+
+Going from molecular hydrogen to He+ is still an enormous jump, Eikema said, since the wavelength of light required is almost ten times shorter. If all goes according to plan, he estimates the team may have results to report in about 2 years.
+
+"I went to a conference about the proton size problem and explained how we want to measure this transition of He+. Everyone was asking 'When? When? When?' They really want to know," Eikema said.
+
+Sandrine Galtier, a postdoctoral researcher at Vrije University who will present the team's findings at the FiO meeting, says it's exciting how well their new laser system can test the extreme limits of theoretical physics.
+
+"We don't need huge accelerators. With just a tabletop experiment, we can test the Standard Model of physics," she said.

@@ -1,0 +1,49 @@
+This startup wants to 3D print your next running shoe or dentures
+Carbon raised $260 million that should help it advance toward the ability to 3D print products made of multiple materials.
+
+Carbon already sells 3D printers used to make unusual the materials inside Riddell's custom-size professional-league football helmets and Adidas running shoes. Now, a new $260 million funding round should help the Silicon Valley startup create even more unusual materials. 
+
+Among the new possibilities, according to Chief Executive Joseph DeSimone:
+
+Products made from multiple materials with different properties and colors directly injected into different parts of the design. For example, they could make dentures with separate materials for the base and the teeth in one process instead of gluing the two components together.
+Products that are easier to recycle. One example: Dental models people wear to gradually straighten their teeth, which end up in landfills today.
+Larger products that don't sacrifice the fine details and smooth surfaces the company can create today.
+Also called additive manufacturing, 3D printing got an early foothold as a way to design prototypes. Since then, it's also  crept into production lines for finished products. The unusual shapes of 3D-printed elements let companies build plastic components that are lighter than metal alternatives but couldn't be made with conventional injection molding methods, for example.
+
+The result is a potentially dramatic change to what's possible in manufacturing -- more flexibility, more advanced designs, custom-tuned material properties and components that are built in one pass instead of assembled from a collection of parts. People on a Mars mission could build replacement parts as needed instead of carrying an inventory of everything. Oh, and yeah, people can 3D print guns.
+
+Carbon can 3D print customized dental products. These were made of two materials later glued together.
+Carbon 3D prints stuff that's squishy, springy and comes in unusual shapes
+10 PHOTOS
+3D printing competition
+Carbon has plenty of competition. One big name is HP, which has a major 3D printing push and which unlike Carbon can 3D-print metal products with its Metal Jet 3D printers. Industrial powers like General Electric also have their own 3D printing efforts.
+
+3D printing, which some call the fourth industrial revolution, could be big. Spending in the field is growing at about 13 percent annually among large US companies, consulting firm Deloitte estimates, and will likely reach $2 billion in 2020.
+
+Broadly, Carbon's approach is similar to that of other 3D printing companies: build components or objects layer by layer, creating shapes that aren't possible with conventional casting, molding or machining methods. What's different is the company's specific method, called Digital Light Synthesis, which carefully directs ultraviolet light upward through a special window to solidify a liquid resin.
+
+"Light is our chisel," DeSimone said.
+
+Carbon's printing subscriptions
+Carbon makes money through a subscription service that gives customers access to a printer -- either the older M2 or the newer L1 introduced in February that's about the size of a refrigerator and can print larger objects. Customers pay for resins separately, including some directly from Carbon and some from third-party suppliers. The M2 starting cost is about $50,000 per year, but with resin sales, Carbon pulls in about $70,000 a year from each. The L1's annual revenue is closer to $200,000 per year, Carbon says.
+
+Why pay annually when you could just buy a 3D printer outright? Because you're paying for a service, including frequent software updates. Those updates have done things like increase the number of resins printers can use and shorten the time it takes to print products, DeSimone said.
+
+"This product is evolving significantly," he said. "You don't want to buy it."
+
+Pick your resin
+The most popular resins the company sells today are the absorbent ones used in helmets, the rebounding ones used in shoe soles and the transparent one used in dental models. The company also has other customers, including Ford Motor Co., which uses Carbon to build plastic brackets for its Mustang car and F-150 truck.
+
+Carbon's L1 printer can create a lightweight, springy midsole for an Adidas running shoe in less than a half hour.
+
+Stephen Shankland/CNET
+The 420-employee company, headquartered in Redwood City, California, will use its new funding to build an advanced development facility. "It's our innovation kitchen," DeSimone said, where the company can develop new technology and customers can figure out how they can use it.
+
+The fifth round of funding now gives Carbon a $2.46 billion valuation, the company said. The investment, co-led by Madrone Capital Partners and Baillie Gifford, will also fuel international expansion.
+
+More adaptable 3D printing
+Carbon's technology is adaptable today, with a range of resins that can produce anything from hard, strong plastics to the shock-absorbing material in football helmets to the springy lattice in the Adidas midsoles. But today it relies on a relatively passive mechanism: the resin circulates underneath the product being 3D printed, pushed there by atmospheric pressure.
+
+One research avenue is a more controlled approach, called direct injection, that could push multiple materials through the interior of the product as it's being made, DeSimone said. That could create much more customized, sophisticated products.
+
+It's also harder. Carbon's current process relies on a complicated computer model that precisely tunes the ultraviolet light intensity that controls the resin solidification. It must take into account constantly varying factors like the resin's opacity and temperature, but using multiple materials increases that complexity even more.

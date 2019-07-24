@@ -1,0 +1,10 @@
+Facebook, worth £445bn, fined £500,000 for data breach
+The UK's information commissioner, Elizabeth Denham, said she would fine the social network as her office investigates how data belonging to tens of millions of users was improperly accessed.
+The amount is the maximum allowed under the Data Protection Act 1998, but is pocket change for a company valued last year at around $590bn (£445bn).
+The scandal took place before new EU data protection laws that allow much larger fines came into force.
+Facebook, along with consultancy Cambridge Analytica, has been the focus of the investigation since February when evidence emerged that an app was used to harvest the data of 50 million Facebook users across the world.
+This is now estimated at 87 million, according to the Information Commissioner's Office.
+Cambridge Analytica used data from millions of Facebook accounts to help Donald Trump's 2016 presidential election campaign.
+Facebook broke the law by failing to safeguard people's data and not being transparent about how that data could be harvested, said Ms Denham.
+She said: "We are at a crossroads. Trust and confidence in the integrity of our democratic processes risk being disrupted because the average voter has little idea of what is going on behind the scenes.
+"New technologies that use data analytics to micro-target people give campaign groups the ability to connect with individual voters.

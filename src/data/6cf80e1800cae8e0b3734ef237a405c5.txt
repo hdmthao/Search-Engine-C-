@@ -1,0 +1,33 @@
+Multicolor holography technology could enable extremely compact 3D displays
+Lens-free holography method could bring color 3D displays to augmented reality glasses and smartphones
+Date:
+January 24, 2019
+Source:
+The Optical Society
+Summary:
+Researchers have developed a new approach to multicolor holography that could be used to make 3D color displays for augmented reality glasses, smartphones or heads-up displays without any bulky optical components.
+FULL STORY
+Researchers have developed a new approach to multicolor holography that could be used to make 3D color displays for augmented reality glasses, smartphones or heads-up displays without any bulky optical components.
+
+In Optica, The Optical Society's journal for high impact research, researchers from Duke University, USA describe how they encoded a multicolor image onto a 300-by-300 micron hologram in a 2D waveguide structure, a very thin structure that guides light. The computer-generated hologram produces complex multicolor holographic images when the grating coupler is illuminated by red, green and blue light.
+
+"The hologram could be embossed directly onto the lenses of augmented reality glasses to project an image directly into the pupil of the eye without requiring any bulky lenses, beam splitters or prisms," said Daniel L. Marks, a member of the research team. "It could also be used to project a 3D image from a smartphone onto a wall or nearby surface."
+
+The new fabrication method encodes holograms in a material that is compatible with integrated photonics technology. This means that the holographic devices are easy to mass manufacture with the same fabrication methods used to make computer chips. The hologram producing elements could be incorporated into tiny chip-based devices that also house the light sources required to create the 3D images.
+
+From one color to three
+
+The new multicolor holography technique is based on computer-generated holograms. Unlike traditional holography, which requires a physical object and laser beams to create the interference pattern necessary to form a holographic image, computer-generated holography generates interference patterns digitally.
+
+Computer generated holograms provide high-resolution 3D images, but it has proven difficult to create them in more than one color. The Duke team overcame this challenge by fabricating a grating -- a series of fringes -- and a binary hologram in a waveguide made of a light-sensitive material known as photoresist. They developed a way to integrate the interference patterns for red, green and blue into a single binary hologram pattern.
+
+"One of the difficult parts of making a multicolor display is combining the colors and then precisely separating them to generate a full color image," said Zhiqin Huang, first author of the paper. "With our approach this is all done all in one step on a single surface without any beam splitters or prisms. This makes it extremely amenable to integration into portable devices."
+
+Another important achievement was creating the holographic device in a waveguide structure. "Others who have tried to create multicolor computer-generated holograms didn't use a waveguide, which makes it a challenge to integrate the structure into a device," said David R. Smith, leader of the research team. "Our design offers easier and more flexible integration with a form factor small enough for augmented reality and other displays."
+
+Single-step color images
+
+The researchers used their new holography method to encode interference patterns for static multicolor holograms of an apple, a flower and a bird. The resulting holographic images all matched well with theoretical predictions. Although they fabricated very small holograms for the demonstration, the researchers say that the technique could be easily scaled up to create larger displays. They also believe their approach could be incorporated with existing technologies -- such as those used to make liquid crystal displays -- to create dynamic images.
+
+The researchers are now working to optimize the technology by reducing the light lost by the structures that encode the holograms. They also point out that incorporating the structures into a single integrated device with lasers would be necessary to make the technique practical.
+

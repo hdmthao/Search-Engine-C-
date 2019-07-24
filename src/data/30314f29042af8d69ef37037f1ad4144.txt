@@ -1,0 +1,62 @@
+Nov. 9, 2018
+Multimessenger Links to NASA’s Fermi Mission Show How Luck Favors the Prepared
+In 2017, NASA’s Fermi Gamma-ray Space Telescope played a pivotal role in two important breakthroughs occurring just five weeks apart. But what might seem like extraordinary good luck is really the product of research, analysis, preparation and development extending back more than a century.
+
+On Aug. 17, 2017, Fermi detected the first light ever seen from a source of gravitational waves — ripples in space-time produced, in this event, by the merger of two superdense neutron stars. Just five weeks later, a single high-energy particle discovered by the National Science Foundation’s (NSF) IceCube Neutrino Observatory was traced to a distant galaxy powered by a supermassive black hole thanks to a gamma-ray flare observed by Fermi.  
+
+“For millennia, light was our only source of information about the universe,” said Julie McEnery, the Fermi project scientist at NASA’s Goddard Space Flight Center in Greenbelt, Maryland. “The recent discoveries connect light, our best-known cosmic courier, to gravitational waves and particles like neutrinos — new messengers delivering different kinds of information that we’re just beginning to explore.”
+
+
+Explore how more than a century of scientific progress with gravitational waves, gamma rays and neutrinos has helped bring about the age of multimessenger astronomy.
+Credits: NASA’s Goddard Space Flight Center
+Download this video in HD formats from NASA Goddard's Scientific Visualization Studio
+Deep roots
+The origins of these discoveries stretch back to cutting-edge research as long ago as 1887. That’s when physicists Albert Michelson and Edward Morley conducted an experiment to detect a substance, called the aether, which was postulated as a medium that permitted light waves to travel through space. As their experiment showed and many since have confirmed, the aether doesn’t exist. But the negative result proved to be one of the inspirations for Albert Einstein’s 1905 special theory of relativity. He generalized this into a full-fledged theory of gravity in 1915, one that predicted the existence of gravitational waves.
+
+A century later, on Sept. 14, 2015, the NSF’s Laser Interferometer Gravitational-Wave Observatory (LIGO) detected these space-time vibrations for the first time as waves from the merger of two black holes reached Earth. In between came a steady stream of advances, including lasers, improved instrumentation and increasingly more powerful computers and software. 
+
+“Just as inventing the detector technologies has taken decades, so too has the theoretical and computational framework for analyzing and interpreting multimessenger observations,” said Tyson Littenberg, the principal investigator of the LIGO research group at NASA's Marshall Space Flight Center in Huntsville, Alabama. “We went through countless simulations to test new ideas and improve on existing algorithms so that we were prepared to make the most out of the first observations, and that basic research and development work continues.”
+
+Until 2005, it wasn’t even possible to simulate in detail what happens when a pair of orbiting black holes coalesce. The breakthrough came when separate teams at Goddard and the University of Texas at Brownsville independently developed new computational methods that overcame all previous hurdles. An accurate understanding of gravitational-wave signals was one important step in evolving techniques designed to rapidly detect and characterize them.
+
+
+On Aug. 17, 2017, gravitational waves from a neutron star merger produced a signal detected by the Laser Interferometer Gravitational-Wave Observatory (LIGO). The sound in this video represents the same frequencies as the combined stretching and squeezing caused by waves passing through the LIGO detectors at Hanford, Washington, and Livingston, Louisiana. Just 1.7 seconds later, a brief burst of gamma-rays — indicated by a ping — was seen by NASA's Fermi Gamma-ray Space Telescope.
+Credits: NASA's Goddard Space Flight Center, Caltech/MIT/LIGO Lab
+Download this video and other supporting multimedia in HD formats from NASA Goddard's Scientific Visualization Studio
+“Another fundamental development was the highly optimized analysis pipelines and information technology infrastructure that can compare the theoretical model with the data, recognize the presence of a signal, calculate the location of the source on the sky and format the information in a way that the rest of the astronomical community could use,” explained Tito Dal Canton, a NASA Postdoctoral Program Fellow and a member of a LIGO research group at Goddard led by Jordan Camp.
+
+Astronomers need to know about short-lived events as soon as possible so they can bring to bear a wide array of telescopes in space and on the ground. Back in 1993, scientists at Goddard and Marshall began developing an automated system for distributing the locations of gamma-ray bursts (GRBs) — distant, powerful explosions that typically last a minute or less — to astronomers around the world in real time. Located at Goddard and led by Principal Investigator Scott Barthelmy, the Gamma-ray Coordinates Network/Transient Astronomy Network now distributes alerts from many space missions as well as ground-based instruments like LIGO and IceCube. 
+
+Ghost particles
+NASA's Fermi (top left) and the IceCube Neutrino Observatory (sensor strings, bottom).
+On Sept. 22, 2017, the IceCube Neutrino Observatory at the South Pole, represented in this illustration by strings of sensors under the ice, detected a high-energy neutrino that appeared to come from deep space. NASA's Fermi Gamma-ray Space Telescope (center left) pinpointed the source as a supermassive black hole in a galaxy about 4 billion light-years away. It is the first high-energy neutrino source identified from outside our galaxy.
+Credits: NASA/Fermi and Aurore Simonnet, Sonoma State University
+The historical thread for neutrinos began with French physicist Henri Becquerel and his 1895 discovery of radioactivity. In 1930, after studying a radioactive process called beta decay, Wolfang Pauli suggested it likely involved a new subatomic particle, later dubbed the neutrino. We now know neutrinos possess little mass, travel almost as fast as light, come in three varieties and are among the most abundant particles in the universe. But because they don’t readily interact with other matter, neutrinos weren’t discovered until 1956.
+
+In 1912, Victor Hess discovered that charged particles, now called cosmic rays, continually enter Earth’s atmosphere from every direction, which means space is filled with them. When cosmic rays strike air molecules, the collision produces a shower of particles — including neutrinos — that rains down through the atmosphere. Searching for astronomical neutrino sources meant placing experiments underground to reduce interference from cosmic rays and building very large detectors to tease out the weak signals of publicity-shy neutrinos. 
+
+Neutrinos produced by nuclear reactions inside the Sun’s core were first detected in 1968 thanks to an experiment using 100,000 gallons of dry-cleaning fluid located deep in a South Dakota gold mine. Discovering the next astronomical neutrino source would take another 19 years. Supernova 1987A, a stellar explosion in a nearby galaxy, remains the brightest and closest supernova seen in over 400 years and is the first for which the original star could be identified on pre-explosion images. Theorists anticipated that neutrinos, which escape a collapsing star more readily than light, would be the first signal from a new supernova. And hours before 1987A’s visible light arrived at Earth, experiments in Japan, the U.S. and Russia detected a brief burst of neutrinos, making the supernova the first source of neutrinos identified beyond the solar system.
+
+“If none of these experiments was operating at the time, the neutrino signal would have passed by unnoticed,” said Francis Halzen, the principal investigator of IceCube, which is essentially a neutrino telescope build into a cubic kilometer of ice at the South Pole. “It isn’t enough to develop the technology, refine theories or even construct a detector. We need to be making observations as often as we can for the best chance of catching brief, rare and scientifically interesting events. Both Fermi and IceCube are operating continuously, making uninterrupted observations of the sky.”
+
+Light fantastic
+The third historical thread belongs to gamma rays, the highest-energy form of light, discovered in 1900 by the French physicist Paul Villard. When a gamma ray of sufficient energy interacts with matter, it provides a perfect demonstration of Einstein’s most famous equation, E=mc2, by instantly transforming into particles — an electron and its antimatter counterpart, a positron. Conversely, crash an electron and a positron together and a gamma ray results.
+
+NASA’s Explorer 11 satellite, launched in 1961, detected the first gamma rays in space. In 1963, the U.S. Air Force began launching a series of satellites as part of Project Vela. These increasingly sophisticated satellites were designed to verify compliance with an international treaty that banned nuclear weapons tests in space or in the atmosphere. But starting in July 1967, scientists became aware the Vela satellites were seeing brief gamma-ray events that were clearly unrelated to weapons tests.
+
+These explosions were GRBs, an entirely new phenomenon now known to mark the death of certain types of massive stars or the merger of orbiting neutron stars. NASA further explored the gamma-ray sky with the Compton Gamma Ray Observatory, which operated from 1991 to 2000 and recorded thousands of GRBs. Starting in 1997, critical observations by the Italian-Dutch BeppoSAX satellite proved that GRBs were located far beyond our galaxy. Compton was succeeded by NASA’s Neil Gehrels Swift Observatory in 2004 and Fermi in 2008, missions that continue exploring the high-energy sky and that follow up on LIGO and IceCube alerts.
+
+“In the fields of observation, chance favors only the prepared mind,” noted Louis Pasteur, the French chemist and microbiologist, in an 1854 lecture. Supported by decades of scientific discoveries and technological innovation, the burgeoning field of multimessenger astronomy is increasingly prepared for its next stroke of luck.    
+
+NASA's Fermi Gamma-ray Space Telescope is an astrophysics and particle physics partnership, developed in collaboration with the U.S. Department of Energy and with important contributions from academic institutions and partners in France, Germany, Italy, Japan, Sweden and the United States.
+
+For more about NASA’s Fermi mission, visit:
+
+https://www.nasa.gov/fermi
+
+By Francis Reddy
+NASA’s Goddard Space Flight Center, Greenbelt, Md.
+
+Last Updated: Nov. 9, 2018
+Editor: Rob Garner
+Tags:  Active Galactic Nuclei, Black Holes, Fermi Gamma-Ray Space Telescope, Gamma-Ray Bursts, Goddard Space Flight Center, NASA History, Past Missions, Supernova, Swift, Universe

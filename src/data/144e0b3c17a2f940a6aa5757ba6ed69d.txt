@@ -1,0 +1,39 @@
+New Dark Souls Remastered Patch Will Slay Some Cheaters
+Cheaters banished.
+Last updated by Tamoor Hussain on July 11, 2018 at 5:17AM
+Bandai Namco has detailed a patch for Dark Souls Remastered that is intended to improve security and address cheating in the game's online multiplayer mode. The patch is set to launch on July 11 (exact times below) and game servers will be offline during the maintenance time. However, offline play won't be impacted.
+Along with the crackdown on cheaters, the new patch will also tweak gameplay to stamp out a few bugs, including one where The Four Kings to not properly appear in The Abyss. Beyond that there's some changes to ensure in-game messages from other players are properly displayed and the correct number of Estus Flasks are shown when you use a Black Separation Crystal. Take a look at the full patch notes below, courtesy of Bandai Namco.
+Server Maintenance Times
+Playstation 4
+Coordinated Universal Time (UTC): 01:00 - 03:00
+Japanese Standard Time (JST): 10:00 - 12:00
+Central European Standard Time (CEST): 03:00 - 05:00
+Pacific Daylight Time (Maintenance begins on July 10 in the PDT time zone) (PDT): 18:00 - 20:00
+Xbox One
+Coordinated Universal Time (UTC): 01:00 - 07:00
+Japanese Standard Time (JST): 10:00 - 16:00
+Central European Standard Time (CEST): 03:00 - 09:00
+Pacific Daylight Time (Maintenance begins on July 10 in the PDT time zone) (PDT): 18:00 - 00:00
+Steam/PC
+Coordinated Universal Time (UTC): 08:00 - 10:00
+Japanese Standard Time (JST): 17:00 - 19:00
+Central European Standard Time (CEST): 10:00 - 12:00
+Pacific Daylight Time (PDT): 01:00 - 03:00
+Patch Notes
+All Platforms
+Fixed a bug in which The Four Kings are not displayed properly in The Abyss.
+Fixed a bug in which the ending comes up in Kiln of the first flame without defeating the boss when you do specific moves before the boss area.
+Fixed a bug in which player's clear data is erroneous when the application is finished on specific conditions after defeating Gwyn, Lord of Cinder.
+Fixed a bug in which messages are not displayed to other players on asynchronous online.
+Fixed a bug in which session matching stops during online mode when the player fails to join the session where blocked players are playing.
+Fixed a bug in which the number of Estus Flask possessions is not displayed properly when you return by Black Separation Crystal.
+Improved the security against cheating during online multiplayer.
+Playstation 4
+Fixed a bug in which the application cannot be launched.
+Playstation 4 and Steam/PC
+Fixed a bug in which players become invisible during online multiplayer.
+Xbox One
+Fixed a bug in which after players reset their stats and create a new profile, the new profile still features the reset stats.
+In GameSpot's original Dark Souls review Kevin VanOrd awarded the game a 9.5/10, praising its "gorgeous and frightening world, amazing bosses, and superb combat."
+He continued: "Dark Souls requires intense focus. This isn't a lighthearted romp in a bright and colorful fantasy world; it's a methodical journey into the frightening unknown. And that's what makes it so riveting. Some games try to scare you with bump-in-the-night shocks and far-off howls, but Dark Souls doesn't require such predictable methods of terror. Its terrors emanate from its very core, each step bringing you closer to another inevitable death. How amazing that such a terrible place could be so inviting. The game's world is so memorable, and its action so thrilling, that it might invade your thoughts even when you aren't playing, silently urging you to escape the real world and return to this far more treacherous one. Dark Souls doesn't just surpass other dungeon crawlers; it skewers them with a razor-sharp halberd and leaves behind their soulless corpses."
+One of the game's biggest downsides, the inconsistent frame rate, is has been alleviated somewhat in the remaster, making it the best version of the game to play. If you'd like to see what the game can look like at its worst, there's a Dark Souls episode of Potato Mode in which Joey and Jean-Luc fiddle around with the game's settings to force it to look as bad as possible.

@@ -31,12 +31,9 @@ bool Engine::Exit() {
 }
 
 bool Engine::Loading(LoadUI* loadui) {
-
-    util::time::timer::SetTime();
     std::vector<std::string> file_list;
-
-    for (int i = 0; i < 10000; ++i)
-    file_list.push_back(config::path::DATA);
+    util::time::timer::SetTime();
+    file_list = GetListNewsFromFile(config::path::NEWS);
 
     int rate = file_list.size() / 100;
 
@@ -57,16 +54,20 @@ bool Engine::StartSearcher() {
 }
 
 bool Engine::BuildSearcher(const std::string &path_to_file) {
-    std::ifstream fi(path_to_file);
+    std::string path = "data/" + path_to_file;
+    std::ifstream fi(path);
     if (!fi.is_open()) {
-        // Log Here
+        std::cout << "Can not read " << path_to_file << "\n";
         return false;
     }
-
+    // std::ofstream fo("log.txt", std::ios::app);
     std::string s;
     while (fi >> s) {
+        // fo << path_to_file <<  s << "\n";
         searcher->AddData(s);
     }
+
+    // fo.close();
     fi.close();
 
     return true;

@@ -14,7 +14,6 @@ Migo::~Migo() {
 
 // The main loop
 bool Migo::Run() {
-    
     if (StartUI() == false) { // Something wrong with ui
         std::cout << "Something wrong with UI\n";
         return false;

@@ -1,0 +1,21 @@
+https://arstechnica.com/science/2019/06/spacex-just-aced-a-critical-air-force-test-of-its-falcon-heavy-rocket/
+
+SpaceX just aced a critical Air Force test of its Falcon Heavy rocket
+
+This "allows the Air Force to begin using previously flown rocket technology."
+Eric Berger - 6/26/2019, 5:59 AM 
+
+On Tuesday afternoon—a little more than 12 hours after the launch of a Falcon Heavy rocket from Kennedy Space Center in Florida—the US Air Force's Space & Missile Systems Center declared that all had gone well with the complicated mission. "All satellites are on orbit and have made contact," the Air Force unit tweeted.
+SpaceX had a lot on its plate with Tuesday morning's launch, which occurred at 2:30am ET (06:30 UTC). Once again, the company recovered the two side-mounted Falcon 9 first stage boosters at a landing site along the Florida coast. But for the second time out of three Falcon Heavy launches, SpaceX was unable to land the center core on a drone ship in the Atlantic Ocean. This is perhaps understandable because, due to mission requirements, the center core used in Tuesday's launch had to shed more energy than any previous launch—its attending drone ship was positioned more than 1,200km away from the launch site.
+On Tuesday afternoon—a little more than 12 hours after the launch of a Falcon Heavy rocket from Kennedy Space Center in Florida—the US Air Force's Space & Missile Systems Center declared that all had gone well with the complicated mission. "All satellites are on orbit and have made contact," the Air Force unit tweeted.
+SpaceX had a lot on its plate with Tuesday morning's launch, which occurred at 2:30am ET (06:30 UTC). Once again, the company recovered the two side-mounted Falcon 9 first stage boosters at a landing site along the Florida coast. But for the second time out of three Falcon Heavy launches, SpaceX was unable to land the center core on a drone ship in the Atlantic Ocean. This is perhaps understandable because, due to mission requirements, the center core used in Tuesday's launch had to shed more energy than any previous launch—its attending drone ship was positioned more than 1,200km away from the launch site.
+
+A demonstration
+
+For its first payload to fly on the Falcon Heavy rocket, the armed service did not choose one of its ultra-expensive, classified satellites used for observation or military communications. Rather, it flew a rideshare mission that included 24 different satellites that entailed military, NASA, and NOAA-sponsored military and civil experiments. The Falcon Heavy rocket's upper stage had to place the satellites into three different orbits, completing a complicated sequence of four Merlin vacuum engine firings over the course of three hours.
+Additionally, the Falcon Heavy's side-mounted boosters flying Tuesday were Falcon 9 rocket first stages that had each flown once before. In a previous life (April), they had been side boosters on the Falcon Heavy Arabsat-6A mission. Air Force officials said Tuesday's launch (known as Space Test Program-2) would provide insight into the SpaceX booster recovery and refurbishing process, potentially allowing future National Security Space missions to fly on previously flown rockets.
+"This was a momentous launch for NASA, NOAA, and the DOD," said Col. Dennis Bythewood, program executive officer for Space Development. "The SpaceX Falcon Heavy allows the Air Force to begin using previously flown rocket technology to further reduce the cost of launch. This mission demonstrated SMC's continuing commitment to leverage the most innovative technologies to deliver cost-effective space capabilities."
+All of this bodes well for SpaceX as the Air Force works through bids from SpaceX, United Launch Alliance, Blue Origin, and Northrop Grumman to win lucrative launch contracts from 2022 to 2026. The Air Force is only expected to pick two winners, and SpaceX has just shown that it can do the kinds of missions the Air Force wants to do, for a lower price, with a rocket that exists today.
+
+Listing image by Trevor Mahlmann
+

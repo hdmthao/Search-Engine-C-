@@ -1,0 +1,31 @@
+THE AUTONOMOUS MOBILITY ECOSYSTEM: How automakers can compete in the future of mobility
+This is a preview of a research report from Business Insider Intelligence, Business Insider's premium research service. To learn more about Business Insider Intelligence, click here.
+Automakers are on the verge of a prolonged period of rapid change to the way they do business, thanks to the combined disruptive forces of growing on-demand mobility services and self-driving cars, which will start to come to market in the next couple of years.
+
+By the end of 2019, Google spinoff Waymo, Uber, and GM all plan to have fleets of autonomous cars deployed in various US cities to provide on-demand rides for passengers. By eliminating the cost of the driver, these rides are expected to be far cheaper than typical Uber or Lyft rides, and even cheaper than owning a car for personal transportation.
+
+Many industry experts are predicting that such cheap on-demand autonomous rides service will result in a long-term decline in car ownership rates — PwC predicts that the total number of cars on the road in the US and EU will drop from 556 million last year to 416 million in 2030.
+
+This decline in car ownership represents an enormous threat to automakers' traditional business models, forcing them to find alternative revenue sources. Many of these automakers, including GM, Ford, and Daimler, have plans to launch their own on-demand ride-hailing services with fleets of self-driving cars they will manufacture, potentially giving them a new stream of recurring revenue. This could set them up to take a sizeable share of a market that is expected to be worth trillions by 2030.
+
+However, competing in the on-demand mobility market will pit legacy automakers against ride-hailing services from startups and tech giants that have far greater experience in acquiring and engaging consumers through digital channels. To succeed in what will likely be a hyper-competitive market for urban ride-hailing, automakers will have to foster new skill sets in their organizations, and transform from companies that primarily produce vehicles to ones that also manage vehicle fleets and customer relationships.
+
+That will entail competing with startups and tech giants for software development and data science talent, as well as reforming innovation processes to keep pace with digital trendsetters. Automakers will also need to create unique mobile app and in-car experiences to lure customers. Finally, these automakers will face many overall barriers in the market, including convincing consumers that self-driving cars are safe, and dealing with a complex and evolving regulatory landscape.
+
+In a new report, Business Insider Intelligence, Business Insider's premium research service, delves into the future of the on-demand mobility space, focusing on how automakers will use fleets of self-driving vehicles to break into an emerging industry that's been dominated thus far by startups like Uber and Lyft. We examine how the advent of autonomous vehicles will reshape urban transportation, and the impact it will have on traditional automakers. We then detail how automakers can leverage their core strengths to create new revenue sources with autonomous mobility services, and explore the key areas they'll need to gain new skills and capabilities in to compete with mobility startups and tech giants that are also eyeing this opportunity.
+
+Here are some of the key takeaways:
+
+The low cost of autonomous taxis will eventually lead car ownership rates among urban consumers to decline sharply, putting automakers' traditional business models at risk.
+Many automakers plan to launch their own autonomous ride-hailing services with the self-driving cars they're developing to replace losses from declining car sales, putting them in direct competition with mobility startups and tech giants looking to launch similar services.
+Additionally, automakers plan to maximize utilization of their autonomous on-demand vehicles by performing last-mile deliveries, which will force them to compete with a variety of players in the parcel logistics industry.
+Regulatory pressures could also push automakers to consider alternative mobility services besides on-demand taxis, such as autonomous on-demand shuttle or bus services.
+Providing these types of services will force automakers to make drastic changes to their organizations to acquire new talent and skills, and not all automakers will succeed at that.
+In full, the report:
+
+Forecasts the growth of autonomous on-demand ride-hailing services in the US.
+Examines the cost benefits of such services for consumers, and how they will reshape consumers' transportation habits.
+Details the different avenues for automakers to monetize the growth of autonomous ride-hailing.
+Provides an overview of the various challenges that all players in the self-driving car space will need to overcome to monetize their investments in these new technologies in the coming years.
+Explains the key factors that will be critical for automakers to succeed in this emerging market.
+Offers examples of how automakers can differentiate their apps and services from competitors'.

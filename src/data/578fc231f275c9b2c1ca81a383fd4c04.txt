@@ -1,0 +1,34 @@
+Gas insulation could be protecting an ocean inside Pluto
+Date:
+May 20, 2019
+Source:
+Hokkaido University
+Summary:
+Computer simulations provide compelling evidence that an insulating layer of gas hydrates could keep a subsurface ocean from freezing beneath Pluto's icy exterior.
+FULL STORY
+
+Pluto.
+Credit: © mode_list / Adobe Stock
+A gassy insulating layer beneath the icy surfaces of distant celestial objects could mean there are more oceans in the universe than previously thought.
+
+Computer simulations provide compelling evidence that an insulating layer of gas hydrates could keep a subsurface ocean from freezing beneath Pluto's icy exterior, according to a study published in the journal Nature Geoscience.
+
+In July 2015, NASA's New Horizons spacecraft flew through Pluto's system, providing the first-ever close-up images of this distant dwarf planet and its moons. The images showed Pluto's unexpected topography, including a white-colored ellipsoidal basin named Sputnik Planitia, located near the equator and roughly the size of Texas.
+
+Because of its location and topography, scientists believe a subsurface ocean exists beneath the ice shell which is thinned at Sputnik Planitia. However, these observations are contradictory to the age of the dwarf planet because the ocean should have frozen a long time ago and the inner surface of the ice shell facing the ocean should have also been flattened.
+
+Researchers at Japan's Hokkaido University, the Tokyo Institute of Technology, Tokushima University, Osaka University, Kobe University, and at the University of California, Santa Cruz, considered what could keep the subsurface ocean warm while keeping the ice shell's inner surface frozen and uneven on Pluto. The team hypothesized that an "insulating layer" of gas hydrates exists beneath the icy surface of Sputnik Planitia. Gas hydrates are crystalline ice-like solids formed of gas trapped within molecular water cages. They are highly viscous, have low thermal conductivity, and could therefore provide insulating properties.
+
+The researchers conducted computer simulations covering a timescale of 4.6 billion years, when the solar system began to form. The simulations showed the thermal and structural evolution of Pluto's interior and the time required for a subsurface ocean to freeze and for the icy shell covering it to become uniformly thick. They simulated two scenarios: one where an insulating layer of gas hydrates existed between the ocean and the icy shell, and one where it did not.
+
+The simulations showed that, without a gas hydrate insulating layer, the subsurface sea would have frozen completely hundreds of millions of years ago; but with one, it hardly freezes at all. Also, it takes about one million years for a uniformly thick ice crust to completely form over the ocean, but with a gas hydrate insulating layer, it takes more than one billion years.
+
+The simulation's results support the possibility of a long-lived liquid ocean existing beneath the icy crust of Sputnik Planitia.
+
+The team believes that the most likely gas within the hypothesized insulating layer is methane originating from Pluto's rocky core. This theory, in which methane is trapped as a gas hydrate, is consistent with the unusual composition of Pluto's atmosphere -- methane-poor and nitrogen-rich.
+
+Similar gas hydrate insulating layers could be maintaining long-lived subsurface oceans in other relatively large but minimally heated icy moons and distant celestial objects, the researchers conclude. "This could mean there are more oceans in the universe than previously thought, making the existence of extraterrestrial life more plausible," says Shunichi Kamata of Hokkaido University who led the team.
+
+Story Source:
+
+Materials provided by Hokkaido University. Note: Content may be edited for style and length.

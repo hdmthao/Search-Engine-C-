@@ -8,6 +8,7 @@
 namespace config {
     namespace path {
         extern const std::string DATA;
+        extern const std::string NEWS;
         extern const std::string HISTORY;
     }
 

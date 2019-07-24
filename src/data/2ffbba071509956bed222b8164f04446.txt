@@ -1,0 +1,58 @@
+This week could reshape the internet: Net neutrality rules expire, and AT&T-Time Warner decision is due
+Two pivotal developments this week could dramatically expand the power and footprint of major telecom companies, altering how Americans access everything on the internet from political news to “Game of Thrones.”
+
+Monday marks the official end of the U.S. government's net neutrality rules, which had required broadband providers such as AT&T, Charter and Verizon to treat all web traffic equally. The repeal is part of a campaign by Ajit Pai, the Republican chairman of the Federal Communications Commission, to deregulate the telecom industry in a bid to boost its investments — particularly in rural areas.
+
+“I think ultimately it's going to mean better, faster, cheaper internet access and more competition,” Pai said in an interview. Others disagree and will challenge Pai in court. Many states are fighting back with their own laws, further muddling the situation.
+
+One day after the net neutrality changes, a federal judge is set to rule Tuesday on whether AT&T can buy Time Warner. AT&T, already the country's second-largest wireless network, stands to gain a content trove from Time Warner that includes HBO and CNN — leading the Justice Department, which filed the lawsuit, to argue that the company could harm its rivals.
+
+The two events in Washington could lead to further consolidation of wireless, cable and content giants, public-interest advocates say. And they fear that behemoths like AT&T might someday prioritize their own TV shows and other content over rivals’. Internet service providers, or ISPs, deny that they would engage in such a practice — yet consumer watchdogs worry that people would have little legal recourse if they did.
+
+“I think this could be a one-two punch to consumers and online competition,” said Gene Kimmelman, the president of Public Knowledge, a Washington-based public interest group. “The combination of no net neutrality and video consolidation creates new bottlenecks that empower the traditional media industry to raise prices and limit online competition.”
+
+But Pai, who has visited 26 states and two territories, said he heard a different message from consumers as the government's net neutrality rules expire. His trips to places such Dahlonega, a Georgia city of roughly 6,500, illustrated that Americans feel they are “on the wrong side of the digital divide” and lack broadband options, he said in an interview in his eighth-floor office at the commission. “They are not concerned that internet service providers are going to block access to lawful content.”
+
+The expiring net neutrality protections, adopted at the FCC under President Obama in 2015, for years prevented the likes of AT&T and Comcast from slowing internet connections, blocking access to sites and services or charging content companies for faster delivery of streaming movies or videos. Such arrangements, seen by critics as online “fast lanes,” threatened hefty tolls that only the largest businesses could afford to pay, net neutrality advocates warned.
+
+Beginning Monday, however, the U.S. government no longer explicitly prohibits those practices. Internet service providers are required only to publish information about how they manage their networks. Violations of their promises — or behaviors that threaten competition or consumers — now fall under the watch of the Federal Trade Commission, not the telecom-focused FCC.
+
+When they adopted their repeal in December, Pai and his GOP allies argued that it would spare telecom giants from heavy-handed regulations that could crimp investments in broadband expansion. Democrats quickly charged that Pai had ignored roughly 22 million comments that flooded the agency as part of its official deliberations. Many of the commenters urged the FCC to preserve the government's net neutrality protections, which had treated ISPs similar to utilities.
+
+Pai said “misinformation” was behind some of the visceral online reaction he faced. “Some of the politicians who've been grandstanding on this issue have been misinforming the public,” the chairman said, pointing to Senate Democrats who tweeted for months that an end to net neutrality would cripple Web speeds.
+
+For now, companies like AT&T, Comcast and Verizon have said they would not block or throttle Web access or charge more for faster delivery of online content.
+
+“We're all going to wake up on Monday, and we're all going to be able to stream cool shows off Netflix or Hulu or YouTube,” pledged Jonathan Spalter, the leader of USTelecom, a trade group for the telecom industry. Broadband providers, he said in an interview, had been “unfairly and inappropriately the target of this angst or fear.”
+
+Pai also emphasized that the FTC — the agency now in charge of policing whether telecom companies abuse their power — is “going to be a powerful tool for weeding out any anti-competitive conduct.”
+
+But some of the staunchest advocates of net neutrality protections insist that the telecom industry's commitments to not block or charge more for the delivery of some content are insufficient, and that the FTC lacks the expertise and authority to hold them to account.
+
+“I don't believe them when they say they're not going to do anything and they're going to honor net neutrality,” Rep. Frank Pallone of New Jersey, the top Democrat on the House Energy and Commerce Committee, said in an interview. “That may be true next week, but over time I suspect they will start violating.”
+
+Some neutrality advocates — with the backing of about two dozen state attorneys general — are shifting their attention to federal court, which is soon to hear challenges claiming that Pai acted arbitrarily in overturning the Obama-era rules. The case could “keep ISPs honest, so to speak, so they wouldn't make drastic changes on Day One” after the repeal, said Michael Beckerman, the president of the Internet Assn., which represents tech giants such as Facebook and Google and is participating in a lawsuit.
+
+A more urgent battle is brewing in several states, which are passing their versions of net neutrality rules in defiance of the federal repeal. Oregon, Vermont and Washington state have adopted open-internet laws, while governors in an additional six states have sought to address the matter through executive orders.
+
+In California, lawmakers hope a proposal making its way through the Legislature could force the U.S. Congress to settle the issue with a long-elusive federal standard. “If that puts upward pressure on the federal government to enact robust net neutrality rules, then that's a good thing,” said state Sen. Scott Wiener (D-San Francisco), the bill’s chief author.
+
+In response to the state action, USTelecom is “exploring legal action,” said Spalter, citing the FCC's order explicitly preempting states from acting on net neutrality.
+
+Meanwhile, Pai said the FCC is “keeping all options on the table.”
+
+“I'm confident that our decision is the one that best vindicates consumers’ concerns going forward, and protects them in the internet economy that we have, and promotes a stronger economy for them,” he said.
+
+A few blocks away from the FCC, another legal battle is crescendoing: the Justice Department's war with AT&T over its $85-billion bid to buy Time Warner, announced in October 2016.
+
+Justice Department lawyers have argued that AT&T's deal would lead to higher prices for consumers, especially if the combined company withheld popular channels, such as CNN or TNT, until other cable providers paid higher rates to carry them. In response, AT&T has labored to poke holes in the government's economic analysis. Company attorneys also said during trial that AT&T has an incentive to ensure those channels are carried widely. No matter the outcome of the AT&T case, meanwhile, either side could appeal.
+
+AT&T declined to comment on net neutrality or the lawsuit.
+
+The verdict on the merger could have broad significance. A win for AT&T might clear the way for more consolidation, while a win for the government could cause telecom giants to think twice about buying companies in new lines of business. Even now, federal policymakers have a full dossier of proposed mega-mergers to review, including the combination of wireless carriers Sprint and T-Mobile.
+
+“It is a period of profound change,” said Democratic FCC Commissioner Jessica Rosenworcel, one of Pai's chief critics, “and we are also watching a lot of the big get even bigger.”
+
+But Republicans at the FCC maintain that existing law is sufficient to guard against misbehavior, even as telecom companies gobble one another up.
+
+“One of the concerns I see animating the AT&T case ... is this putting together of distribution and content,” Republican FCC Commissioner Brendan Carr said in an interview. “But what I can tell you is, if an ISP reaches an agreement to act in a non-neutral way by blocking, throttling or discriminating against traffic, or anti-competitively affiliating its content above another business, that's a per se violation” of antitrust laws.

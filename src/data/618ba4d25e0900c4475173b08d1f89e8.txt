@@ -1,0 +1,23 @@
+
+Seven ways to make Windows 10 work better
+FlintyMcQwerty asked for tips to fix or avoid problems with the operating system
+
+Jack Schofield
+
+
+Thu 13 Jun 2019 08.00BST
+
+
+Last modified on Fri 14 Jun 2019 12.38BST
+
+
+Please share all your favourite tips, tricks and techniques for harnessing the power, panache and pulchritude of Windows 10. (Apologies, Jack, for my ineluctable tendency to alliterate.) FlintyMcQwerty
+Last weeks answer provoked a lot of discussion about Windows 10. I cant do anything about the more hysterical complaints but many issues can be resolved by spending a few minutes in the settings app. Im therefore accepting FlintyMcQwertys invitation to explain a few of them.
+The one thing you have to accept is that Windows 10, like Windows 8, has two applications programming interfaces, and both are required to meet the needs of a changing world. Theres an old API for traditional programs run with a mouse, and a new one for finger-friendly apps that work on touchscreen tablets and convertibles.
+Tens of millions of us are already using Windows 10 devices with touchscreens and we may well become the majority. However, modern apps are now opened, resized and closed in exactly the same way as traditional programs and they work perfectly well with mice, so why complain about them? Its not a fundamental change like the one from character-based MS-DOS to graphical Windows.
+In fact, anyone who learned how to use Windows 95 when it came out should have no problem running Windows 10 today. The basic elements of a Start menu, a taskbar and clickable icons havent changed, even if the implementations look a little different.
+The quickest and easiest way to run programs in Windows 10 is to pin them to the taskbar, where they are very visible and only a click away. You should have at least nine of your most-used programs pinned because you can run them by pressing the shortcut combination of the Windows Key plus a number. WinKey-5 will run the fifth program in the line with no need to switch to the mouse. Keep the order the same and youll soon learn which is which.
+There are other ways to run programs you dont use very often. The hallowed method is to put their icons on the desktop. The modern alternative is to pin the programs icon to the Start menu, creating a Live Tile, which is mainly an icon in a box. The advantages are that its bigger and much easier to hit; its not cluttering up your desktop and its not buried at the bottom of a long menu.
+Remove all the tiles you dont want (right-click and select unpin from Start), resize the panel and group the tiles you need at the top. After that, you can run programs quickly by hitting the Windows key to open the Start menu, then clicking a tile. This is much easier than scrolling down the Start menu, especially when many programs are in sub-menus.
+One reader missed the jump list, which provided Start menu access to recently used files in Windows 7. They have not gone away. First, you get a jump list of recently used files by right-clicking an icon on the taskbar. Second, theres a list of 20 recently used files in the quick access panel in file explorer. Third, the new task view provides access to the hundreds you may have used over the past few days.
+If 

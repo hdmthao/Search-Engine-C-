@@ -1,0 +1,10 @@
+Google's AR animals entertain Android users
+Google is rolling out a tool that lets Android users view moving animals which make sounds in augmented reality through their device's camera.
+It currently only works with some animals but could be expanded to include objects and brands in future.
+It was unveiled last month at the firm's annual event for developers who create apps for Android devices.
+Devices which currently support it include specific models by Huawei, Samsung, LG and One Plus.
+Apple also supports a wide range of Augmented Reality applications and while some iPhone users appear to be able to access this feature, others cannot.
+The concept of Augmented Reality (AR) - the combination of images and the real world - pre-dates smartphones and tablets but the growth of these devices has led to a huge increase in its popularity, notably in mobile games such as Pokemon Go but also in other areas including education and interior design.
+Furniture store Ikea's app allows customers to place its furniture in their homes using AR to see what furnishings would look like before they are bought.
+"For many, Pokemon Go was our first encounter with AR, but this shows the possibilities of AR to a whole new group of people - those who don't play smartphone games," commented Kate Bevan, editor of Which? Computing magazine.
+"While I expect to see this technology taken up by brands for advertising further down the track, AR will also be used for practical things like navigation: Google is already rolling out a trial of AR maps for owners of its Pixel phones, and I expect to see that more widely available next year."

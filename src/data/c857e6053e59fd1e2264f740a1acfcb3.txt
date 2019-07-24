@@ -1,0 +1,853 @@
+
+nasa.gov
+Rocket Ranch - Episode 9: Developing Technology
+Anna Heiney
+39-50 minutes
+
+Rocket Ranch podcast cover illustration
+
+Joshua Santora: You might credit some modern technology to NASA, but have you ever wondered how that technology got from use in space exploration to you. And do you think you could you go an entire day without using NASA technology? Next, on the Rocket Ranch.
+
+Dr. Phil Metzger: These are spacecraft that can keep on going forever and ever in space, and they will open up the resources of the solar system to humanity so we don’t have just one planet any more.
+
+Launch Countdown Sequence: EGS Program Chief Engineer, verify no constraints to launch.
+
+EGS Chief Engineer team has no constraints.
+
+I copy that. You are clear to launch.
+
+Five, four, three, two, one, and lift-off.
+
+All clear.
+
+Now passing through max q, maximum dynamic pressure.
+
+Welcome to space.
+
+Joshua Santora: NASA has a reputation for creating history changing technology, and much of that technology is available to you right now. One of our secrets to success is that we aren’t developing all of this by ourselves. We’re leveraging industry and students to make innovative leaps. This is done primarily through our small business innovative research and small business technology transfer research programs.
+
+But before we get going, we want to make sure you know we’d love to hear your questions. We’ll tackle one each show and you might even inspire a whole episode. Tweet us using hashtag rocketranch.
+
+Today we’re going to talk with Dr Phil Metzger, who works for the University of Central Florida in partnership with NASA, about his World Is Not Enough robotic spacecraft. But first, we caught up with Mike Vinje, the Small Business Technology Manager with NASA’s Kennedy Space Center who helped us understand how the foundation of our collaborative programs work.
+
+All right. I am in the booth now with Mike Vinje. Mike, thanks for being here today.
+
+Mike Vinje: Happy to be here.
+
+Joshua Santora: So, I want to start with this -- this very broad question of, could I go a day without using NASA technology in America?
+
+Mike Vinje: I don't -- I don't think you could.
+
+I really don't.
+
+If you really make a strong effort to be kind of backpacking out in the woods, I think, yeah, you could maybe get there.
+
+But even then you'd probably be surprised at the stuff that's inside your backpack, or even the liner inside your jacket has probably got a lot to do with some of the materials work that we've done.
+
+A lot of people are familiar with the emergency blankets that you'll see people using -- the Red Cross, for example, or ambulances will have the aluminum-foil Mylar blankets.
+
+If you think back to the Apollo program, that's actually the material that we put around the outside of the legs of the lunar lander to make sure that the temperature variations weren't something that would cause problems with the structure underneath.
+
+So we were literally developing this material to wrap it around the outside parts of our spacecraft, and that's the very same material you see folded up in the little Mylar blanket that people use for Red Cross.
+
+Joshua Santora: How did it go from a lunar lander or some other NASA application to the department store or to your local convenience store?
+
+Mike Vinje: I think, a lot of times, what is unique about NASA technology development is, you're bringing together a diverse group of people who are looking at a problem in a fresh way.
+
+And it's that group of people, who come a lot of times from different industries -- As an example, the SBIR Program -- Small Business Innovation Research Program -- we put out a solicitation that has about 90 to 100 different research problems that NASA has, and that's open for everybody across the country to answer if they're a small company.
+
+Now, what we get is a very interesting variety of responses from small businesses that are in industries that we might not have thought of originally to even talk to.
+
+But yet, the problems we describe in that type of solicitation ends up being similar to something that they've seen in their situation, and they know how to adapt it.
+
+And many times, there's that sort of incremental progress that can really make a big difference for technology development.
+
+For those who have been following the progress that we've had on the International Space Station, a few years ago, we had a really remarkable moment where, for the first time, humans grew their own crop in space, and were able to eat that crop.
+
+[Soundbite]: On August 10, astronauts on the International Space Station sampled their first space-grown salad and pronounced it, “good”. They were treated to freshly-harvested red romaine lettuce grown in the VEGGIE plant growth chamber – a special structure designed to make gardens flourish in weightlessness.
+
+Joshua Santora: Which is awesome.
+
+Mike Vinje: Yeah.
+
+That had never happened before.
+
+And one of the reasons that was possible several years ago was because the SBIR Program helped fund the research for the development of something called the Veggie, which was the growth chamber that the actual growth took place inside of.
+
+And that's something that took multiple years and a lot of work with different folks.
+
+But it was something that, actually, we relied on the innovation coming out of small businesses in order to accomplish.
+
+The systems that you would normally use to water a crop don't work as you would expect.
+
+Because, if you think about it, when you're watering a crop, that's something that normally happens with Earth gravity, and you can rely on the gravity to drag the water down to the roots, who need the moisture.
+
+[Soundbite]: In a weightless environment there is no up and down so roots grow in all directions. Water and substrate, the materials used to anchor these plants and allow for root growth tend to float away. With VEGGIE, these problems are solved by using plant pillows, bags of substrate with space dirt and controlled-released fertilizer. Wicks are implanted in the bags to draw water into the substrate and provide a place to glue the seeds, which are orientated so roots will grow down into the substrate and shoots that emerge will push out of the bag.
+
+Mike Vinje: And although we did have some prototype systems, we found out quickly that we were, unfortunately, having to task -- ask the astronauts to help by manually watering some of the roots and stuff.
+
+And that ended up creating a need that we realized to have some sort of watering system that didn't rely on gravity.
+
+Scott Kelly: Hi, Scott Kelly onboard the International Space Station. I wanna go and check on my flowers I am growing here in the Columbus module. Kind of nice to have some flowers up here. You don’t see much that is alive and growing besides the six of us here. 
+
+So, there was an example of the type of technology call that went out, and so people across other agricultural industries, who had never thought that they were gonna have a need to talk or an opportunity to talk to NASA suddenly found themselves to be right in the area of discussion.
+
+One interesting area in the past few years has been the fields of autonomy, as an example.
+
+Joshua Santora: Sure.
+
+Mike Vinje: We have found, on the NASA side of autonomy, we have an interest in making sure that we have reliable systems that are rugged and can work unattended on other planets for some period of time.
+
+And that's the type of autonomy that we would have, is some sort of smart system that would be able to detect when there's maintenance problems, or even perform its own maintenance and that sort of thing, and make it to where it's ready for human occupation at a later date or that sort of task.
+
+Joshua Santora: So, you mentioned autonomy being a good example. So, essentially, we know that, as we return to the moon, we're looking to do that with commercial companies, and so we're gonna try and do a little up-front kick-starting of autonomy in commercial world, hoping that they will evolve further than the initial product so that we can glean from them and use them to help us get there effectively and efficiently.
+
+Mike Vinje: It's even more terrestrial than that, although the lunar example was good.
+
+Joshua Santora: Yeah, just an example.
+
+Mike Vinje: But let's take, for example, when we're talking about autonomy as it has to deal with a processing of materials.
+
+The same type of autonomy that would be advantageous to NASA in terms of a robot driving a scoop of lunar dirt by itself, that same type of autonomy is also of use for a mining company that has an autonomous dump truck down in a tunnel 200 feet below the ground.
+
+Joshua Santora: I did want to ask -- so, we heard about this project that we're gonna find more out about, WINE -- World Is Not Enough.
+
+So can you kind of talk me through, what's been the process for the WINE project as they've kind of worked through the SBIR process?
+
+Mike Vinje: Sure. This particular company, they were able to essentially produce a robotic rover -- a robotic free-flyer that can utilize the resources on the planetary bodies that it lands upon in order to get to the next location.
+
+That's about the best way to describe it.
+
+Joshua Santora: Sounds cool, right? Now here’s Dr. Phil Metzger to talk more about it.
+
+All right.
+
+I am here in the booth with Dr. Phil Metzger.
+
+Dr. Metzger, thanks for being here.
+
+Dr. Phil Metzger: Hello, Josh.
+
+I'm glad to be here. Thanks.
+
+Joshua Santora: Hey, so, we are talking today about getting technology from NASA into the hands of the general public.
+
+And we do that, obviously, through different means.
+
+But I've been told you're working on a project called WINE, which is an acronym -- the World Is Not Enough.
+
+So I feel like we need to [Sings] Ba-da, ba-dum Ba-dum-um
+
+Dr. Phil Metzger: [ Laughs ]
+
+Joshua Santora: So, what is WINE?
+
+Where did we get the name World Is Not Enough?
+
+Because obviously, like, that's a pretty powerful name.
+
+Dr. Phil Metzger: We're at a critical point in our development as a species here on planet earth.
+
+I think we've got a civilization that has outgrown the planet.
+
+And we see a lot of symptoms of that with the way that our civilization's affecting the climate, the way that we're depleting resources.
+
+And so in order for our civilization to keep moving forward, doing ever bigger and greater things, we need to stop relying on one planet for all of civilization's resources.
+
+I think it's time that we start putting the machinery of civilization off the planet and allow biology to have more living space here on this world.
+
+And we can do that.
+
+We know there are ways to start moving the machinery on industry off the world, and yet support civilization here on the Earth, as well as doing greater things in space.
+
+Joshua Santora: So, you talk about, we've depleted the Earth's resources.
+
+Now, are we talking, like, we're in a doomsday scenario here, or do we have time?
+
+Dr. Phil Metzger: I do not believe we've actually depleted the resources on the Earth.
+
+What I'm talking about is, we've used up the most easily accessible resources.
+
+It takes ever more energy to access and process the lower-grade resources that are not depleted.
+
+And because of that, our industrial footprint becomes ever greater.
+
+We need to process more energy, process more raw materials in order to produce the same outcome.
+
+And we also still need to make sure the whole world has a good economy, and access to healthcare and education, and so we're not done industrializing yet all over the world.
+
+What I'm talking about is reducing the industrial footprint on the Earth by putting the machinery off the planet.
+
+Joshua Santora: Okay.
+
+Dr. Phil Metzger: The total resources have never left this world.
+
+They're still all here.
+
+And it's just a matter of energy to process everything, and the efficiency of that processing is getting less as we've used up a lot of the higher-grade ore bodies.
+
+Joshua Santora: So, you're proposing this idea of going somewhere like the moon or Mars and bringing resources back here?
+
+Dr. Phil Metzger: Well, it's a decades-long program, I think.
+
+But the real goal would be to eventually have power systems that are off the planet beaming clean energy down to the surface so we can move the entire energy sector off the planet, and the entire industrial supply chain that supports the energy sector.
+
+We can also move the majority of computing off the planet.
+
+Right now, the energy needs of computing is growing exponentially, and at the current rate, according to the Semiconductor Research Corporation and the Semiconductor Industry Association, the computing here on planet Earth is gonna require the world's entire energy supply by the mid-2040s.
+
+Joshua Santora: [ Laughs ] Wait, wait, wait.
+
+So, we're gonna need all the energy of Earth to run computer servers by the 2040s?
+
+Dr. Phil Metzger: Well --
+
+Joshua Santora: An estimated figure.
+
+Dr. Phil Metzger: It won't actually happen.
+
+What will happen is, eventually there's gonna be increased cost for the energy to supply what computing requires or desires.
+
+Joshua Santora: I see.
+
+Dr. Phil Metzger: And so it's gonna result in a reduction in the amount of computing we can do, and that's gonna limit the benefits of computing.
+
+We won't be able to do as much supercomputing to solve for new drugs, you know, figuring out how proteins fold.
+
+There's gonna be limitations to what we can do digitally unless we can move the computing off the planet.
+
+And there's a hope that we can improve the efficiency of computing, but even if we do, even if we make the most optimally efficient computer, that's only gonna delay the crunch another 10 years.
+
+Joshua Santora: Sure.
+
+Dr. Phil Metzger: So, by the mid-2050s at the latest, we're gonna have to either dramatically increase the energy supply of planet Earth or start to move computing off the planet.
+
+So I'm not looking at bringing physical resources back from the Earth.
+
+I'm looking at ways that we can create infrastructure off the planet in order to support life here on the planet using massless transport up and down.
+
+Joshua Santora: So, kind of a part of this -- you mentioned a robot that never dies.
+
+Because you're not proposing that this robot is gonna solve all these world problems, but I'm curious to know, what does this robot that never dies do?
+
+Dr. Phil Metzger: Okay.
+
+So, it's actually a prospecting robot.
+
+So this is a spacecraft that could go out to any relatively low-gravity object outside planet Earth -- it could be asteroids, it could be the moon, it could be Europa or Titan or even Pluto.
+
+Anywhere that's got low enough gravity and has access to volatiles like water at the surface.
+
+Joshua Santora: So, the technical definition of a volatile is a substance easily evaporated at normal temperatures.
+
+Dr. Phil Metzger: Mm-hmm.
+
+Joshua Santora: And so for our purposes, oftentimes it's thinking about cryogenic materials -- things that we have to cool drastically in order to be a liquid, but at room temperature, they are a gas.
+
+Dr. Phil Metzger: Right.
+
+And this robotic spacecraft mines the surface to extract the volatiles, and it converts it into steam, and then it can hop in the low-gravity environment using steam propulsion.
+
+So it never runs out of rocket fuel as long as it's got an energy supply, which could be solar energy in the inner solar system, or it would have to probably be a nuclear decay source in the outer solar system.
+
+As long as it has energy and access to volatiles, it can just keep on exploring.
+
+Joshua Santora: Can it ever get stuck?
+
+Like, is there ever a chance where this thing, like, hops into a hole or lands on a rock funny and tips over?
+
+Like, how do we know this isn't gonna happen?
+
+Dr. Phil Metzger: Well, it definitely can happen.
+
+And when we devised this project, our thinking was that, "We will send swarms of these out into space.”
+
+They can be made very inexpensively using student teams, using off-the-shelf CubeSat hardware, 3-D printing the custom components.
+
+So this was designed to be built in massive quantities and sent out into space in swarms.
+
+The idea --
+
+Joshua Santora: That sounds really creepy. You know that, right?
+
+Dr. Phil Metzger: We will send swarms of these out into space. [ Laughs ]
+
+Joshua Santora: These giant, like, kilometer-long hopping robots.
+
+Like, that sounds really creepy.
+
+Dr. Phil Metzger: Hopping through the solar system like roaches.
+
+[ Laughter ] Yeah, well, so, they would not be intelligent.
+
+They could not take over.
+
+Joshua Santora: Okay.
+
+Good. Whew!
+
+Dr. Phil Metzger: Yeah.
+
+They would -- The idea is that, some of them are gonna land on asteroids that have water, and they're gonna refuel, and then they're gonna study that asteroid and send data back, and then they'll hop to another one.
+
+But other ones are gonna hop onto an asteroid that doesn't have water, and they get stuck.
+
+Joshua Santora: Interesting.
+
+Dr. Phil Metzger: So that's the end of their mission.
+
+So, over time, they're gonna end up stuck on asteroids.
+
+And that's fine.
+
+They'll still provide data about the dynamics of that asteroid as they radio back their location, but eventually, over time, the swarm will be thinned down.
+
+Joshua Santora: Okay.
+
+And when you say a swarm, kind of give me a frame of reference.
+
+Are we talking, like, a dozen, 100, 1,000?
+
+What's the number look like?
+
+Dr. Phil Metzger: It could be thousands, because these are built with off-the-shelf hardware that's designed for CubeSat.
+
+So they can be very inexpensive, and they can be built by student teams as projects.
+
+They could be built even by community groups, people who want to participate in space.
+
+You could have a Boy Scout group build a satellite as one of their projects, and then it could go into space and participate as part of the swarm of spacecraft exploring the asteroid belt.
+
+Right now, we're sending on average one spacecraft to a small solar system body every two years.
+
+There are approximately 10 billion small solar system bodies.
+
+At the rate we're going, we will never explore them all until the end of the universe.
+
+But this would be a way to change that game, to send out large numbers of spacecraft and visit many, many, many of these small objects throughout this gigantic asteroid belt, and then out into the Kuiper Belt.
+
+So, it'll give us a chance to really take survey of this home that we live in.
+
+Joshua Santora: So, how big of a robot are we talking about here?
+
+Dr. Phil Metzger: It's the size of a microwave oven.
+
+Joshua Santora: Okay.
+
+Dr. Phil Metzger: In terms of CubeSats, it would be 27U.
+
+That's 27 units, so it's 3x3x3 CubeSats.
+
+Joshua Santora: So, for those not familiar, the CubeSat is a very growing trend of spacefaring satellites, and they measure, what, 10 centimeters cubed?
+
+Dr. Phil Metzger: That's right.
+
+10 centimeters on a side.
+
+Joshua Santora: Okay.
+
+Dr. Phil Metzger: And so the WINE was just -- and, by the way, the CubeSats are modular, so they're made to be hooked together, and so you can have -- quite often, you'll see CubeSats that are 3U, and so those would be 10x10x30.
+
+It's just three cubes hooked together.
+
+You often see them as 1x2x3, so that's a 6U.
+
+Joshua Santora: Okay.
+
+Dr. Phil Metzger: So what we're talking about is 27U.
+
+It's just 27 CubeSat-sized boxes hooked together, three of them on a side.
+
+Joshua Santora: So, we've got robots exploring around our solar system, and this would be on the much smaller side.
+
+Is that a fair assessment?
+
+Dr. Phil Metzger: Yeah.
+
+This is definitely a small spacecraft.
+
+And part of the idea of the WINE project was to make use of the growing availability of CubeSat components.
+
+So we can use CubeSat reaction wheels, CubeSat communication systems, CubeSat power systems and computers.
+
+However, we are not a CubeSat.
+
+So we are using CubeSat components, and we're using CubeSat dimensions, but we don't actually have 27 modular units hooked together, because the propellent tanks don't fit in just one unit.
+
+Joshua Santora: Sure.
+
+Dr. Phil Metzger: It's got legs attached to the side.
+
+It's got a nozzle sticking out the bottom.
+
+So it's not really fitting -- entirely fitting the CubeSat philosophy.
+
+But it is leveraging CubeSat philosophy to a degree.
+
+Joshua Santora: So, give me kind of a feeling -- We talked about kind of the energy that it has to do propulsion.
+
+We've talked about its size.
+
+So, if we put this thing on Earth and you've got it working at full power, how far can this thing hop?
+
+Dr. Phil Metzger: Well, here on Earth's gravity and in Earth's atmosphere, it's not gonna perform very well.
+
+For one thing, the steam propulsion ha a great advantage in space, because as you're blowing steam out the rocket nozzle, there's a huge pressure difference from inside the upstream in the nozzle to outside the nozzle.
+
+And that pressure different is enough that it causes the steam to go supersonic as it flows down the nozzle.
+
+But if you try to operate that inside of a dense atmosphere, like on the Earth, you may not be below the critical pressure on the outside.
+
+Joshua Santora: Okay.
+
+Dr. Phil Metzger: And so you may not get supersonic flow.
+
+So it's gonna dramatically reduce the ability of the propulsion system to create thrust.
+
+The second problem is the high gravity.
+
+Joshua Santora: Sure.
+
+Dr. Phil Metzger: So, here on the Earth, I'm not sure you're gonna get a very good hop at all.
+
+Joshua Santora: [ Chuckles ]
+
+Dr. Phil Metzger: In a thin atmosphere, like on Mars, it would definitely work, and you could hop hundreds of meters.
+
+Joshua Santora: A single hop?
+
+Dr. Phil Metzger: Yeah.
+
+Joshua Santora: Hundreds of meters?
+
+Dr. Phil Metzger: Yeah.
+
+That's true. That's correct.
+
+Joshua Santora: That's awesome.
+
+[ Laughs ]
+
+Dr. Phil Metzger: Now, the metric I was using was to try to make it hop at least one kilometer per hop, and also to be able to heat the fuel, the steam, in 10 days or less.
+
+So, you mine the water, and then you spend some time heating it.
+
+You're using solar power if you're in the inner solar system.
+
+Joshua Santora: Okay.
+
+Dr. Phil Metzger: So, over a 10-day period of time, you're trickling in this solar energy and just building up temperature and pressure inside your water tank.
+
+And my objective was to make sure the spacecraft could get to hopping temperature within 10 days.
+
+Joshua Santora: Okay.
+
+Dr. Phil Metzger: So, you could have a spacecraft -- you could allow it to take longer than 10 days if you wanted to, but you have to draw the line somewhere...
+
+Joshua Santora: Sure.
+
+Dr. Phil Metzger: ...for it to be a practical system.
+
+Joshua Santora: Makes sense.
+
+Dr. Phil Metzger: So, if you could heat it up in 10 days with a sufficiently small set of solar arrays as your power source, then it becomes a very viable spacecraft, according to our reckoning.
+
+Joshua Santora: And, so, when we talk about that, obviously you have to not only account for the lift-off, so to speak, the hopping portion, but the touchdown portion.
+
+Do you save some of the steam to kind of slow your descent, or are the legs built so that they can withstand that force?
+
+Dr. Phil Metzger: We were planning to do soft landings using the steam propulsion.
+
+So, when I say it hops a kilometer or more, that means you're using about half of the steam for lift-off, you're using a little bit of the steam for attitude control, using the tiny thrusters.
+
+Joshua Santora: [ Chuckles ]
+
+Dr. Phil Metzger: And so you're controlling the spacecraft using the same steam, and then it uses the other half of the steam to set down softly at its landing site.
+
+Joshua Santora: Cool. That's amazing. And you mentioned harvesting water. And I'm assuming we're not talking about, like, streams of water, here. We're talking about frozen water. Is that correct?
+
+Dr. Phil Metzger: Yeah.
+
+Well, it really depends where you are, what kind of a body you're on. So if you're on Europa, the whole surface is ice.
+
+Joshua Santora: Okay.
+
+Dr. Phil Metzger: And is probably mixed-composition ice.
+
+It can be water, carbon dioxide, it can have all kinds of organics. And for this spacecraft, it really doesn't matter. Whatever it gets, it can convert all of that to high-pressure vapor, and then shoot it out the nozzle and get propulsion.
+
+So we don't really care too much what the composition is. That's one of the nice things about this very simple system. If you're on the moon, then it's gonna be ice mixed with dirt, mixed with mineral grains.
+
+Joshua Santora: Sure.
+
+Dr. Phil Metzger: And so the system has two coring tubes. It drives them down into the soil, and then it heats the coring tubes. So the vapor will travel through the soil, up the coring tube, into a pipe, and into the tank where it gets frozen.
+
+Some of the vapor will leak out the bottom of the coring tube -- that's okay. We don't have to collect all of it. But you extract the coring tubes. The spacecraft has legs, so it then walks a few centimeters, and it repeats the process.
+
+And it keeps doing one set of coring-tube extraction operations after another until the tank is full of water. Every time, it'll shove that tube down in the icy regolith, it'll get some of the vapor out, and it will pull the tube back out again.
+
+So, you can actually get the ice out of the dirt.
+
+On the other hand, a third example, if you're on a carbonaceous asteroid, let's say you're --
+
+Joshua Santora: Carbonaceous. That's an awesome word.
+
+[ Laughs ]
+
+Dr. Phil Metzger: [ Chuckles ] So, carbonaceous, those are the asteroids that have a lot of clay in them.
+
+Joshua Santora: Okay.
+
+Dr. Phil Metzger: So Ceres, the largest asteroid, is a carbonaceous asteroid, for one example. So, if you're on a carbonaceous asteroid, there is no ice.
+
+Instead, the water is actually locked into the mineral structure of the clay itself. In that case, you can still get the water out.
+
+You drive the coring tube down into the soil, you heat the soil so much that the hydroxyl that's in the clay starts to break loose, and it comes out in the form of water.
+
+So you still can --
+
+Joshua Santora: Crazy.
+
+Dr. Phil Metzger: ...get water, even on a bone-dry asteroid.
+
+Joshua Santora: Man.
+
+This is, like, blowing my mind, Phil. This is awesome.
+
+So, obviously if you're harvesting in frozen deposits of water or water mixed into regolith, we're in fairly cold environments.
+
+Is this thing -- is this robot able to survive in these really, like, harsh environments?
+
+Dr. Phil Metzger: Sure.
+
+That was part of the calculation -- how much energy it needs to stay warm. And there's a lot of different ways to do it. One way is, you simply try to stay in a benign environment.
+
+So, there are places in the solar system where it's not so cold, and you design it to handle the average temperature.
+
+But if you want to go into a really, really cold place like Pluto, then you're gonna have to have some warmth on the spacecraft.
+
+And the way that we do that in the space program is, we use RHUs -- radioisotopic heater units.
+
+Each RHU is the size of a dime, and you just simply glue them onto your spacecraft at various locations.
+
+They contain a tiny amount of a radioactive material, and over time, that material decays and creates warmth that goes into your spacecraft.
+
+Joshua Santora: [ Chuckles ] So you're using radioactive dimes to heat a spacecraft to keep it from freezing.
+
+Dr. Phil Metzger: Yeah, that's actually standard practice.
+
+Joshua Santora: [ Laughs ]
+
+Dr. Phil Metzger: [ Laughs ] We didn't invent that.
+
+But, yeah.
+
+So, to go to these colder areas, you would have to do something to keep them warm in order to keep the electronics functional.
+
+Joshua Santora: And we talked about the way this thing gets around, and how it kind of gathers its propulsive materials.
+
+But I'm assuming that this robot is for more than just hopping around.
+
+It's got to have some kind of a function that's scientifically beneficial.
+
+Dr. Phil Metzger: That's right. It would carry a payload.
+
+And one of the nice things about it is that the spacecraft is already mining the volatiles. So if you want to study the volatiles, you've already got access to them.
+
+So you could put some instruments on your spacecraft, and you could study the chemistry of the volatiles, you could study what temperatures the volatiles are released from the soil, and that gives you information about the clay minerals and the physical state of the ice in the soil.
+
+You also could carry a camera. Obviously you will have a camera, because you need visual awareness as you're hopping and landing.
+
+Joshua Santora: Sure.
+
+Dr. Phil Metzger: So you'll get visual imagery of the body that you're exploring, but there's also accommodation for other payloads.
+
+So you could take magnetometers, or you could take spectrometers or anything else to study the mineralogy or the planetary environment wherever you go.
+
+Joshua Santora: What are some of the major challenges that lie ahead for you all?
+
+Obviously the goal here is that this will be operational in exploring somewhere in our solar system, but what are the big speed bumps to getting there?
+
+Dr. Phil Metzger: Yeah.
+
+It's a matter of doing the engineering.
+
+So, NASA has a way of grading technology.
+
+Joshua Santora: Okay.
+
+Dr. Phil Metzger: It's called the Technology Readiness Level scale.
+
+Did I say that right?
+
+Joshua Santora: That sounds right, yeah.
+
+Dr. Phil Metzger: Technology Readiness Level.
+
+Joshua Santora: Yeah.
+
+[ Chuckles ]
+
+Dr. Phil Metzger: So, it goes from one through nine.
+
+One means you've discovered something in physics.
+
+Joshua Santora: Okay.
+
+Dr. Phil Metzger: Two means you've come up with a way to use it in technology.
+
+And then it goes all the way up to nine, which means you are now flying it in space.
+
+Joshua Santora: Okay.
+
+Dr. Phil Metzger: So, we are at TRL 4, or partial TRL 5.
+
+Joshua Santora: Okay.
+
+Dr. Phil Metzger: Because we've built a partial prototype, and we have tested it in a terrestrial environment using a gravity offloader, but using realistic regolith and vacuums.
+
+So it was partially the realistic environment and a partial prototype.
+
+So, in order to get a full TRL 5, we would need the full prototype with all the spacecraft systems, I think.
+
+Joshua Santora: Okay.
+
+Dr. Phil Metzger: And then in a full, relevant environment for the testing -- so maybe some testing in space, actually -- to get TRL 6.
+
+And once you're at TRL 6, that's the point where you can sell it to your customer.
+
+Then the customer's job is to build the actual flight units to go seven, eight, and nine.
+
+Joshua Santora: And for you, as you kind of look towards the future, obviously it sounds like a customer gets involved, so they kind of have some say in this.
+
+But do you have to go further than the moon to be able to test this, or is the moon an acceptable testing ground for you guys?
+
+Dr. Phil Metzger: Well, to get TRL 6, you don't actually have to go to space.
+
+You can simulate it.
+
+But you have to put together the full set of relevant space conditions.
+
+Joshua Santora: Okay.
+
+Dr. Phil Metzger: So, we have tested in vacuum.
+
+We used a gravity offloader.
+
+But we would probably want to test the mining process itself, the coring, in a reduced-gravity flight, and we would probably also need to have the right thermal environment on the spacecraft.
+
+So not just a vacuum chamber, but a thermal vacuum chamber for some of these tests.
+
+Once we've done all that, we could probably claim TRL 6.
+
+Joshua Santora: Cool.
+
+Any words of advice that you would give to aspiring planetary-research scientists?
+
+Or possibly something that you might say to inspire people to be planetary-research scientists?
+
+Dr. Phil Metzger: Well, I'm having the time of my life.
+
+This is exciting. It's fun.
+
+I do something different every day.
+
+I'm working on about five or six different projects at all times.
+
+So there's a lot of variety, and you get to make everything up as you go along.
+
+So if you like --
+
+Joshua Santora: [ Laughs ]
+
+Dr. Phil Metzger: There's no book that tells you what to do next.
+
+What we're doing is, we're creating an off-world economy.
+
+So, I call myself an applied planetary scientist.
+
+Joshua Santora: Okay.
+
+Dr. Phil Metzger: Or I'm doing economic planetary science.
+
+Because we're working on the technologies to do economic activities off the Earth.
+
+This is not an established field, and so we're making it all up as we go along.
+
+This is also what the Swamp Works does at the Kennedy Space Center.
+
+The Swamp Works, in my opinion, is the premier laboratory for space mining and space-resource utilization in the world.
+
+And some of the best technologists in the world are here in NASA doing this work.
+
+When I was at NASA as part of the Swamp Works, we were making it up as we go along.
+
+We're trying to figure out -- we're inventing technologies.
+
+We're inventing processes.
+
+We're inventing strategies and entire space architectures.
+
+And then we convince people to give us the money to do it, and then we get to have fun, and we go work on volcanoes, we fly in reduced-gravity airplanes, and pretty much anything you want to do.
+
+We're working with real rockets and with robots.
+
+You know, so, robots, rockets, and we're doing things to help humanity, so it's kind of the best of everything.
+
+Joshua Santora: All right.
+
+I'm ready to go. Sign me up.
+
+I'm in.
+
+Dr. Phil Metzger: All right.
+
+Joshua Santora: [ Chuckles ] So, there you go.
+
+So, as we look towards colonizing the moon or Mars or other heavenly bodies, Phil Metzger is a brilliant man who has lots of data to share, and obviously lots of energy to do so.
+
+So thank you for being with me today.
+
+Dr. Phil Metzger: Thank you, Josh.
+
+Joshua Santora: As promised, we wanted to answer a question from a listener. Cassashine asks, “What is the most exciting thing to look forward to regarding SpaceX and private companies also being about to travel to outer space?”
+
+So you may or may not know, but part of NASA’s mission is to expand commercial space. So for any company that gets into that game of taking humans into space that’s a huge win for NASA. And we really see that as a benefit for all mankind because the more companies that enter the field, the more competition there is and so that actually will drive costs down and make commercial space more accessible for most people. So, over time, the cost of flying into space will take a huge plummet and that’s awesome because then everyone will get a chance to hopefully some day vacation in space, visit the moon or even further than that. So we’re excited for all these commercial companies and a growing field.
+
+[Sound Effect]
+
+Mike, we had a chance to sit down with Dr. Phil Metzger and talk about the WINE project.
+
+Is this an exceptional project, or is this par for the course when it comes to SBIR and STTR?
+
+Mike Vinje: It's a great question, because the SBIR Program has been responsible for bringing forward a lot of really amazing companies and teams doing remarkable projects.
+
+So, we're lucky to say that, yeah, there are quite a few like this WINE project that really knock it out of the park.
+
+And it's hats off to the small businesses that put all the effort in for this program, that's for sure.
+
+Joshua Santora: So, you mentioned that we're looking for research projects that we could see some commercial application.
+
+Is that a priority for us?
+
+Are we really helping to kind of kick-start these commercial deliverables or products or however you want to describe it?
+
+Mike Vinje: We try in general to make sure that the company's participation in the SBIR Program is something that's gonna benefit them in the commercial world as well as the government world.
+
+And there's a couple different ways how that happens and why we would want it to happen.
+
+It helps in the commercial world in the sense that, we're interested in making sure that these small businesses are functional and available to us for future use as suppliers.
+
+Joshua Santora: Interesting.
+
+Interesting.
+
+Mike Vinje: So, a good way of saying it for the SBIR Program -- in fact, this kind of leans towards it.
+
+A good way of looking at the SBIR Program is, for NASA, we're trying to build pockets of the industry that we know we're gonna need in the near future.
+
+Joshua Santora: Huh.
+
+Mike Vinje: So, while we know that there's suppliers of -- or prime contractors and established suppliers of different types of technology, if we can see that, a few years down the road, we're gonna need some new category or class of sensors or what have you, it's worth it for us to put some seed money out through the SBIR program, work with small businesses, and collaboratively try to develop that little niche in the industry and see if we can grow it.
+
+Joshua Santora: Can you talk about kind of the process?
+
+So, whether it be for WINE or for any SBIR -- I would assume the process is similar -- what do they go through from a NASA perspective to develop this technology and get it ready for flight?
+
+Mike Vinje: Sure.
+
+The NASA SBIR process is actually something that has a couple different phases.
+
+The first part is Phase I, where we send out the solicitation to the general public and to industry. And any company or any person who's starting a company, even, can apply.
+
+And they're applying for a Phase I award, which is $125,000 for 6 months' or 13 months' worth of work, depending on whether it's the SBIR Program or STTR Program.
+
+But that Phase I, what that's basically doing is, that is -- what NASA's asking for, I should say, is something of a technology-development plan.
+
+You think you have an idea. How would you develop the idea if you had funds, and what kind of preliminary work can you do up front to validate or better plan for it or even disprove the concept?
+
+That's kind of what the Phase I work does.
+
+And then what happens is, at the end of the Phase I period, the company submits a final report, and they're also invited to apply for Phase II.
+
+So, you don't get to Phase II unless you've been awarded a Phase I.
+
+Joshua Santora: Okay.
+
+Mike Vinje: And the Phase II is sort of follow-on work.
+
+So that's the second stage of the work.
+
+The nice thing about Phase II is, it's a bit more time.
+
+It's two years' worth of duration, and it's also $750,000.
+
+So, between those two, you're close to $1 million worth of funding that NASA has provided to the small business to pursue that particular technology.
+
+So, the World Is Not Enough project, the WINE project, has proceeded through Phase II, and has gotten to where they've been able to develop hardware.
+
+And that's the exciting part about the Phase II project.
+
+By the end of Phase II, NASA is generally expecting to see some sort of hardware that will be delivered or a software prototype, something like that.
+
+Some sort of proof of the technology.
+
+And between those different phases, it pretty systematically helps bring the companies up -- in terms of developing their technology, up through the Technology Readiness Levels.
+
+Joshua Santora: Mike, the STTR Program being different, and that it incorporates universities -- and I think there's part of me that's continuously impressed by the fact that we do have university students really contributing to NASA missions.
+
+Can you talk about the value of those students?
+
+Like, is it more learning for them, or is it more value for us?
+
+Mike Vinje: The approach that has really worked well in the past, and I think is the reason why the STTR Program is structured the way it is, is that not only do you need to find groups of people who are capable of coming up with innovative solutions, but you also need to think of it more like a process.
+
+Where do these people come from?
+
+And if they're going to grow into big companies, how do you supply them with people who have familiarity in those fields?
+
+But also, you're not just growing companies.
+
+You're growing whole areas of thought and development, and a lot of times the academic world is critical for that.
+
+At NASA, we pay a lot of attention to technology ecosystems, as I would call it, where the different elements that are needed in a particular region in order to support technology development, it's very hard for a small business by itself to really be able to thrive in some of these demanding worlds if you don't have some kind of support.
+
+And a lot of times, the nearest university or research institute can be just the critical lifeline that a small business would need.
+
+And we want to try to encourage that.
+
+That's part of why we have the STTR Program.
+
+We've found it to be extremely powerful for small businesses to make an effort to reach out and interact with the universities, particularly if they're doing technology development, because it is the exchange of ideas that is pretty staggering.
+
+And small businesses also don't realize that sometimes there are more opportunities than just our STTR Program that require a combined team.
+
+And it's a real vibrant part of the research part, and there's
+
+nothing but benefit to get if people can team up like that.
+
+Joshua Santora: All right.
+
+Mike, that's all the time we have for today.
+
+Thank you so much for being here.
+
+I am incredibly excited.
+
+Obviously an exciting time for SBIR as we look to return to the moon.
+
+Thanks for joining me.
+
+Mike Vinje: Thank you.
+
+Joshua Santora: I’m Joshua Santora, and that’s our show. Thanks for stoppin’ by the rocket ranch. And special thanks to our guests Mike Vinje and Dr. Phil Metzger.  To learn more about SBIR and STTR visit sbir.nasa.gov.
+
+To learn more about how NASA technology benefits life on earth, check out the 2019 NASA Spinoff magazine, which is out now, at spinoff.nasa.gov.
+
+And to learn more about everything going on at the Kennedy Space Center, go to nasa.gov/kennedy. Check out NASA’s other podcasts to learn more about what’s happening at all of our centers at nasa.gov/podcasts.
+
+A special shout-out to our producer, John Sackman, our soundman Lorne Mathre, editor Michelle Stone, and our production manager, Leejay Lockhart. And remember: on the rocket ranch… even the sky isn’t the limit.
+
+Last Updated: April 6, 2019
+
+Editor: Anna Heiney

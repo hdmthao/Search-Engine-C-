@@ -1,0 +1,43 @@
+Small cluster of neurons is off-on switch for mouse songs
+With precise control, researchers could make a mouse sing or not on command
+Date:
+June 14, 2019
+Source:
+Duke University
+Summary:
+Researchers have isolated a cluster of neurons in a mouse's brain that are crucial to making the squeaky, ultrasonic 'songs' a male mouse produces when courting a potential mate.
+Researchers at Duke University have isolated a cluster of neurons in a mouse's brain that are crucial to making the squeaky, ultrasonic 'songs' a male mouse produces when courting a potential mate.
+
+In fact, they now understand these neurons well enough to be able to make a mouse sing on command or to silence it so that it can't sing, even when it wants to impress a mate.
+
+This level of understanding and control is a key advancement in the ongoing search for the mechanisms that allow humans to form speech and other communication sounds. The researchers are broadly interested in the brain's production of speech and have worked with songbirds and mice as models for humans.
+
+"We were interested in understanding how mice produce these 'love songs,' as we call them in the lab," said Katherine Tschida, who led the research as a post-doctoral fellow in both the Richard Mooney and Fan Wang labs at Duke neurobiology.
+
+For this study, Tschida and her colleagues focused on a part of the midbrain called the periaqueductal gray, or PAG for short, because they knew from previous work by others that it would be a key player in the vocalization circuit, she said.
+
+With technology developed by Wang's lab, they were able to locate and isolate the specific neurons involved in the PAG's circuitry and then experiment on them.
+
+By turning the neurons on selectively with a light-based method called optogenetics, the researchers found they could make a mouse immediately begin singing, even though it was alone.
+
+On the other hand, silencing the activity of the PAG neurons rendered courting male mice incapable of singing, even while they persisted in all of their other courtship behaviors.
+
+The females turned out to be less interested in the silent types, which also shows that the singing behavior is key to mouse survival.
+
+Both experiments firmly establish that this "stable and distinct population of neurons" is the key conduit between behavior and vocal communication, Tschida said. The work will appear in the Aug. 7 edition of Neuron, but was published early online in mid-June.
+
+"These neurons are acting as a base for vocalization. But they don't determine the individual parts of the song," Tschida said. "It's a 'gate' for vocalization."
+
+Tschida, who will join the Cornell University faculty next year, said the research will now trace PAG's connections to neurons downstream that communicate with the voicebox, lungs and mouth, for example. And they'll work toward the behavioral centers upstream that tell the mouse there is a female present and he should start singing.
+
+The researchers hope to form a more complete picture of why mice produce different syllables in different contexts. "We know they do it, but don't know yet what parts of the brain drive the behavior," Tschida said.
+
+This research was supported by the National Institutes of Health (MH103908, DC13826, MH117778).
+
+Story Source:
+
+Materials provided by Duke University. Original written by Karl Leif Bates. Note: Content may be edited for style and length.
+
+Journal Reference:
+
+Katherine Tschida, Valerie Michael, Jun Takato, Bao-Xia Han, Shengli Zhao, Katsuyasu Sakurai, Richard Mooney, Fan Wang. A Specialized Neural Circuit Gates Social Vocalizations in the Mouse. Neuron, 2019; DOI: 10.1016/j.neuron.2019.05.025

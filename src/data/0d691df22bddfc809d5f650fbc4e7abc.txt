@@ -1,0 +1,13 @@
+Surviving Mars Wiki
+Colonize Mars and discover her secrets, with minimal casualties.
+Tagline	
+Surviving Mars is an upcoming science-fiction city builder game from Haemimont Games, of Tropico fame. The game focuses on building a sustainable colony on the surface of Mars, starting with automated construction drones that lay down the basic infrastructure, and ending with an investigation into the planet's strange and fascinating secrets.
+
+Features
+Detailed colony simulation requiring good planning and a coherent strategy to ensure your colonists don't painfully choke to death after a blackout consumes their oxygen generators.
+Multiple options for city building, including agriculture, mining, and entertainment modules. A Space Dome is just the start!
+Individually-simulated colonists, individuals with their own ambitions and character traits.
+A randomly generated map each time you start the game, with multiple starting options. Your landing zone matters, as does the space agency you select.
+A randomized research tree combining static discoveries and random boons obtained by experimentation.
+Random events related to Mars' distant parts and its many secrets!
+Full mod support, allowing for the creation and sharing of custom buildings and mysteries.

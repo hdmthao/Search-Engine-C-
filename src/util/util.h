@@ -6,7 +6,6 @@
 #include <ctype.h>
 #include <ctime>
 
-
 namespace util {
     // function for string
     namespace string {
@@ -20,6 +19,8 @@ namespace util {
         std::string ToLowerCase(const std::string &s);
         std::string Normalize(const std::string &s);
         std::vector<std::string> DivideToLine(const std::string &, int);
+        std::string RemoveUnicode(const std::string &s); // remove unicode
+
     }
 
     // function for time

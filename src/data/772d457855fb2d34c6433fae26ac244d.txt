@@ -1,0 +1,53 @@
+Improved human brain organoids to boost neurological disease research
+Reproducible, miniature 3D models of human brain tissue open up new frontiers in neuroscience
+Date:
+June 5, 2019
+Source:
+Harvard University
+Summary:
+Research has optimized the process of making human brain 'organoids' -- miniature 3D organ models -- so they consistently follow growth patterns observed in the developing human brain. Researchers can use this reproducible experimental system to test drugs for neuropsychiatric diseases like autism spectrum disorder and schizophrenia directly in human tissues.
+Scientists at Harvard University and the Broad Institute's Stanley Center for Psychiatric Research have made a major advance in the development of human brain 'organoids': miniature, 3D tissue cultures that model a patient's own brain cells in a dish. Their new method, published in Nature, consistently grows the same types of cells, in the same order, as the developing human cerebral cortex. The advance could change the way researchers study neuropsychiatric diseases and test the effectiveness of drugs.
+
+The genetics behind human neurological disease are complex, with large spans of the genome contributing to disease onset and progression. Studying neurological diseases in other animals gives limited opportunities for relevant discovery, as human brains are quite distinctive.
+
+Organoids offer great promise for studying disease in humans directly. But so far, they have failed in one very important way.
+
+"We might all use our brains differently, but each of us has the same collection of cell types and basic connections," explained senior author Paola Arlotta, the Golub Family Professor of Stem Cell and Regenerative Biology at Harvard and a member of the Stanley Center. "That consistency is crucial and, with very few exceptions, it is reproduced every time the human brain forms in the womb. There are only the smallest differences between us, in terms of the cell types and structures in our brains."
+
+Until now, that has not been the case with organoids. While they do generate human brain cells, each one is unique. That means they cannot be used easily to compare differences between diseased and control brain tissues.
+
+"Organoids have dramatically advanced our ability to study the human developing brain," said Arlotta. "But until now, each one has been its own snowflake, making its own special mix of cell types in a way that could not have been predicted at the outset. We solved that problem."
+
+Building on seminal work led by the late stem cell biologist Yoshiki Sasai, the team created organoids that are virtually indistinguishable from one another -- even when grown for longer than six months in the laboratory.
+
+Furthermore, under specific culture conditions the organoids were healthy and able to develop long enough to produce a broad spectrum of cell types normally found in the human cerebral cortex.
+
+These advances mean that brain organoids can now be used as viable experimental systems to study diseases in patient tissues directly, and to compare different drug effects on human brain tissues.
+
+The same cells, the same way
+
+The researchers focused on organoids of the cerebral cortex: the part of the brain responsible for cognition, language, and sensation. The cerebral cortex plays a key role in neuropsychiatric diseases such as autism spectrum disorder and schizophrenia.
+
+"We made organoids from multiple stem cell lines, from both male and female origins -- so their genetic backgrounds were different," explained lead author Silvia Velasco, a research scientist at Harvard and the Broad Institute.
+
+Human brain tissues grow very slowly. In this study, after six months the organoids had grown to three millimeters across. In the largest single-cell RNA sequencing experiment in brain organoids to date, the researchers grouped cells based on which genes were expressed at different stages. Using computational models for big data analysis, they compared each group to the cell types that develop in the embryonic cerebral cortex.
+
+"Despite the different genetic backgrounds, we saw that the same cell types were made in the same way, in the correct order and, most importantly, in each organoid," said Velasco. "We were really excited that this model gave us such consistency."
+
+A new way to investigate disease
+
+Using the optimized method from this study, researchers could make organoids from stem cells derived from patients, or engineer cells containing mutations that are associated with specific diseases.
+
+Arlotta's lab is currently exploring autism, using CRISPR/Cas9 gene editing techniques to develop brain organoids specific to the disorder.
+
+"It is now possible to compare 'control' organoids with ones we create with mutations we know to be associated with the disease. This will give us a lot more certainty about which differences are meaningful, which cells are affected, and which molecular pathways go awry," said Arlotta. "Having reproducible organoids will help us move much more swiftly towards concrete interventions, because they will direct us to the specific genetic features that give rise to the disease. In the future, I envisage we will be able to ask far more precise questions about what goes wrong in the context of psychiatric illness."
+
+"In a short time, we have gained a remarkable amount of knowledge about the many different cell types in the human brain," said co-author Aviv Regev, who is a Core Institute Member and Chair of the Faculty at the Broad Institute, as well as co-chair of the Human Cell Atlas project. "That knowledge has given us a foundation for creating models of this incredibly complex organ. Overcoming the problem of reproducibility opens the doors to studying the human brain in ways that would have been thought impossible just a few years ago."
+
+Story Source:
+
+Materials provided by Harvard University. Note: Content may be edited for style and length.
+
+Journal Reference:
+
+Silvia Velasco, Amanda J. Kedaigle, Sean K. Simmons, Allison Nash, Marina Rocha, Giorgia Quadrato, Bruna Paulsen, Lan Nguyen, Xian Adiconis, Aviv Regev, Joshua Z. Levin, Paola Arlotta. Individual brain organoids reproducibly form cell diversity of the human cerebral cortex. Nature, 2019; DOI: 10.1038/s41586-019-1289-x

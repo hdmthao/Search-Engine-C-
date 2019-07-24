@@ -1,0 +1,21 @@
+Facebook to hand over identity data of users suspected of hate speech, report says
+The policy concerns hate speech in France.
+
+Hate speech has been a nasty problem on social media.
+
+Graphic by Pixabay; illustration by CNET
+Facebook has struck a deal with France to turn over identity information on users suspected of posting hate speech on the platform, Reuters reported Tuesday. Digital Affairs Minister Cédric O said he reached an agreement with the social media site, according to the report.
+
+Facebook has also been using artificial intelligence technology to combat the increasing problems of fake accounts, fake news and hate speech. Between October 2018 and March 2019, Facebook took down more than 3 billion fake accounts, estimating that around 5% of monthly active accounts are fake.
+
+The deal with France came after talks between French President Emmanuel Macron and Facebook CEO Mark Zuckerberg, Reuters said, adding that Facebook already hands over identity data like IP addresses to French authorities for users suspected of terrorist activity. The hate speech deal was made last week in a meeting between O and Nick Clegg, Facebook head of global affairs, the report said.
+
+"It means that the judicial process will be able to run normally," O told Reuters. "It's really very important, they're only doing it for France."
+
+A Facebook spokesperson told CNET that the company will "scrutinize every order" it receives from French authorities "and push back if is overbroad, inconsistent with human rights or legally defective."
+
+"As a matter of course, we will no longer refer French law enforcement authorities to the Mutual Legal Assistance Treaty process to request basic information in criminal hate speech cases," the spokesperson added in an emailed statement Tuesday afternoon.
+
+The AI being used by the social media giant's engineers is called self-supervised learning and enables the tech behind the site to adapt faster to spotting new forms of hate speech.
+
+"It's really easy to lose hope, to pack up and go home," Mike Schroepfer, Facebook chief technology officer, said in May. "But we can't do that. We're here to bring a better future to people, with technology."

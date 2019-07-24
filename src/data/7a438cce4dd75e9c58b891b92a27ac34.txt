@@ -1,0 +1,29 @@
+Cracking open Nintendo's NES Classic Edition game console.
+"If you're a gamer who grew up in the 1980s (like me), odds are you helped Link rescue Princess Zelda or Mario defeat King Bowser on a Nintendo Entertainment System (NES). Thirty-plus years later, Nintendo is helping those gamers relive their old-school victories with the NES Classic Edition.
+Released in November 2016, the NES Classic Edition is a pint-size version of the original system. It comes with a single two-button controller and 30 preloaded games, including old favorites like Super Mario Bros., The Legend of Zelda, Donkey Kong, Metroid and Ghosts'n Goblins. The original NES Classic Edition was discontinued in April 2017. Nintendo has said that that console will return to stores on June 29, 2018.
+How did Nintendo pack so much 8-bit fun into a single box? To find out, I broke out my tools.
+Note: This story originally ran in the Fall 2017 issue of CNET Magazine. We're publishing the story online to coincide with our Cracking Open video of the NES Classic and the original NES.
+Cracking open the NES Classic Edition
+I started with the four rubber pads, or feet, on the console's bottom. Using a thin Phillips screwdriver, I removed the pads and the tiny screw hidden underneath each one. I then lifted off the upper half of the system's plastic case to reveal the tech inside.
+Though it's less than a quarter the size of the original NES, the Classic Edition's interior is far less cramped. Gone are the front-loading, VCR-esque cartridge tray, the 72-pin cartridge connector that failed so often and the bulky video, audio and power circuitry. All that 1980s tech has been condensed down to a single main circuit board that's about the size of a drink coaster.
+After disconnecting the cables for the two game controller ports and a thin cable for the power and reset buttons, I removed a few more screws, lifted off the metal shield that covers the main circuit board and took out the board itself.
+Next, I removed the two controller ports, each held in place with a small bracket and single screw. To finish, I only had to disconnect a black, plastic housing that contains a small circuit board to which the contacts for the power and reset buttons are mounted along with the front LED. My teardown of the console was complete.
+Turning my attention to the game controller, I removed six screws from the bottom of its clamshell case and then separated the two halves. Inside is a single rectangular circuit board.
+The entire cracking-open process took less than 15 minutes and was the simplest teardown I've ever done.
+Cracking open the NES Classic game console
+CNET/TechRepublic
+What the teardown tells us
+Simple to crack open: The only tool you really need to disassemble the NES Classic Edition is a small Phillips screwdriver (#00 or #000 should work). There's no glue inside the console or the controller, all the internal components are easily accessible and the screws are all the same diameter and length.
+More tech packed into a smaller package: The Classic Edition has a quad-core ARM processor, 256MB of RAM and 512MB of storage. For comparison, the original NES had an 8-bit processor, 2KB of work RAM, 2KB of video RAM and no game storage.
+NES emulator on a single-board computer: The Classic Edition is basically a Nintendo-sanctioned NES emulator running on a Linux single-board computer. Yes, Linux. And if you're wondering whether it's possible to hack the Classic Edition and load more games? That answer is also yes. There's plenty of information on the internet that will show you how to update the system's software and install additional games. But be warned: There's always a chance that modifying your system could cause irreparable damage. More importantly, downloading and using games for which you don't already own a license for is usually illegal.
+Yesterday's games running on today's tech
+The NES Classic Edition is pure retro gaming fun. It's a much easier way to play old NES games than hunting through flea markets or online auctions for original hardware. And, it's less complicated (and more legal) than running emulator software with downloaded games on a PC.
+Unfortunately, after selling over 2 million Classic Editions, Nintendo unexpectedly discontinued the console in April 2017. If you didn't manage to scoop one up then, you may still be able to buy one online, albeit at a likely inflated price. It's also being released again on June 29. We shelled out $200 for the one I cracked open, which is way more than the $60, Â£50 or AU$100 retail price.
+Perhaps what stood out the most to me after cracking open the NES Classic Edition was just how much technology has improved in the past three decades. The hardware inside the Classic Edition is tiny compared with the original system, yet it's so much more powerful. I can't wait to see how far technology advances in the next 30 years.
+CNET Magazine: Check out a sampling of the stories you'll find in CNET's newsstand edition.
+Best TVs right now: The past year's best sets, all in one place.
+Update, May 29 at 5:55 p.m. PT: Added information about the NES Classic Edition returning to stores in June 2018.
+Share your voice
+Post a comment
+Tags
+Consoles Gadgets Philips Nintendo"

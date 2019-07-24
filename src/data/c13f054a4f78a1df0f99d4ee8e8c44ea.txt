@@ -1,0 +1,20 @@
+Godus Wiki
+Godus, a god game, is the second game being developed by 22cans, a new independent game developer. The game is being funded through a crowdfunding campaign on Kickstarter which began November 21, 2012. The game reached its funding goal of Åí450,000 on December 19, 2012. The campaign ended December 21, 2012 with over Åí540,000 raised, mostly through Kickstarter, but some raised via PayPal donations.
+
+Many Kickstarter backers are extremely unhappy with 22cans' focus on releasing a cut down freemium iOS game rather than a PC game that delivers on the promises of the proposed game they originally funded.
+
+Platforms
+The game will initially be available on Windows, Macintosh, Android, and iOS devices. A Linux version may also be available in the future.
+
+Gameplay
+Godus is intended to blend "the power, growth and scope of Populous with the detailed construction and multiplayer excitement of Dungeon Keeper and the intuitive interface and technical innovation of Black and White." The player takes on a persona of a god who starts with two followers, using his or her power to sculpt the land to spread his or her influence across the living, breathing world of the game. This will involve eventually encountering the followers of other gods who the player will conflict with to become the ultimate god. GODUS will offer both single-player and multiplayer modes with cross-platform support.
+
+Note 1: Currently there is very little similarity to Populous or Black & White. There is no AI opponent and the player is restricted to a single land.
+
+Note 2: There is no multiplayer capability at present.
+
+Note 3: It is not possible to encounter other players at present.
+
+Note 4: The world does not "live & breath" at present.
+
+Note 5: There is none of the excitement of Dungeon Keeper.

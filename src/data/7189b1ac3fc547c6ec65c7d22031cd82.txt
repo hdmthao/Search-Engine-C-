@@ -1,0 +1,55 @@
+Game modes are a set of restrictions within which the game of Dota 2 can be played. Most game modes alter how heroes are picked by players. There are also some novelty modes that allow 1v1 play, or give a player a new hero every time they die, for example. Game modes are unlocked by increasing your profile level, with all modes being unlocked at level 10. In addition to standard game modes, Dota 2 also supports Custom Games created by the community.
+All Pick
+Choose from the full hero pool.
+Players can choose any hero, random a hero, re-pick a hero once, or swap heroes with teammates.
+75 seconds hero selection time, instead of the default 60.
+75 seconds pre-creep time, instead of the default 90.
+Players lose one gold per second if they haven't picked a hero after the selection timer runs out.
+Cannot random in the last 10 seconds of the picking phase.
+Turbo Mode
+This game mode has the same rules as All Pick. However, in order to shorten the match time, several differences exist:
+Faster drafting.
+100% ban any hero.
+All players pick at the same time.
+Lower timers on all ban, pick and strategy phases.
+Increased gold and experience gain.
+Passive gold doubled.
+Midas gold doubled
+Experience gained doubled.
+No gold lost on death.
+Weaker towers.
+All Tier towers have 1200 HP.
+Tier 1 armor - 12.
+Tier 2 and 3 armor - 14
+Tier 4 armor - 21
+Creeps are upgraded at a much faster rate than normal.
+Creeps are upgraded at wave 6 and every 5 waves afterward (i.e. 11, 16, 21, 26...)
+Creeps receive 3 upgrades compared to normal mode at each time they are upgraded.
+Reduced respawn timers.
+-1 second for every level you have to the normal respawn timers.
+Faster and invulnerable couriers.
+All heroes get their own flying couriers without buying one.
+Couriers are permanently using Shield and Speed Burst.
+Town Portal Scroll icon.png Town Portal Scrolls have halved cooldowns.
+Ranked All Pick
+See also: Ranked Matchmaking
+The All Pick mode in ranked matches works different than the regular All Pick mode, and is called "Ranked Matchmaking".
+At first, every player has 15 seconds to vote for a hero to get banned.
+All players select a hero at the same time.
+A hero may only be voted once. Two players cannot vote for the same hero.
+The game displays heroes as they are voted on, but not who voted.
+After the 15 seconds, half of the heroes that were voted on get randomly selected and banned.
+The number of bans is equal to half the total number of votes. If there is an odd number of votes, the number of bans is randomly rounded up or down.
+The random ban selection chooses at most 3 heroes from one specific team's votes, so it is more evenly split.
+Right after the banning phase, the picking phase begins.
+Teams have up to 25 seconds to pick a hero. If the timer expires, each player that hasn't selected a hero loses 2 gold per second. The selection will stay on this team until a hero is picked.
+Once a selection is made, it immediately switches to the other team to pick.
+Initial starting team is random, but known at the start of the strategy period.
+If a team has not picked and continued losing gold for more than 30 seconds, a player that hasn’t picked is assigned a random hero and the turn resumes to the other team.
+If one player disconnects in this stage before picking a hero, turns continue and other players are able to spawn after 30 seconds of his turn to pick. That player is assigned a random hero upon their reconnect.
+If a player does not enter battle with his hero until after the 0:00 mark, that player's gold is removed and distrubited to all of the players on his team. Similar to if he had abandoned, but it does not count as an abandon for the sake of the game being safe to leave.
+Randoming: Players can choose to random a hero from a pool of 12 daily heroes.
+Players may random manually on their turn, instead of picking. However, the last picking player cannot random.
+The randomed hero cannot be repicked.
+Randoming a hero gives the player an extra Faerie Fire icon.png Faerie Fire at the beginning of the game.
+Picking one of the 12 daily heroes grants the player an extra Enchanted Mango icon.png Enchanted Mango at the beginning of the game.

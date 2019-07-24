@@ -1,0 +1,38 @@
+Gravitational forces in protoplanetary disks may push super-Earths close to their stars
+Date:
+May 9, 2019
+Source:
+Penn State
+Summary:
+Astronomers found that as planets form out of the chaotic churn of gravitational, hydrodynamic -- or, drag -- and magnetic forces and collisions within the dusty, gaseous protoplanetary disk that surrounds a star as a planetary system starts to form, the orbits of these planets eventually get in synch, causing them to slide -- follow the leader-style -- toward the star.
+FULL STORY
+
+Protoplanetary disc formation.
+Credit: © Mopic / Adobe Stock
+The galaxy is littered with planetary systems vastly different from ours. In the solar system, the planet closest to the Sun -- Mercury, with an orbit of 88 days -- is also the smallest. But NASA's Kepler spacecraft has discovered thousands of systems full of very large planets -- called super-Earths -- in very small orbits that zip around their host star several times every 10 days.
+
+Now, researchers may have a better understanding how such planets formed.
+
+A team of Penn State-led astronomers found that as planets form out of the chaotic churn of gravitational, hydrodynamic -- or, drag -- and magnetic forces and collisions within the dusty, gaseous protoplanetary disk that surrounds a star as a planetary system starts to form, the orbits of these planets eventually get in synch, causing them to slide -- follow the leader-style -- toward the star. The team's computer simulations result in planetary systems with properties that match up with those of actual planetary systems observed by the Kepler space telescope of solar systems. Both simulations and observations show large, rocky super-Earths orbiting very close to their host stars, according to Daniel Carrera, assistant research professor of astronomy at Penn State's Eberly College of Science.
+
+He said the simulation is a step toward understanding why super-Earths gather so close to their host stars. The simulations may also shed light on why super-Earths are often located so close to their host star where there doesn't seem to be enough solid material in the protoplanetary disk to form a planet, let alone a big planet, according to the researchers, who report their findings in the Monthly Notices of the Royal Astronomical Society.
+
+"When stars are very young, they are surrounded by a disc that is mostly gas with some dust -- and that dust grows into the planets, like the Earth and these super-Earths," said Carrera. "But the particular puzzle for us is that this disc doesn't go the all way to the star -- there's a cavity there. And yet we see these planets closer to the star than the edge of that disc."
+
+The astronomers' computer simulation shows that, over time, the planets' and disk's gravitational forces lock the planets into synchronized orbits -- resonance -- with each other. The planets then begin to migrate in unison, with some moving closer to the edge of the disk. The combination of the gas disk affecting the outer planets and the gravitational interactions among the outer and inner planets can continue to push the inner planets very closer to the star, even interior to the edge of the disk.
+
+"With the first discoveries of Jupiter-size exoplanets orbiting close to their host star, astronomers were inspired to develop multiple models for how such planets could form, including chaotic interactions in multiple planet systems, tidal effects and migration through the gas disk," said Eric Ford, professor of astronomy and astrophysics, director of Penn State's Center for Exoplanets and Habitable Worlds and Institute for CyberScience (ICS) faculty co-hire. "However, these models did not predict the more recent discoveries of super-Earth-size planets orbiting so close to their host star. Some astronomers had suggested that such planets must have formed very near their current locations. Our work is important because it demonstrates how short-period super-Earth-size planets could have formed and migrated to their current locations thanks to the complex interactions of multiple planet systems."
+
+Carrera said more work remains to confirm that the theory is correct.
+
+"We've shown that it's possible for planets to get that close to a star in this simulation, but it doesn't mean that it's the only way that the universe chose to make them," said Carrera. "Someone might come up with a different idea of a way to get the planets that close to a star. And, so, the next step is to test the idea, revise it, make predictions that you can test against observations."
+
+Future research may also explore why our super-Earthless solar system is different from most other solar systems, Carrera added.
+
+"Super-Earths in very close orbits are by far the most common type of exoplanet that we observe, and yet they don't exist in our own solar system and that makes us wonder why," said Carrera.
+
+According to the researchers, the best published estimates suggest that about 30 percent of solar-like stars have some planets close to the host star than the Earth is to the Sun. However, they note that additional planets are could go undetected, especially small planets far from their star.
+
+Andre Izidoro, researcher, Sao Paulo State University -- UNESP, worked with Carrera and Ford on the study, that began thanks to collaborations formed as part of NASA's Nexus for Exoplanet Systems Science.
+
+Computations for this research were performed on the Penn State's Institute for CyberScience Advanced CyberInfrastructure (ICS-ACI) and the CyberLAMP computer cluster. The National Science Foundation, NASA and Penn State's Center for Exoplanets and Habitable Worlds supported this work.

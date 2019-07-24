@@ -1,0 +1,55 @@
+Algorithm tells robots where nearby humans are headed
+Date:
+June 12, 2019
+Source:
+Massachusetts Institute of Technology
+Summary:
+A new tool for predicting a person's movement trajectory may help humans and robots work together in close proximity.
+In 2018, researchers at MIT and the auto manufacturer BMW were testing ways in which humans and robots might work in close proximity to assemble car parts. In a replica of a factory floor setting, the team rigged up a robot on rails, designed to deliver parts between work stations. Meanwhile, human workers crossed its path every so often to work at nearby stations.
+
+The robot was programmed to stop momentarily if a person passed by. But the researchers noticed that the robot would often freeze in place, overly cautious, long before a person had crossed its path. If this took place in a real manufacturing setting, such unnecessary pauses could accumulate into significant inefficiencies.
+
+The team traced the problem to a limitation in the robot's trajectory alignment algorithms used by the robot's motion predicting software. While they could reasonably predict where a person was headed, due to the poor time alignment the algorithms couldn't anticipate how long that person spent at any point along their predicted path -- and in this case, how long it would take for a person to stop, then double back and cross the robot's path again.
+
+Now, members of that same MIT team have come up with a solution: an algorithm that accurately aligns partial trajectories in real-time, allowing motion predictors to accurately anticipate the timing of a person's motion. When they applied the new algorithm to the BMW factory floor experiments, they found that, instead of freezing in place, the robot simply rolled on and was safely out of the way by the time the person walked by again.
+
+"This algorithm builds in components that help a robot understand and monitor stops and overlaps in movement, which are a core part of human motion," says Julie Shah, associate professor of aeronautics and astronautics at MIT. "This technique is one of the many way we're working on robots better understanding people."
+
+Shah and her colleagues, including project lead and graduate student Przemyslaw "Pem" Lasota, will present their results this month at the Robotics: Science and Systems conference in Germany.
+
+Clustered up
+
+To enable robots to predict human movements, researchers typically borrow algorithms from music and speech processing. These algorithms are designed to align two complete time series, or sets of related data, such as an audio track of a musical performance and a scrolling video of that piece's musical notation.
+
+Researchers have used similar alignment algorithms to sync up real-time and previously recorded measurements of human motion, to predict where a person will be, say, five seconds from now. But unlike music or speech, human motion can be messy and highly variable. Even for repetitive movements, such as reaching across a table to screw in a bolt, one person may move slightly differently each time.
+
+Existing algorithms typically take in streaming motion data, in the form of dots representing the position of a person over time, and compare the trajectory of those dots to a library of common trajectories for the given scenario. An algorithm maps a trajectory in terms of the relative distance between dots.
+
+But Lasota says algorithms that predict trajectories based on distance alone can get easily confused in certain common situations, such as temporary stops, in which a person pauses before continuing on their path. While paused, dots representing the person's position can bunch up in the same spot.
+
+"When you look at the data, you have a whole bunch of points clustered together when a person is stopped," Lasota says. "If you're only looking at the distance between points as your alignment metric, that can be confusing, because they're all close together, and you don't have a good idea of which point you have to align to."
+
+The same goes with overlapping trajectories -- instances when a person moves back and forth along a similar path. Lasota says that while a person's current position may line up with a dot on a reference trajectory, existing algorithms can't differentiate between whether that position is part of a trajectory heading away, or coming back along the same path.
+
+"You may have points close together in terms of distance, but in terms of time, a person's position may actually be far from a reference point," Lasota says.
+
+It's all in the timing
+
+As a solution, Lasota and Shah devised a "partial trajectory" algorithm that aligns segments of a person's trajectory in real-time with a library of previously collected reference trajectories. Importantly, the new algorithm aligns trajectories in both distance and timing, and in so doing, is able to accurately anticipate stops and overlaps in a person's path.
+
+"Say you've executed this much of a motion," Lasota explains. "Old techniques will say, 'this is the closest point on this representative trajectory for that motion.' But since you only completed this much of it in a short amount of time, the timing part of the algorithm will say, 'based on the timing, it's unlikely that you're already on your way back, because you just started your motion.'"
+
+The team tested the algorithm on two human motion datasets: one in which a person intermittently crossed a robot's path in a factory setting (these data were obtained from the team's experiments with BMW), and another in which the group previously recorded hand movements of participants reaching across a table to install a bolt that a robot would then secure by brushing sealant on the bolt.
+
+For both datasets, the team's algorithm was able to make better estimates of a person's progress through a trajectory, compared with two commonly used partial trajectory alignment algorithms. Furthermore, the team found that when they integrated the alignment algorithm with their motion predictors, the robot could more accurately anticipate the timing of a person's motion. In the factory floor scenario, for example, they found the robot was less prone to freezing in place, and instead smoothly resumed its task shortly after a person crossed its path.
+
+While the algorithm was evaluated in the context of motion prediction, it can also be used as a preprocessing step for other techniques in the field of human-robot interaction, such as action recognition and gesture detection. Shah says the algorithm will be a key tool in enabling robots to recognize and respond to patterns of human movements and behaviors. Ultimately, this can help humans and robots work together in structured environments, such as factory settings and even, in some cases, the home.
+
+"This technique could apply to any environment where humans exhibit typical patterns of behavior," Shah says. "The key is that the [robotic] system can observe patterns that occur over and over, so that it can learn something about human behavior. This is all in the vein of work of the robot better understand aspects of human motion, to be able to collaborate with us better."
+
+This research was funded, in part, by a NASA Space Technology Research Fellowship and the National Science Foundation.
+
+Story Source:
+
+Materials provided by Massachusetts Institute of Technology. Original written by Jennifer Chu. Note: Content may be edited for style and length.
+

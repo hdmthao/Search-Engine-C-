@@ -1,0 +1,32 @@
+Exposed database reveals personal information of 1.6 million job seekers
+Let's hope their current employers aren't reading this.
+ 
+An exposed database reveals personal info for 1.6 million job seekers around the world.
+
+Graphic by Pixabay/Illustration by CNET
+An unsecured database of personal information, including phone numbers, salary expectations and openness to new job opportunities, of about 1.6 million job seekers from around the world has been discovered online, according to research published Monday. The database, found by independent researcher Anurag Sen in May, includes information on professionals from the US, Australia, Japan and several other countries.
+
+The database appears to be owned by Indian recruitment company Talanton AI. It's hosted in plain text on a cloud server, and anyone with a web browser can access it with the right web address.
+
+Names in the database include potential job seekers with high-profile roles in the Australian government, at Tommy Hilfiger Japan and in the FBI's Domestic Security Alliance Council, a public-private partnership that shares information about cybersecurity threats with the government.
+
+Sen released the research as a contractor for Safety Detective, an Israeli company that reviews antivirus software. A researcher at Safety Detective who helped vet the information said the exposure could put workers in an awkward position at their jobs. What's more, phone numbers and email addresses can help scammers who want to impersonate company officials.
+
+The data appears to have been found on LinkedIn profiles, as well as with direct outreach to job seekers. Safety Detective checked some of the information and determined it was real.
+
+WHAT TO DO WHEN YOUR DATA IS EXPOSED OR STOLEN
+This data breach response tool tells you what to do next
+Data breaches can sucker-punch you. Prepare to fight back
+The exposure is an example of a serious, ongoing problem that can inadvertently affect almost anyone. Companies around the globe have moved sensitive information to cloud servers, but many lack the expertise to do so securely. The transition has led to exposures of sensitive health information, financial data and private contact information. Even children's information has been exposed.
+
+A database exposure is not the same as a hack, because you don't need to break into a computer system to find the data. Instead, you just need to find the right IP address, which is the distinct numerical address assigned to each page on the internet. There's no indication hackers have accessed the information in the Talanton AI database.
+
+In May, Sen found an unsecured database owned by Indian marketing company Chttrbox, which contained contact information for Instagram influencers. The data wasn't private, but had been collected in a manner that violated Instagram's terms of service, according to the photo-sharing service.
+
+A community of researchers around the world spend their time hunting down exposed databases and trying to get them fixed, but new databases with poor security come online every day, experts say.
+
+Talanton AI's website doesn't appear to be fully functional. Links and buttons on the home page lead to 404 error messages or do nothing. When contacted about the exposure, a Talanton representative said he would share the information with the appropriate person.
+
+The database is hosted on a cloud server operated by Tata Communications. It isn't the responsibility of a cloud service provider to secure client information, but some will notify customers if a problem is discovered and will help protect the data.
+
+Tata said it's investigating the exposed database, according to Sen. Tata didn't respond to requests for comment from CNET.

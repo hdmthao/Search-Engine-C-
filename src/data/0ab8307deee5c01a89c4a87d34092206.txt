@@ -1,0 +1,49 @@
+Magnetic Field May Be Keeping Milky Way’s Black Hole Quiet
+Supermassive black holes exist at the center of most galaxies, and our Milky Way is no exception. But many other galaxies have highly active black holes, meaning a lot of material is falling into them, emitting high-energy radiation in this “feeding” process. The Milky Way’s central black hole, on the other hand, is relatively quiet. New observations from NASA’s Stratospheric Observatory for Infrared Astronomy, SOFIA, are helping scientists understand the differences between active and quiet black holes.
+
+These results give unprecedented information about the strong magnetic field at the center of the Milky Way galaxy. Scientists used SOFIA’s newest instrument, the High-resolution Airborne Wideband Camera-Plus, HAWC+, to make these measurements.
+
+Streamlines showing magnetic fields layered over a color image of the dusty ring around the Milky Way’s massive black hole.
+Streamlines showing magnetic fields layered over a color image of the dusty ring around the Milky Way’s massive black hole. The Y-shaped structure is warm material falling toward the black hole, which is located near where the two arms of the Y-shape intersect. The streamlines reveal that the magnetic field closely follows the shape of the dusty structure. Each of the blue arms has its own field that is totally distinct from the rest of the ring, shown in pink.
+Credits: Dust and magnetic fields: NASA/SOFIA; Star field image: NASA/Hubble Space Telescope
+Magnetic fields are invisible forces that influence the paths of charged particles, and have significant effects on the motions and evolution of matter throughout the universe. But magnetic fields cannot be imaged directly, so their role is not well understood. The HAWC+ instrument detects polarized far-infrared light, which is invisible to human eyes, emitted by celestial dust grains. These grains align perpendicular to magnetic fields. From the SOFIA results, astronomers can map the shape and infer the strength of the otherwise invisible magnetic field, helping to visualize this fundamental force of nature.
+
+“This is one of the first instances where we can really see how magnetic fields and interstellar matter interact with each other,” noted Joan Schmelz, Universities Space Research Center astrophysicist at NASA Ames Research Center in California’s Silicon Valley, and a co-author on a paper describing the observations.  “HAWC+ is a game-changer.”
+
+Previous observations from SOFIA show the tilted ring of gas and dust orbiting the Milky Way’s black hole, which is called Sagittarius A* (pronounced “Sagittarius A-star”). But the new HAWC+ data provide a unique view of the magnetic field in this area, which appears to trace the region’s history over the past 100,000 years.
+
+Details of these SOFIA magnetic field observations were presented at the June 2019 meeting of the American Astronomical Society and will be submitted to the Astrophysical Journal.
+
+The gravity of the black hole dominates the dynamics of the center of the Milky Way, but the role of the magnetic field has been a mystery. The new observations with HAWC+ reveal that the magnetic field is strong enough to constrain the turbulent motions of gas. If the magnetic field channels the gas so it flows into the black hole itself, the black hole is active, because it is eating a lot of gas. However, if the magnetic field channels the gas so it flows into an orbit around the black hole, then the black hole is quiet because it’s not ingesting any gas that would otherwise eventually form new stars.
+
+Researchers combined mid- and far-infrared images from SOFIA’s cameras with new streamlines that visualize the direction of the magnetic field. The blue y-shaped structure (see figure) is warm material falling toward the black hole, which is located near where the two arms of the y-shape intersect. Layering the structure of the magnetic field over the image reveals that the magnetic field follows the shape of the dusty structure. Each of the blue arms has its own field component that is totally distinct from the rest of the ring, shown in pink. But there are also places where the field veers away from the main dust structures, such as the top and bottom endpoints of the ring.
+
+“The spiral shape of the magnetic field channels the gas into an orbit around the black hole,” said Darren Dowell, a scientist at NASA’s Jet Propulsion Laboratory, principal investigator for the HAWC+ instrument, and lead author of the study. “This could explain why our black hole is quiet while others are active.”
+
+The new SOFIA and HAWC+ observations help determine how material in the extreme environment of a supermassive black hole interacts with it, including addressing a longstanding question of why the central black hole in the Milky Way is relatively faint while those in other galaxies are so bright. 
+
+SOFIA, the Stratospheric Observatory for Infrared Astronomy, is a Boeing 747SP jetliner modified to carry a 106-inch diameter telescope. It is a joint project of NASA and the German Aerospace Center, DLR. NASA’s Ames Research Center in California’s Silicon Valley manages the SOFIA program, science and mission operations in cooperation with the Universities Space Research Association headquartered in Columbia, Maryland, and the German SOFIA Institute (DSI) at the University of Stuttgart. The aircraft is maintained and operated from NASA’s Armstrong Flight Research Center Building 703, in Palmdale, California. The HAWC+ instrument was developed and delivered to NASA by a multi-institution team led by the Jet Propulsion Laboratory in Pasadena, California. 
+
+Media Contacts
+
+Nicholas Veronico
+SOFIA Science Center
+Ames Research Center, Silicon Valley, California
+650-604-4589 / 650-224-8726
+nicholas.a.veronico@nasa.gov
+
+Elizabeth Landau
+NASA Headquarters, Washington
+818-359-3241
+elandau@jpl.nasa.gov
+
+Calla Cofield
+Jet Propulsion Laboratory, Pasadena, Calif.
+626-808-2469
+calla.e.cofield@jpl.nasa.gov
+
+Written by Kassandra Bell and Joan Schmelz
+
+Last Updated: June 12, 2019
+Editor: Kassandra Bell
+Tags:  Ames Research Center, Black Holes, SOFIA, Universe

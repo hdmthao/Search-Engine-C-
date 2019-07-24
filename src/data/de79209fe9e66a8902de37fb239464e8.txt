@@ -1,0 +1,102 @@
+Giant impact caused difference between Moon's hemispheres
+Date:
+May 20, 2019
+Source:
+American Geophysical Union
+Summary:
+The stark difference between the Moon's heavily-cratered farside and the lower-lying open basins of the Earth-facing nearside has puzzled scientists for decades. Now, new evidence about the Moon's crust suggests the differences were caused by a wayward dwarf planet colliding with the Moon in the early history of the solar system.
+Share:
+     
+FULL STORY
+
+Moon.
+Credit: © astrosystem / Adobe Stock
+The stark difference between the Moon's heavily-cratered farside and the lower-lying open basins of the Earth-facing nearside has puzzled scientists for decades.
+
+Now, new evidence about the Moon's crust suggests the differences were caused by a wayward dwarf planet colliding with the Moon in the early history of the solar system. A report on the new research has been published in AGU's Journal of Geophysical Research: Planets.
+
+The mystery of the Moon's two faces began in the Apollo era when the first views of its farside revealed the surprising differences. Measurements made by the Gravity Recovery and Interior Laboratory (GRAIL) mission in 2012 filled in more details about the structure of the Moon -- including how its crust is thicker and includes an extra layer of material on its farside.
+
+There are a number of ideas that have been used to try and explain the Moon's asymmetry. One is that there were once two moons orbiting Earth and they merged in the very early days of the Moon's formation. Another idea is that a large body, perhaps a young dwarf planet, found itself in an orbit around the Sun that put it on a collision course with the Moon. This latter giant impact idea would have happened somewhat later than a merging-moons scenario and after the Moon had formed a solid crust, said Meng Hua Zhu of the Space Science Institute at Macau University of Science and Technology and lead author of the new study. Signs of such an impact should be visible in the structure of the lunar crust today.
+
+"The detailed gravity data obtained by GRAIL has given new insight into the structure of the lunar crust underneath the surface," Zhu said.
+
+The new findings from GRAIL gave Zhu's team of researchers a clearer target to aim for with the computer simulations they used to test different early-Moon impact scenarios. The study's authors ran 360 computer simulations of giant impacts with the Moon to find out whether such an event millions of years ago could reproduce the crust of today's Moon as detected by GRAIL.
+
+They found the best fit for today's asymmetrical Moon is a large body, about 480 miles (780 kilometers) in diameter, smacking into the nearside of the Moon at 14,000 miles per hour (22,500 kilometers per hour). That would be the equivalent of an object a bit smaller than the dwarf planet Ceres moving at a speed about one-quarter as fast as the meteor pebbles and sand grains that burn up as "shooting stars" in Earth's atmosphere. Another good fit for the impact combinations the team modeled is a slightly smaller, 450-mile (720-kilometer) diameter, object hitting at a mildly faster 15,000 miles per hour (24,500 kilometers per hour).
+
+Under both these scenarios, the model shows the impact would have thrown up vast amounts of material that would fall back on the Moon's surface, burying the primordial crust on the farside in 3 to 6 miles (5 to 10 kilometers) of debris. That is the added layer of crust detected on the farside by GRAIL, according to Zhu.
+
+The new study suggests the impactor was not likely an early second moon of Earth's. Whatever the impactor was -- an asteroid or a dwarf planet -- it was probably on its own orbit around the Sun when it encountered the Moon, said Zhu.
+
+The giant impact model also provides a good explanation for the unexplained differences in isotopes of potassium, phosphorus and rare-earth elements like tungsten-182 between the surfaces of the Earth and Moon, the researchers explain. These elements could have come from the giant impact, which would have added that material to the Moon after its formation, according to the study's authors.
+
+"Our model can thus explain this isotope anomaly in the context of the giant impact scenario of the Moon's origin." the researchers write.
+
+The new study not only suggests an answer to ongoing questions about the Moon, but may also provide insight into the structure of other asymmetrical worlds in our solar system like Mars wrote the researchers.
+
+"This is a paper that will be very provocative," said Steve Hauck, a professor of planetary geodynamics at Case Western Reserve University and Editor-in-Chief of the JGR: Planets. "Understanding the origin of the differences between the nearside and the farside of the Moon is a fundamental issue in lunar science. Indeed, several planets have hemispherical dichotomies, yet for the Moon we have a lot of data to be able to test models and hypotheses with, so the implications of the work could likely be broader than just the Moon."
+
+Story Source:
+
+Materials provided by American Geophysical Union. Note: Content may be edited for style and length.
+
+Journal Reference:
+
+Meng-Hua Zhu, Kai Wünnemann, Ross W.K. Potter, Thorsten Kleine, Alessandro Morbidelli. Are the Moon's nearside-farside asymmetries the result of a giant impact? Journal of Geophysical Research: Planets, 2019; DOI: 10.1029/2018JE005826
+Cite This Page:
+MLA
+APA
+Chicago
+American Geophysical Union. "Giant impact caused difference between Moon's hemispheres." ScienceDaily. ScienceDaily, 20 May 2019. <www.sciencedaily.com/releases/2019/05/190520115659.htm>.
+
+RELATED TOPICS
+Space & Time
+Moon
+Pluto
+Jupiter
+Solar System
+Space Missions
+Astronomy
+NASA
+Space Exploration
+advertisement
+
+RELATED TERMS
+Titan (moon)
+Moon
+Solar eclipse
+Eris (dwarf planet)
+Mercury (planet)
+Pluto
+Eclipse
+Jupiter
+RELATED STORIES
+Martian Moon May Have Come from Impact on Home Planet
+Sep. 24, 2018 — Phobos, the larger of Mars' two tiny satellites, is the darkest moon in the solar system. This dark aspect inspired the hypothesis that the close-orbiting moon may be a captured asteroid, but its ... read more 
+How Earth's Previous Moons Collided to Form the Moon: New Theory
+Jan. 9, 2017 — A new theory suggests the Moon we see every night is not Earth's first moon, but rather the last in a series of moons that orbited our planet. Moons formed through the process could cross orbits, ... read more 
+New Model Explains the Moon's Weird Orbit
+Nov. 1, 2016 — The moon, Earth's closest neighbor, is among the strangest planetary bodies in the solar system. Its orbit lies unusually far away from Earth, with a surprisingly large orbital tilt. Planetary ... read more 
+Tidal Forces Gave Moon Its Shape Early in Its History, New Analysis Finds
+July 30, 2014 — The shape of the moon deviates from a simple sphere in ways that scientists have struggled to explain. A new study shows that most of the moon's overall shape can be explained by taking into account ... read more 
+FROM AROUND THE WEB
+Below are relevant articles that may interest you. ScienceDaily shares links with scholarly publications in the TrendMD network and earns revenue from third-party advertisers, where indicated.
+Grail Seeks to Raise $1B in Series B; Illumina's Stake to Fall Below 20 Percent
+staff reporter, 360Dx, 2017
+On-orbit modulation transfer function measurements based on lunar limb for FY-2G
+CHEN Lin et al., Optics and Precision Engineering, 2018
+Simulation of one-dimensional column leaching of weathered crust elution-deposited rare earth ore
+PingLONG, Transactions of Nonferrous Metals Society of China, 2019
+Overview of China’s 2020 Mars mission design and navigation
+Xiuqiang Jiang et al., Astrodynamics, 2017
+Design and implement of extreme ultraviolet camera software system
+YU Tao et al., Chinese Journal of Liquid Crystals and Displays, 2018
+Grail Launches Clinical Trial for Early Detection of Breast Cancer
+360Dx, 2017
+Multi-user detection algorithm in the LEO satellite random access system
+LU Dawei;WANG Qiwei;REN Guangliang et al., Journal of Xidian University, 2018
+Data collection and irradiance conversion of lunar obsevation for MERSI
+??? ?? ??? ??? ?? ??? ?? et al., Optics and Precision Engineering, 2019
+Powered by
+advertisement

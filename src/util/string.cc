@@ -45,8 +45,8 @@ std::string util::string::Trim(const std::string &s)
 
 std::string util::string::Normalize(const std::string &s) {
     std::string word = util::string::Trim(s);
-	word = RemoveMark(word);
 	word = RemoveUnicode(word);
+	word = RemoveMark(word);
     return util::string::ToLowerCase(word);
 }
 
@@ -97,14 +97,26 @@ std::vector<std::string> util::string::DivideToLine(const std::string &s, int si
 
 std::string util::string::RemoveMark(const std::string &s)
 {
-	std:: string st = s;
+	std::string st = s;
+	for (int i = 0; i < st.length(); i++){
+		if (st[i] == ',' || st[i] == '.'){
+			st[i] = ' ';
+		}
+	}
+	while (st.find("  ") != std::string::npos){
+		st.erase((int)st.find("  "), 1);
+	}
+	return st;
+}
+
+std::string util::string::RemoveUnicode(const std::string &s)
+{
+	std::string st = s;
 	int i = 0;
 	while (i < st.length())
 	{
-		if ((st[i] == ' ' || st[i] == ',' || st[i] == '.' || st[i] == '?' || st[i] == '!' || st[i] == ':' || st[i] == ';') &&
-			(st[i + 1] == ' ' || st[i + 1] == ',' || st[i + 1] == '.' || st[i + 1] == '?' || st[i + 1] == '!' || st[i + 1] == ':' || st[i + 1] == ';'))
+		if (int(st[i]) < 0 || int (st[i]) > 255)
 		{
-			st[i] = st[i + 1] = ' ';
 			for (int j = i; j < st.length() - 1; j++)
 				st[j] = st[j + 1];
 			st.pop_back();
@@ -112,8 +124,5 @@ std::string util::string::RemoveMark(const std::string &s)
 		}
 		++i;
 	}
-	--i;
-	if (st[i] == ',' || st[i] == '.' || st[i] == '?' || st[i] == '!' || st[i] == ':' || st[i] == ';')
-		st.pop_back();
 	return st;
 }

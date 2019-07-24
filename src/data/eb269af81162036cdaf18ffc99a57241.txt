@@ -1,0 +1,33 @@
+https://www.inverse.com/article/57039-huge-aquifer-found-off-jersey-shore
+
+A Massive Freshwater Reservoir Has Been Discovered Deep Beneath the Atlantic
+
+The massive aquifer contains about 670 cubic miles of fresh water.
+By Peter Hess on June 25, 2019
+
+Approximately 2.1 billion people on the planet lack access to safely managed clean water, and that number will likely rise as the climate crisis worsens, potentially fueling tensions and conflicts over this increasingly scarce resource. Scientists publishing in Scientific Reports, however, may have just bought us a little more time.
+In a paper published on June 18, a team of scientists from Woods Hole Oceanographic Institution and Columbia University’s Earth Institute announced that they’d discovered a previously unknown reservoir of mostly fresh water beneath the Atlantic Ocean. 
+The aquifer contains about 2,800 cubic kilometers of water, or around 670 cubic miles. It extends about 56 miles offshore and spans the coastline of New Jersey, all the way to Martha’s Vineyard, Massachusetts, “and likely spans beyond the bounds of our survey,” the team writes.
+It’s hard to tell whether this aquifer will provide a source of water for the people who live near it, but it is a promising sign for regions around the world with similar geology, especially as fresh water becomes more scarce.
+“There is ample evidence of low-salinity submarine groundwater contained within the world’s continental shelves, with direct or indirect observations occurring on all continents,” the authors write. So in a coastal region where fresh water is becoming less abundant, subsurface water could provide a cheaper way to get drinking water than desalinizing seawater.
+The origin story behind this massive aquifer’s existence spans millennia.
+
+The Water Could Be From an Ancient Glacier
+
+The researchers, led by Chloe Gustafson, a Ph.D. candidate at Columbia University in New York, were motivated by the region’s geological history to look for subsurface water off the shore of the northeastern US.
+Specifically, they were curious about the boundary of the Laurentide ice sheet, which covered almost a million square miles in Canada and the northern US for several million years during the Last Glacial Maximum, about 26,500 years ago. 
+During that time, glaciers were at their greatest extent, and the Laurentide ice sheet extended beyond the coast of present-day New Jersey and Massachusetts. Since glaciers have been known to deposit fresh water beneath the ground as they push forward, they reasoned that the Laurentide could have left huge quantities of fresh water at its boundary.
+Over time, this water got trapped in pockets as the ice sheet melted, and once sea levels rose, this “fossil water” became trapped beneath the seafloor.
+Previous geological surveys for oil companies by co-author Kerry Key, Ph.D., had revealed pockets of low-salinity water in the region decades prior, but it wasn’t clear whether those reservoirs were connected. When drilling for oil, sometimes companies would strike fresh water instead.
+“We knew there was fresh water down there in isolated places, but we did not know the extent or geometry,” said Gustafson.
+To clarify whether those pinpoints of fresh water were connected, the team used electromagnetic imaging technology. Measuring the conductivity below the seafloor allowed them to observe whether the water was fresh or salty, since salt water is more conductive than fresh water.
+They found that in most locations, the water was relatively low in salinity. It’s fairly fresh compared to the ocean water above it, but it would still require desalination to become drinkable. 
+The authors also say there is the potential for even more almost-fresh water to be found.
+“If we consider the potential northeast and southwest extensions beyond our profiles, there may be several times more groundwater underlying the northeast portion of the U.S. Atlantic continental shelf, representing a freshwater resource that rivals the largest onshore aquifers,” they continue.
+The light salinity of the water, however, opens up the possibility of a second explanation of the aquifer’s origins.
+Subterranean water from the land percolates down through the sediment, and if water from rainfall and rivers in New Jersey soaks down into the ground, it’s possible it may end up in the aquifer. This hypothesis is supported by the fact that the salinity of the aquifer is lowest near the shore — below 15 parts per thousand, as shown by the yellow dots in the map above — and greater as it moves out farther to sea (pink dots). This suggests that fresh water enters the aquifer from the onshore side and mixes with seawater over time. 
+
+Abstract: Low-salinity submarine groundwater contained within continental shelves is a global phenomenon. Mechanisms for emplacing offshore groundwater include glacial processes that drove water into exposed continental shelves during sea-level low stands and active connections to onshore hydrologic systems. While low-salinity groundwater is thought to be abundant, its distribution and volume worldwide is poorly understood due to the limited number of observations. Here we image laterally continuous aquifers extending 90 km offshore New Jersey and Martha’s Vineyard, Massachusetts, on the U.S. Atlantic margin using new shallow water electromagnetic geophysical methods. Our data provide more continuous constraints on offshore groundwater than previous models and present evidence for a connection between the modern onshore hydrologic system and offshore aquifers. We identify clinoforms as a previously unknown structural control on the lateral extent of low-salinity groundwater and potentially a control on where low-salinity water rises into the seafloor. Our data suggest a continuous submarine aquifer system spans at least 350 km of the U.S. Atlantic coast and contains about 2800 km3 of low-salinity groundwater. Our findings can be used to improve models of past glacial, eustatic, tectonic, and geomorphic processes on continental shelves and provide insight into shelf geochemistry, biogeochemical cycles, and the deep biosphere.
+
+
+

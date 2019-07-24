@@ -1,0 +1,52 @@
+Earth's heavy metals result of supernova explosion, research reveals
+Date:
+June 13, 2019
+Source:
+University of Guelph
+Summary:
+New research suggests most of Earth's heavy metals were spewed from a largely overlooked kind of star explosion called a collapsar.
+That gold on your ring finger is stellar -- and not just in a complimentary way.
+
+In a finding that may overthrow our understanding of where Earth's heavy elements such as gold and platinum come from, new research by a University of Guelph physicist suggests that most of them were spewed from a largely overlooked kind of star explosion far away in space and time from our planet.
+
+Some 80 per cent of the heavy elements in the universe likely formed in collapsars, a rare but heavy element-rich form of supernova explosion from the gravitational collapse of old, massive stars typically 30 times as weighty as our sun, said physics professor Daniel Siegel.
+
+That finding overturns the widely held belief that these elements mostly come from collisions between neutron stars or between a neutron star and a black hole, said Siegel.
+
+His paper co-authored with Columbia University colleagues appears today in the journal Nature.
+
+Using supercomputers, the trio simulated the dynamics of collapsars, or old stars whose gravity causes them to implode and form black holes.
+
+Under their model, massive, rapidly spinning collapsars eject heavy elements whose amounts and distribution are "astonishingly similar to what we observe in our solar system," said Siegel. He joined U of G this month and is also appointed to the Perimeter Institute for Theoretical Physics, in Waterloo, Ont.
+
+Most of the elements found in nature were created in nuclear reactions in stars and ultimately expelled in huge stellar explosions.
+
+Heavy elements found on Earth and elsewhere in the universe from long-ago explosions range from gold and platinum, to uranium and plutonium used in nuclear reactors, to more exotic chemical elements such as neodymium found in consumer items such as electronics.
+
+Until now, scientists thought that these elements were cooked up mostly in stellar smashups involving neutron stars or black holes, as in a collision of two neutron stars observed by Earth-bound detectors that made headlines in 2017.
+
+Ironically, said Siegel, his team began working to understand the physics of that merger before their simulations pointed toward collapsars as a heavy element birth chamber. "Our research on neutron star mergers has led us to believe that the birth of black holes in a very different type of stellar explosion might produce even more gold than neutron star mergers."
+
+What collapsars lack in frequency, they make up for in generation of heavy elements, said Siegel. Collapsars also produce intense flashes of gamma rays.
+
+"Eighty per cent of these heavy elements we see should come from collapsars. Collapsars are fairly rare in occurrences of supernovae, even more rare than neutron star mergers -- but the amount of material that they eject into space is much higher than that from neutron star mergers."
+
+The team now hopes to see its theoretical model validated by observations. Siegel said infrared instruments such as those on the James Webb Space Telescope, set for launch in 2021, should be able to detect telltale radiation pointing to heavy elements from a collapsar in a far-distant galaxy.
+
+"That would be a clear signature," he said, adding that astronomers might also detect evidence of collapsars by looking at amounts and distribution of heavy element s in other stars across our Milky Way galaxy.
+
+Siegel said this research may yield clues about how our galaxy began.
+
+"Trying to nail down where heavy elements come from may help us understand how the galaxy was chemically assembled and how the galaxy formed. This may actually help solve some big questions in cosmology as heavy elements are a nice tracer."
+
+This year marks the 150th anniversary of Dmitri Mendeleev's creation of the periodic table of the chemical elements. Since then, scientists have added many more elements to the periodic table, a staple of science textbooks and classrooms worldwide.
+
+Referring to the Russian chemist, Siegel said, "We know many more elements that he didn't. What's fascinating and surprising is that, after 150 years of studying the fundamental building blocks of nature, we still don't quite understand how the universe creates a big fraction of the elements in the periodic table."
+
+Story Source:
+
+Materials provided by University of Guelph. Note: Content may be edited for style and length.
+
+Journal Reference:
+
+Daniel M. Siegel, Jennifer Barnes, Brian D. Metzger. Collapsars as a major source of r-process elements. Nature, 2019; 569 (7755): 241 DOI: 10.1038/s41586-019-1136-0

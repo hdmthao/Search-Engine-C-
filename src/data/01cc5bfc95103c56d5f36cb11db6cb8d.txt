@@ -1,0 +1,78 @@
+
+nasa.gov
+NASA Technology Pinpoints Potent Greenhouse Gases
+Sara Blumberg
+10-12 minutes
+
+Whether they’re idyllic floating cotton balls on an otherwise blue sky or ominous grey swirls that block the sun, clouds all begin as an invisible dot of water vapor. This elusive gas has been tricky to measure and track – until now. Research scientists at NASA’s Langley Research Center in Hampton, Virginia, have created a new airborne instrument that can directly measure water vapor and floating particles in the atmosphere. The new data will help check the accuracy of satellite measurements, and improve weather and climate forecasts.
+
+The instrument is called the High Altitude Lidar Observatory (HALO). It uses light detection and ranging (lidar), which works by shooting a pencil-thin laser beam through the atmosphere. Light from the pulsed laser bounces off molecules and particles suspended in the atmosphere, revealing what the human eye cannot see. The intensity of the signal reflected back to the lidar instrument gives the team the information they need to directly measure water vapor, as well as aerosol and cloud profiles.
+
+lidar
+
+The High Altitude Lidar Observatory (HALO) instrument head, which houses the lidar instrument, is installed onto theDC-8 airborne science laboratory at NASA Armstrong Flight Research Center in Edwards, California. The gold and blue casing holds the laser, optics, detectors, and electronics, which are at the heart of the lidar.
+
+Credits: NASA /Lauren Hughes
+
+Water vapor is the most abundant and potent greenhouse gas in the atmosphere. It warms the air by trapping heat emitted from Earth, but also cools by forming bright clouds that reflect heat radiated by the Sun. HALO’s data will help scientists as they research the extent of each of these processes.
+
+HALO is a minifridge-sized modular instrument that allows scientists to more easily measure either water vapor or methane. This kind of technology is new at NASA, said Amin Nehrir, a research scientist and HALO’s principal investigator.  
+
+HALO joined another NASA-funded instrument, the Doppler Aerosol Wind Lidar (DAWN), which measures wind speed and direction. Both HALO and DAWN are helping validate data collected by the Atmospheric Dynamics Mission Aeolus (ADM-Aeolus) lidar instrument, an ESA (European Space Agency) satellite that measures wind speeds, aerosols and cloud profiles across the globe.  
+Looking down at the atmosphere
+
+HALO began its mission over the Pacific Ocean on April 15, 2019 aboard a DC-8 Airborne Science Laboratory based at NASA’s Armstrong Flight Research Center in Edwards, California.  Validation flights are scheduled to continue over the next couple of weeks, when the ADM Aeolus makes passes over the eastern Pacific.  
+
+The ADM-Aeolus launched on Aug. 22, 2018, from Europe’s Spaceport in Kourou, French Guiana. It is the first satellite to profile wind speeds on a global scale from space, and it also collects aerosol data. HALO’s aerosol measurements will be used to validate the satellite. Although HALO’s water vapor measurements are not key to this particular mission, they will give scientists a more comprehensive picture of the atmosphere and help the team prepare for future airborne campaigns dedicated to atmospheric dynamic processes.
+
+The High Altitude Lidar Observatory (HALO)
+
+The High Altitude Lidar Observatory (HALO) system electronics and diagnostic tools are integrated onto the DC-8 airborne science laboratory at NASA Armstrong Flight Research Center in Edwards, California. The lidar system control electronics are on the right hand side of the rack. The large monitors on the left are used to display real-time images of water vapor and aerosol profiles, which are used by the science team to guide in-flight decisions and navigation. The compact HALO instrument head can be seen directly behind the electronics rack.
+
+Credits: NASA/Lauren Hughes
+
+Understanding water vapor
+
+HALO, and its ability to work with other NASA systems that profile the atmosphere, “can provide a huge leap in our understanding of atmospheric convective processes,” Jeffrey Reid, a research meteorologist with the U.S. Naval Research Laboratory Monterey, CA said. These processes are often fueled by water vapor, which helps determine how clear, cloudy or stormy the weather is. 
+
+“From a weather and climate perspective, understanding water vapor is the $50 problem,” David Turner, a meteorologist with the National Oceanic and Atmospheric Administration (NOAA) Earth System Research Laboratory in Boulder, Colorado said. Understanding other gases in the atmosphere is more of the $1 problem.
+
+Climate and weather models aim to determine how many clouds cover a certain area of land and what properties those clouds have, including size and brightness, because that will affect Earth’s energy budget. “Ultimately, climate is about the radiation balance at the top of the atmosphere over time,” Turner said. And that radiation balance is very sensitive to water in all of its phases, he continued.
+
+In the past, researchers would try to use other types of observations, like radiosondes, which are battery-powered devices that travel the atmosphere by weather balloon to take stock of its surroundings, to infer what water vapor profiles look like. “HALO makes a much more direct measurement of water vapor,” Turner said.  
+
+However, in order to use HALO observations in weather prediction models, “We need a lot more HALOs,” Turner said. HALO’s recent flight out of Armstrong covers a very small section of the globe. “We could really use that data in our models, but it’s not going to have as big an impact as if you had 20 HALOs flying around the world,” Turner said.
+
+Implementing new technology
+
+HALO’s Differential Absorption Lidar (DIAL) uses state-of-the-art lasers developed by the company Fibertek Inc. “The Fibertek lasers are the heart of the HALO system,” Nehrir said. HALO brings together new laser and receiver technology in a significantly more compact form than its 25-year-old predecessor, the Lidar Atmospheric Sensing Experiment (LASE).
+
+HALO is 5 percent the volume and 20 percent the weight of LASE. Although NASA was able to measure water vapor with LASE, “it was too big a beast to make it economical,” Reid said. 
+
+HALO, on the other hand, is a smaller, modular instrument that can also be configured to measure methane, which is also a potent greenhouse gas, in addition to aerosols, and cloud and ocean profiles, Nehrir said. The modular set-up allows the team to reconfigure the instrument in a matter of days.   
+
+The HALO team demonstrated its new methane and aerosol measurement capability in 2018 through a series of test flights on the Langley Research Center-based B200 aircraft. HALO flew over 100 flight hours as a part of the Long Island Sound Tropospheric Ozone Study (LISTOS), a multi-agency field mission designed to improve air quality forecasting tools in metropolitan areas.
+
+These test flights gave the team confidence to continue working toward its ultimate goal of demonstrating the new water vapor laser technologies on a similar aircraft, and eventually in space. 
+
+color chart
+
+The High Altitude Lidar Observatory (HALO) collected this colorful data set showing aerosols, or tiny particles, suspended in the atmosphere. The data were collected during the LISTOS field campaign over Long Island Sound in the summer of 2018. As HALO sends its laser beam down from an aircraft, it pains a two-dimensional map of what it sees. Warm colors (reds and oranges) indicate a higher concentration of aerosols and cool colors (greens and blues) show fewer aerosols. The white specs toward the bottom of the image are caused by clouds, which block the laser beam from reaching the surface and cause a black line in lieu of data. The HALO team anticipates generating similar 2-D images of the water vapor profiles below the aircraft during the ongoing ADM Cal/Val mission.
+
+Credits: NASA /Amin Nehrir
+
+Looking to the future
+
+The effort to develop HALO has spanned about three-and-a-half years. Within four-and-a-half years from the start of the project, Nehrir and his team are planning to complete five flight campaigns. “This has been an extremely aggressive build and test schedule,” Nehrir said.
+
+Once HALO returns to Langley, Nehrir and his team plan to reconfigure the instrument within one week to measure methane and aerosols and integrate it on the NASA C-130 research aircraft out of NASA’s Wallops Flight Facility in Wallops Island, Virginia. HALO will be the lidar instrument on the NASA Earth Venture Suborbital-2 Atmospheric Carbon and Transport (ACT)-America field mission, which is looking at quantifying carbon emissions over the central and eastern parts of the U.S.
+
+HALO is also preparing to fly on the NASA DC-8 jet in the summer of 2020 during an international field campaign out of Cape Verde off the east coast of Africa. This campaign brings together U.S. and European assets with multiple aircraft to carry out a comprehensive validation of the ADM-Aeolus satellite mission. Combining data sets from HALO and other wind and cloud profiling instruments in this environment will help scientists answer vital, outstanding questions on the biogeochemical cycling of dust, Reid said. That cycling drives the genesis and intensification of storms, which can eventually turn into major hurricanes, Nehrir added.
+
+HALO is also looking to participate in future severe storm and Arctic field campaigns, where small variations in moisture can seed or prevent cloud formation depending on the surrounding environment. These clouds have a large impact on the Arctic radiation budget, which drives how quickly the Arctic warms and releases methane from the melting tundra. HALO’s ability to measure methane will help scientists understand where and how much Arctic methane is entering the atmosphere.
+
+HALO is supported by funding from the NASA Earth Science Division’s Earth Science Technology Office and Research and Analysis Program.
+
+Last Updated: April 22, 2019
+
+Editor: Sara Blumberg

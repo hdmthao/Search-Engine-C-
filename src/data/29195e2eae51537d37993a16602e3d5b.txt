@@ -1,0 +1,243 @@
+
+nasa.gov
+Digital Strategy
+Jason Duley
+11-13 minutes
+Making Machine-Readable the Norm
+
+On May 9, 2013, President Obama signed an executive order that made open and machine-readable data the new default for government information. Making information about government operations more readily available and useful is also core to the promise of a more efficient and transparent government.
+
+NASA is committed to making our data, software, and tools available to the public to spur innovation and improve the lives of citizens of this planet. To achieve these ends, the NASA Digital Strategy Report is outlined here.
+
+In responding to Milestone 4.2 of the Digital Government Strategy, NASA heeded the Advisory Group's encouragement to "build upon existing structures and processes as much as possible." To locate the gaps in existing governance structures, NASA's Digital Strategy response team identified all necessary decisions concerning digital services, using the three layers pointed out in the Digital Strategy--information, platform, presentation--as a guide. Our digital services governance framework is described in more detail here.
+The Checklist of Requirements for Federal Websites and Digital Services
+
+All federal agencies are required to follow specific laws, regulations, and policies when it comes to digital products and services. The Checklist of Requirements for Federal Websites and Digital Services appears below by subject. For more information about these requirements, go the DigitalGov website here.
+Overarching Policies
+
+    OMB M-16-21: Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software, OCIO Memorandum (November 2016)
+    OMB M-16-21: Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software, Framework and Implementation Guide (November 2016)
+    Digital Government Strategy (May 2012)
+    OMB M-05-04, Policies for Federal Agency Public Websites (PDF, 48 KB, 5 pages, December 2004)
+    OMB Circular A-130, Appendix III, Management of Federal Information Resources
+    E-Government Act of 2002, Section 207
+
+Accessibility/Section 508
+
+    Section 508 Standards for Electronic and Information Technology (29 USC § 794d)
+    Section 508 Laws – Section508.gov
+    Web Content Accessibility Guidelines 2.0 (WCAG 2.0) – W3C
+    WCAG 2.0 Quick Reference Digital Government Strategy (May 2012)
+
+Analytics
+
+    Implementing Performance and Customer Satisfaction Tools (OMB guidance accessible to federal employees on the OMB MAX wiki)
+    OMB M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies (PDF, 102 KB, 9 pages, June 2010)
+
+Copyright
+
+    Copyright Law
+    U.S. Trademark Law (PDF, 1.5 MB, 260 pages, March 2010)
+    Digital Millennium Copyright Act (PDF, 277 KB, 60 pages, January 1999)
+    U.S. Patent Law, U.S. Code 35, Chapter 26
+    Copyright.gov
+    United States Government Works and Copyright Act of 1976 (MS Word, 16 KB, 2 pages, June 2011)
+
+Customer Service
+
+    Executive Order 13571 – Streamlining Service Delivery and Improving Customer Service (April 2011)
+    See all Government Customer Service Policies & Requirements
+
+Design Standards
+
+    Government Wide Web Design Standards (DRAFT)
+
+Domains and Branding
+
+    GOV Domain Name Registration Service
+    Final Rule – 41 CFR Part 102-173 authorizing GSA to manage the .gov registration process
+
+Governance
+
+Each Agency must establish a digital governance structure to provide accountability and enforce policies and standards; manage and fund digital presence as an integral part of its overall business, communications, and customer experience strategies; and leverage existing infrastructure, shared tools, best practices, and communities of practice, and coordinate within and across agencies to create efficiency and reduce duplication. When missions overlap, they must collaborate with other agencies to develop cross-agency websites (portals) and coordinate across Government to disseminate emergency response info.
+Information Quality
+
+    Public Law 106-554, Guidelines for Ensuring and Maximizing the Quality Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies (Section 515) (PDF, 161 KB, 10 pages, February 2002)
+
+Mandatory Content
+
+    Freedom of Information Act (FOIA) (PDF, 109 KB, 13 pages, April 2007)
+    Memo to Agency Heads with updated guidance on implementing the Freedom of Information Act (March 19, 2009) (PDF, 1 MB, 3 pages, March 2009)
+    FOIA Frequently Asked Questions – FOIA.gov
+    Government Performance Results Act of 1993 (GPRA)
+
+Mobile/Device Agnostic
+
+Each Agency must improve priority customer facing services for mobile use and shift to an enterprise-wide asset management and procurement model, including mobile-related procurements.
+Multilingual Websites
+
+    Executive Order 13166, Improving Access to Services for People with Limited English Proficiency (PDF, 6 pages, 255 KB, August 2000)
+    Dept. of Justice Memo Reaffirming the Mandates of EO 13166 (PDF, February 2011)
+    Federal Agency LEP Guidance (Dept. of Justice)
+
+Open Government/Data/Content
+
+    A Strategy for American Innovation (PDF, 1.22 MB, 120 pages, October 2015)
+    Executive Order—Making Open and Machine Readable the New Default for Government Information (May 2013)
+    OMB M-13-13 Open Data Policy—Managing Information as an Asset (PDF, 5.83 MB, 12 pages, May 2013)
+    OMB M-10-06, Open Government Directive (December 2009)
+    Guidance on the Use of Challenges and Prizes to Promote Open Government
+    View all Open Government policies on whitehouse.gov
+
+Paperwork Reduction
+
+    Paperwork Reduction Act (44 U.S.C. 3501 et seq.)
+    Federal Collection of Information
+    OMB M-11-26, Fast-Track Process for Collecting Service Delivery Feedback Under the Paperwork Reduction Act(PDF, 196 KB, 4 pages, June 2011)
+    Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act (PDF, 83 KB, 7 pages, April 2010)
+    Government Paperwork Elimination Act (GPEA) (1998)
+    Small Business Paperwork Relief Act of 2002 (PDF, 49 KB, 5 pages, June 2002)
+
+Performance Measurement and Reporting
+
+    Government Performance Results Act of 1993 (GPRA)
+
+Plain Writing
+
+    OMB Memo on Testing and Simplifying Federal Forms (PDF, 94 KB, 2 pages, August 2012)
+    Plain Writing Act of 2010 (PDF, 153 KB, 3 pages, January 2010)
+    Executive Orders 12866 and 12988
+    OMB Final Guidance on Implementing the Plain Writing Act of 2010 (PDF, 269 KB, 6 pages, April 2011)
+
+Privacy and Identity Management
+
+    Requirements for Accepting Externally Issued Identity Credentials (PDF, 166 KB, 4 pages, October 2011)
+    OMB M-03–22, Guidance for Implementing the Privacy Provisions of the E–Government Act of 2002 (September 2003)
+    Children’s Online Privacy Protection Act of 1998 (COPPA)
+    Privacy Act of 1974
+
+Prohibition on Advertising
+
+    Prohibition of Lobbying (Title 18, Section 1913, U.S. Code)
+
+Records Management
+
+    Code of Federal Regulations (CFR), Parts 1220-1238
+    NARA guidance for implementing Section 207(e) of the E-Gov Act
+    NARA guidance on managing Web records
+    NARA Bulletin 2014-02 Guidance on managing social media records (October 2013)
+
+Search
+
+Each Agency website must include a search function which follows industry standard best practices. Content must be written in Plain Language, using the words of the customers, so they can easily find what they need when searching the web or the website.
+Security
+
+    OMB M-04-25 Reporting Instructions for the Federal Information Security Management Act (PDF, 269 KB, 28 pages, August 2004)
+    OMB M-15-13, Policy to Require Secure Connections across Federal Websites and Web Services (PDF, 258 KB, 5 pages, June 2015)
+    NIST Guidelines on Securing Public Web Servers (PDF, 960 KB, 142 pages, September 2007)
+    Federal Information Security Management Act of 2002: FISMA Presentation to 2003 FISSEA Conference (PDF, 62.5 KB, 17 pages, April 2003)
+
+Technology Standards
+
+    The HTTPS-Only Standard
+
+Third-Party Services/Social Media
+
+    OMB Memorandum M-13-10: Antideficiency Act Implications of Certain Online Terms of Service Agreements (PDF, 1.1 MB, 17 pages, April 2013)
+    Social Media, Web-Based Interactive Technologies, and the Paperwork Reduction Act (OMB memo) (PDF, 83 KB, 7 pages, April 2010)
+    Guidelines for Secure Use of Social Media by Federal Departments and Agencies (PDF, 233 KB, 19 pages, September 2009)
+
+NASA Office of the Chief Information Officer
+
+NASA's Office of the Chief Information Officer (OCIO) handles all aspects of the Agency's digital strategy, including digital access to NASA's information technology (IT) resources. Some of these resources are featured below. Click each link for more detail.
+NASA Open Government Plan
+
+NASA's Open Government Plan (September 2016)
+NASA Data Center Optimization Initiative Strategic Plan
+
+NASA's Data Center Optimization Initiative Strategic Plan (April 2019)
+
+NASA's Data Center Optimization CIO Statement (July 2017)
+
+NASA's Data Center Optimization Initiative Strategic Plan (Feb 2019)
+
+NASA's Data Center Optimization Initiative Strategic Plan (Feb 2018)
+
+NASA's Data Center Optimization Initiative Strategic Plan (June 2017)
+
+NASA's Data Center Optimization Initiative Strategic Plan (April 2017)
+
+NASA's Data Center Optimization Initiative Strategic Plan (November 2016)
+
+NASA's Data Center Optimization Initiative Strategic Plan (September 2016)
+NASA IT Reform Cost Savings/Avoidance
+
+NASA IT Reform Cost Savings/Avoidance (May 2019)
+
+NASA IT Reform Cost Savings/Avoidance (March 2019)
+
+NASA IT Reform Cost Savings/Avoidance (February 2019)
+
+NASA IT Reform Cost Savings/Avoidance (November 2018)
+
+NASA IT Reform Cost Savings/Avoidance (August 2018)
+
+NASA IT Reform Cost Savings/Avoidance (May 2018)
+
+NASA IT Reform Cost Savings/Avoidance (February 2018)
+
+NASA IT Reform Cost Savings/Avoidance (November 2017)
+
+NASA IT Reform Cost Savings/Avoidance (August 2017)
+
+NASA IT Reform Cost Savings/Avoidance (May 2017)
+
+NASA IT Reform Cost Savings/Avoidance (February 2017)
+
+NASA IT Reform Cost Savings/Avoidance (November 2016)
+
+NASA IT Reform Cost Savings/Avoidance (August 2016)
+
+NASA IT Reform Cost Savings/Avoidance (May 2016)
+
+NASA IT Reform Cost Savings/Avoidance (November 2015)
+NASA FITARA Milestones
+
+NASA FITARA Milestones (JSON) (May 2019)
+
+NASA FITARA Milestones (JSON) (March 2019)
+
+NASA FITARA Milestones (JSON) (February 2019)
+
+NASA FITARA Milestones (JSON) (November 2018)
+
+NASA FITARA Milestones (JSON) (August 2018)
+
+NASA FITARA Milestones (JSON) (May 2018)
+
+NASA FITARA Milestones (JSON) (February 2018)
+
+NASA FITARA Milestones (JSON) (November 2017)
+
+NASA FITARA Milestones (JSON) (August 2017)
+
+NASA FITARA Milestones (JSON) (May 2017)
+
+NASA FITARA Milestones (JSON) (February 2017)
+
+NASA FITARA Milestones (JSON) (November 2016)
+
+NASA FITARA Milestones (JSON) (September 2016)
+Additional OCIO Resources
+
+IT Bureau Directory
+
+IT Policy Archive
+
+OCIO Governance Boards
+
+Last Updated: May 30, 2019
+
+Editor: Jason Duley
+
+Read Next Related Article

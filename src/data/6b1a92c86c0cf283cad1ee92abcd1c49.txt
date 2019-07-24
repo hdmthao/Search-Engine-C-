@@ -1,0 +1,32 @@
+COPD exacerbations lead to lung function decline, particularly among those with mild COPD
+Acute exacerbations of chronic obstructive pulmonary disease, or COPD, are associated with significant long-term lung function loss, according to research published online, ahead of print in the American Thoracic Society's American Journal of Respiratory and Critical Care Medicine. In "Acute Exacerbations and Lung Function Loss in Smokers with and without COPD," the researchers reported that the greatest lung function loss occurred among those with mild COPD, and following severe exacerbations.
+
+"Very early on in this disease -- at a time when outside a study like ours the majority of people would not have been diagnosed with COPD -- patients appear to be losing lung function," said lead author Mark T. Dransfield, MD, medical director of the University of Alabama at Birmingham Lung Center. "The whole medical community is focused on the latter stages of COPD, when, like diabetes and heart disease and other chronic diseases, we should probably be focused on preventing morbidity much earlier."
+
+The study also looked at smokers without airway obstruction to determine whether acute respiratory events were associated with a decline in lung function. To the researchers' surprise, it was not.
+
+Participants in the study are part of COPDGene, a multicenter, longitudinal observational cohort study of the disease's underlying genetic factors. COPDGene enrolled more than 10,000 white and African-American current and former smokers, with and without COPD.
+
+In the current study, the researchers analyzed data from the first 2,000 COPDGene participants who returned for a follow-up visit five years after joining the study. Participants were grouped by COPD severity based on Global Initiative for Chronic Obstructive Lung Disease, or GOLD, guidelines. The study also identified participants with Preserved Ratio Impaired Spirometry (PRISm). These patients do not meet the GOLD criteria for COPD, but have reduced FEV1 (0.70%). FEV1 is defined as the amount of air a person can forcibly exhale in one second while FVC is the total amount of air a person can exhale after taking the deepest breath possible. Exacerbations as well as acute respiratory events in those participants without COPD were defined as requiring either antibiotics or systemic steroids. Severe exacerbations were defined as requiring hospitalization.
+
+The study found:
+
+Across all groups, including those without COPD and those with PRISm, exacerbations and severe exacerbations were common, with 36.7% reporting events during the past five years.
+
+Among those with COPD overall, exacerbations were associated with FEV1 decline in excess of that predicted by aging and other time-dependent factors.
+
+Those with mild COPD (GOLD 1) experienced the greatest FEV1 decline. Each exacerbation was associated with an additional 23 mL/year decline. Each severe exacerbation was associated in this group with an additional 87 mL/year decline.
+
+Those with moderate (GOLD 2) or severe (GOLD 3) COPD experienced statistically significant but smaller declines in FEV1 with each exacerbation than those with mild COPD.
+
+Smokers without COPD with an acute respiratory event and those with PRISm with an exacerbation of any severity did not experience FEV1. A similar result was observed among those with very severe COPD (GOLD 4), which authors said likely reflects survivor bias.
+
+Current and intermittent smokers experienced a steeper FEV1 decline than former smokers, 9 mL vs. 2 mL.
+
+Because those with mild COPD appear to have the greatest loss of lung function following an exacerbation, the authors wrote, preventing exacerbations in this group "could reduce the risk of developing severe COPD." Dr. Dransfield said that the medicines used to prevent exacerbations have rarely, if ever, been studied in those with mild COPD, suggesting that a randomized trial of this group may be warranted.
+
+Dr. Dransfield cautioned that the take-home message of the study is not that the lung function loss associated with exacerbations in those with severe COPD is unimportant. Though smaller, these losses have important detrimental effects on patient health.
+
+The authors also believe there is a need for further studies of smokers without COPD and those with PRISm. In the current study, both groups experienced significant respiratory symptoms and impairment but did not lose lung function as a result of an acute respiratory event or exacerbation. The researchers, who could only speculate why that might be the case, wrote that further research in this area may shed light on the heterogeneity of COPD, leading to better treatments of its distinct features in patients.
+
+As with all observational studies, the authors noted their study cannot determine causality or directionality between exacerbations and lung function loss. It is possible, Dr. Dransfield said, that lung function loss leads to exacerbations.

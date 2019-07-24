@@ -1,0 +1,75 @@
+June 12, 2019
+NASA's Mars 2020 Will Blaze a Trail — for Humans
+This artist's concept depicts astronauts and human habitats on Mars
+This artist's concept depicts astronauts and human habitats on Mars. NASA's Mars 2020 rover will carry a number of technologies that could make Mars safer and easier to explore for humans.
+Credits: NASA
+Full image and caption
+When a female astronaut first sets foot on the Moon in 2024, the historic moment will represent a step toward another NASA first: eventually putting humans on Mars. NASA's latest robotic mission to the Red Planet, Mars 2020, aims to help future astronauts brave that inhospitable landscape.
+
+While the science goal of the Mars 2020 rover is to look for signs of ancient life — it will be the first spacecraft to collect samples of the Martian surface, caching them in tubes that could be returned to Earth on a future mission — the vehicle also includes technology that paves the way for human exploration of Mars.
+
+
+Crazy Engineering explores a technology demonstration riding aboard NASA’s Mars 2020 rover that's straight out of science fiction novels like "The Martian." It's an oxygen generator called MOXIE, designed to convert carbon dioxide — which constitutes about 96% of the Martian atmosphere — into breathable oxygen.
+The atmosphere on Mars is mostly carbon dioxide and extremely thin (about 100 times less dense than Earth's), with no breathable oxygen. There's no water on the surface to drink, either. The landscape is freezing, with no protection from the Sun's radiation or from passing dust storms. The keys to survival will be technology, research and testing.
+
+Members of NASA’s Mars 2020 project install the Mars Oxygen In-Situ Resource Utilization Experiment 
+Members of NASA’s Mars 2020 project install the Mars Oxygen In-Situ Resource Utilization Experiment (MOXIE) into the chassis of NASA’s next Mars rover. MOXIE will demonstrate a way that future explorers might produce oxygen from the Martian atmosphere for propellant and for breathing.
+Credits: NASA/JPL-Caltech
+Full image and caption
+Mars 2020 will help on all those fronts. When it launches in July of 2020, the spacecraft will carry the latest scientific and engineering tools, which are coming together as the rover is built at NASA's Jet Propulsion Laboratory in Pasadena, California. Here's a closer look.
+
+Touchdown
+
+Every landing on Mars offers a learning opportunity. With Mars 2020, that includes how the spacecraft's heat shield and parachute perform in the planet's atmosphere, and how well its radar can sense the approaching surface. Sensors in the spacecraft's aeroshell (the capsule that encloses the rover) will study how it heats up and performs during atmospheric entry. These Mars Entry, Descent and Landing Instrumentation 2 (MEDLI2) sensors could help engineers improve their landing designs for big payloads like astronaut equipment and habitats.
+
+Landing a rover like this one also gives NASA more experience putting a heavy spacecraft on the surface of Mars; the challenge of landing in the thin Martian atmosphere scales with mass. The first crewed spacecraft will be titanic by comparison, carrying with it life support systems, supplies and shielding.
+
+Finally, Mars 2020 has a guidance system that will take a step toward safer landings. Called Terrain Relative Navigation, this new system figures out where the spacecraft is headed by taking camera images during descent and matching landmarks in them to a preloaded map. If the spacecraft drifts toward dangerous terrain, it will divert to a safer landing target.
+
+Technician looks at a sample
+This calibration target for Mars 2020's SHERLOC instrument includes five samples of spacesuit material, the first to ever be flown to the Red Planet. By studying how these samples degrade in the Martian environment, engineers can develop better spacesuits.
+Credits: NASA
+Full image and caption
+Terrain Relative Navigation allowed the 2020 team to select a landing site, Jezero Crater, that was considered too risky for previous missions. This kind of autonomous guidance could prove essential to landing humans safely. It would also be useful for landing equipment in multiple drops ahead of a human crew.
+
+Oxygen
+
+Living on Mars will require a steady supply of oxygen, which would be costly to transport from Earth in the necessary volumes. A cube-shaped device called the Mars Oxygen In-Situ Resource Utilization Experiment (MOXIE) is exploring a space-saving alternative that converts carbon dioxide — which constitutes about 96% of the Martian atmosphere — into oxygen. Although MOXIE is a small-scale demonstration, the hope is that its technology could evolve into bigger and more efficient oxygen generators in the future. Those would allow astronauts to create their own breathable air and would provide oxygen to burn rocket fuel needed to return humans to the Earth.
+
+More importantly, MOXIE's descendants would save precious space on the first crewed vehicle to Mars. Not only would that leave more room for supplies, it could also reduce the cost and difficulty of getting from Earth to Mars.
+
+Water
+
+Satellites orbiting the Red Planet regularly peek underground using radar, but Mars 2020 is carrying a ground-penetrating radar called the Radar Imager for Mars' Subsurface Experiment (RIMFAX) that will be the first operated at the Martian surface. Mars 2020 scientists will use its high-resolution images to look at buried geology, like ancient lake beds. But such a radar could one day be used to find stores of underground ice that astronauts could access to provide drinking water. Jezero Crater is unlikely to have any such caches, but many exist elsewhere on Mars.
+
+Spacesuits
+
+Dust and radiation are part of every Martian weather forecast. Dust blows everywhere, sticking to spacecraft and covering solar panels. And because the planet doesn't have a magnetic field, as Earth does, the Sun's radiation bathes the Martian surface. The orbits of Earth and Mars align best for interplanetary travel every two years, meaning the first astronauts on the Red Planet are likely to endure long exposures to radiation.
+
+To help engineers design spacesuits to shield astronauts from the elements, NASA is sending five samples of spacesuit material along with one of Mars 2020's science instruments, called Scanning Habitable Environments with Raman & Luminescence for Organics & Chemicals (SHERLOC). A piece of an astronaut's helmet and four kinds of fabric are mounted on the calibration target for this instrument. Scientists will use SHERLOC, as well as a camera that photographs visible light, to study how the materials degrade in ultraviolet radiation. It will mark the first time spacesuit material has been sent to Mars for testing and will provide a vital comparison for ongoing testing at NASA's Johnson Space Center.
+
+Shelter
+
+Humans exploring the Red Planet will need more than good spacesuits; they'll need a place to live. Mars 2020 will collect science that may help engineers design better shelters for future astronauts. Like NASA's Curiosity rover and InSight lander, 2020 has weather instruments to study how dust and radiation behave in all seasons. This suite of sensors, called the Mars Environmental Dynamics Analyzer (MEDA), is the next step in the kind of weather science Curiosity collects.
+
+More information about Mars 2020 is at:
+
+https://www.nasa.gov/mars2020
+
+https://mars.nasa.gov/mars2020/
+
+Andrew Good
+Jet Propulsion Laboratory, Pasadena, Calif.
+818-393-2433
+andrew.c.good@jpl.nasa.gov
+
+Alana Johnson
+NASA Headquarters, Washington
+202-358-1501
+alana.r.johnson@nasa.gov
+
+2019-111
+
+Last Updated: June 13, 2019
+Editor: Tony Greicius
+Tags:  Jet Propulsion Laboratory, Mars, Mars 2020 Rover, Moon to Mars, Solar System, Space Tech

@@ -1,0 +1,45 @@
+Apple announces controls to help fight iPhone addiction, plus augmented reality and fitness features
+Apple Inc. introduced features to help iPhone users put down their phones — at least temporarily — after facing criticism that people were addicted to the company’s flagship device and following competitors’ similar moves to fight smartphone addiction.
+
+The slew of tools includes updates to “do not disturb” mode and new ways to manage notifications. Instead of waking up to a string of notifications missed overnight, users will get a new “Good morning” screen summarizing the alerts. There’s also a larger array of controls for muting notifications and grouping alerts to reduce the number sent to a user.
+
+The most notable enhancement is called Screen Time, an activity report showing how much time you’re spending on individual apps, how often you pick up your phone and which apps are sending you the most notifications. People can set time limits on specific apps and get alerts reminding them to stop using that software as the limit approaches. It then shuts off the app, until users change the setting, executive Craig Federighi said Monday onstage at Apple’s annual Worldwide Developers Conference in San Jose. The time-limits feature will synchronize between multiple devices via Apple’s iCloud service.
+
+As part of the anti-addiction initiative, there are also new parental controls that can limit kids from using their devices. Parents will be able to choose times when certain apps or app categories can’t be used. Some apps, such as the core phone-calling function and education programs, could be available at all times.
+
+Earlier this year, Apple investors Jana Partners LLC and the California State Teachers’ Retirement System criticized the addictive nature of Apple’s devices. The Cupertino, Calif., technology giant responded by saying it would add more “robust” parental controls to monitor the use of its products.
+
+Rising concern about smartphone addiction is less of a threat to Apple than other big tech companies. Apple makes most of its money selling hardware, and Monday’s software upgrades probably will give users another reason to keep buying the company’s new devices.
+
+Google introduced similar tools at its developer conference. The Alphabet Inc. company has a new Dashboard for Android phones that lets people monitor how long they’re using other apps and reminds them to take a break.
+
+The new Apple features are among the software updates previewed Monday at the conference. These and other features won't reach users for a few months; rather, they were shown to give software developers a chance to build new apps to make iPhones and other Apple devices more useful. The next iPhone software, iOS 12, is expected in September, for instance.
+
+Other highlights from the show include:
+
+Augmented reality
+Apple also highlighted improvements to its augmented-reality software, a key foundation for iPhones, iPads and future devices.
+
+Onstage at the conference Monday, Federighi showcased ARKit 2 capabilities, including a mode called Persistence that lets users drop a virtual object into an environment and then return to it later in that specific place. Another feature, Shared Experiences, enables multiple users to play a single augmented-reality game together. In a demonstration, the company showed a Lego game and displayed how two iPhone users could play at the same time from different locations.
+
+Apple also announced an augmented-reality file format and standard that it hopes will push AR capabilities to more applications. The technology overlays 3-D images on people’s view of the real world. A demo showed how news publishers can integrate AR into stories and web developers can add it to websites. Adobe Systems Inc. announced AR integration is coming to its iPhone apps.
+
+Apple also introduced a new app called Measure for iOS devices that lets people virtually measure distances and detect shapes in the real world. It marks the first Apple-designed standalone AR app for consumers.
+
+Apple first indicated its interest in AR a couple of years ago, and its offerings thus far have focused on software that uses the cameras on its iPhones and other existing devices. The company is working on an AR headset for release as early as 2020, which would benefit from this new technology.
+
+Last year, Google launched similar AR software called ARCore for Android devices. Facebook Inc. also has shown interest in AR, and Amazon.com Inc. is also building an AR headset.
+
+Fitness features
+Apple unveiled new fitness and connectivity features for the Apple Watch, ratcheting up competition with FitBit Inc.
+
+Kevin Lynch, head of Apple Watch software, said new watchOS 5 software will have workout tracking for yoga and hiking, along with new features for running outside, including custom pace alerts and counting steps taken per minute. A much requested feature, automatic workout detection, is also coming, Lynch said.
+
+This year’s software update includes a new Walkie-Talkie app, which was originally announced in 2014 but not released until now. Apple is also removing “Hey Siri” for its command for the Apple Watch, letting users just speak commands to the digital assistant. There are also new notifications and an app for listening to podcasts.
+
+Since launching in 2015, watchOS hasn’t caught on as a major platform for developers. Big names such as Instagram, Google Maps, Twitter, Amazon and EBay have discontinued their watch apps. The new features announced Monday are designed to reignite interest in the category — and it’s especially important as Apple plans new smartwatch hardware this year.
+
+Siri shortcuts
+Apple wants its digital assistant Siri to do more. Third-party apps will now be able to let users invoke Siri for commonly used tasks, much the way competing assistants from Google and Amazon long have. Before, Apple had limited third-party access to a handful of categories, such as messaging, while excluding competitors to Apple's Music service, for instance.
+
+The software update will also let people group similar tasks together into shortcuts that can be accessed by simple phrases such as “heading home.” Saying the phrase can be set to open Apple Maps to find the best route home and launch a radio app.

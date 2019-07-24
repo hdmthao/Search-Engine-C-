@@ -1,0 +1,21 @@
+
+nasa.gov
+Designing a Key to Unlock Parkinson’s Disease
+Michael Johnson
+3 minutes
+
+Parkinson’s disease affects more than 5 million people on Earth. Research on the International Space Station could provide insight into this chronic neurodegenerative disease and help scientists find ways to treat and prevent it.
+
+The investigation, Crystallization of LRRK2 Under Microgravity Conditions-2 (CASIS PCG 16), grows protein crystals of Leucine-rich repeat kinase 2 (LRRK2) on the space station. A kinase is an enzyme that adds phosphate groups to other molecules as part of the body’s metabolic processes. People with Parkinson’s disease experience increased function of LLRK2, and genetic studies link mutations in the LRRK2 gene to an increased risk of developing Parkinson’s disease. Medications that inhibit LRRK2 are in development, but without knowing the precise structure of this enzyme, such work is like making a key without knowing the shape of the keyhole it must fit.
+
+Growing LRRK2 crystals on Earth is difficult and does not produce samples with high enough quality for researchers to determine the protein’s shape and structure –the keyhole. Protein crystals grow larger and more uniformly in space, though. Scientists can analyze the larger space-grown crystals to get a better idea of how the disease works and develop drugs – or keys – that target the condition more effectively and with fewer side effects.
+
+This investigation builds on a previous experiment, CASIS PCG 7. For CASIS PCG 16, the crew used larger sample wells, filled the wells during flight, and monitored the LRRK2 crystals as they grew. In this video, NASA astronaut Serena Auñon-Chancellor narrates as European Space Agency (ESA) astronaut Alexander Gerst uses a microscope to examine and photograph the LRRK2 crystals. Gerst interacted in real time with investigators on the ground, including scientists at the Michael J. Fox Foundation, Goethe University Frankfurt in Germany, and University of California San Diego in La Jolla, California.
+
+This space station research may bring those working to treat and prevent Parkinson’s disease one step closer to finding the right key.
+
+This investigation was sponsored by the International Space Station U.S. National Laboratory. For daily updates on the science happening aboard the space station, follow @ISS_Research, Space Station Research and Technology News, or our Facebook. For opportunities to see the space station pass over your town, check out Spot the Station.
+
+Last Updated: April 2, 2019
+
+Editor: Michael Johnson

@@ -1,0 +1,34 @@
+FSU research team makes Zika drug breakthrough
+A team of researchers from Florida State University, Johns Hopkins University and the National Institutes of Health has found existing drug compounds that can both stop Zika from replicating in the body and from damaging the crucial fetal brain cells that lead to birth defects in newborns. One of the drugs is already on the market as a treatment for tapeworm.
+
+"We focused on compounds that have the shortest path to clinical use," said FSU Professor of Biological Science Hengli Tang. "This is a first step toward a therapeutic that can stop transmission of this disease."
+
+Tang, along with Johns Hopkins Professors Guo-Li Ming and Hongjun Song and National Institutes of Health scientist Wei Zheng identified two different groups of compounds that could potentially be used to treat Zika -- one that stops the virus from replicating and the other that stops the virus from killing fetal brain cells, also called neuroprogenitor cells.
+
+One of the identified compounds is the basis for a drug called Nicolsamide, a U.S. Food and Drug Administration approved drug that showed no danger to pregnant women in animal studies. It is commonly used to treat tapeworm.
+
+This could be prescribed by a doctor today, though tests are still needed to determine a specific treatment regimen for the infection.
+
+Their work is outlined in an article published Monday by Nature Medicine.
+
+Though the Zika virus was discovered in 1947, there was little known about how it worked and its potential health implications -- especially among pregnant women -- until an outbreak occurred in South America last year. In the United States, there have been 529 cases of pregnant women contracting Zika, though most of those are travel related. As of Aug. 24, there have been 42 of locally transmitted cases in Florida.
+
+The virus, among other diseases, can cause microcephaly in fetuses leading them to be born with severe birth defects.
+
+"It's so dramatic and irreversible," Tang said. "The probability of Zika-induced microcephaly occurring doesn't appear to be that high, but when it does, the damage is horrible."
+
+Researchers around the world have been feverishly working to better understand the disease -- which can be transmitted both by mosquito bite and through a sexual partner -- and also to develop medical treatments.
+
+Tang, Ming and Song first met in graduate school 20 years ago and got in contact in January because Tang, a virologist, had access to the virus and Ming and Song, neurologists, had cortical stem cells that scientists needed to test.
+
+The group worked at a breakneck pace with researchers from Ming and Song's lab, traveling back and forth between Baltimore and Tang's lab in Tallahassee where they had infected the cells with the virus.
+
+In early March, the group was the first team to show that Zika indeed caused cellular phenotypes consistent with microcephaly, a severe birth defect where babies are born with a much smaller head and brain than normal.
+
+They immediately delved into follow-up work and teamed with NIH's Zheng, an expert on drug compounds, to find potential treatments for the disease.
+
+Researchers screened 6,000 compounds that were either already approved by the FDA or were in the process of a clinical trial because they could be made more quickly available to people infected by Zika.
+
+"It takes years if not decades to develop a new drug," Song said. "In this sort of global health emergency, we don't have time. So instead of using new drugs, we chose to screen existing drugs. In this way, we hope to create a therapy much more quickly."
+
+All of the researchers are continuing the work on the compounds and hope to begin testing the drugs on animals infected with Zika in the near future.

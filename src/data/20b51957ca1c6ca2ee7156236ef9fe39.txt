@@ -1,0 +1,5 @@
+Autonauts Wiki
+Autonauts
+
+
+Autonauts is a game where you automate production from resources as well as providing food and shelter to folk. The main goal of the game is to automate as much as possible. This game is being developed by Denki and is inspired by: Factorio, Pikmin, Animal Crossing, and Scratch.

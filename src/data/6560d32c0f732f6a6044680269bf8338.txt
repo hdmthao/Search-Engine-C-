@@ -1,0 +1,39 @@
+Help Desk: How to fight the spies in your Chrome browser
+Our tech columnist answers your questions about how to protect your privacy while using Chrome, the most popular Web browser.
+Is your Web browser spying on you? My recent column about the stark privacy differences between Google Chrome and Mozilla Firefox generated a lot of conversation — and questions from readers about what you can do to avoid surveillance while you surf.
+The main lesson: If Google is a data vampire, Chrome is its fangs. For most people, not using a browser made by an advertising company is the simplest way to protect your data from thousands of tracking firms, including Google itself. I recommend switching to the nonprofit Firefox, which has privacy-focused default settings that automatically block tracking cookies from ad and data companies, including Google itself. Apple’s Safari and Brave (which has an ad blocker built in) are also fine choices.
+But I understand some people just can’t quit Chrome. Barbara Karpel of Lauderhill, Fla., writes that her dental office uses software that asks for the Google browser. “When we submit a claim online, we are told that the insurance company’s platform only accepts Chrome,” she says.
+Some people have invested in Chromebook laptops built around Google’s browser — or just think Chrome is faster than the alternatives.
+There are ways to defang Chrome, if you don’t just use the default settings. Making Chrome better respect privacy requires messing around under the hood and installing privacy software, or extensions, into the browser.
+Here’s what I recommend to fight the advertising surveillance machine. Bonus: Some of these steps will also make websites load faster. Privacy for the win!
+Don’t count on Incognito mode to protect your privacy. Or a VPN.
+First, a warning: The “private” browsing mode in Chrome probably doesn’t do what you think it does. Incognito is the privacy equivalent of using an umbrella in a hurricane. It keeps information from being saved on your computer’s search and browsing history, which is only useful if you want to hide your activity from other people who share your browser. It does not stop websites, search engines and Internet service providers from tracking what you do.
+“Does using a VPN solve the privacy issues you spoke about on Google Chrome?” asks reader Dan Harmon. Unfortunately, no. A VPN, or virtual private network, can obscure what you do online from your Internet service provider, including your work, school or someone spying locally on your network. But if you’re logged into Google or Facebook, a VPN won’t stop the tech giants and their partners from tracking your searches and other things you do in Chrome.
+Tell Google to collect less personal information
+A great place to start is by telling Google itself to stop some of the tracking of your online activity that it associates with your Google account. I suggest checking two spots:
+Log in to Google’s advertising settings (adssettings.google.com), and make sure “ad personalization” is set to “off.” Doing this will make Google stop targeting ads to you on sites such as YouTube, though it alone won’t stop Google from collecting data about you.
+Then head over to your Activity controls (myaccount.google.com/activitycontrols) and turn off — or set to “pause,” in Google’s strange lingo — your “Web & App Activity.” This tells Google not to record your searches, ads you click on, apps you use and other data about how you use its services. The downside, as Google will remind you, is that some of its services might not work as well. While you’re in this menu, go ahead and also pause “Location History” as well as “Voice and Audio Activity.”
+Make sure you’re not using Chrome Sync
+In your Chrome browser, tap the circular icon in the top right corner to make sure you’re not signed in with your Google account and using the Sync function. This would allow Chrome to pass your browsing history to Google. (The data would be private if you also set a passphrase in Chrome, but most people haven’t done that.)
+While you’re at it, tell Chrome not to automatically log in the browser to your Google account whenever you sign in to Gmail. To do that, tap the three dots in the upper right corner of Chrome to find your way to Settings. There, search “Gmail,” and you’ll find a setting for “Allow Chrome sign-in.” Set that to “off.”
+There is one Chrome setting that privacy advocates disagree on: sending a “Do Not Track” request with your browsing traffic. Once upon a time, this was a good idea — but the industry hasn’t taken action on it, and now some data companies actually use it as one more way to track people. The argument for turning it on: You’re telling sites you specifically do not consent to them tracking you.
+Add a privacy extension
+You can download software to add to Chrome that works behind the scenes to automatically block tracking cookies and other snooping techniques used by an armada of ad and data companies.
+These free programs work as extensions (also known as plug-ins) for the desktop version of Chrome. I have long used Privacy Badger, which works with minimal hassle and is backed by a nonprofit that is squarely on our side, the Electronic Frontier Foundation. Other good choices include DuckDuckGo and Disconnect, as well as Ghostery and uBlock, which block both trackers and ads.
+Blocking trackers is more of an art than a science, so don’t be afraid to try a few of them to see which work best on the sites you use most often.
+In addition to protecting your privacy, the extensions could help sites load faster because they scrape tracking code out of pages.
+Protect Chromebooks, too
+“I downloaded Firefox,” writes Eva Hashemi from Boca Raton, Fla. “Then my son reminded me that his new laptop is a Chromebook. Yikes! Any advice on this? It’s too late to return it.”
+All hope is not lost. If your Chromebook isn’t locked down (say, by school administrators) and you can still add extensions, you could install the privacy software I recommended above.
+Or another idea: If the version of Chrome OS you’re using supports the installation of Android apps, then you could also install the Android version of Firefox via the Google Play store.
+Stop using Google for searches
+Asks John Peterson from Atlanta: “If I use DuckDuckGo as my default, is my privacy maintained when using my Mac installed with Chrome?”
+Using a privacy-first search engine such as DuckDuckGo won’t stop websites you visit from tracking you.
+But changing your search engine to DuckDuckGo will definitely send less of your data to Google. Our searches are perhaps the most valuable personal 
+Chrome lets you switch your default search engine away from Google. Go to Settings, and then search for “search engine” and change the address bar setting.
+DuckDuckGo is among the most well-known in the niche world of Google search alternatives. It promises not to track your searches or build a profile of you. It makes money through advertising around the context of what you search, rather than by tracking you.
+Is it as good as Google? No. But it keeps getting better — and now claims over 41 million searches per day, up from 12 million in 2016. Clearly, interest in privacy is on the rise.
+Read more tech advice and analysis from Geoffrey A. Fowler:
+Don’t smile for surveillance: Why airport face scans are a privacy trap
+Not all iPhones are the same. These cost less and are better for the Earth.
+Rock this way: AirPods, Beats and Bose wireless ear buds take the headbang test

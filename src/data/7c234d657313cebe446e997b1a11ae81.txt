@@ -1,0 +1,28 @@
+In the wake of controversy over a school shooting game, Steam, the world's largest gaming service, will now allow any game unless it's 'illegal, or straight up trolling'
+
+With over 200 million active users, Valve's Steam service is the world's largest digital game platform.
+Valve is making a major change to how it decides which games are allowed on its platform: Going forward, all games are allowed on Steam.
+"We've decided that the right approach is to allow everything onto the Steam Store, except for things that we decide are illegal, or straight up trolling," Valve executive Erik Johnson wrote on Wednesday.
+Valve is building tools to allow users to self-select what they see on the Steam Store.
+It all started in late May, when images of a game named "Active-Shooter" went viral.
+
+The images, like the one above from the game, depict a player taking on the role of the shooter in a school shooting. The game tracks how many cops you've killed, as well as "civs" — as in, unarmed civilians.
+
+As intended, the game sparked controversy. Parents of victims of the shooting at Marjory Stoneman Douglas High School in Parkland, Florida, spoke out against it. Florida Senator Bill Nelson called the game "inexcusable." A petition with hundreds of thousands of signatures was put together to have the game removed from Valve's Steam Store.
+
+Valve responded by removing the game from Steam, and banning its publisher from the service — a huge blow to any publisher, as Steam is the largest digital storefront in the world. In a statement to Business Insider, a Valve representative characterized the publisher, Acid, as, "a troll, with a history of customer abuse, publishing copyrighted material, and user review manipulation."	
+In so many words, the game's publisher was causing trouble before any of the recent controversy kicked off. But the "Active-Shooter" situation brought a new problem to the forefront: How should Valve police which games are allowed on its platform?
+
+This week, on Wednesday, Valve executive Erik Johnson published an answer to that question: "We've decided that the right approach is to allow everything onto the Steam Store, except for things that we decide are illegal, or straight up trolling."
+In the case of "Active-Shooter," it seems that Valve would've banned the game regardless for "straight up trolling" — after all, Valve characterized Acid as exactly that in its statement last week.
+
+The new policy comes with its own tradeoffs, as Johnson said in his note:
+"So what does this mean? It means that the Steam Store is going to contain something that you hate, and don't think should exist. Unless you don't have any opinions, that's guaranteed to happen. But you're also going to see something on the Store that you believe should be there, and some other people will hate it and want it not to exist."
+
+As a means of making the experience more comfortable, Valve is building tools to "enable you to override our recommendation algorithms and hide games containing the topics you're not interested in."
+
+Never want to see games from a certain publisher, or of a certain type, or games with "adult" themes? These new tools intend to allow that.
+
+Game developers and publishers will now have to include more detail about potentially controversial elements of their games, Johnson said, as part of the new submission process for games on Steam.
+
+For the time being, however, nothing is changing — Valve is still building the tools for Steam that will make this new policy function.

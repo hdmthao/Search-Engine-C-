@@ -1,0 +1,5 @@
+Cyberattack on Border Patrol subcontractor worse than previously reported
+Hackers made off with more than just photos, says The Washington Post.
+A subcontractor working with US Customs and Border Protection was a victim of a cyberattack in May, with CBP saying the stolen data was photographs. But a new report says hackers pilfered more than just pictures from the database. Hackers stole sensitive data from the CBP subcontractor, including government agency contracts, budget spreadsheets and even Powerpoint presentations, The Washington Post said Friday. The stolen data was found on the dark web sometime after the cyberattack occurred.
+Tennessee-based Perceptics, the subcontractor on the receiving end of the cyberattack, is responsible for the license plate scanners used at the US border. According to CBP, Perceptics transferred images from the agency to its own network, which is where the attack happened. CBP said such a transfer is a violation of the agency's policies.
+The CBP says it continues to investigate the incident and will monitor for any unauthorized disclosure of data. Perceptics didn't immediately respond to a request for comment.

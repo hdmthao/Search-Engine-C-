@@ -1,0 +1,32 @@
+Study: Earth's carbon points to planetary smashup
+Research by Rice University Earth scientists suggests that virtually all of Earth's life-giving carbon could have come from a collision about 4.4 billion years ago between Earth and an embryonic planet similar to Mercury. In a new study this week in Nature Geoscience, Rice petrologist Rajdeep Dasgupta and colleagues offer a new answer to a long-debated geological question: How did carbon-based life develop on Earth, given that most of the planet's carbon should have either boiled away in the planet's earliest days or become locked in Earth's core?
+
+"The challenge is to explain the origin of the volatile elements like carbon that remain outside the core in the mantle portion of our planet," said Dasgupta, who co-authored the study with lead author and Rice postdoctoral researcher Yuan Li, Rice research scientist Kyusei Tsuno and Woods Hole Oceanographic Institute colleagues Brian Monteleone and Nobumichi Shimizu.
+
+Dasgupta's lab specializes in recreating the high-pressure and high-temperature conditions that exist deep inside Earth and other rocky planets. His team squeezes rocks in hydraulic presses that can simulate conditions about 250 miles below Earth's surface or at the core-mantle boundary of smaller planets like Mercury.
+
+"Even before this paper, we had published several studies that showed that even if carbon did not vaporize into space when the planet was largely molten, it would end up in the metallic core of our planet, because the iron-rich alloys there have a strong affinity for carbon," Dasgupta said.
+
+Earth's core, which is mostly iron, makes up about one-third of the planet's mass. Earth's silicate mantle accounts for the other two-thirds and extends more than 1,500 miles below Earth's surface. Earth's crust and atmosphere are so thin that they account for less than 1 percent of the planet's mass. The mantle, atmosphere and crust constantly exchange elements, including the volatile elements needed for life.
+
+If Earth's initial allotment of carbon boiled away into space or got stuck in the core, where did the carbon in the mantle and biosphere come from?
+
+"One popular idea has been that volatile elements like carbon, sulfur, nitrogen and hydrogen were added after Earth's core finished forming," said Li, who is now a staff scientist at Guangzhou Institute of Geochemistry, Chinese Academy of Sciences. "Any of those elements that fell to Earth in meteorites and comets more than about 100 million years after the solar system formed could have avoided the intense heat of the magma ocean that covered Earth up to that point.
+
+"The problem with that idea is that while it can account for the abundance of many of these elements, there are no known meteorites that would produce the ratio of volatile elements in the silicate portion of our planet," Li said.
+
+In late 2013, Dasgupta's team began thinking about unconventional ways to address the issue of volatiles and core composition, and they decided to conduct experiments to gauge how sulfur or silicon might alter the affinity of iron for carbon. The idea didn't come from Earth studies, but from some of Earth's planetary neighbors.
+
+"We thought we definitely needed to break away from the conventional core composition of just iron and nickel and carbon," Dasgupta recalled. "So we began exploring very sulfur-rich and silicon-rich alloys, in part because the core of Mars is thought to be sulfur-rich and the core of Mercury is thought to be relatively silicon-rich.
+
+"It was a compositional spectrum that seemed relevant, if not for our own planet, then definitely in the scheme of all the terrestrial planetary bodies that we have in our solar system," he said.
+
+The experiments revealed that carbon could be excluded from the core -- and relegated to the silicate mantle -- if the iron alloys in the core were rich in either silicon or sulfur.
+
+"The key data revealed how the partitioning of carbon between the metallic and silicate portions of terrestrial planets varies as a function of the variables like temperature, pressure and sulfur or silicon content," Li said.
+
+The team mapped out the relative concentrations of carbon that would arise under various levels of sulfur and silicon enrichment, and the researchers compared those concentrations to the known volatiles in Earth's silicate mantle.
+
+"One scenario that explains the carbon-to-sulfur ratio and carbon abundance is that an embryonic planet like Mercury, which had already formed a silicon-rich core, collided with and was absorbed by Earth," Dasgupta said. "Because it's a massive body, the dynamics could work in a way that the core of that planet would go directly to the core of our planet, and the carbon-rich mantle would mix with Earth's mantle.
+
+"In this paper, we focused on carbon and sulfur," he said. "Much more work will need to be done to reconcile all of the volatile elements, but at least in terms of the carbon-sulfur abundances and the carbon-sulfur ratio, we find this scenario could explain Earth's present carbon and sulfur budgets."

@@ -1,0 +1,8 @@
+This young nuclear engineer has a new plan for clean energy
+Leslie Dewan wants to revive technology from the 1960s to solve the problem of climate change today.
+This story appears in the March 2019 issue of National Geographic magazine.
+Leslie Dewan, 34, is looking to the early days of nuclear power to combat climate change today. A National Geographic emerging explorer with a Ph.D. in nuclear engineering, she wants to resurrect the molten-salt reactor, a 1960s-era design that she hopes will revive nuclear energy as a powerful environmental tool—generating electricity that’s both carbon free and cheaper than coal. “There’s this driving sense of urgency,” she says.
+Before the accidents at Three Mile Island and Chernobyl, molten-salt reactors seemed too expensive and safer than necessary. Dewan, with fellow MIT graduate Mark Massie, updated the design with modern technologies and materials that keep the safety features and lower the cost.
+
+Unlike today’s models, a molten-salt reactor uses a liquid uranium salt as fuel, allowing for easier extraction of fission by-products. It has a containment system that kicks in when the plant loses electricity, so it’s less vulnerable to an accident. If one does occur, it’s less likely to blast out radiation, because the reactor operates at atmospheric pressure. It also uses half the fuel and produces less than half the waste.
+Dewan and Massie hoped to build the reactor themselves but recently realized that the small company they founded didn’t have the capacity. Instead they’ve open-sourced the design. “We wanted to bring it out into the world,” she says, “so that everyone could use it.”

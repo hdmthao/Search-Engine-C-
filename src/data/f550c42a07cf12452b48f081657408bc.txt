@@ -1,0 +1,38 @@
+How to: Three easy steps to get 4K HDR Streaming.
+"To make your 4K TV look its best, you need 4K HDR content. It's not just about resolution anymore, as HDR adds deeper colors, inky blacks and brighter highlights. Whether it's the latest Netflix show or a remastered classic movie, HDR can help your entertainment become more involving and exciting.
+While the easiest way to get content is to stream it, it's not always just a matter of turning on the TV and watching a new show in ultrahigh quality. The steps below should be all you need to get your 4K HDR streaming up and running. If you don't already have a TV that does HDR, check out our reviews for some 4K TV models we like.
+1) Streamer or apps
+Your HDR TV likely has several apps you can use to stream 4K HDR content. Netflix is certainly the most ubiquitous, but other options include Amazon, Vudu and even YouTube.
+If your TV doesn't have all the options you want, then the best solution is an external media streamer. These inexpensive devices have far more streaming channels than a smart TV, though of course, not all of those have HDR. Check out our media streamer reviews for some of the best options, including our current favorite, the Roku Streaming Stick Plus.
+(The HDR Channel, linked above, is a YouTube channel of, you guessed it, HDR content.)
+The picture quality shouldn't be different between built-in and streamer apps, as long as both are able to do HDR. Usability could be different, though, as sometimes built-in apps lag behind their streamer counterparts in user interface upgrades.
+Another option is one of the latest gaming consoles, like the Xbox One S ($270 at Amazon.com) or X, or PS4 Pro. These are also the only way to get 4K streaming via Hulu. On other apps and streamers, it's 1080p only right now.
+If you connect an external device, it's possible you might need to upgrade your HDMI cables. Fortunately, there are some inexpensive options.
+2) Fast-enough internet
+Even if you've been streaming for years, your internet might not be fast enough to handle 4K HDR. Netflix says you need a minimum of 25Mbps, while Vudu says you need at least 11Mbps. Ideally, you should have more than that, and according to SpeedTest, the average speed in the United States is 87Mbps.
+It's worth investigating though, especially if you haven't checked in on your service in a while. Many providers upgrade their service, but older customers may get stuck at slower speeds while newer customers get faster connections for the same price. Check with your provider, you may be eligible for a free upgrade.
+UHD is only available with the most expensive streaming plan.
+CNET
+There are some other tips to speed up your internet speed, which you can read about in this article on how to improve TV streaming quality on Netflix, Hulu and more.
+If your internet isn't quite fast enough for 4K, you might still be able to get HDR. Netflix, for example, will try to send HDR video regardless of the resolution. HDR requires more data than standard video, but not nearly as much as a jump in resolution, like from HD to UHD.
+Related on CNET
+HDR10 vs. Dolby Vision vs. HLG: How do HDR formats compare?
+How HDR works
+Can old TV shows be converted to HDR?
+Where can I get HDR TV shows and movies for my new HDR TV?
+3) 4K HDR content
+Just because you have all the hardware to get 4K HDR, doesn't mean you'll actually get it. In most cases, you need a specific monthly plan to be able to access anything higher-quality than HD. For instance, Netflix requires you to be on the most expensive plan, currently $13.99 a month. Vudu charges a bit more to rent or buy 4K titles.
+It's also important to keep in mind, not every show or movie is available in 4K, and only a subset of those that are will have HDR. It's the minority of content, and will be for the foreseeable future.
+""Thor: Ragnarok"" is available in 4K, Dolby Vision, HDR10 and Dolby Atmos on Vudu.
+Marvel
+Most of the original content from Netflix, and nearly all from Amazon, is available in 4K HDR. Shows like ""Lost in Space"" and ""The Grand Tour"" for example. Also, many modern movies on Vudu, like ""Thor: Ragnarok"" and ""Star Wars: The Last Jedi.""
+Generally speaking, if it's a recent program made specifically for a streaming service, it's probably 4K and maybe even HDR. Same goes for a big-budget movie from the last year or so. If it's not one of these things, it's less likely. For example:
+Cable service HBO's shows are 1080p only
+""Legion"" on FX is generally 1080p, though season 2 can be found on Amazon in UHD if you search for ""Legion UHD.""
+""The Expanse"" season 3 is 1080p... but you can find season 2 in UHD for free on Amazon Prime. If this all seems random and confusing, it's because it is.
+Though it might return a few false positives, you can also search for ""4K"" or ""UHD"" in the search box of the different services. If you've got everything set correctly, there should be an icon on the content, your TV or both that indicates you're getting 4K and/or HDR.
+Got a question for Geoff? First, check out all the other articles he's written on topics like why all HDMI cables are the same, TV resolutions explained, LED LCD vs. OLED and more. Still have a question? Tweet at him @TechWriterGeoff, then check out his travel photography on Instagram. He also thinks you should check out his best-selling sci-fi novel and its sequel.
+Share your voice
+Post a comment
+Tags
+TVs Media Streamers Digital Media 4K TVs Amazon Netflix"

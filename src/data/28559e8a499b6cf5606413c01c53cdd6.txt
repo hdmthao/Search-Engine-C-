@@ -1,0 +1,30 @@
+April 6, 2019
+NASA’s MAVEN Uses Red Planet’s Atmosphere to Change Orbit
+NASA’s MAVEN spacecraft achieved a tighter orbit around Mars to act as a telecommunications relay. The two-month campaign began February 11 and ended April 5.
+
+MAVEN’s navigation team slowed the spacecraft down gradually by aerobraking, a process taking advantage of the Martian upper atmosphere to place a small amount of drag on the spacecraft.
+
+“It’s like applying the brakes on a car but instead of brake pads, we used Mars’ atmosphere,” said Stuart Demcak navigation team lead at NASA’s Jet Propulsion Laboratory in Pasadena, California.
+
+During this time, the spacecraft periapsis altitude (lowest altitude of the orbit) lowered from 151 km (94 miles) to about 132 km (82 miles) above the Martian surface. At this altitude, the atmosphere, although extremely thin, is dense enough to provide the small amount of drag on the spacecraft necessary to slow it down. The apoapsis altitude (highest point in orbit) dropped from about 6050 to about 4570 km, an orbit change that improves MAVEN's availability to support relay communications with NASA's landers and rovers on the surface of Mars. The orbit period dropped from 4.4 hours to roughly 3.7 hours.
+
+"The final post-aerobraking orbit resulted from an exhaustive series of engineering trade studies that balanced requirements for communications relay, MAVEN's science mission, fuel expenditure, and synchronization of the orbit to provide communications support for the Mars 2020 landing,” said Russell Carpenter, MAVEN's deputy project manager.
+
+Reducing apoapsis about 1,480 kilometers (1,000 miles) closer to the surface allows the MAVEN orbiter to circle Mars more frequently — 6.6 orbits per Earth day versus 5.3 previously — and communicate with the Mars rovers more frequently.
+
+“The team worked diligently to prepare for aerobraking and we are enjoying the benefits of those countless hours now” said Nick Sealy, spacecraft aerobraking phase lead
+
+from Lockheed Martin Space in Littleton, Colorado. “This team made aerobraking look easy.”
+
+While not conducting relay communications, MAVEN will continue to study the structure and composition of the upper atmosphere of Mars.  MAVEN has enough fuel to operate until at least 2030.
+
+MAVEN’s principal investigator is based at the University of Colorado’s Laboratory for Atmospheric and Space Physics, Boulder, which also leads science operations. NASA’s Goddard Space Flight Center in Greenbelt, Maryland, manages the MAVEN project. Lockheed Martin Space built the spacecraft and is responsible for mission operations. NASA’s Jet Propulsion Laboratory in Pasadena, California, provides navigation and Deep Space Network support, as well as the Electra telecommunications relay hardware and operations.
+
+For more information on the MAVEN mission, visit: https://www.nasa.gov/maven or http://lasp.colorado.edu/home/maven/
+
+By Nancy Neal Jones
+NASA’s Goddard Space Flight Center, Greenbelt, Md.
+
+Last Updated: April 5, 2019
+Editor: Karl Hille
+Tags:  Goddard Space Flight Center, Mars, MAVEN (Mars Atmosphere and Volatile Evolution), Planets, Solar System

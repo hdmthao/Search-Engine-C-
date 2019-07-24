@@ -1,0 +1,71 @@
+Title: Astronomers’ Dark Energy Hopes Fade to Gray
+
+A star-crossed mission nearly 20 years in the making that was intended to seek an answer to the most burning, baffling question in astronomy — and perhaps elucidate the fate of the universe — is in danger of being canceled.
+
+The Wide-Field Infrared Survey Telescope, or Wfirst, was being designed to investigate the mysterious force dubbed dark energy that is speeding up the expansion of the universe and search out planets around other stars.
+
+In 2010, a blue-ribbon panel from the National Academy of Sciences charged with charting the future of space-based astronomy gave the mission the highest priority for the next decade. Under the plan, it could have launched in mid-2020s with a price tag of $3.2 billion.
+
+But it was zeroed out in the NASA budget proposed by President Trump last week.
+
+In a statement accompanying the budget, Robert M. Lightfoot Jr., the agency’s acting administrator, called the deletion “one hard decision,” citing the need to divert resources to “other agency priorities.” NASA is shifting its focus back to the moon.
+
+Nobody is under any illusion that a president’s budget proposal is the last word on anything. Congress, which usually listens to the academy’s recommendations, will have the last word in a dance that many NASA missions, including the Hubble Space Telescope, have participated in. As the old saying among space scientists at the Jet Propulsion Laboratory, home of many missions, goes: “It’s not a real mission until it is canceled.”
+
+The proposed cancellation drew an outcry from astronomers, who warned that stepping back from the mission would be stepping back from the kind of science that made America great and would endanger future projects that, like this one, require international help. It drew comparisons to the cancellation of the Superconducting Supercollider that ended American supremacy in particle physics.
+
+David Spergel, former chairman of the academy’s Space Study Board, noted that in planning their own programs, other countries depended on the United States to follow the advice of the National Academy.
+
+“A handful of people within the bureaucracy” and outside of NASA, he went on, “have overturned decades of community-driven processes and tried to set the direction for space astronomy.”
+
+Astronomers have hungered for a space mission to investigate dark energy ever since 1998, when observations of the exploding stars known as supernovae indicated that the expansion of the universe was speeding up, the distant galaxies were shooting away faster and faster from us as cosmic time went on. It is as if, when you dropped your car keys, they shot up to the ceiling.
+
+The discovery won three American astronomers the Nobel Prize. The fate of the universe, as well as the nature of physics, scientists say, depends on the nature of this dark energy.
+
+Physicists have one ready-made explanation for this behavior, but it is a cure that many of them think is worse than the disease: a fudge factor invented by Einstein in 1917 called the cosmological constant. He suggested, and quantum theory has subsequently confirmed, that empty space could exert a repulsive force, an anti-gravity, blowing things apart.
+
+If so, as the universe grows, it will expand faster and faster and run away from itself. Eventually other galaxies would be flying away so fast that we couldn’t see them. The universe would become dark and cold. The cosmologist Lawrence Krauss of Arizona State once described this as “the worst possible universe.”
+
+If on the other hand, some previously unsuspected force field is tinkering with the galaxies and space-time, the effect could shut off or even reverse over the eons.
+
+Or maybe we just don’t understand gravity.
+
+Dark energy, said Frank Wilczek, a Nobel laureate from the Massachusetts Institute of Technology, “is the most mysterious fact in all of physical science, the fact with the greatest potential to rock the foundations.”
+
+The astronomers who made this discovery were using the exploding stars known as Type 1a supernovae as cosmic distance markers to track the expansion rate of the universe.
+
+Since then, other tools have emerged by which astronomers can also gauge dark energy by how it retards the growth of galaxies and other structures in the universe.
+
+Way back in 1999, Saul Perlmutter of the Lawrence Berkeley Laboratory, one of dark energy’s discoverers, proposed a space mission known as SNAP (Supernova Acceleration Probe) to do just that.
+
+In 2008, NASA and the Energy Department budgeted $600 million, not including launching costs, for a mission and the call went out for proposals. But NASA and the Energy Department found it hard to collaborate and a working group of dark-energy scientists could not come up with a design that would fit in the budget.
+
+In 2010, a committee of the National Academy of Sciences cobbled together several competing proposals that would do the trick. Paul Schechter, an M.I.T. astronomer involved in the work called it Wfirst, for Wide Field Infrared Survey Telescope. The acronym had a double meaning: “W” is the name for a crucial parameter that measures the virulence of dark energy. But the telescope would also search for exoplanets — planets beyond our solar system.
+
+In its report, “New Worlds, New Horizons,” the committee gave this mission the highest priority in space science for the next decade.
+
+But NASA would have no money to start on this project until it finished building the James Webb Space Telescope, the successor to the vaunted Hubble Space Telescope. Shortly after the academy’s deliberations, the space agency admitted that the Webb project had been mismanaged. The telescope, which had been set for a 2014 launching, would require at least another $1.6 billion and several more years to finish. The Webb will search out the first stars and galaxies to have formed in the universe, but is not designed for dark energy. It is now on course to be launched next year.
+
+Wfirst would have to wait.
+
+To take up the slack until 2025 — or whenever the American mission can finally fly — the space agency bought a share in a European dark-energy mission known as Euclid, now scheduled to launch in 2021. But Euclid is not as comprehensive as Wfirst would be; it will not use supernovas, for example.
+
+The story took another dramatic twist in June 2012, capturing headlines when the National Reconnaissance Office, which operates spy satellites, offered NASA a leftover telescope, essentially a close relative of the Hubble, that had been designed to look down instead of up.
+
+It had a wide field of view, which could enable inspecting large areas of the heavens for supernovae.
+
+Its primary mirror — like the Hubble 94 inches in diameter — is twice as big as the one that was being contemplated for Wfirst, giving it four times the light-gathering power and a deep reach into the cosmos.
+
+The gift would save them the cost of fashioning a whole new telescope, but it was not without strings. As several astronomers pointed out, using a bigger telescope would mean a bigger, more expensive camera and more complicated back-end optics would have to be built. Nevertheless, the Academy bought into the idea.
+
+Lately another controversial element has been added to the mission, a coronagraph, which could be used to block the light from a star so that faint planets near them can be discerned.
+
+Last summer an independent review panel appointed by NASA and led by Fiona Harrison, a professor at the California Institute of Technology, endorsed the mission’s basic science goals and methodology while cautioning against mission creep that could cause its costs to balloon.
+
+The ball is now in Congress’s court.
+
+Michael Turner, a cosmologist at the University of Chicago, said, “While one never wants to hear that someone important has recommended cancellation of your favorite project, I believe that like last year, Congress will be doing the budget writing. I hope and believe that Congress will be wiser.”
+
+Author: By Dennis Overbye
+Date: Feb. 19, 2018
+Source: https://nyti.ms/31CUusg

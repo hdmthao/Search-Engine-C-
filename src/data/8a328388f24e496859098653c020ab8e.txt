@@ -1,0 +1,22 @@
+Renewable energy generation with kites and drones
+Researchers present a new software for the analysis of airborne wind energy systems
+Date:
+February 19, 2019
+Source:
+Universidad Carlos III de Madrid
+Summary:
+A group of researchers has recently developed a new software aimed at the analysis of energy generation systems based on kites and drones. They used the software to study the behavior of these systems while transforming the kinetic energy of the wind into useful electrical energy.
+FULL STORY
+Airborne Wind Energy Systems (AWES) are a new kind of technology to harvest wind energy. The expensive and heavy tower and rotor of a conventional wind turbine are here substituted by a light tether and an aircraft (flexible giant kites or large drones), respectively. In the so-called ground generation scheme, AWES use the tension force of the tether to move an electrical generator on the ground whereas, in fly generation scenarios, the electrical energy is produced by wind turbines onboard the aircraft and transmitted to the ground by a conductive tether. In both cases, AWES present low installation and material costs and operate at high altitude (over 500 metres) where winds are more intense and less intermittent. They also present a low visual impact and their easier transportation make them suitable for producing energy in remote and difficult access areas.
+
+"AWES are disruptive technologies that operate at high altitudes and generate electrical energy," explains Gonzalo Sánchez Arriaga, Ramón y Cajal research fellow at the department of Bioengineering and Aerospace Engineering at the UC3M. "They combine well-known disciplines from electrical engineering and aeronautics, such as the design of electric machines, aeroelasticity and control, with novel and non-conventional disciplines related to drones and tether dynamics," he adds.
+
+Within this framework, the UC3M researchers have presented a novel flight simulator for AWES in a scientific article recently published in Applied Mathematical Modelling. "The simulator can be used to study the behaviour of AWES, optimise their design and find the trajectories maximizing the generation of energy," explains Mr. Ricardo Borobia Moreno, aerospace engineer from the Flight Mechanics Area at the Spanish National Institute of Aerospace Technology (INTA) and studying a PhD in the department of Bioengineering and Aerospace Engineering at UC3M. The software, owned by UC3M, is registered and can be freely downloaded and used for research purposes by other groups.
+
+Along with the simulator, the researchers have developed a flight testbed for AWES. Two kitesurf kites have been equipped with several instruments and key information, such as the position and speed of the kite, attack and sideslip angles, and tether tensions, have been recorded throughout many flights. The experimental data were then used to validate different software tools, such as the aforementioned simulator and an estimator of the different parameters characterizing the state of the kite at each instant. "The preparation of the testbed has required a significant investment of time, effort and resources, but it has also raised the interest from a large number of our students. Besides research, the project has enriched our teaching activities, as many of them have carried out their undergraduate and master final projects on AWES," comments Gonzalo Sánchez Arriaga, who teaches the Flight Mechanics course in the Aerospace Engineering Degree at UC3M.
+
+A growing sector
+
+Research activities and the creation of new companies related to the generation of energy at high altitudes, that is to say, at over 500 metres, by using kites and drones have grown significantly in the last few years due to the financial support from the European Commission and private companies such as Google, among others.
+
+UC3M group. launched in 2015 thanks to a Leonardo Grant funded by the BBVA Foundation, is pioneering in Spain. Afterwards, it has been supported by the GreenKite project (ENE2015-69937R), funded by the Ministry of Science, Innovation and Universities, that is currently underway. "Our activities include the flight tests and the estimation, control and simulation of AWES," points out Gonzalo Sánchez Arriaga. "In the project, an interesting transfer of technology and knowledge is being carried out, from the world of aviation, such as the flight test methods, to the world of airborne energy," notes Ricardo Borobia Moreno.

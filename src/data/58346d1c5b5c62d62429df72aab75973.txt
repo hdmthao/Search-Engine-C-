@@ -1,0 +1,51 @@
+Phase transitions: The math behind the music
+Physics professor applies tools of statistical mechanics to explain why basic ordered patterns emerge in music across time and cultures
+Date:
+May 23, 2019
+Source:
+Case Western Reserve University
+Summary:
+Physics Professor Jesse Berezovsky contends that until now, much of the thinking about math and music has been a top-down approach, applying mathematical ideas to existing musical compositions as a way of understanding already existing music. He contends he's uncovering the 'emergent structures of musical harmony' inherent in the art, just as order comes from disorder in the physical world. He believes that could mean a whole new way of looking at music of the past, present and future.
+Next time you listen to a favorite tune or wonder at the beauty of a natural sound, you might also end up pondering the math behind the music.
+
+You will, anyway, if you spend any time talking with Jesse Berezovsky, an associate professor of physics at Case Western Reserve University. The longtime science researcher and a part-time viola player has become consumed with understanding and explaining the connective tissue between the two disciplines -- more specifically, how the ordered structure of music emerges from the general chaos of sound.
+
+"Why is music composed according to so many rules? Why do we organize sounds in this way to create music?" he asks on a short explainer video he recently made about his research. "To address that question, we can borrow methods from a related question:
+
+'How do atoms in a random gas or liquid come together to form a particular crystal?"
+
+Phase transitions in physics, music
+
+The answer in physics -- and music, Berezovsky argues -- is called "phase transitions" and comes about because of a balance between order and disorder, or entropy, he said.
+
+"We can look at a balance -- or a competition -- between dissonance and entropy of sound -- and see that phase transitions can also occur from disordered sound to the ordered structures of music," he said.
+
+Mixing math and music is not new. Mathematicians have long been fascinated with the structure of music. The American Mathematical Society, for example, devotes part of its web page (https://www.ams.org/publicoutreach/math-and-music) to exploring the idea (Pythagoras, anyone? "There is geometry in the humming of the strings, there is music in the spacing of the spheres.")
+
+But Berezovsky contends that much of the thinking, until now, has been a top-down approach, applying mathematical ideas to existing musical compositions as a way of understanding already existing music.
+
+He contends he's uncovering the "emergent structures of musical harmony" inherent in the art, just as order comes from disorder in the physical world. He believes that could mean a whole new way of looking at music of the past, present and future.
+
+"I believe that this model could shed light on the very structures of harmony, particularly in Western music," Berezovsky said. "But we can take it further: These ideas could provide a new lens for studying the entire system of tuning and harmony across cultures and across history -- maybe even a road map for exploring new ideas in those areas.
+
+"Or for any of us, maybe it's just another way of just appreciating music -- seeing the emergence of music the way we do the formation of snowflakes or gemstones."
+
+Emergent structures in music
+
+Berezovsky said his theory is more than just an illustration of how we think about music. Instead, he says the mathematical structure is actually the fundamental underpinning of music itself, making the resultant octaves and other arrangements a foregone conclusion, not an arbitrary invention by humans.
+
+His research, published May 17 in the journal Science Advances, "aims to explain why basic ordered patterns emerge in music, using the same statistical mechanics framework that describes emergent order across phase transitions in physical systems."
+
+In other words, the same universal principles that guide the arrangement of atoms when they organize into a crystal from a gas or liquid are also behind the fact that "phase transitions occur in this model from disordered sound to discrete sets of pitches, including the 12-fold octave division used in Western music."
+
+The theory also speaks to why we enjoy music -- because it is caught in the tension between being too dissonant and too complex.
+
+A single note played continuously would completely lack dissonance (low "energy"), but would be wholly uninteresting to the human ear, while an overly complex piece of music (high entropy) is generally not pleasing to the human ear. Most music -- across time and cultures -- exists in that tension between the two extremes, Berezovsky said.
+
+Story Source:
+
+Materials provided by Case Western Reserve University. Note: Content may be edited for style and length.
+
+Journal Reference:
+
+Jesse Berezovsky. The structure of musical harmony as an ordered phase of sound: A statistical mechanics approach to music theory. Science Advances, 2019; 5 (5): eaav8490 DOI: 10.1126/sciadv.aav8490

@@ -1,0 +1,45 @@
+China Mobile faces US ban over spying fears
+
+The Trump administration has moved to block a state-owned Chinese wireless carrier from linking up with the US market, citing national security concerns.
+
+China Mobile (CHL) wanted to provide cell phone and other communication services between the United States and other countries. It submitted an application for a license to US regulators back in 2011.
+
+On Monday, the National Telecommunications and Information Administration, a branch of the US Commerce Department, recommended that the Federal Communications Commission deny the request.
+
+The move against a high-profile Chinese company could add to the bitter dispute between Washington and Beijing over trade and technology.
+
+"Because China Mobile is subject to exploitation, influence, and control by the Chinese government, the Executive Branch believes that granting China Mobile's application ... would produce substantial and unacceptable national security and law enforcement risks," the telecommunications agency said in a filing to the FCC.
+
+Related: Top Huawei exec blasts US lawmakers as 'closed-minded and ill-informed'
+
+Giving China Mobile access to the US telecommunications market could lead to a spike in Chinese spying, it said. Phone calls or other communications from US government agencies to international destinations could pass through China Mobile's network, even if the agencies are not customers of the operator, according to the filing.
+
+China Mobile, which has more than 900 million mobile customers, did not immediately respond to a request for comment Tuesday. The company wasn't seeking to offer mobile services directly to US customers, according to the US filing.
+
+The FCC wasn't immediately available for comment outside of regular office hours.
+
+A US rejection is expected to have little impact on the company's income. The international calling business accounts for only a tiny portion of China Mobile's revenue, according to Ramakrishna Maruvada, an analyst with Daiwa Capital Markets.
+
+Heightened tensions
+
+The recommendation against China Mobile comes at a time of heightened trade and national security tensions between the United States and China.
+
+The Trump administration is trying to counter China's ambitions to become a global tech leader, accusing China of pressuring companies and stealing intellectual property to get ahead. Beijing denies the allegations.
+
+A series of tech and telecommunications companies have run into difficulties over potential security concerns.
+
+The Trump administration in March blocked chipmaker Broadcom's (AVGO) $117 billion bid for rival Qualcomm (QCOM). One concern it cited was the deal could cause the United States to fall behind on the development of 5G technology and allow China to take the lead.
+
+Chinese smartphone and telecommunications company ZTE (ZTCOF) has been in crisis since April when the US Commerce Department banned American companies from selling it vital components.
+
+Related: Where's ZTE? Execs go AWOL at China's big smartphone fair
+
+The Commerce Department said it imposed the ban on ZTE because the company breached a 2017 deal in which it agreed to pay a fine for violating sanctions on Iran and North Korea.
+
+The Trump administration struck a new deal with the company earlier this month to end the ban in exchange for an additional fine and a drastic management overhaul. But ZTE still faces an uncertain future, and some members of Congress are seeking to keep the ban in place.
+
+The US government has long been wary of Chinese companies having access to American telecommunications networks. A 2012 congressional report found ZTE and its larger Chinese rival Huawei posed significant national security threats and could not be trusted to be free of foreign state influence.
+
+The Chinese companies strongly disputed the report's findings. But ZTE and Huawei remain largely locked out of the market for providing telecommunications network gear to American carriers.
+
+-- Rob Mclean contributed to this report.

@@ -1,0 +1,20 @@
+Milky Way had a blowout bash 6 million years ago
+The center of the Milky Way galaxy is currently a quiet place where a supermassive black hole slumbers, only occasionally slurping small sips of hydrogen gas. But it wasn't always this way. A new study shows that 6 million years ago, when the first human ancestors known as hominins walked the Earth, our galaxy's core blazed forth furiously. The evidence for this active phase came from a search for the galaxy's missing mass. Measurements show that the Milky Way galaxy weighs about 1-2 trillion times as much as our Sun. About five-sixths of that is in the form of invisible and mysterious dark matter. The remaining one-sixth of our galaxy's heft, or 150-300 billion solar masses, is normal matter. However, if you count up all the stars, gas and dust we can see, you only find about 65 billion solar masses. The rest of the normal matter - stuff made of neutrons, protons, and electrons - seems to be missing.
+
+"We played a cosmic game of hide-and-seek. And we asked ourselves, where could the missing mass be hiding?" says lead author Fabrizio Nicastro, a research associate at the Harvard-Smithsonian Center for Astrophysics (CfA) and astrophysicist at the Italian National Institute of Astrophysics (INAF).
+
+"We analyzed archival X-ray observations from the XMM-Newton spacecraft and found that the missing mass is in the form of a million-degree gaseous fog permeating our galaxy. That fog absorbs X-rays from more distant background sources," Nicastro continues.
+
+The astronomers used the amount of absorption to calculate how much normal matter was there, and how it was distributed. They applied computer models but learned that they couldn't match the observations with a smooth, uniform distribution of gas. Instead, they found that there is a "bubble" in the center of our galaxy that extends two-thirds of the way to Earth.
+
+Clearing out that bubble required a tremendous amount of energy. That energy, the authors surmise, came from the feeding black hole. While some infalling gas was swallowed by the black hole, other gas was pumped out at speeds of 2 million miles per hour (1,000 km/sec).
+
+Six million years later, the shock wave created by that phase of activity has crossed 20,000 light-years of space. Meanwhile, the black hole has run out of nearby food and gone into hibernation.
+
+This timeline is corroborated by the presence of 6-million-year-old stars near the galactic center. Those stars formed from some of the same material that once flowed toward the black hole.
+
+"The different lines of evidence all tie together very well," says Smithsonian co-author Martin Elvis (CfA). "This active phase lasted for 4 to 8 million years, which is reasonable for a quasar."
+
+The observations and associated computer models also show that the hot, million-degree gas can account for up to 130 billion solar masses of material. Thus, it just might explain where all of the galaxy's missing matter was hiding: it was too hot to be seen.
+
+More answers may come from the proposed next-generation space mission known as X-ray Surveyor. It would be able to map out the bubble by observing fainter sources, and see finer detail to tease out more information about the elusive missing mass. The European Space Agency's Athena X-ray Observatory, planned for launch in 2028, offers similar promise.

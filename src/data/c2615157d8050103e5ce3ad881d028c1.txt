@@ -1,0 +1,20 @@
+BMW's next-gen adaptive cruise control stops at traffic lights
+The tech is currently in development and could be rolled out via an over-the-air update.
+
+BY 
+STEVEN EWING
+ 
+BMW adaptive cruise control
+
+This 330i prototype houses BMW's next-generation adaptive cruise control tech.
+
+Steven Ewing/Roadshow
+BMW is working on a next-generation adaptive cruise control system that adapts the technology for use in city environments. The company detailed and demonstrated this technology at an event Tuesday, and plans to roll it out in the near future.
+
+Called Urban Traffic Light Recognition, at least internally, this next step forward for adaptive cruise control will allow a car to slow and stop at a traffic light without the driver touching the brake pedal. BMW's engineers say this tech will be able to work at stop signs, as well, though this was not demonstrated.
+
+On a short test route around Munich, Germany, a BMW test driver set the adaptive cruise control at 30 kilometers per hour -- the speed limit -- and approached a traffic light. As the light changed from green to yellow, the car's radars picked up the signal, and displayed a traffic light image on the digital gauge cluster of the BMW 330i test car. The car then slowed for the light without the driver needing to do anything.
+
+Now, here's the caveat: If you are the lead car at the stoplight, the system will not automatically restart once the light turns green. You either have to move the car forward with the gas pedal, or press the "resume" button on the steering wheel. If you aren't the lead car, the system works like any other adaptive cruise control, where it restarts after a lead car begins to pull away.
+
+BMW says this technology is only programmed to work at speeds up to 80 kilometers per hour (50 miles per hour) right now, and is still very much in development. When it rolls out, vehicles fitted with the latest radar systems -- like the 3 Series or X7, for example -- should be able to add the tech via over-the-air updates. BMW hopes to roll this tech out across several countries, though it's unclear if this technology will be legally approved for use in the US.

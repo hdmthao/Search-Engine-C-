@@ -1,0 +1,32 @@
+Your body is your internet -- and now it can't be hacked
+Researchers have protected your pacemaker, other medical tech from remote hacks before they happen
+Date:
+March 12, 2019
+Source:
+Purdue University
+Summary:
+Engineers have tightened security on the 'internet of body.' Now, the network you didn't know you had is only accessible by you and your devices, thanks to technology that keeps communication signals within the body itself.
+Someone could hack into your pacemaker or insulin pump and potentially kill you, just by intercepting and analyzing wireless signals. This hasn't happened in real life yet, but researchers have been demonstrating for at least a decade that it's possible.
+
+Before the first crime happens, Purdue University engineers have tightened security on the "internet of body." Now, the network you didn't know you had is only accessible by you and your devices, thanks to technology that keeps communication signals within the body itself.
+
+The work appears in the journal Scientific Reports. Study authors include Shreyas Sen, an assistant professor of electrical and computer engineering at Purdue, and his students, Debayan Das, Shovan Maity and Baibhab Chatterjee.
+
+"We're connecting more and more devices to the human body network, from smart watches and fitness trackers to head-mounted virtual reality displays," said Sen, who specializes in sensing and communication systems.
+
+"The challenge has not only been keeping this communication within the body so that no one can intercept it, but also getting higher bandwidth and less battery consumption," he said.
+
+Body fluids carry electrical signals very well. So far, so-called "body area networks" have used Bluetooth technology to send signals on and around the body. These electromagnetic waves can be picked up within at least a 10-meter radius of a person.
+
+Sen's team has demonstrated a way for human body communication to occur more securely -- not going beyond a centimeter off the skin and using 100 times less energy than traditional Bluetooth communication.
+
+This is possible through a device that couples signals in the electro-quasistatic range, which is much lower on the electromagnetic spectrum. Sen's group is working with government and industry to incorporate this device into a dust-sized integrated circuit.
+
+A YouTube video is available at https://youtu.be/NHqfT1vIe6E.
+
+Through a prototype watch, a person can receive a signal from anywhere on the body, from the ears all the way down to the toes. The thickness of your skin or hair also doesn't really make a difference in how well you carry the signal, Sen says.
+
+The idea would be to create a way for doctors to reprogram medical devices without invasive surgery. The technology would also help streamline the advent of closed-loop bioelectronic medicine -- in which wearable or implantable medical devices function as drugs, but without the side effects -- and high-speed brain imaging for neuroscience applications.
+
+"We show for the first time a physical understanding of the security properties of human body communication to enable a covert body area network, so that no one can snoop important information," Sen said.
+

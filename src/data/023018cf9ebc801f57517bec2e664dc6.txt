@@ -1,0 +1,28 @@
+Inside the New Technology That Could Transform the Solar Power Industry
+The future of solar power has looked increasingly bright in recent years thanks to the plummeting cost of silicon solar panels and a global push for clean energy sources to address climate change. In the most optimistic scenarios for the power source, solar generation will increase 16-fold between 2016 and 2040, according to data from the International Energy Agency.
+
+But now new research into a class of materials known as perovskites underway in U.S. government labs and other facilities around the world promises to accelerate rapidly even the most optimistic projections for solar deployment. If they make it from the lab to commercial use perovskites could dramatically change the market for the renewable energy source offering potential for panels to capture energy virtually any surface facing the sun.
+
+“The future of perovskites is breathtaking,” says Varun Sivaram, a fellow at the Council on Foreign Relations and author of “Taming the Sun,” a book on the future of solar power. “For solar to really anchor a clean energy transition we’re going to need technological innovation and perovskite is the frontrunner in my mind.”
+
+You don’t need a physics or engineering degree to understand the primary reasons why perovskites potentially serve as a superior alternative to traditional solar cells. For one, perovskite solar cells are flexible and easy to produce. They can be painted or sprayed on a surface from an ink solution or churned out of a printer like a newspaper. That flexibility means they can be attached to virtually anywhere.
+
+During a visit to the National Renewable Energy Lab in Golden, Colo., researchers Joseph Berry and David Moore excitedly point out the various research projects underway to transform perovskites from a lab phenomenon to a commercial reality. Moore lifts a small surface with visible perovskite solar cells he painted on himself with a brush purchased at a local craft store, showing how easily the cells can be applied. Berry points to an experiment where perovskite cells are being held under bright light to test their durability. Moore holds up a light to a solar cell that dims in response to the light, mimicking potential protection against sunlight.
+
+“The materials have the right properties that make them good at this,” says Berry.
+
+Researchers also think they are a more efficient material for capturing the sun’s energy. Silicon solar panels, the primary type used today on rooftops and in utility-scale power plants alike, tend to achieve about 20% efficiency, meaning they capture a fifth of the energy that passes through and turn it into electricity. A perovskite solar cell reached a record 22.7% efficiency last summer and researchers say that number is likely to continue to rise with continued to research. The theoretical maximum efficiency of perovskites tops 40%. And because perovskites are so thin, they could be applied to silicon modules that have already been built, boosting electricity production.
+
+In the past, various solar technologies have offered either flexibility or efficiency, but researchers have struggled to combine the two. “Perovskites shatter that trade off and promise to do better on literally every performance characteristic,” says Sivaram.
+
+Still, challenges remain. Perhaps most importantly, silicon solar panels have been tested for decades and proven durable while the lifespan of perovskites remains largely unknown. And, given the urgency of climate change, the world does not have 30 years to find out. “Four years ago, you could make it for maybe a day,” says Berry. “Now we’re out to 5,000 hours.”
+
+The technology — like others under development in federally funded labs — also faces challenges from an administration that has sought to undermine renewable energy sources in hopes of propping up coal and other fossil fuels. The Trump Administration’s proposed 2018 budget would have cut funding to the Department of Energy’s renewable energy office by more than 70%. That office provides the bulk of NREL’s $293 million budget.
+
+That budget cut was rejected by Congress, which actually increased the renewable office’s budget. And even members of the Trump Administration have praised NREL and the Department’s other national energy labs. Energy Secretary Rick Perry is a self-described “cheerleader” of the labs. Undersecretary of Energy Mark Menzes specifically praised perovskites at an appearance at an American Council on Renewable Energy conference earlier this year while walking a tightrope to defend the proposed budget cuts.
+
+“It’s an extraordinary thing what our labs are capable of doing,” he said after telling a story about NREL’s perovskites research. “We’re able to take early stage research to be able to develop the technologies to make it apply.”
+
+Ultimately, perovskites may not be a solution that transforms solar energy. They face a slew of challenges, from outdoor weather conditions to entering a crowded market. But clean energy experts say that the federal government needs to continue investing in in different technologies even if they cannot be certain that a particular one will succeed.
+
+“Our global competitors are drastically increasing their R&D funding for these technologies,” says Timothy Olson, Policy and Research Manager at ACORE. “We don’t want the U.S. to fall behind.”

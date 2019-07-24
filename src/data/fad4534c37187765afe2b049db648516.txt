@@ -1,0 +1,22 @@
+LG is working on 5G robot security guards
+The autonomous bots are designed to patrol warehouses and other facilities and detect anything out of the ordinary.
+ 
+LG CLOi robot smart home
+LG wants to add 5G connectivity to future robots.
+
+LG is working on 5G robots, partnering with Korean carrier SK Telecom for the project. LG is planning to commercialize the cloud-based autonomous robots, which'll be connected to SK Telecom's 5G network. Feature updates for the robots will be downloaded across this network.
+
+They'll be used for detecting abnormalities and patrolling for security 24/7 in facilities and warehouses, the companies said. Quantum cryptography technology will secure the robot service.
+
+Verizon vs. AT&T vs. Sprint: Guess who's winning 5G so far
+SK Telecom also wants to use its home-made artificial intelligence Interference Accelerator and AI cloud for the project, which it said will "not only improve information-processing performance of robots but also support interconnection among multiple robots."
+
+LG and SK Telecom are also looking to build a hyperspace platform they're calling "eSpace." Their robots will replicate the real world by collecting photos and spatial data to build eSpace, and the companies will then charge extra for virtual space services.
+
+As well as already launching a 5G phone, LG has been working on its smart home robot CLOi and a wearable robot for leg support, called the CLOi SuitBot.
+
+LG formed a new robotics division last year, and deployed a suite of cleaning and guide robots at Incheon International Airport back in 2017. It's also working on robots for restaurants.
+
+Apple HomeKit security features come to routers and cameras: The app that controls HomeKit devices is changing, Apple revealed at WWDC Monday.
+
+The best home security systems we've tested: Yes, shopping for the best home security system can be a confusing headache. Fortunately, we've done a lot of the legwork for you.

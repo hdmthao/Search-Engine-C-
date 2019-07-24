@@ -1,0 +1,25 @@
+Date:
+June 5, 2019
+Source:
+RMIT University
+Summary:
+We know bees get the concept of zero and can do basic math. 
+Now researchers have discovered they may also be capable of connecting symbols to numbers. 
+It's a finding that sheds new light on how numerical abilities may have evolved over millennia and even opens new possibilities for communication between humans and other species.
+Researchers have trained honeybees to match a character to a specific quantity, revealing they are able to learn that a symbol represents a numerical amount.
+
+It's a finding that sheds new light on how numerical abilities may have evolved over millennia and even opens new possibilities for communication between humans and other species.
+
+The discovery, from the same Australian-French team that found bees get the concept of zero and can do simple arithmetic, also points to new approaches for bio-inspired computing that can replicate the brain's highly efficient approach to processing.
+
+The RMIT University-led study is published in the Proceedings of the Royal Society B.
+
+Associate Professor Adrian Dyer said while humans were the only species to have developed systems to represent numbers, like the Arabic numerals we use each day, the research shows the concept can be grasped by brains far smaller than ours.
+
+"We take it for granted once we've learned our numbers as children, but being able to recognise what '4' represents actually requires a sophisticated level of cognitive ability," Dyer said.
+
+"Studies have shown primates and birds can also learn to link symbols with numbers, but this is the first time we've seen this in insects.
+
+"Humans have over 86 billion neurons in our brains, bees have less than a million, and we're separated by over 600 million years of evolution.
+
+"But if bees have the capacity to learn something as complex as a human-made symbolic language, this opens up exciting new pathways for future communication across species."

@@ -1,0 +1,19 @@
+Battlefield 5: DICE Explains What It Learned From The Alpha
+Lots of learnings.
+Last updated by Eddie Makuch on July 15, 2018 at 5:50PM
+A closed alpha for Battlefield V was held last month, giving a small group of people an opportunity to try an "early" version of the map Arctic Fjord. Developer DICE has now published an in-depth blog post in which it discussed the data and feedback it gathered from the alpha.
+One of the main purposes of the alpha was to test Battlefield V's technical components, including its "many backend systems, player scoring rate, and many other things." Another area of focus was on the gameplay, and specifically, getting into matches. During the alpha, DICE ran into issues related to "matchmaking configuration" that resulted in error messages or players getting put into "less suitable server locations" that led to higher latency.
+During the alpha, joining matches via the server browser was easier for some, DICE reported. And while the server browser is a perfectly fine way to find a match, the developer said it's also important that regular matchmaking work reliably as well. Effective matchmaking is a multi-step, layered process that involves things like server location, skill, and more.
+"There are many factors to juggle when it comes to matchmaking: finding players with equal latency and skill level, and more--and these factors all need to co-exist," DICE said. "Getting the best possible matchmaking is a challenge of balance; we want to match you into the best possible server and experience, which may take a few moments of waiting, but at the same time not have you waiting too long to deploy."
+DICE also reported that there were problems related to keeping Squads together during matches. You can be sure that these issues will be fixed by launch, as DICE said "keeping you and your squad buddies together is a big priority for us."
+On top of working on improvements to stability and matchmaking, DICE is putting time into things like "improving the queue system, minimizing toxicity with a potential non-cross-faction chat room, and squashing strange bugs."
+Here are some gameplay issues being addressed after the closed alpha:
+Revives will feel "less clunky."
+Buddy revive will be 2.5 seconds faster.
+Starting ammo will remain limited, but some changes are being made for "optimal balance."
+The use of "reinforcement" weapons--which are really powerful and are meant to help turn the tide of battle--will be toned down in some regards.
+DICE will continue to tweak Time to Kill (TTK) values with things like tuning the amount of camera shake when you're hit. The developer will consider making weapon damage changes, too, if its current efforts aren't enough.
+Recoil for some weapons will be tweaked
+Looking ahead, DICE said it will have a new preview of Battlefield V to show at Gamescom in August, while everyone will get a chance to try Battlefield V during the open beta in September. You should really read the full blog post--it's stacked with lots of interesting insights.
+Battlefield V launches on October 19, but EA/Origin Access subscribers can start playing on October 11 (which is one day before Call of Duty: Black Ops 4 launches). Deluxe Edition owners can start playing on October 16, before the Standard Edition unlocks on October 19.
+You can earn Battlefield V items by playing Battlefield 1 as part of DICE's "Road to Battlefield V" campaign. Here's everything you need to know about that.

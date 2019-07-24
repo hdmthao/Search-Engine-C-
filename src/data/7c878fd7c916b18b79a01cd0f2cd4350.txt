@@ -1,0 +1,92 @@
+Amazon Echo, Apple HomePod or Google Home which is smarter about playing music We tested them
+
+MANHATTAN BEACH, Calif. — There are so many things Siri can't do, but if you ask Apple's personal digital assistant to play you the latest Ed Sheeran album on the HomePod speaker, tell you when it was released and give you a little information about the top-selling musical performer, Siri is surprisingly chatty.
+
+And it doesn't even once say, "Here's what I found on the Web," to make you read the information on websites.
+
+But is it really smarter when it comes to responding to our music-related commands than its rivals Amazon Echo and Google Home, which dominate the smart speaker market? We decided to find out, posing 40 music questions to all three, and then played a bonus round with 10 requests to play a song based on sample lyrics from the tune. That last challenge proved to be the tie breaker. 
+
+Music is a big deal for Apple's push to sell the HomePod. A year ago at its Apple Worldwide Developers Conference, Apple pitched the higher-priced smart speaker — $349 vs. $50-$75 for mid-level Amazon and Google speakers and $200 for Sonos, which works with all the major voice assistants — with an emphasis on sound quality and ability to answer our music questions. 
+
+"We never wanted to lose the focus that (HomePod is) first about making a speaker that plays back music in a surprising really great way,” Apple executive Phil Schiller told journalists earlier this year, as the speaker was about to hit store shelves in February.  
+
+So far Apple has yet to create an iPhone/iPad sized hit. Market research firm Strategy Analytics says Apple sold 600,000 HomePod speakers — which first went on sale in February — during the first quarter, representing 6% market share of the smart speaker market vs. 43% for Amazon and 27% for Google.
+
+But its focus on music as opposed to skills like calling an Uber or checking your bank account could resonate with future buyers. For owners of smart speakers, music is the No. 1 activity, according to eMarketer. 
+
+Before asking our music questions, we set up the speakers with the premium music services that makes each most responsive to specific queries, subscribing to Apple Music, Amazon Music and Google Play Music (generally $9.99 monthly each).
+
+Siri on Apple HomePod will only respond to voice-commanded music requests if you have a monthly subscription to Apple Music and/or the iTunes Match service, which makes your purchased music available on multiple devices. 
+
+For voice commands, Amazon Echo works with Amazon Music, Spotify and Pandora. 
+
+Google Home works with Google Play Music, Pandora and Spotify, YouTube Music and Spotify Premium.
+
+The commands for our questions mostly came from the help pages created by Apple, Amazon and Google on cool things you could do with music on the HomePod, Amazon Echo and Google Home speakers.
+
+The verdict: a virtual tie on the first round, which included questions like these:
+
+Play music I like
+
+What song is this?
+
+Play the No. 1 song from January 2015
+
+Play "Uptown Funk," by Mark Ronson.
+
+Play some sad jazz songs
+
+Amazon and Apple both got 35 out of 40, while Google responded successfully with 37.
+
+All could do the easy stuff— play songs, artists, albums and genres on command.
+
+Misses included:
+
+—Apple Music not being able to play classical guitar music (both Alexa and Google could)
+
+—Alexa couldn't play my purchased songs that I'd bought from Amazon.
+
+—Google and Apple couldn't "play a song I haven't listened to in awhile," while Alexa could.  
+
+Then we added the lyrics, asking each to  "play 'all the single ladies,'" to "I'm too hot, hot damn, called a police and a fireman," as well as several others.  
+
+It was in this test that Apple totally fell apart, only finding one of the 10 songs, while Google got 7 of them on first try, and Amazon got all 10.  Apple says it doesn't support song selection by lyrics, but can pick out a fraction of the title —which is why it found "Single Ladies," by Beyoncé and "We're off to see the wizard," from the "Wizard of Oz," movie. 
+
+The Good: Beyond the easy questions, like asking Apple's speaker to play specific songs, artists or albums, Apple put a lot of thought and care into making the speaker a "musicologist." You can ask for "sad jazz," "the number one song from January 2015," "road trip songs" and the like. It will let you ask for a song, and then request a specific song to play afterwards. 
+
+The bad: HomePod will play radio stations, just not any that aren't programmed by Apple. Thus, any local station, or anything you could get on TuneIn or iHeartRadio, isn't available on the speaker. Other surprises: a simple request — play classical guitar music — drew a blank from Siri. Asking to hear music by R&B artist Javier (who now goes as Javier Colon) ended up with a selection by country artist Bobby Bare. (Amazon and Google got it right.) Even if it doesn't support song selection by lyric fragments, considering that Amazon and Google do it so well, Apple should. 
+
+Amazon Echo
+The Good: Amazon's speaker just works when it comes to music requests. It can play songs, albums and artists on request, can play radio stations and if you ask a subjective command like "play me something I like," it responds appropriately. (For me, that meant jazz guitar.) And when I asked it to play something I haven't heard in a while, it comes up with selections that don't make me ask to go to the next selection. Best of all, it killed in the lyric competition, getting 10 out of 10 right. From play the song with the lyrics "got the wings of heaven on my shoes," to the even more obscure "I tried to be chill but you're so hot I melted," Alexa got it every time, and quickly.
+
+The bad: It couldn't respond to a request to play Hawaiian slack key guitar music, answer the question about when a selection was released, couldn't play the Talking Tech podcast, despite multiple re-phrasings to iHeartRadio and TuneIn Radio (which host both), or play songs I had purchased on Amazon over the years. 
+
+Google Home
+The Good: It knew to play songs by Javier when HomePod didn't, it played the Talking Tech podcast (thank you very much), could set an alarm to go off set to a Bruno Mars song, knew how to find Hawaiian slack key guitar and could on command play any album, song or artist I requested.  
+
+The bad: Couldn't play a song I hadn't listened to in awhile, which is surprising since Google knows my playing history really well — I've been subscribing since 2015. It couldn't add a song to a specific playlist or play music for a specific period of time. On lyrics, it failed with my Joni Mitchell request, as well as Jason Mraz, Queen and Sheeran on the first try, but got three of the four right on the second attempt. 
+
+Try it
+Here is an example of our questions. 
+
+Skills: Question or command/Answer (right/yes or wrong/no)
+
+Who sings this song? Apple, Amazon, Google (yes)
+
+Add this song to a (specific) playlist: Apple, Amazon (yes) Google (no)
+
+Play Hawaiian slack key guitar music Amazon (no), Apple, Google (yes.)
+
+Play radio station  Apple (no, doesn't play traditional radio stations) Amazon, Google (yes)
+
+Play Talking Tech podcast Amazon (no) Apple, Google (yes.)
+
+Lyrics
+
+"I'm traveling in some vehicle," Amazon (yes), Apple, Google (no.)
+
+"Me and my friends at the table doing shots," Amazon, Google (yes), Apple (no.)
+
+"It's the way I'm feeling, I just can't deny," Amazon, Google (yes) Apple (no.)
+
+Answers: Heijra by Joni Mitchell, Shape of You, Ed Sheeran, We Found Love, Rihanna. 

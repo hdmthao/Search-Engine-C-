@@ -1,0 +1,33 @@
+Google may just have killed Huawei's bid to become the world's top smartphone brand
+#business #tech
+Google is restricting Huawei's access to its Android operating system and apps after the Trump administration blacklisted the Chinese tech firm.
+The move is a huge blow to Huawei, whose goal is to be the top smartphone brand by the end of 2020.
+Last week, the Trump administration barred American companies from selling to Huawei without a US government license in a significant escalation of the trade war with China.
+"We are complying with the order and reviewing the implications," a Google spokesperson said on Monday. Huawei, the world's No. 2 smartphone seller, relies on a suite of Google (GOOGL) services for its devices, including the Android system and the Google Play app store.
+The Silicon Valley giant is suspending much of that access, according to multiple reports, after Washington placed Huawei on a list of foreign firms deemed to undermine American national security or foreign policy interests. Listed companies are barred from receiving components and software unless the trade is licensed.
+Existing Huawei phones unaffected
+Huawei will only be able to use the public version of Android and will not be able to access apps and services from Google. The news was first reported by Reuters.
+Google said consumers who already own Huawei smartphones will be largely unaffected for now.
+"Google Play and the security protections from Google Play Protect will continue to function on existing Huawei devices," the spokesperson added, without providing further details.
+The ban threatens Huawei's supply chain and could delay the rollout of 5G services around the world. But the most immediate headache for Huawei is what the decision means for future smartphone sales.
+Most of Google's most popular products — like Gmail, YouTube and Google Maps — are banned in China, where Huawei offers domestic alternatives like Tencent's (TCEHY) WeChat and Baidu (BIDU) Maps.
+But the company is hugely dependent on countries other than China. Roughly half its smartphone sales last year were made outside China, according to research firms Canalys and IDC.
+Huawei said it is "examining the implications from the US actions for consumers," adding that it will continue to provide "security updates and after sales services" for all existing smartphones and tablets, including its Honor budget brand.
+China's response: 'Wait and see'
+The Chinese tech company said it has spent at least three years working on its own operating system.
+"Huawei has been building an alternative operating system just in case it is needed," said Huawei spokesperson Glenn Schloss. "We would like to be able to continue operating in the Microsoft and Google ecosystems," he added.
+Huawei licenses Microsoft's operating system for its laptops and tablets. Microsoft (MSFT) did not immediately respond to a request for comment.
+Beijing has repeatedly criticized the US-led campaign against Huawei, and called the addition of the company to the trade blacklist a political move.
+"China supports Chinese companies defending their legitimate rights according to laws," Lu Kang, a spokesperson for China's Ministry of Foreign Affairs, said at a press briefing on Monday.
+"In terms of what measures either Chinese companies or Chinese government would take, please wait and see," he said.
+Killing Huawei outside China?
+Being cut off from the Google ecosystem would be a huge blow to Huawei's ambitions to overtake Samsung (SSNLF) as the world's biggest smartphone maker.
+The consumer business — which includes smartphones, laptops, tablets and wearable devices like smart watches — was the biggest contributor to Huawei's earnings last year. The division made nearly 349 billion yuan ($50 billion) in 2018, accounting for more than 45% of revenue.
+For the millions of users outside of China, being cut off from Google's apps and services "kills the attractiveness of a Huawei phone," said IDC analyst Bryan Ma.
+"It kills the usability of a Huawei phone outside of China, thus rendering them dead in the water," he added.
+Theoretically, Huawei can try to win over consumers with its competitive hardware and innovation, and then convince them to download Google apps after they buy a Huawei phone, said Nicole Peng, an analyst with Canalys.
+But evidence shows that "after sales installation is very challenging for users, unless they know what they're doing," said Peng.
+Moreover, when customers start finding out that Huawei can't get Google's ecosystem on their phones, "it will affect trust, they will question if anything is wrong with the device," she added.
+Even if customers were able to independently download Google apps on Huawei phones, the phones may still not have access to so-called Google Mobile Services.
+Many third party apps, like ride hailing and food delivery platforms, rely on services like Google Maps. Most of those apps may no longer be supported on Huawei devices, said IDC's Ma.
+Without that access, "the Huawei phone is a brick," he said.

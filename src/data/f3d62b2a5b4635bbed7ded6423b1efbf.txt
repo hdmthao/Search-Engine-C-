@@ -1,0 +1,18 @@
+Anomalous grooves on Martian moon Phobos explained by impacts
+Some of the mysterious grooves on the surface of Mars' moon Phobos are the result of debris ejected by impacts eventually falling back onto the surface to form linear chains of craters, according to a new study. One set of grooves on Phobos are thought to be stress fractures resulting from the tidal pull of Mars. The new study, published August 19 in Nature Communications, addresses another set of grooves that do not fit that explanation.
+
+"These grooves cut across the tidal fields, so they require another mechanism. If we put the two together, we can explain most if not all of the grooves on Phobos," said first author Michael Nayak, a graduate student in Earth and planetary sciences at UC Santa Cruz.
+
+Phobos is an unusual satellite, orbiting closer to its planet than any other moon in the solar system, with an orbital period of just 7 hours. Small and heavily cratered, with a lumpy nonspherical shape, it is only 9,000 kilometers from the surface of Mars (the distance from San Francisco to New York and back) and is slowly spiraling inward toward the planet. Phobos appears to have a weak interior structure covered by an elastic shell, allowing it to be deformed by tidal forces without breaking apart.
+
+Coauthor Erik Asphaug, a planetary scientist at Arizona State University and professor emeritus at UC Santa Cruz, has been studying Phobos for many years. Recent computer simulations by him and NASA planetary scientist Terry Hurford showed how tidal stresses can cause fracturing and linear grooves in the surface layer. Although this idea was first proposed in the 1970s, the existence of so many grooves with the wrong orientation for such stress fractures had remained unexplained.
+
+Nayak developed computer simulations showing how those anomalous grooves could result from impacts. Material ejected from the surface by an impact easily escapes the weak gravity of Phobos. But the debris remains in orbit around Mars, most of it moving either just slower or just faster than the orbital velocity of Phobos, and within a few orbits it gets recaptured and falls back onto the surface of the moon.
+
+Nayak's simulations enabled him to track in precise detail the fate of the ejected debris. He found that recaptured debris creates distinctive linear impact patterns that match the characteristics of the anomalous grooves and chains of craters that cut across the tidal stress fractures on Phobos.
+
+"A lot of stuff gets kicked up, floats for a couple of orbits, and then gets recollected and falls back in a linear chain before it has a chance to be pulled apart and disassociated by Mars' gravity," Nayak said. "The controlling factor is where the impact occurs, and that determines where the debris falls back."
+
+The researchers used their model to match a linear chain of small craters on Phobos to its primary source crater. They simulated an impact at the 2.6-kilometer crater called Grildrig, near the moon's north pole, and found that the pattern resulting from ejected debris falling back onto the surface in the model was a very close match to the actual crater chain observed on Phobos.
+
+With its low mass and close orbit around Mars, Phobos is so unusual that it may be the only place in the solar system where this phenomenon occurs, Nayak said.

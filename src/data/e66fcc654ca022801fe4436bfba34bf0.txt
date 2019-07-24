@@ -1,0 +1,25 @@
+Calling 911 Apple's iPhone can tell a first responder where you are
+
+Can an iPhone save your life or the life of a loved one in an emergency?
+
+Eight of 10 911 calls are made from mobile phones, but much of the public safety emergency infrastructure that’s in place dates to the landline era of the 1960s.
+
+On Monday, Apple announced that coinciding with the arrival of iOS 12 in the fall, people who call 911 using an iPhone would have their location automatically shared with first responders. And that promises to reduce the time for the victim of an accident, crime, fire or health emergency to get help, potentially saving more lives. 
+
+In 2015, Apple launched an initiative called HELO (Hybridized Emergency Location), which estimates a mobile 911 caller’s location by using cell towers and on-device data sources such as GPS and Wi-Fi. 
+
+Now, Apple is teaming with a New York City company called RapidSOS, builders of a data pipeline that can rapidly whisk HELO information captured on the phone to 911 call centers. Location info from a 911 call made on an iPhone with iOS 12 will be delivered via this supplemental path by default.
+
+The announcement was made during an 911 responders' conference in Nashville, Tennessee, where Apple CEO Tim Cook spoke.
+
+More than 240 million 911 calls are made each year, handled in the U.S. by around 6,000 call centers managing 25,000 different software systems. Calls made by landlines can give these centers an exact address. But cellphone calls haven't been able to pinpoint the location as precisely, delaying response time. 
+
+Former FCC chairman Tom Wheeler, who invested in RapidSOS and became one of the company’s advisors, said the way location is shared is similar to the way Uber can deliver a taxi to your front door.
+
+“I’ve always thought, and put rules in place at the FCC to do this, is that the first privacy test is it has to be 'opt-in,’ " Wheeler says. “When I call 911 I am saying, ‘please, find me.’ That’s about as opt-in as you can get.”
+
+Apple claims the data collected during the call is kept private and cannot be used for any non-emergency purpose. Only the responding 911 center will be able to access the user’s location during an emergency call.  
+
+The FCC requires carriers to locate callers to within 50 meters at least 80 percent of the time by 2021. Apple says iOS location services are capable of exceeding this requirement today, even in challenging dense-urban environments. 
+
+In January, RapidSOS also ran a pilot with Android.

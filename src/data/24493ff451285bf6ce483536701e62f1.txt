@@ -1,0 +1,21 @@
+Bioengineered blood vessels are one step closer to being available for patients.
+
+In clinical trials, these vessels were installed in the arms of dialysis patients and successfully integrated into their circulatory systems, researchers report online March 27 in Science Translational Medicine. The new blood vessels, which eventually host the patient’s own cells after implantation, are designed to be safer and more effective than current options. Traditional implants composed of synthetic polymers or donor tissue are liable to trigger inflammation or immune system rejection.
+
+Hundreds of thousands of people in the United States alone require blood vessel implants for dialysis. These bioengineered vessels could help not only those patients, but also people who have lost blood vessels through tumor removal or injury, says Christopher Breuer, director of the Center for Regenerative Medicine at Nationwide Children’s Hospital in Columbus, Ohio, who was not involved in the work.
+
+Heather Prichard, a biomedical engineer at the medical research company Humacyte in Durham, N.C., and colleagues created each blood vessel by seeding a biodegradable polymer tube first with vascular cells from a deceased donor. Inside a bioreactor tank that supplied the vascular cells with nutrients, these cells multiplied and secreted proteins that formed an intercellular network (SN: 2/26/11, p. 11). After eight weeks, the polymer scaffold had broken down, and the researchers stripped the donor cells from the remaining protein tube, leaving no living material behind. The vessel, about 6 millimeters across, was then implanted into the patient, where the patient’s own cells gradually migrated into the tube.
+
+Growing up
+A protein-based blood vessel is completely devoid of cells upon implantation (cross section of the tube stained pink, left) into a patient. After almost four years, a tissue sample (right) shows how cells from the patient have moved into the blood vessel (cell nuclei stained purple) to build up mature blood vessel tissue (pink). (Purple tissue on top is the patient's skin). 
+
+blood vessel tissue
+R.D. KIRKTON ET AL/SCIENCE TRANSLATIONAL MEDICINE 2019
+“Think of this as an apartment building without any tenants,” says Laura Niklason, a biomedical engineer at Yale University. “It’s an empty space for [the patient’s] cells to come in and occupy” once the protein tube is implanted.
+
+The team tested its vessels in 60 patients who needed dialysis for kidney disease — a process that involves filtering a patient’s blood through a machine. The procedure requires implanting a large extra vessel in the arm to serve as a circulatory detour, feeding blood into the dialysis machine.
+
+The newly engineered blood vessels didn’t trigger any significant immune reactions in any of the patients. Tissue samples from 13 of the participants revealed that the vessels had matured within one to two years after implantation. The patients’ bodies had populated the new blood vessel with both smooth muscle cells like those that normally compose blood vessel walls as well as endothelial cells, which coat blood vessels’ inner surfaces. The new vessels also became covered in microvessels that supplied oxygen and nutrients to the implant.
+
+The researchers are now testing their vessels’ effectiveness compared with that of a synthetic alternative in a clinical trial involving hundreds of patients.
+

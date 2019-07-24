@@ -1,0 +1,43 @@
+Title: When Plasma Becomes Another Fruit of the Vine
+
+If you haven’t seen what happens to grapes in a microwave oven, you haven’t spent enough time in the richly nerdy corner of the internet that specializes in strange, everyday phenomena with fascinating, plausible scientific explanations.
+
+To quote a physicist, Aaron D. Slepkov, from his recent article in the Proceedings of the National Academy of Sciences, “It is a truth universally acknowledged that a pair of grape hemispheres exposed to intense microwave radiation will spark, igniting a plasma.”
+
+Pretty nerdy? Right.
+
+What it means is that if you cut a grape in two, but leave the two halves connected by a skin bridge, the grape in the microwave will spark and produce a plasma that can sometimes be seen as a glowing cloud, floating up above the grape halves.
+
+And this process is universally known among people who watch certain videos online — some of whom happen to be scientists seeking to understand unexpected chemical and physical behaviors in everyday materials.
+
+Plasmas sound like they only occur in the heart of the sun or in a fusion reactor, or in other rare circumstances. But what you see in a lightning bolt is a plasma. A flame may be a plasma or include one. And, obviously, a grape cut just so can make a plasma.
+
+The explanations that circulated about this outburst had to do with something happening on the surface of the grape halves, which were presumed to be conducting electricity.
+
+But oddly enough, no scientific laboratory had undertaken a study of this party trick (I know, that’s not what you do at your parties, but that’s your loss) until Dr. Slepkov at Trent University in Ontario stepped in to meet the need.
+
+Dr. Slepkov works with lasers and microscopy. He calls people in his field “lightsmiths” because “we can shape light in ways that you wouldn’t think of.”
+
+That wasn’t what was going on in the grape research. He had seen video of the grape plasma trick long ago and had always wondered about it. Eventually, he set some undergraduates to work on it, to keep them away from the expensive lasers.
+
+The students found out a few things. First, you don’t need to cut a grape in two. You can get the same effect with two whole grapes touching.
+
+Eventually the project became quite serious, and Dr. Slepkov, Hamza K. Khattak and Pablo Bianucci published their research.
+
+They found that as microwave radiation passes through the water in the grape, the wavelength of the microwaves becomes much shorter than it is in air (from about five inches down to something closer to the diameter of the grape, about half an inch).
+
+Because they are the same size as the grape, the microwaves become trapped inside the fruit, a phenomenon called resonance. As they bounce around inside the grape the microwaves become even more concentrated in a hot spot that is only one-eightieth the size of microwaves in air.
+
+In a single grape, this hot spot appears in the center. But with two grapes, as long as they are touching, the hot spot appears where they meet, producing an electromagnetic field strong enough to rip an electron of a sodium or potassium atom on the surface of the grape.
+
+That spark leads to a cascade of molecules in air losing their electrons as they absorb more microwave energy, producing a blob of light — a plasma — that may sometimes be seen to rise up from the grapes.
+
+The exciting part of the finding for Dr. Slepkov is that water has this unexpected quality. It both absorbs microwave radiation and concentrates it.
+
+If a similar material could be found that did the same thing with visible light, that could open up new areas of research in light microscopes, using light to etch objects and in other areas.
+
+For party goers, the message is clear: Never underestimate a parlor trick, particularly if a microwave is involved.
+
+Author: By James Gorman
+Date: March 5, 2019
+Source: https://nyti.ms/2IjUZzO

@@ -1,0 +1,32 @@
+Louisiana Tech University uses underground radar to locate post-Katrina damage
+An innovative underground radar technology developed at Louisiana Tech University is helping the City of Slidell in south Louisiana to identify and document underground infrastructure damage that had gone undetected in the months and years following Hurricane Katrina. This radar technology is a pipe-penetrating scanning system based on a new technology called ultra-wide band (UWB) pulsed radar. UWB allows for the inspection of buried pipelines, tunnels and culverts to detect fractures, quantify corrosion and determine the presence of voids in the surrounding soil often caused by water leaks and flooding.
+
+Developed at Louisiana Tech's Trenchless Technology Center, this technology incorporates leading-edge simulation, electronics, robotics, signal processing and three-dimensional (3-D) renderings in a package that can be mounted on existing pipe-inspection robots.
+
+Dr. Arun Jaganathan, associate professor of civil engineering and construction engineering technology at Louisiana Tech, began developing this technology as the basis for his Ph.D. dissertation research. Partnering with fellow Louisiana Tech researcher Dr. Neven Simicevic and others, his vision was to eventually develop it into a tool that municipal engineers can use for their routine pipeline condition assessment.
+
+"Our UWB technology was based on recognizing the need within the trenchless industry for an advanced pipeline inspection tool that can quantify the structural integrity of buried municipal pipes like sewers and storm drains, and be able to see through the pipe wall," said Jaganathan. "The radar system emits ultra-short electromagnetic pulses from inside of a sewer pipe and captures the signals 'back-scattered' from the pipe to determine the condition of various layers hidden behind the wall which we cannot directly see using visual tools such as a camera. The radar is integrated into a robot which crawls through a pipe and relays the data back to the operator in real time."
+
+Jay Newcomb, City of Slidell Council Member for District F and a Louisiana Tech alumnus, learned of this technology and the possibilities for partnership through his connections with his alma mater.
+
+"During my campaign for City Council, myself and many others all espoused a need in the city for small, high tech, clean industry," said Newcomb. "I was already well aware of what Tech was doing with the business incubator on campus and, though we have no university to attach an incubator to, we took a trip to Tech in September of 2010 to check things out and make ourselves be known to any interested companies.
+
+"At that time, Louisiana Tech's radar technology was still in the developmental stages, but the research team said that if the innovation proved useful in lab tests, Slidell would be used as a Beta site in actual field studies."
+
+Following successful testing and development, Jaganathan and other researchers came to Slidell in the summer of 2013 to pinpoint the spots in the city that would be most beneficial for using the UWB, and to test and investigate the underground infrastructure issues. As had been predicted by the group in their initial research, compromised infrastructure was able to be seen using the UWB technology and, most importantly, became provable.
+
+"While we were aware of the depth and breadth of the problems that plagued our underground utilities and we knew surrounding communities had experienced similar problems, I believe it wasn't until we made the trip to Ruston in 2010 and then saw the results of the UWB investigation that we actually realized we could have quantifiable evidence of the scope of that damage," said Newcomb.
+
+As a result of the work of Jaganathan, Simicevic and the Louisiana Tech researcher team, and consultations with other engineering firms, the City of Slidell was able to secure $75 million in funding from FEMA to begin the underground utility restoration process.
+
+"Our FY2017 total budget for the City of Slidell is just under $43 million," said Newcomb. "We have almost two whole budgets to spend on streets, drainage and sewer thanks to the collective efforts of many, beginning with the research conducted by Louisiana Tech University."
+
+"This technology is unique in its capability to generate high resolution images which allow engineers to inspect a particular spot in detail," Jaganathan said. "Unlike many other radars, our system does have to be in contact with the pipe wall and this provides capability for rapid inspection to finish scanning a long pipe in a timely manner."
+
+Jaganathan says this project demonstrates the value of academic research at Louisiana Tech.
+
+"What started as an academic research ultimately led to the development of a practical tool that our municipal engineers can use on a daily basis for the betterment of our infrastructure and society, as a whole," says Jaganathan. "The sophistication and complexity of electronics involved in this system speaks to the capability of Louisiana Tech researchers to design and develop advanced sensing technologies."
+
+"As for the State of Louisiana, I think they would be wise to look closely at what is going on at such a dynamic institution as Louisiana Tech and its dynamic leadership team," Newcomb says. "I truly believe that far too municipalities' first response to problems is, 'Who do we hire to consult/fix this?', instead of asking, 'I wonder if any of our public universities have researched this topic or have any prior experience dealing with a similar situation?'"
+
+"I am glad the City of Slidell asked for help from Louisiana Tech. All we had to do was just ask!"

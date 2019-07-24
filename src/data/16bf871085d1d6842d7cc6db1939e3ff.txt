@@ -1,0 +1,40 @@
+IBM shows off an artificial intelligence that can debate a human and change some minds
+
+SAN FRANCISCO — IBM computers famously won at Jeopardy! and beat world class chess masters. Now, they're taking on human debaters.
+
+At a media gathering here Monday afternoon, a black, artificial intelligence-infused IBM computer with a screen for a face more than held its own debating seasoned human debaters.
+
+In one debate face-off, IBM's "Project Debater" AI computer made the case in favor of the government subsidizing space exploration against Israeli debate champion Noa Ovadia, who took the opposite position.
+
+Ovadia was judged the winner by the crowd of journalists in "delivering" the argument—the computer's attempts at humor didn't measure up to the personality of a human — but IBM handily outscored Ovadia on the question of  "knowledge enrichment." 
+
+IBM's computer fared better in a second debate persuading the crowd that telemedicine is worth pursuing against another human debater, Dan Zafrir. Again, the human prevailed on delivery, but this time only by a slim margin, and the computer was a big winner in knowledge enrichment. And at least 9 audience members' minds on the topic changed to the point of view of the computer. 
+
+The debaters, both human and computer, were not made aware of the topics in advance. Each side had 4 minutes to make an opening statement, followed by a 4 minute rebuttal and a 2 minute closing summary. The computer went first each time.
+
+The San Francisco event was the first time anyone outside of the company was able to witness a live IBM debate between a human and its AI system. But IBM researchers have been conducting debates in the lab for awhile, on such topics as "should income taxes exist?", "will autonomous cars help safety?" or "should antibiotics be used in our food supply?"
+
+Through the IBM Cloud, the computer scanned billions of sentences to generate a coherent and persuasive position on the various topics. The machine then listens to its opponent’s speech and generates what IBM claims is a spontaneous compelling rebuttal, exhibiting a type of argumentation that until recently was simply out of reach for the machines.
+
+“We believe that mastering language is a fundamental frontier that AI has to cross,” says IBM Research director Arvind Krishna. “There’s aspects like speech recognition, speech to text, that AI already does and does quite well. But that is not the same as listening comprehension or constructing a speech that can either be spoken or written or understanding the nuances of claims, meaning what supports a proposition or what may be against a proposition." 
+
+Tech's biggest companies, IBM, Google, Apple, Microsoft and Facebook are among those engaged in a high stakes race for AI supremacy.
+
+But the ability for a computer to not only persuasively compete in a debate against a live person, but to actually win the argument, is only likely to feed into fears expressed by Tesla and SpaceX CEO Elon Musk and the late cosmologist Stephen Hawking that artificial intelligence could spell doom for human civilization. 
+
+Giving a physical shape to those fears, researchers at MIT used AI to create a psychopathic persona named Norman, named for the creepy character in Alfred Hitchcock’s classic thriller "Psycho," using disturbing image captions found on Reddit.
+
+“I take it in a different way,” Krishna says of AI. “The sheer rate and pace of technology today has made a huge amount of information thrown at us from all kinds of sources….Is there something that I trust that can give me both sides of a position?...Here are the five pros, well-written and here are the five cons, well-written. It lets me form my own opinion.”
+
+Krishna says the computer debater has made great progress the last couple of years. Two years ago, debating points were all over the map, with the computer able to make one or two really brilliant statements and five or ten inane statements. By the end of last year, the computer began to hold its own, he says.
+
+One key factor is not just the persuasive arguments that the machine may make, but how those points are delivered. IBM used a New York actress as the voice of the computer.
+
+“Just like in real debates, humor has to also play a role, not just a well-crafted logical argument,” Krishna says. The computer “will never do so well as when the human debater can bring in a personal anecdote or personal experience. It doesn’t know how to react to that today.”
+
+Project Debater's idea of a joke: my blood would boil if I had blood.
+
+So what are possible real life use cases for computers that can debate?  Krishna mentions legislators who might be debating critical issues, or lawyers preparing a brief. And students or business executives might also make use AI debating to help inform an opinion.
+
+Project Debater earned a fan in debater Ovadia. "I’m blown away," she said.  "The technology is so impressive in terms of how many really human cognitive capabilities it’s able to do simultaneously."
+

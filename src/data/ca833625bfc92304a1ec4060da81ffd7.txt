@@ -1,0 +1,6 @@
+New tech may double your phone's battery life
+That'll be especially handy when 5G comes around and sucks up all that power.
+As 5G become more common, phones have to adapt to support the next-gen network's power requirements. As such, Nokia Bell Labs and Advanced Materials and BioEngineering Research (AMBER) have developed new battery technology that might double the life of your phone's battery without making it heavier.
+The researchers filed a patent to protect the design and start commercialization soon, according to a release Thursday.
+"By packing more energy into a smaller space, this new battery technology will have a profound impact on 5G and the entire networked world," Paul King, one of the lead investigators on the project and Member of the Technical Staff, Nokia Bell Labs, said in the release.
+The new technology can also better sustain renewable energy grids, consumer services and the industrial internet of things (IIoT). The grids could manage high energy fluctuations in wind and solar technologies. According to a study from Wood Mackenzie published in February, the energy storage in 100 percent renewable systems will likely be 25 times higher as compared to today's systems. The need for efficient, fast charging and compact energy storage becomes even more imperative with these challenges, the study said.
