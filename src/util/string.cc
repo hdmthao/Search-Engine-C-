@@ -98,15 +98,16 @@ std::vector<std::string> util::string::DivideToLine(const std::string &s, int si
 std::string util::string::RemoveMark(const std::string &s)
 {
 	std::string st = s;
-	for (int i = 0; i < st.length(); i++){
-		if (st[i] == ',' || st[i] == '.'){
+	int i = 0;
+	while (i < st.length())
+	{
+		if (st[i] == ',' || st[i] == '.' || st[i] == '?' || st[i] == '!' || st[i] == ':' || st[i] == ';' 
+			|| st[i] == '-' || st[i] == '_' ||st[i]==char(34)||st[i]==char(96)|| st[i]==char(39)||st[i]=='('||st[i]==')')
 			st[i] = ' ';
-		}
+		++i;
 	}
-	while (st.find("  ") != std::string::npos){
-		st.erase((int)st.find("  "), 1);
-	}
-	return st;
+
+	return util::string::Trim(st);
 }
 
 std::string util::string::RemoveUnicode(const std::string &s)
