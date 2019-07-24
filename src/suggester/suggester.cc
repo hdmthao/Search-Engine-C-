@@ -192,3 +192,40 @@ void Suggester::CleanSuggester(SuggesterNode* root) {
 
     SAFE_DELETE(root);
 }
+
+bool Suggester:: ClearHistory(const std::string &query)
+{
+	std::ifstream fin("history.txt");
+	std::ofstream fout("tmp.txt");
+	std::string str;
+
+	if (!fin.is_open()) {
+		std::cout << "Cannot open history file\n";
+		return false;
+	}
+
+	while (!fin.eof())
+	{
+		getline(fin, str);
+		if (str != query && str != "")
+		{
+			fout << str << std::endl;
+			std::cout << str << "<>" << query << std::endl;
+		}
+		
+	}
+	fin.close();
+	fout.close();
+
+	std::ifstream fi("tmp.txt");
+	std::ofstream fo("history.txt");
+	while (!fi.eof())
+	{
+		getline(fi, str);
+		fo << str << std::endl;
+	}
+	fi.close();
+	fo.close();
+
+	return true;
+}

@@ -45,6 +45,8 @@ public:
 
     bool SaveQuery(const std::string &origin_query);
     std::vector<std::string> GetSuggest(const std::string &origin_query);
+    bool ClearHistory(const std::string &query);
+
 };
 
 #endif
