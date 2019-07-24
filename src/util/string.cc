@@ -46,6 +46,7 @@ std::string util::string::Trim(const std::string &s)
 std::string util::string::Normalize(const std::string &s) {
     std::string word = util::string::Trim(s);
 	word = RemoveMark(word);
+	// word = RemoveUnicode(word);
     return util::string::ToLowerCase(word);
 }
 
@@ -71,6 +72,28 @@ std::vector<std::string> util::string::Split(const std::string &str)
     if (word.empty() == false) words.push_back(word);
 	return words;
 }
+
+std::vector<std::string> util::string::DivideToLine(const std::string &s, int size) {
+	std::string q = s;
+	std::vector<std::string> list;
+	while (q.empty() == false) {
+		if (size >= q.size()) {
+			list.push_back(q);
+			q = "";
+		} else {
+			if (q[size - 1] == ' ') {
+				list.push_back(q.substr(0, size));
+				q.erase(0, size);
+			} else {
+				list.push_back(q.substr(0, size - 1));
+				q.erase(0, size - 1);
+				list[list.size() - 1] += "-";
+			}
+		}
+	}
+	return list;
+}
+
 
 std::string util::string::RemoveMark(const std::string &s)
 {

@@ -10,7 +10,7 @@ bool util::time::timer::SetTime() {
 
 float util::time::timer::GetTimeInterval() {
     clock_t cur_time = clock() - t;
-    return ((float)t) / CLOCKS_PER_SEC;
+    return ((float)cur_time) / CLOCKS_PER_SEC;
 }
 
 long long util::time::timer::GetCurrentTime() {

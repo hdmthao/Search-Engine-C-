@@ -113,8 +113,8 @@ std::vector<std::string> Suggester::GetSuggest(const std::string &origin_query) 
     // return at least 3 suggester for this query
     
     // normalize query for sure
-    std::string query = util::string::Normalize(origin_query);
-
+    // std::string query = util::string::Normalize(origin_query);
+    std::string query = util::string::Trim(origin_query);
     // vector to save all posible query
     std::vector<std::string> suggest_list;
 

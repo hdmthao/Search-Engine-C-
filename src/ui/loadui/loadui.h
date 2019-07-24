@@ -2,13 +2,15 @@
 #define LoadUI_H
 
 #include <ncurses.h>
+#include "../window/window.h"
 
 class LoadUI {
 private:
-    WINDOW* progress_bar;
-    WINDOW* title_win;
+    Window* progress_bar;
+    Window* title_win;
+    Window* info_win;
+
     int percent_done;
-    void DestroyWin(WINDOW* win, int h, int w);
     
 public:
     LoadUI();
@@ -16,7 +18,7 @@ public:
 
     void Start();
     void Stop();
-    void Draw();
+    void Draw(int total_file, float time);
 };
 
 #endif

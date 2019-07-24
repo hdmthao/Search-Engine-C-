@@ -29,12 +29,14 @@ bool Migo::Run() {
         state = StateMigo::Running;
     }
 
-    while (state == StateMigo::Running) {
-        getch();
+
+    while (state != StateMigo::Stopping) {
+        if (state == StateMigo::Running) {
+            Running();
+        }
         state = StateMigo::Stopping;
     }
 
-    
     if (state == StateMigo::Stopping) {
         StopUI();
         StopEngine();
@@ -43,10 +45,20 @@ bool Migo::Run() {
     return  true;
 }
 
+
 bool Migo::Loading() {
     ui->StartUILoading();
     engine->Loading(ui->load_ui);
+    util::input::Update(-1);
     ui->StopUILoading();
+    return true;
+}
+
+
+bool Migo::Running() {
+    ui->StartSearching(engine);
+    ui->RunSearching();
+    ui->StopSearching();
     return true;
 }
 
@@ -74,6 +86,7 @@ bool Migo::StartEngine() {
 }
 
 bool Migo::StopEngine() {
+    engine->Exit();
     SAFE_DELETE(engine);
     return true;
 }

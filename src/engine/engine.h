@@ -11,25 +11,26 @@
 
 class Engine {
 private:
-    Searcher* searcher;
     Speller* speller;
     Suggester* suggester;
 
     bool BuildSearcher(const std::string &path_to_file);
-
+    std::vector<std::string> GetListNewsFromFile(const std::string &path);
 public:
 
+    Searcher* searcher;
     Engine();
     ~Engine();
 
     // Engine
     bool Init();   
     bool Exit(); 
+    bool Loading(LoadUI* loadui);
     
 
     // Searcher 
-    bool Loading(LoadUI* loadui);
-
+    bool StartSearcher();
+    bool StopSearcher();
 
     // Speller
     bool StartSpeller();

@@ -60,8 +60,8 @@ bool Searcher::AddData(const std::string &str) {
 // Search a word in trie
 bool Searcher::IsExistWord(const std::string &str) {
     // Standarized word
-    std::string word = util::string::ToLowerCase(str);
-
+    std::string word = util::string::Normalize(str);
+    // std::cout << word << "\n";
     // word is empty so we cannot search
     if (word.empty()) return false;
 
@@ -72,8 +72,8 @@ bool Searcher::IsExistWord(const std::string &str) {
         if (cur->children.find(c) == cur->children.end()) {
             return false;
         }
-
         cur = cur->children[c];
+
     }
  
     return cur->is_end_of_word;

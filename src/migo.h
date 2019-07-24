@@ -24,7 +24,8 @@ private:
     bool StopEngine();
 
     bool Loading();
-
+    bool Running();
+    
 public:
     Migo();
     ~Migo();
