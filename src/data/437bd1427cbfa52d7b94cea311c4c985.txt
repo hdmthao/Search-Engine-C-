@@ -1,0 +1,31 @@
+Flags that generate energy from wind and sun
+Date:
+February 11, 2019
+Source:
+University of Manchester
+Summary:
+Scientists have created flags that can generate electrical energy using wind and solar power.
+
+FULL STORY
+Scientists have created flags that can generate electrical energy using wind and solar power.
+
+The novel wind and solar energy-harvesting flags have been developed using flexible piezoelectric strips and flexible photovoltaic cells.
+
+Piezoelectric strips allow the flag to generate power through movement, whilst the photovoltaics is the best known method of harnessing electric power by using solar cells.
+
+The study, conducted by researchers at The University of Manchester, is the most advanced of its kind to date and the first to simultaneously harvest wind and solar energies using inverted flags. The research has been published in the journal Applied Energy.
+
+The newly developed energy harvesting flags are capable of powering remote sensors and small-scale portable electronics which can be used for environmental sensing such as to monitor pollution, sound levels and heat for example.
+
+The aim of the study is to allow cheap and sustainable energy harvesting solutions which can be deployed and left to generate energy with little or no need for maintenance. The strategy is known as "deploy-and-forget" and this is the anticipated for model that so called smart cities will adopt when using remote sensors.
+
+Jorge Silva-Leon, from Manchester's School of Mechanical, Aerospace & Civil Engineering and lead-author of the study, says: "Under the action of the wind, the flags we built bend from side to side in a repetitive fashion, also known as Limit-Cycle Oscillations. This makes them perfectly suited for uniform power generation from the deformation of piezoelectric materials. Simultaneously, the solar panels bring a double benefit: they act as a destabilizing mass which triggers the onset of flapping motions at lower wind speeds, and of course are able to generate electricity from the ambient light.
+
+Dr Andrea Cioncolini, co-author of the study, added: "Wind and solar energies typically have intermittencies that tend to compensate each other. The sun does not usually shine during stormy conditions, whereas calm days with little wind are usually associated with shiny sun. This makes wind and solar energies particularly well suited for simultaneous harvesting, with a view at compensating their intermittency."
+
+The team used and developed unique research techniques such as fast video-imaging and object tracking with advanced data-analysis to prove their flags worked. The developed harvesters were tested in wind speeds varying from 0 m/s (calm) to about 26 m/s (storm/whole gale) and 1.8 kLux constant light exposure, simulating a wide range of environmental conditions. Under these operation conditions, total power outputs of up to 3-4 milli-Watts were generated.
+
+Dr Mostafa Nabawy, co-author of the study, says: "Our piezo/solar inverted flags were capable of generating sufficient power for a range of low power sensors and electronics that operate in the micro-Watt to milli-Watt power range within a number of potential practical applications in avionics, land and sea remote locations, and smart cities. We hope to develop the concept further in order to support more power-demanding applications such as an eco-energy generating charging-station for mobile devices."
+
+Dr Alistair Revell, co-author of work, highlights current and future research directions saying: "We are currently making use of a novel computational framework for modelling and simulation developed at The University of Manchester, building on a long tradition of Computational Fluid Dynamics in the group. The use of computers to model fluid-structure interactions is increasingly referred to as virtual engineering, and plays a key part in device development by reducing the number of models which need to be physically manufactured and tested."
+

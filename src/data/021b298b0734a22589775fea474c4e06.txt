@@ -1,0 +1,14 @@
+Twitter now shows who pays for ads and how much they spent
+Twitter Inc. said it will show detailed information about advertisers on its social media service, addressing concerns from lawmakers that the company let foreign meddlers run rampant in the lead-up to the 2016 U.S. presidential election.
+
+With the Ads Transparency Center tool, which launched Thursday, anyone can search for a Twitter account and see all the ads it has run in the last seven days. For U.S. political advertisers, users will be able to see billing information, ad spending, demographic-targeting data and the number of times tweets have been viewed. Twitter had been planning since October to create this tool. Facebook Inc. has introduced similar features.
+
+The changes are part of Twitter’s broader efforts to clean up its service after lawmakers berated the company for failing to discover Russian influence peddling through fake accounts and divisive ads during the 2016 U.S. presidential election season. Earlier this week, the company began requiring more authentication from users. In May, it rolled out stricter rules that require advertisers running political campaign ads for federal elections to identify themselves and certify that they are located in the United States. The company has also banned ads from accounts owned by Russia Today and Sputnik.
+
+Social media companies are rushing to regulate themselves as Congress works on new rules for digital political ads that have so far benefited from little oversight. Sens. Mark Warner, a Virginia Democrat, and Amy Klobuchar, a Minnesota Democrat, have introduced the Honest Ads Act to subject online political ads to similar disclosure rules that govern TV and radio. Twitter and Facebook have endorsed the bill.
+
+Also on Thursday, Facebook said it will release more information on all advertisements running on its service. The move is part of a broader effort to encourage transparency in its operations.
+
+The company said it will let everyone see all ads run by a given Facebook page — typically the public profile of a business, organization or public figure. Facebook will also publish information on when pages were created and any name changes they have undergone.
+
+Facebook did something similar with political and election-related “issue” ads after the 2016 election. However, it won't archive general advertisements as it does with political ads.

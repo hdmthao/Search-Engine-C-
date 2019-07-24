@@ -1,0 +1,22 @@
+How Atmospheric Sounding Transformed Weather Prediction
+
+In the late 1950s, a scientist named Lewis Kaplan divined a new and groundbreaking way to calculate temperature in the atmosphere for weather forecasting: by measuring the vibration of molecules at different altitudes. The hope was to do this using a brand-new technology, an Earth-observing satellite.
+
+At the time, the only way to get a reading on atmospheric temperature was to dispatch high-altitude weather balloons, or radiosondes. Weather balloons collected critical information for weather forecasting. They still do today. But they required a lot of manpower; someone needed to fill each balloon with helium and release it, and they were sparse over the ocean. Hours often passed between measurements.
+
+“Once you got out over the oceans, where there aren’t people to launch balloons, you were essentially in the dark, and weather forecasts weren’t very good,” said William Smith, professor emeritus at the University of Wisconsin, Madison, a distinguished professor at Hampton University in Hampton, Virginia, and a longtime leader in the field. “The satellite data was urgently needed to fill the gap over the oceans, and to fill in some of the time gaps.”
+
+Kaplan, who worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland and Jet Propulsion Lab in California, as well as the Massachusetts Institute of Technology, before he died in 1999, published his early ideas in a landmark 1959 paper entitled, “Inference of Atmospheric Structure from Remote Radiation Measurements.” It transformed the field of weather forecasting, and arguably, the world.
+
+Fast forward 60 years, and the ideas that Kaplan laid out in that paper remain at the heart of atmospheric sounding, the process by which instruments called sounders probe the sky vertically for details on temperature, moisture and water vapor, revealing subtle changes in the Earth’s atmosphere. NASA and NOAA have led the way in developing the technology for the sounders.
+
+Weather satellites now take hundreds of thousands of soundings a day. They play a vital role in early storm warnings. The data they gather are used for wildly diverse applications, from forecasting snowfall in New Jersey and sea ice in Alaska to tracking toxic ammonia hotspots in California’s San Joaquin Valley. Unlike the radiosondes, they reveal the full scope of the planet.  
+
+“You’ve got one instrument that measures everywhere on the globe, every day, for many years, and we calibrate it very, very well,” said Chris Barnet, a senior research scientist for Science and Technology Corporation, who serves as the sounder discipline lead for NASA’s Suomi-NPP satellite and a senior advisor for atmospheric sounding for the NASA/NOAA Joint Polar Satellite System.
+
+By Jenny Marder 
+
+NASA's Goddard Space Flight Center, Greenbelt, Md. 
+Last Updated: May 2, 2019
+Editor: Sara Blumberg
+Tags:  Explorer/Early Satellites, Goddard Space Flight Center, Historic Missions, NASA History, Suomi NPP (National Polar-orbiting Partnership)

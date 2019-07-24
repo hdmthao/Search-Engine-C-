@@ -1,0 +1,109 @@
+GAMEPLAY UPDATE 7.20
+
+GENERAL
+MAP CHANGES
+Map has been reworked
+DENY MECHANICS
+Denies no longer give the denier 25% XP
+Creep denies now give the denier 20% of the gold bounty 
+TELEPORTING
+Added a new dedicated inventory slot to hold Town Portal Scrolls 
+Boots of Travel: No longer shares cooldown with Town Portal Scrolls. Upon teleporting, +10 seconds are now added to your Town Portal Scroll cooldown
+NEUTRALS
+Stacked Neutral creeps now give the stacker 35% of the bounty instead of 25%
+Non-Ancient Neutrals now provide 5% more gold bounty
+HERO SELECTION
+Removed Daily Bonus Hero concept
+Random once again picks from the entire hero pool, but now ignores your 25 least played heroes 
+Random can now only be used for the first two hero picks on your team
+ARMOR
+Changed the Armor formula to: ( 0.052 * Armor ) / ( 0.9+ 0.048 * Armor)
+Updated various armor values to closely align with the new formula:
+Tier 1 Towers: 17 to 12
+Tier 2 Towers: 19 to 14
+Tier 3 Towers: 19 to 14
+Tier 4 Towers: 29 to 21
+Melee Barracks: 18 to 13
+Ranged Barracks: 12 to 9
+Ancient: 18 to 13
+Fillers: 14 to 10
+Shrines: 24 to 17
+HERO KILL BOUNTY XP
+Killing Sprees now give an XP bonus ranging from 200 to 1250
+Reworked and simplified XP hero kill bounty system. No longer includes a team XP component
++ Show Details
+MANA AND HP REGEN
+Reworked Mana and HP regen from attributes. They are no longer multipliers of your regeneration values
+Mana Regen: Intelligence now provides 0.05 mana regeneration
+Mana Regen: Removed the 0.9 base mana regen value 
+Mana Regen: Rebalanced mana regen values based on the formula change
++ Show Details
+Health Regen: Strength now provides 0.1 Health Regeneration
+Health Regen: Base regen values reduced by 1.5 
+Health Regen: Rebalanced health regen values based on the formula change
++ Show Details
+ROOT MECHANICS
+Town Portal Scroll: Can now be canceled and prevented by Root
+Fixed inconsistencies between different Root sources:
+Stasis Trap now provides True Sight
+The following roots no longer interrupt channeling spells or the current action: Dark Troll Ensnare, Searing Chains, Naga Siren Ensnare, Crystal Maiden Frostbite, Entangling Claws, Nature's Guise, and Overgrowth
+CLEAVE AND SPLASH CHANGES
+Cleave damage is now normal physical damage type, causing it to get reduced by the armor of each unit impacted
+Cleave abilities damage values have been rescaled
+Increased standard Cleave area. Distance increased from 625 to 650, final width increased from 330 to 360 
+Affects: Great Cleave, Empower, Battle Fury, and Talents
+
+Templar Assassin: Psi Blades can now spill off of illusions
+Changed how illusions' incoming damage is processed; it now happens at the final step 
+
+Fixed Splash damage being affected by Spell Lifesteal and Spell Amplification
+Fixed Splash damage not considering armor type
+Black Dragon Splash Attack damage type changed from Magical Damage to Physical Damage
+Black Dragon Splash Attack now does its full damage in the 250 AoE 
+Similar adjustments to Dragon Knight's splash damage described below
+SPELL IMMUNITY AND DISPELS
+The following abilities no longer pierce Spell Immunity: Curse of Avernus, Acid Spray, Bloodrage, Thirst, Elder Dragon Form, Lycan Wolf Cripple, Epicenter, Entangling Claws, Spiderling's Poison Sting, Anchor Smash, Nature's Guise, Wave of Terror, Venomancer's Poison Sting, The Swarm, Maledict debuff, Ghost Frost Attack, Wrath of Nature, Netherward Mana Degen, Life Drain targeting, Primal Roar Secondary Knockback, Requiem of Souls, March of the Machines collision, Atrophy Aura, Tombstone, Flesh Golem, Wall of Replica slow, Naga Siren Ensnare, Dark Troll Summoner Ensnare, Wild Axes, Natural Order, Death Pulse projectile, Assassinate, Shiva's Guard Aura, Assault Cuirass Aura, Tempest Tornado Aura, and Orb of Venom
+
+Black King Bar: Recipe cost increased from 1375 to 1450
+
+Poison Sting can now be dispelled
+Hex state can now be removed by strong dispels
+
+TOWERS AND STRUCTURES
+Towers no longer gain extra armor per nearby enemy hero. Tower health increased to account for some of this:
+Tier 1 Towers health increased from 1600 to 1800
+Tier 2 Towers health increased from 1600 to 1900
+Tier 3 Towers health increased from 1600 to 2000
+Tier 4 Towers health increased from 1600 to 2100
+Melee Barracks health increased from 2000 to 2200
+Ranged Barracks health increased from 1200 to 1300
+Ancient health increased from 4250 to 4500
+MISC CHANGES
+Day/Night cycle increased from 4 minutes to 5 minutes
+
+Scan no longer ignores units in the Roshan pit
+
+Max attack speed increased from 600 to 700
+
+Default aura range increased from 900 to 1200 
+Removed movement speed modifiers from spawned creeps 
+Added a new sound that gets played when all of a team's barracks are destroyed
+Opening secondary shops now highlights the items in the full shop UI, rather than switching to a filtered view
+AoE of other wards are now shown during ward placement
+
+Added a new game state, Leashed. Leashed units follow the same rules as rooted units with regards to teleport and mobility based abilities, but can still use normal movement. The following abilities now apply the Leashed state: Pounce, Dream Coil and Soulbind
+
+Self damage no longer disables things like Clarity, Bottle, Blink, etc
+
+Lifesteal amount is no longer limited by the current HP of the target and uses the full damage you are dealing instead
+
+Backpack can no longer be manipulated while taunted
+
+Reduced the following movement speed talents: Abaddon (25->20), Axe (40->30), Bane (65->50), Batrider (50->40), Bounty Hunter (25->20), Dazzle (50->40), Enchantress (25->20), Legion Commander (50->40), Lich (25->20), Naga Siren (25->20), Nature's Prophet (35->25), Night Stalker (45->40), Nyx Assassin (35->30), Ogre Magi (90->75), Oracle (65->50), Outworld Devourer (35->30), Pangolier (25->20), Pugna (25->20), Sand King (25->20), Shadow Demon (35->30), Skywrath Mage (25->20), Techies (60->50), Tidehunter (25->20), Tinker (40->30), Underlord (30->25)
+
+Intelligence heroes strength gain increased by 0.2 
+Killing an Observer or Sentry ward now prints out a notification in chat to your allies
+Respawn time for level 1/2/3/4 increased from 5/7/9/13 to 6/8/10/14
+Reverted a global turn rate change done in 7.00 
+Attribute growth values that had 2 decimal points have now been rounded up
+Shrines' Sanctuary ability now additionally restores 2% HP/Mana pool per second

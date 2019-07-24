@@ -1,0 +1,26 @@
+Declassified Cold War–era spy satellite film shows that the melting of hundreds of Himalayan glaciers has sped up in recent decades.
+
+An analysis of 650 of the largest glaciers in the mountain range revealed that the total ice mass in 2000 was 87 percent of the 1975 mass. By 2016, the total ice mass had shrunk to only 72 percent of the 1975 total. The data show that the glaciers are receding twice as fast now as they were at the end of the 20th century, report Joshua Maurer, a glaciologist at Columbia University, and colleagues June 19 in Science Advances.
+
+The primary cause for that acceleration, the researchers found, was warming: Temperatures in the region have increased by an average 1 degree Celsius from 2000 to 2016.
+
+Meltwater from Himalayan glaciers are a source of freshwater to hundreds of millions of people each year. However, recent studies examining changes in glacier mass from 2000 to 2016 have shown that this store of freshwater is shrinking, threatening future water security in the region (SN Online: 5/29/19).
+
+To project future glacier melt, scientists need to understand what has been driving the ice loss. In addition to warming, changes in precipitation and deposits of tiny pollutant particles called black carbon onto the surface of the ice have been implicated in speeding up melting. Such particles can darken the ice’s surface and reduce its albedo effect, or the reflection of incoming radiation from the sun back into space (SN Online: 5/19/14). As a result, the ice absorbs more heat and melts more quickly.
+
+Some glaciers are melting faster than others, making it difficult to determine long-term trends for the whole region. So Maurer and his colleagues turned to the declassified spy data to get the big picture.
+
+In the 1970s and 1980s, U.S. intelligence agencies used 20 KH-9 military satellites to collect reconnaissance data around the globe. The satellites took thousands of photographs, including of glaciers in the Himalayas, and then ejected the film capsules, which parachuted to Earth. After the images were declassified in 2011, scientists with the U.S. Geological Survey scanned them and made them publicly available.
+
+Those photographs can be used to make stereoscopic images, in which two images of the same scene, taken from slightly different angles, are combined to create a 3-D image. Maurer and his colleagues devised a computer program to automate this time-consuming process and create three-dimensional digital snapshots of elevation across much of the Himalaya region. The team then did the same with data collected beginning in 1999 by a joint NASA-Japanese Ministry of Economy, Trade and Industry satellite called Terra.
+
+By analyzing elevation changes over time, the researchers were then able to calculate loss of mass for each glacier. Using 1975 as a starting point, the team determined how much mass was lost by 2000, and then by 2016. The average rate of ice loss, they found, was about 0.43 meters of water per year per glacier from 2000 to 2016 — twice as fast as the rate calculated for the period from 1975 to 2000, about 0.22 meters of water per year.
+
+An increase of between 0.4 degrees and 1.4 degrees Celsius for 2000 to 2016, relative to 1975 to 2000, would be necessary to accelerate warming in that way, the team found. That’s consistent with observed air temperatures measured at stations around the Himalaya region, which are on average 1 degree Celsius higher today compared with the two decades at the end of the 20th century.
+
+“We did know already quite well the mass balance rates of the last two decades, but going this far back for the entire region is great,” says Walter Immerzeel, a mountain hydrologist at Utrecht University in the Netherlands. That, he says, reveals the “particularly interesting” point that the ice mass loss has nearly doubled from 2000 to 2016, relative to 1975 to 2000.
+
+Previous studies, including one in Nature in 2017 coauthored by Immerzeel, have also implicated temperature increases in the region as the main culprit behind Himalayan melting, rather than precipitation or albedo changes.
+
+That said, there’s still a lot that scientists don’t know about how temperature, precipitation and changes in albedo all interact to promote melting in the mountains, says glaciologist Patrick Wagnon of the Institute of Research for Development in Grenoble, France, also a coauthor on the 2017 Nature study. “There are a lot of uncertainties, and it’s much more complex than what’s shown here,” Wagnon says.
+

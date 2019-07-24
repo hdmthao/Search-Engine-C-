@@ -1,0 +1,49 @@
+
+nasa.gov
+North American Bird Maps Enter the Space Age
+Sarah Loff
+5-6 minutes
+
+Birders, researchers and the general public now have a new way to monitor 107 bird species across North America in unprecedented detail, thanks to a collaboration between NASA and the Cornell Lab of Ornithology in Ithaca, New York.
+
+Combining an online bird database called eBird with NASA Earth-observing satellite data, eBird Status & Trends provides a unique window into the life cycles of birds and helps scientists and avid birdwatchers advance the understanding of North America’s bird populations.
+
+Western Tanager perched on branch
+
+The Western Tanager is one of 107 North American bird species in the new online maps showing the range, abundance, habitat, and trends of individual bird species.
+
+Credits: Macaulay Library at Cornell Lab of Ornithology/Kalin Ocana
+
+The new online resource is powered by computer models that combine eBird’s observations of bird sightings with NASA environmental data from satellites to create maps and other products that explore the range, abundance, habitat, and trends for individual bird species, from Yellow-bellied Sapsuckers to Mourning Doves. NASA space-based data include land cover, water cover, elevation, and topography.
+
+The marriage of eBird and NASA Earth-observing data in these new products allows the eBird models to fill in the gaps of what people actually observe. “These models can learn what kind of habitat or land cover is associated with blue jays, for example,” said Daniel Fink, a senior research associate and statistician at Cornell who is part of the eBird team. “We use land cover information to produce maps that predict where blue jays will occur across the landscape in places where people haven’t observed them directly. When we look at these maps, the continuous coverage they provide is there because of the continuity of the NASA data products. It’s critical.”
+
+With this new capability, Steve Kelling, the senior director of information science at Cornell who manages eBird, said, “We can now map for the first time through really good data visualizations the current status and future trends across the entire annual life cycle of more than 100 North American bird species on a weekly and seasonal basis.”
+
+Created by the Cornell Lab of Ornithology in 2002, eBird has encouraged citizen scientists and birdwatchers to contribute hundreds of millions of bird observations which it collects into a basic scientific framework for science and conservation research and applications. 
+
+From its beginnings 16 years ago, eBird has grown exponentially, Kelling said. “We’ve dramatically improved the quality of the data people are submitting and have gone outside the United States to become a global project. Since its inception, eBird has gathered 600 million observations from 453,000 observers in more than six million locations.”
+
+With the addition of NASA data, eBird has become so many things to so many people that it’s now hard to describe exactly what eBird is.
+
+amecro-abundance-map-weekly
+
+Where are American Crows throughout the year and in what numbers? The new animated eBird “abundance maps” based on NASA environmental data from satellites and bird sightings provide the answer in unprecedented detail. (Orange indicates low abundance, purple high abundance.)
+
+Credits: Cornell Lab of Ornithology
+
+“We like to refer to eBird as an ‘enterprise.’” Kelling said. “It’s an application that collects data and it’s a user-support tool for people wanting information about the birds around them. It’s also a way in which scientific partners can more easily and thoroughly collect information about specific species of birds. Hundreds of scientific papers use eBird as their primary resource of bird data.”
+
+The eBird team has partnered with NASA on several previous projects. Kelling was the principal investigator of a NASA Applied Sciences project that combined eBird data with NASA Earth-observing data to assist the Nature Conservancy in California with its BirdReturns project.
+
+BirdReturns works with rice farmers in California’s Sacramento River Valley to create temporary flooded habitat for migrating water birds at the time and places when most needed.  With eBird and NASA’s collaboration, BirdReturns created more than 52,000 acres of temporary habitat for California’s water birds over the lifetime of the project.
+
+“It’s been a pretty astonishing success,” said Mark Reynolds, lead scientist for the Nature Conservancy’s California Migratory Bird Program. “Farmers participated, and we were able to put habitat out there at a fraction of the cost to purchase that land or put an easement on it.”
+
+According to Kelling and Fink, eBird will be growing to incorporate more bird species – up to 600 within a year – as well as more geographic areas, including South America, Europe, India, and Australia.
+
+eBird Status & Trends is made possible through support from NASA, the National Science Foundation, the Wolf Creek Charitable Foundation, the Leon Levy Foundation, Amazon Web Services, and the Institute for Computational Sustainability.
+
+Last Updated: Dec. 21, 2018
+
+Editor: Sarah Loff

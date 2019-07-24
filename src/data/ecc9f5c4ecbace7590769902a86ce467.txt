@@ -1,0 +1,24 @@
+The iPhone's new dark mode: Why you should care
+#tech #iphone
+Dark mode is finally coming to iPhone.
+The new feature announced at Apple's annual developers conference WWDC on Monday is one of the most anticipated new tools coming to iOS 13.
+On stage at the press conference, an Apple (AAPL) representative previewed what the setting will look like on various apps, from Apple Music to Photos and News. It will be available on iPhones via an app with an owl icon and will mostly likely debut this fall. (Dark mode on Mac launched last year).
+Not surprisingly, the mode is — well, dark. So what's the big deal?
+Ultimately, some experts say it's easier on the eyes and could even save battery power. Here's what to expect.
+How it'll look
+True to its name, dark mode embraces a darker color scheme and enables a black background on the iPhone. It also incorporates a grey keyboard and icons that are meant to be less stark than brighter or white backgrounds.
+Apple's support page for installing dark mode on Mac claims the setting "makes it easier to stay focused on your work, because your content stands out while darkened controls and windows recede into the background."
+The feature will work across iPhones, iPads and apps in the Apple ecosystem, and it can be set to turn on automatically at sunset or a scheduled time.
+But dark mode isn't an Apple-only concept. It's become increasingly popular on several platforms and devices, including Twitter, Samsung Galaxy smartphones and Google's Chrome browser.
+Longer battery life
+Apple doesn't make claims about battery savings, but some experts say it could be a built-in perk.
+Most smartphones use organic light-emitting diodes (OLED) in their digital displays. Choosing a black mode on a smartphone with an OLED display takes less power than a traditional white background, according to Dan Hays, a PricewaterhouseCoopers adviser who specializes in telecommunications issues.
+"Using dark mode could actually be a significant power savings," Hays told CNN Business. "A display that's mostly black could be a sizable improvement to battery performance, and from a personal standpoint, it seems like a nice feature if you're trying to use the phone discreetly in an area that's already dark."
+Health impact
+Apple says its dark mode is "thoughtfully designed to make every element on the screen easier on your eyes."
+An inverted palette may be a welcomed alternative compared to the stark white backgrounds found on most websites, and too much exposure to blinding white screens could lead to tired eyes and even headaches.
+Paul Gamlin, a neurobiology professor at the University of Alabama at Birmingham, noted that the mode might also benefit sleep. Gamlin studies the cells in the retina of the eye that power people's circadian rhythms and drive pupil responses.
+"Using dark mode on the iPhone in the evening and night would be expected to have less of an impact on your circadian rhythms and your sleep and wake cycles," he told CNN Business. "Bright light in the evening and at night has been shown to shift the rhythm of your central circadian pacemaker."
+But some experts argue it's easier to read darker fonts with a light background, according to Dr. Euna Koo, an ophthalmologist at the Stanford Byers Eye Institute.
+"I do not think dark mode affects eye health in any way given the data that is out there in the literature," she told CNN Business. "The duration of use is likely much more important than the mode or the intensity of the brightness of the device when it comes to the effect of this dark mode on eye fatigue and potentially eye health."
+Whether dark mode impacts health or even battery life is up for debate, the design makes colors and text pop, and it's a solid alternative to all of that white we've been looking at for years.

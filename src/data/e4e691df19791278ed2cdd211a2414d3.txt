@@ -1,0 +1,33 @@
+Why Microsoft is selling Huawei laptops again
+Redmond had stopped selling the laptops last month after the US blacklisted the Chinese tech giant.
+
+Microsoft's online store has resumed selling Huawei laptops, after disappearing MateBooks from the Microsoft Store after the Chinese tech giant was blacklisted by the US. The US last month added Huawei to its "entity list," and President Donald Trump signed an executive order essentially banning the company in light of national security concerns that Huawei had close ties with the Chinese government. Huawei has repeatedly denied that charge. Microsoft as a result stopped selling Huawei laptops through its online store at the end of May, but said on Monday that it has been evaluating the regulations and will resume sales of its existing Huawei inventory on the Microsoft Store. 
+
+The move raises questions about what happens next, what, if anything, Microsoft's actions mean for Huawei's business.
+
+The company said in an emailed statement, "[Microsoft] will continue to respond to the many business, technical and regulatory complexities stemming from the recent addition of Huawei to the US Department of Commerce's Export Administration Regulations Entity List", adding that it is selling existing inventory it already had in its warehouses -- not new devices.
+
+Support for existing devices appears to fall outside the ban.
+
+Screenshot by CNET
+The Huawei MateBook X Pro is for sale on the Microsoft Store, listed for $1,499. So is the Huawei MateBook D for $999 and the Huawei MateBook 13 in Intel core i5 and core i7 variants for $999 and $1,299, as spotted earlier by The Verge.
+
+While the laptops appear if you shop all PCs, you cannot select Huawei as a manufacturer to narrow those results. You can only choose from Dell, HP, Asus, Razer, Lenovo, MSI, Acer, Samsung and Microsoft.
+
+Microsoft's reversal could help Huawei's economic position, after its CEO Ren Zhengfei said earlier Monday that the company's troubles with the US could take a $30 billion toll on Huawei's revenue expectations for 2019. 
+
+Initially, the company had expected to post revenues of $125 billion to $130 billion this year, up from $104 billion in 2018, but has now reduced its estimates to just $100 billion. "We did not expect they would attack us on so many aspects," said Zhengfei, adding that he expects things to improve by 2021.
+
+THE HUAWEI BAN
+Huawei ban: Full timeline on how and why its phones are under fire.
+If you can't buy the Huawei P30 Pro, get these phones instead.
+
+Huawei last week reportedly delayed the announcement of its new Windows laptop, though at the same time sending an ex parte memo to the FCC in which it objected to being banned on the grounds of national security threats.
+
+The memo added that the ban could cause the US to "violate its international trade obligations."
+
+Huawei had filed a motion in US court to have US legislation that bars federal agencies from buying its products ruled unconstitutional, but hardware and software vendors have been continuing to flee Huawei: Amazon Japan reportedly no longer sells Huawei devices, and Google last month locked Huawei out of its Android updates, though the US Commerce Department granted it a three-month general license to update existing devices. 
+
+Likely as a result, Huawei at the end of May moved to trademark the name of its operating system, "Hongmeng," in Peru.
+
+With Microsoft deciding to sell Huawei hardware again, it is a question whether others will reevaluate their decisions to step away from the Chinese tech company, while questions continue to surround the legalities of the situation. 

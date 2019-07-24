@@ -1,0 +1,33 @@
+Fiz: The Brewery Management Game Wiki
+Fiz: The Brewery Management Game is a 16-bit style single-player brewery simulation game from Bit By Bit Studios currently being crowd funded through Kickstarter. Make and market your own beer and become a worldwide beer icon!
+
+You play as a homebrewing enthusiast who has decided to quit your job and start a brewery. The basic game loop is: make beer, use beer, upgrade brewery, repeat.
+
+Make Beer
+Discover and customize a hundred recipes in various beer styles and tastes.
+Use Beer
+Sell your beer at retail, or send your beer to competitions and special events.
+Retail: Purchase distribution contracts with marketplaces, each having different customer profiles which dictate how much money customers have and what types of beers they like (you wouldn't sell Bud Light at a Belgian Ale House). Perform Market research and set your prices accordingly.
+Competitions and Events: Enter special events and competitions in order to gain recognition and prizes ranging from cash to special ingredients and recipes otherwise unobtainable.
+Upgrade Your Brewery
+Use sales profits to hire employees, each having different strengths and weaknesses, to make better beer. Level up your employees by improving their stats. Gain access to exclusive events and marketplaces based on your team makeup.
+Upgrade your brewing equipment for higher quality beer.
+Purchase new recipes and ingredients to make different types of beer or to add new effects to old recipes, such as double XP, or the sinister "mind control pheromones" which force customers to buy your beer.
+Features
+Fiz icon run your own.png	Run Your Own Brewery
+Discover and create your own recipes using a simple 3x3 grid system. Learn about homebrewing by using real world ingredients in recipes inspired by actual beers. Improve your beer quality and variety as you grow the brewery in order to reach a wider audience.
+
+Fiz icon hit the shelves.png	Hit the Shelves
+Sell your beer in over 40 different marketplaces with varying popularity, fees, and customer types. Perform market research in order to identify popular beer styles and customer budget limitations. Price your beer accordingly in order to sell your stock.
+
+Fiz icon workforce.gif	Manage Your Workforce
+Hire dozens of different employees, gain experience from brewing, and level-up their skills in the pursuit of the perfect beer. Gain access to unique events and marketplaces based on your team chemistry.
+
+Fiz icon shop for improvements.png	Shop for Brewery Improvements
+Spend your hard-earned brewery revenue on better equipment, new recipes and ingredients, and frivolous things like new outfits for your workers.
+
+Fiz icon active play.png	Active Play
+Fiz is not a "hurry up and wait" type of game. In-game time passes quickly, so performing main tasks like brewing or selling a batch of beer typically takes 1 to 2 minutes. You can also pause the clock any time you wish. Play engagingly for minutes or hours at a time.
+
+Fiz icon replayable.png	Highly Replayable
+Elements of randomness and progressive content unlocks guarantee that each playthrough will be different than the last. With over a hundred different employees, events, and marketplaces to experience, you can be sure you'll come across new challenges all the time. Improve your high score as you master optimum brewing practices, unlock new equipment, and hire secret employees.

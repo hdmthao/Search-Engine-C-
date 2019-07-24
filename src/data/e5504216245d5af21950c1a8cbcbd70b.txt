@@ -1,0 +1,65 @@
+
+nasa.gov
+NASA Science Shows Human Impact of Clean Air Policies
+Sarah Loff
+6-7 minutes
+
+As local, federal, and international policies targeting the quality of the air we breathe continue to evolve, questions arise of how effective existing policies have been in improving human health. For example, how many lives have been saved by tough air pollution policies? How many illnesses have been caused by lax policies?
+
+US ozone levels map highlighting highest levels
+
+Annual mean levels of fine particulate matter (PM2.5) pollution declined in the United States between 1990 (left) and 2010 (right), leading to thousands of lives saved, according to researcher Jason West.
+
+Credits: Atmospheric Chemistry and Physics
+
+NASA recently initiated two projects to provide some answers drawing on its scientific expertise and global observations of air pollution from spacecraft orbiting Earth. It is information air quality managers say they need to refine current policies and develop effective new ones.
+
+One project demonstrated that improvements in air quality in the United States between 1990 and 2010 reduced deaths from air pollution by nearly half. The other project, taking a global view of asthma, found that high levels of air pollution caused millions of emergency room visits annually.
+
+Map of global ozone levels with highest highlighted
+
+The study of asthma impacts caused by air pollution used data on several pollutants including ozone. Shown here are annual average ozone concentrations from 2015; red indicates high concentrations, blue indicates lower levels.
+
+Credits: Environmental Health Perspectives
+
+Both projects are part of NASA’s ongoing efforts to help air quality managers and policymakers solve clean air problems using NASA data and products. These quick-turnaround, high-priority projects are funded by the agency’s Earth Science Division drawing on expertise in its Health and Air Quality Applied Sciences Team.
+
+The project that focused on U.S. air quality improvements used a 21-year computer simulation to estimate air pollutant concentrations, combining that with county population and baseline mortality rates. The findings showed that pollution-related deaths from heart disease, pulmonary disease, lung cancer, and stroke declined as a result of air quality improvements.
+
+Portrait of scientist Jason West
+
+Jason West, University of North Carolina: “We’ve invested a lot of resources as a society to clean up our air. Our study demonstrates that those changes have had a real impact with fewer people dying each year due to exposure to outdoor air pollution.”
+
+Credits: University of North Carolina
+
+“We’ve invested a lot of resources as a society to clean up our air,” said study co-author Jason West, professor of environmental sciences and engineering at the University of North Carolina, Chapel Hill. “This study demonstrates that those changes have had a real impact with fewer people dying each year due to exposure to outdoor air pollution.”
+
+In 2010 alone, the study, published in Atmospheric Chemistry and Physics, found that some 40,000 lives were saved, compared to levels projected if air quality stayed at 1990 levels. Deaths from air pollution over this period decreased by 47 percent, from 135,000 to 71,000.
+
+Paul Miller, deputy director of Northeast States for Coordinated Air Use Management in Boston, explained that West’s study provides a necessary retrospective view on the effect of air quality policy.
+
+“We rarely have the time or resources to take a look back at what has been achieved and what has not,” Miller said. “West’s research can verify whether air quality strategies are helping us make progress and build confidence in our public health efforts.”  
+
+Julie McDill, executive director the Mid-Atlantic Regional Air Management Association Inc. in Baltimore, shared that West’s findings will help her explain the importance of finding solutions for air quality challenges.
+
+“I will be able to use the information about the number of lives saved as a result of fine particulate matter and ozone reductions when talking in general about the importance of air pollution control programs to human health,” she said.
+
+Portrait of scientist Susan Anenberg
+
+Susan Anenberg, George Washington University: “Our findings suggest that policies aimed at cleaning up the air can reduce the global burden of asthma and improve respiratory health around the world.”
+
+Credits: George Washington University
+
+The second project, led by Susan Anenberg, associate professor of environmental and occupational health at the George Washington University, Washington, quantified air pollution’s impact on asthma cases around the globe. The team used atmospheric models, ground monitors, and data from NASA’s Aura spacecraft.
+
+That study in Environmental Health Perspectives found that 9-23 million and 5-10 million annual visits to the emergency room for asthma worldwide in 2015 may have resulted from breathing in air polluted by ozone and fine particulate matter respectively, and that car emissions and other types of pollution may be a significant source of serious asthma attacks.
+
+“Our findings suggest that policies aimed at cleaning up the air can reduce the global burden of asthma and improve respiratory health around the world,” Anenberg said.
+
+According to Anenberg, nonprofits, policymakers, and air quality researchers can put these findings to work by using them to target known sources of pollution like ozone, fine particulate matter, and nitrogen dioxide.
+
+Getting these types of science-based findings about the health impacts of air pollution out to policymakers, air quality managers and the public is another goal of West’s project. Team member Bryan Duncan, an atmospheric scientist at NASA Goddard Space Flight Center, Greenbelt, Maryland, is nearing completion of an online resource filled with satellite-based air quality estimates, health impacts, and data on ozone, fine particulate matter, and other pollutants. The new resource will be posted on the Air Quality Observations from Space website at NASA Goddard.
+
+Last Updated: Dec. 5, 2018
+
+Editor: Sarah Loff

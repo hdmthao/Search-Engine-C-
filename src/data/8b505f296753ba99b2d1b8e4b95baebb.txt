@@ -1,0 +1,22 @@
+Reconciling dwarf galaxies with dark matter
+Dwarf galaxies are enigmas wrapped in riddles. Although they are the smallest galaxies, they represent some of the biggest mysteries about our universe. While many dwarf galaxies surround our own Milky Way, there seem to be far too few of them compared with standard cosmological models, which raises a lot of questions about the nature of dark matter and its role in galaxy formation. New theoretical modeling work from Andrew Wetzel, who holds a joint fellowship between Carnegie and Caltech, offers the most accurate predictions to date about the dwarf galaxies in the Milky Way's neighborhood. Wetzel achieved this by running the highest-resolution and most-detailed simulation ever of a galaxy like our Milky Way. His findings, published by The Astrophysical Journal Letters, help to resolve longstanding debates about how these dwarf galaxies formed.
+
+One of the biggest mysteries of dwarf galaxies has to do with dark matter, which is why scientists are so fascinated by them.
+
+"Dwarf galaxies are at the nexus of dark matter science," Wetzel said.
+
+Dark matter makes up a quarter of our universe. It exerts a gravitational pull, but doesn't seem to interact with regular matter--like atoms, stars, and us--in any other way. We know it exists because of the gravitational effect it has on stars and gas and dust. This effect is why it is key to understanding galaxy formation. Without dark matter, galaxies could not have formed in our universe as they did. There just isn't enough gravity to hold them together without it.
+
+The role of dark matter in the formation of dwarf galaxies has remained a mystery. The standard cosmological model has told us that, because of dark matter, there should be many more dwarf galaxies out there, surrounding our own Milky Way, than we have found. Astronomers have developed a number of theories for why we haven't found more, but none of them could account for both the paucity of dwarf galaxies and their properties, including their mass, size, and density.
+
+As observation techniques have improved, more dwarf galaxies have been spotted orbiting the Milky Way. But still not enough to align with predictions based on standard cosmological models.
+
+So scientists have been honing their simulation techniques in order to bring theoretical modeling predictions and observations into better agreement. In particular, Wetzel and his collaborators worked on carefully modeling the complex physics of stellar evolution, including how supernovae--the fantastic explosions that punctuate the death of massive stars--affect their host galaxy.
+
+With these advances, Wetzel ran the most-detailed simulation of a galaxy like our Milky Way. Excitingly, his model resulted in a population of dwarf galaxies that is similar to what astronomers observe around us.
+
+As Wetzel explained: "By improving how we modeled the physics of stars, this new simulation offered a clear theoretical demonstration that we can, indeed, understand the dwarf galaxies we've observed around the Milky Way. Our results thus reconcile our understanding of dark matter's role in the universe with observations of dwarf galaxies in the Milky Way's neighborhood."
+
+Despite having run the highest-resolution simulation to date, Wetzel continues to push forward, and he is in the process of running an even higher-resolution, more-sophisticated simulation that will allow him to model the very faintest dwarf galaxies around the Milky Way.
+
+"This mass range gets interesting, because these 'ultra-faint' dwarf galaxies are so faint that we do not yet have a complete observational census of how many exist around the Milky Way. With this next simulation, we can start to predict how many there should be for observers to find," he added.

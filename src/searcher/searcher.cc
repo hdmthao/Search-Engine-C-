@@ -51,7 +51,7 @@ bool Searcher::AddData(const std::string &str) {
     std::vector<std::string> word_list = util::string::Split(str);
 
     for (auto word : word_list) {
-        Insert(str);
+        Insert(word);
     }
 
     return true;

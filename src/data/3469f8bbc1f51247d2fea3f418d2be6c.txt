@@ -1,0 +1,40 @@
+Google is training machines to predict when a patient will die
+A woman with late-stage breast cancer went to a hospital, fluids flooding her lungs. She saw two doctors and got a radiology scan. The hospital’s computers read her vital signs and estimated a 9.3% chance she would die during her stay.
+
+Then came Google’s turn. An new type of algorithm created by the company read up on the woman — 175,639 data points — and rendered its assessment of her death risk: 19.9%. She died in a matter of days.
+
+The harrowing account of the unidentified woman’s death was published by Google in May in research highlighting the healthcare potential of neural networks, a form of artificial intelligence software that is particularly good at using data to automatically learn and improve. Google had created a tool that could forecast a host of patient outcomes, including how long people may stay in hospitals, their odds of readmission and chances they will soon die.
+
+What impressed medical experts most was Google’s ability to sift through data previously out of reach: notes buried in PDFs or scribbled on old charts. The neural net gobbled up all this unruly information then spat out predictions. And it did so far faster and more accurately than existing techniques. Google’s system even showed which records led it to conclusions.
+
+Hospitals, doctors and other healthcare providers have been trying for years to better use stockpiles of electronic health records and other patient data. More information shared and highlighted at the right time could save lives — and at the very least help medical workers spend less time on paperwork and more time on patient care. But current methods of mining health data are costly, cumbersome and time consuming.
+
+As much as 80% of the time spent on today’s predictive models goes to the “scut work” of making the data presentable, said Nigam Shah, an associate professor at Stanford University who co-authored Google’s research paper, published in the journal Nature. Google’s approach avoids this. “You can throw in the kitchen sink and not have to worry about it,” Shah said.
+
+Google’s next step is moving this predictive system into clinics, AI chief Jeff Dean said in May. Dean’s health research unit — sometimes referred to as Medical Brain — is working on a slew of AI tools that can predict symptoms and disease with a level of accuracy that is being met with hope as well as alarm.
+
+Inside the company, there’s a lot of excitement about the initiative. “They’ve finally found a new application for AI that has commercial promise,” one Googler said. Since Alphabet Inc.’s Google declared itself an “AI-first” company in 2016, much of its work in this area has gone to improve existing internet services. The advances coming from the Medical Brain team give Google the chance to break into a new market — something co-founders Larry Page and Sergey Brin have tried over and over again.
+
+Software in healthcare is largely coded by hand. In contrast, Google’s approach, in which machines learn to parse data on their own, “can just leapfrog everything else,” said Vik Bajaj, a former executive at Alphabet healthcare arm Verily and managing director of investment firm Foresite Capital. “They understand what problems are worth solving,” he said. “They’ve now done enough small experiments to know exactly what the fruitful directions are.”
+
+Dean envisions the AI system steering doctors toward certain medications and diagnoses. Another Google researcher said existing models miss obvious medical events, including whether a patient had prior surgery. The person described existing hand-coded models as “an obvious, gigantic roadblock” in healthcare. The person asked not to be identified discussing work in progress.
+
+For all the optimism over Google’s potential, harnessing AI to improve healthcare outcomes remains a huge challenge. Other companies, notably IBM’s Watson unit, have tried to apply AI to medicine but have had limited success saving money and integrating the technology into reimbursement systems.
+
+Google has long sought access to digital medical records, also with mixed results. For its recent research, the internet giant cut deals with UC San Francisco and the University of Chicago for 46 billion pieces of anonymous patient data. Google’s AI system created predictive models for each hospital — not one that parses data across the two, which would be a harder problem. A solution for all hospitals would be even more challenging. Google is working to secure new partners for access to more records.
+
+A deeper dive into health would only add to the vast amounts of information Google already has on us. “Companies like Google and other tech giants are going to have a unique, almost monopolistic, ability to capitalize on all the data we generate,” said Andrew Burt, chief privacy officer for data company Immuta. He and pediatric oncologist Samuel Volchenboum wrote a recent column arguing governments should prevent this data from becoming "the province of only a few companies," such as in online advertising, where Google reigns.
+
+Google is treading carefully when it comes to patient information, particularly as public scrutiny over data collection rises. Last year, British regulators slapped DeepMind, another Alphabet AI lab, for testing an app that analyzed public medical records without telling patients that their information would be used this way. With the latest study, Google and its hospital partners insist that their data is anonymous, secure and used with patient permission. Volchenboum said the company may have a more difficult time maintaining that data rigor if it expands to smaller hospitals and healthcare networks.
+
+Still, Volchenboum believes that these algorithms could save lives and money. He hopes health records will be mixed with a sea of other statistics. Eventually, AI models could include information on local weather and traffic — other factors that influence patient outcomes. “It’s almost like the hospital is an organism,” he said.
+
+Few companies are better poised to analyze this organism than Google. The company and its Alphabet cousin Verily are developing devices to track far more biological signals. Even if consumers don’t take up wearable health trackers en masse, Google has plenty of other data wells to tap. It knows the weather and traffic. Google’s Android phones track things such as how people walk, valuable information for measuring mental decline and some other ailments. All that could be thrown into the medical algorithmic soup.
+
+Medical records are just part of Google’s AI healthcare plans. Its Medical Brain has unfurled AI systems for radiology, ophthalmology and cardiology. They’re flirting with dermatology too. Staff created an app for spotting malignant skin lesions; a product manager walks around the office with 15 fake tattoos on her arms to test it.
+
+Dean, the AI boss, stresses this experimentation relies on serious medical counsel, not just curious software coders. Google is starting a new trial in India that uses its AI software to screen images of eyes for early signs of a condition called diabetic retinopathy. Before releasing it, Google had three retinal specialists furiously debate the early research results, Dean said.
+
+Over time, Google could license these systems to clinics or sell them through the company’s cloud-computing division as a sort of diagnostics-as-a-service. Microsoft Corp., a top cloud rival, is also working on predictive AI services. To commercialize an offering, Google would first need to get its hands on more records, which tend to vary widely across healthcare providers. Google could buy them, but that may not sit as well with regulators or consumers. The deals with UC San Francisco and the University of Chicago aren’t commercial.
+
+For now, the company says it’s too early to settle on a business model. At Google’s annual developer conference in May, Lily Peng, a member of Medical Brain, walked through the team’s research outmatching humans in spotting heart disease risk. “Again,” she said, “I want to emphasize that this is really early on.”

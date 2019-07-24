@@ -1,0 +1,21 @@
+Heading off a ballot fight, California lawmakers approve consumer privacy rules
+
+Gov. Jerry Brown signed a sweeping new consumer privacy law on Thursday that gives Californians new authority over their personal data, a framework that backers say could be adopted throughout the country.
+The legislation sailed through the Senate and Assembly earlier in the day, but the vote count belied the frenzied behind-the-scenes negotiations to craft a last-minute bill to stave off a similar ballot initiative.
+“Today we have a chance to make a difference by giving California consumers control of their own data,” said Assemblyman Ed Chau (D-Arcadia), the author of the measure, AB 375.
+Under the new rules, Californians would have a right to know what information a business has about them, and have the ability to prohibit companies from selling that information and to ask businesses to delete information they provided.
+Consumers would be able to sue companies if a data breach leads to their unencrypted information being exposed or stolen. 
+“This will serve as an inspiration across the country,” said Sen. Bob Hertzberg (D-Van Nuys), a coauthor of the bill.
+The bill is intended to avert a showdown on the November ballot over an initiative backed by Alastair Mactaggart, a San Francisco real estate developer. Mactaggart said he would pull his measure, which has qualified for the ballot, once the bill was passed and signed by the governor.
+Shortly after the bill was signed, Secretary of State Alex Padilla confirmed the initiative was withdrawn.
+“I genuinely think the Legislature should be the place that does this,” Mactaggart said. “The reason that they don’t get it done in the first place is because business is so powerful.”
+Opponents to the initiative bemoaned the bill as well, but said it was slightly preferable to the proposal slated for the ballot, in part because it narrowed the circumstances under which consumers could sue companies.
+“Data regulation policy is complex and impacts every sector of the economy, including the internet industry,” said Robert Callahan, vice president of state government affairs of the Internet Assn. “That makes the lack of public discussion and process surrounding this far-reaching bill even more concerning.” 
+In a message to other states considering similar action, Callahan said “the circumstances of this bill are specific to California.”
+Privacy groups generally hailed the measure as a major expansion of privacy rights, but signaled they wanted to further refine the policy in the coming year. Businesses will also seek changes next year — in advance of the bill’s implementation date of Jan. 1, 2020 — setting the stage for a major lobbying fight next year.
+"While the California Consumer Privacy Act is a strong first step in protecting consumers, especially kids, we have a lot more work to do,” said James Steyer, founder of Common Sense, which advocates privacy measures for children. “For starters, we need to ensure the attorney general or any data protection authority is well-resourced, well-informed and empowered to robustly enforce this and future laws. We also need companies to limit the information they collect to the data they need, and only use it in fair and expected ways. Finally, we need to ensure our most sensitive information is not sold without our opt-in consent."
+Assemblyman Evan Low (D-Campbell), whose Silicon Valley district includes some of the largest tech companies, said he hoped next year would lead to substantive discussions about the policy.
+“We have to get this right. That’s what it’s about — ensuring there’s hearings and a process in place to best understand this,” Low said. “I can guarantee you this: The Legislature did not fundamentally understand what they were voting for in this privacy bill.” 
+4:00 p.m. This post was updated to reflect the initiative was pulled from the ballot and to add a comment from the Internet Association.
+3:15 p.m.: This post was updated to reflect that Gov. Jerry Brown signed the bill and to add comment from Assemblyman Evan Low.
+This post was originally published at 12:55 p.m.

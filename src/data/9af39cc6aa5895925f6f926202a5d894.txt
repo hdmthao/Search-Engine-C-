@@ -1,0 +1,30 @@
+Samsung Galaxy S9 is faster than iPhone X in tests; Verizon still speediest network
+
+When it comes to benefiting from the fastest wireless network, the device you hold can make all the difference. 
+
+Samsung’s latest Galaxy S9 flagship outraced the iPhone X, according to drive tests conducted in May by PCMag with crowdsourced speed data from Ookla’s Speedtest Intelligence.
+
+The Galaxy S9 recorded download and upload speeds in May of 41.80 Megabits per second and 11.36 Mbps, respectively, compared to 31.18 Mbps and 9.88 Mbps for the iPhone X.  
+
+But the iPhone X is hardly a slowpoke. PCMag points out that the iPhone X has something called 256QAM, which means it can pack more information into one burst of data than the iPhone 7 did. 
+
+Regardless of phone, the cellphone networks are just getting faster.
+
+For the fifth year in a row, Verizon Wireless cemented its position as having the fastest mobile network in the U.S. It won or tied in 19 of the 36 cities tested, leading in every region of the U.S. except the Southeast, where it placed behind the overall runner-up T-Mobile.  
+
+Samsung Galaxy S9+ Camera
+The dual lenses offer one of the best camera experiences in the smartphone game, but the flexibility of having two aperture settings isn't as great as Samsung would have you believe. (Photo: Reviewed.com / Michael Desjardin)
+
+AT&T ranked third overall. Sprint, which is waiting on regulatory approval to merge with far faster T-Mobile, pulled up the rear. But even the fourth-place finisher had something to cheer: Sprint's download speeds rocketed up recently; the carrier led in downloads in five cities. 
+
+PCMag reports that T-Mobile’s strength came in mobile uploads, which bodes well for those of you on the network who create a lot of content for social media.
+
+And the good news overall is that compared to last year’s tests, all the carriers are delivering faster and more consistent 4G LTE connections. 
+
+PCMag’s analysts spent May 2018 driving within and between 30 cities, with four Samsung Galaxy S9 phones continually running speed tests based on a customized version of Ookla's Speedtest.net software. Both PCMag and Ookla are owned by publisher Ziff Davis. Testers collected more than 124,000 data points and then balanced downloads, uploads, latency and reliability to create a “Speed Score.” 
+
+Verizon’s score was 99. T-Mobile, AT&T and Sprint followed with scores of 93, 88 and 75, respectively.
+
+While the tests obviously measure the performance of existing 4G mobile networks, the future is all about 5G, which you’ll increasingly hear more about toward the end of this year and into 2019 and beyond.
+
+Each carrier is embarking on its own 5G course. AT&T and Verizon are going for top 5G speeds over smaller areas. T-Mobile’s 5G, on the other hand, may not prove quite as fast as its rivals, but the nation’s third-largest carrier is looking to blanket the nation. 

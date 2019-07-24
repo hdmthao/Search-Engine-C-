@@ -1,0 +1,22 @@
+THE VOICE APPS REPORT: The issues with discoverability, monetization, and retention, and how to solve them
+This is a preview of a research report from Business Insider Intelligence, Business Insider's premium research service. To learn more about Business Insider Intelligence, click here.
+
+The voice app ecosystem is booming. In the US, the number of Alexa skills alone surpassed 25,000 in January 2018, up from just 7,000 the previous January, in categories ranging from music streaming services, to games, to connected home tools.
+
+As voice platforms continue to gain footing in homes via smart speakers — connected devices powered primarily by artificial intelligence (AI)-enabled voice assistants — the opportunity for voice apps is becoming more profound. However, as observed with the rise of mobile apps in the late 2000s, any new digital ecosystem will face significant growing pains, and voice apps are no exception. Thanks to the visual-free format of voice apps, discoverability, monetization, and retention are proving particularly problematic in this nascent space. This is creating a problem in the voice assistant market that could hinder greater uptake if not addressed.
+
+In this report, Business Insider Intelligence, Business Insider's premium research service, explores the two major viable voice app stores. It identifies the three big issues voice apps are facing — discoverability, monetization, and retention — and presents possible short-term solutions ahead of industry-wide fixes.
+
+Here are some of the key takeaways from the report:
+
+The market for smart speakers and voice platforms is expanding rapidly. The installed base of smart speakers and the volume of voice apps that can be accessed on them each saw significant gains in 2017. But the new format and the emerging voice ecosystems that are making their way into smart speaker-equipped homes is so far failing to align with consumer needs.
+Voice app development is a virtuous cycle with several broken components. The addressable consumer market is expanding, which is prompting more brands and developers to developer voice apps, but the ability to monetize and iterate those voice apps is limited, which could inhibit voice app growth.
+Monetization is only one broken component of the voice app ecosystem. Discoverability and user retention are equally problematic for voice app development.
+While the two major voice app ecosystems — Amazon's and Google's — have some Band-Aid solutions and workarounds, their options for improving monetization, discoverability, and retention for voice apps are currently limited.
+There are some strategies that developers and brands can employ in the near term ahead of more robust tools and solutions.
+In full, the report:
+
+Sizes the current voice app ecosystem.
+Outlines the most pressing problems in voice app development and evolution in the space by examining the three most damning shortcoming: monetization, discoverability, and retention.
+Discusses the solutions being offered up by today's biggest voice platforms.
+Presents workaround solutions and alternative approaches that could catalyze development and evolution ahead of wider industry-wide fixes from the platforms.

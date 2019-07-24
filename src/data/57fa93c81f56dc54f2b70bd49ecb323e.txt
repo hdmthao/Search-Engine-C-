@@ -1,0 +1,34 @@
+NASA's THEMIS sees Auroras move to the rhythm of Earth's magnetic field
+The majestic auroras have captivated humans for thousands of years, but their nature -- the fact that the lights are electromagnetic and respond to solar activity -- was only realized in the last 150 years. Thanks to coordinated multi-satellite observations and a worldwide network of magnetic sensors and cameras, close study of auroras has become possible over recent decades. Yet, auroras continue to mystify, dancing far above the ground to some, thus far, undetected rhythm. Using data from NASA's Time History of Events and Macroscale Interactions during Substorms, or THEMIS, scientists have observed Earth's vibrating magnetic field in relation to the northern lights dancing in the night sky over Canada. THEMIS is a five-spacecraft mission dedicated to understanding the processes behind auroras, which erupt across the sky in response to changes in Earth's magnetic environment, called the magnetosphere.
+
+These new observations allowed scientists to directly link specific intense disturbances in the magnetosphere to the magnetic response on the ground. A paper on these findings was published in Nature Physics on Sept. 12, 2016.
+
+"We've made similar observations before, but only in one place at a time - on the ground or in space," said David Sibeck, THEMIS project scientist at NASA's Goddard Space Flight Center in Greenbelt, Maryland, who did not participate in the study. "When you have the measurements in both places, you can relate the two things together."
+
+Understanding how and why auroras occur helps us learn more about the complex space environment around our planet. Radiation and energy in near-Earth space can have a variety of effects on our satellites - from disrupting their electronics to increasing frictional drag and interrupting communication or navigation signals. As our dependence on GPS grows and space exploration expands, accurate space weather forecasting becomes ever more important.
+
+The space environment of our entire solar system, both near Earth and far beyond Pluto, is determined by the sun's activity, which cycles and fluctuates through time. The solar system is filled with solar wind, the constant flow of charged particles from the sun. Most of the solar wind is deflected from Earth by our planet's protective magnetosphere.
+
+However, under the right conditions, some solar particles and energy can penetrate the magnetosphere, disturbing Earth's magnetic field in what's known as a substorm. When the solar wind's magnetic field turns southward, the dayside, or sun-facing side, of the magnetosphere contracts inward. The back end, called the magnetotail, stretches out like a rubber band. When the stretched magnetotail finally snaps back, it starts to vibrate, much like a spring moving back and forth. Bright auroras can occur during this stage of the substorm.
+
+In this unstable environment, electrons in near-Earth space stream rapidly down magnetic field lines towards Earth's poles. There, they interact with oxygen and nitrogen particles in the upper atmosphere, releasing photons to create swaths of light that snake across the sky.
+
+To map the auroras' electric dance, the scientists imaged the brightening and dimming aurora over Canada with all-sky cameras. They simultaneously used ground-based magnetic sensors across Canada and Greenland to measure electrical currents during the geomagnetic substorm. Further out in space, the five THEMIS probes were well-positioned to collect data on the motion of the disrupted field lines.
+
+The scientists found the aurora moved in harmony with the vibrating field line. Magnetic field lines oscillated in a roughly six-minute cycle, or period, and the aurora brightened and dimmed at the same pace.
+
+"We were delighted to see such a strong match," said Evgeny Panov, lead author and researcher at the Space Research Institute of the Austrian Academy of Sciences in Graz. "These observations reveal the missing link in the conversion of magnetic energy to particle energy that powers the aurora."
+
+The brightening and dimming of the aurora corresponds to the motion of the electrons and magnetic field lines.
+
+"During the course of this event, the electrons are flinging themselves Earthwards, then bouncing back off the magnetosphere, then flinging themselves back," Sibeck said.
+
+When waves crash on the beach, they splash and froth, and then recede. The wave of electrons adopt a similar motion. The aurora brightens when the wave of electrons slams into the upper atmosphere, and dims when it ricochets off.
+
+Before this study, scientists hypothesized that oscillating magnetic field lines guide the aurora. But the effect had not yet been observed because it requires the THEMIS probes to be located in just the right place over the ground-based sensors, to properly coordinate the data. In this study, scientists collected THEMIS data at a time when the probes were fortuitously positioned to observe the substorm.
+
+"Even after nearly 10 years, the probes are still in great health, and the growing network of magnetometers and all-sky cameras continue to generate high quality data," said Vassilis Angelopoulos, co-author and THEMIS principal investigator at University of California, Los Angeles.
+
+THEMIS is a mission of NASA's Explorer program, which is managed by Goddard. University of California, Berkeley's Space Sciences Laboratory oversees mission operations. The all-sky imagers and magnetometers are jointly operated by UC Berkeley, UCLA, University of Calgary and University of Alberta in Canada.
+
+"The intention with THEMIS has always been that we would put these measurements together and make these observations," Sibeck said. "This is an extremely satisfying study and a pleasure to see the right use of this mission data."

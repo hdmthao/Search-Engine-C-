@@ -1,0 +1,23 @@
+How to stop companies from selling your data
+Helpful tips for opting out of data sharing by banks, schools and data broker companies
+The second you fill out an online survey, purchase a new home or subscribe to a magazine, your information may be scooped up by a data company and sold to a subterranean market for personal information on millions of people. These data brokers are building profiles about you, using thousands of pieces of information such as your age, income, race, ethnicity and interests and helping marketers use this data to send you targeted ads.
+Unlike the way we interact with Facebook and Google, most people do not have a direct relationship with data broker companies and often do not even know their names. That makes figuring out which ones have your data a complicated task.
+Fortunately, for privacy-minded users willing to put in a little work, there are ways to reduce the number of companies selling your data. The Washington Post asked digital privacy experts for their best tips on how to combat the data brokers.
+Skip the surveys
+Consumers often hand over personal data that can be resold without realizing it. Students who fill out a survey to win a chance for a $10,000 scholarship on college-planning site Edvisors, for example, are agreeing to have their personal information sold to marketing companies.
+“Never answer a consumer survey,” said privacy consultant Bob Gellman. “As a general rule, pay careful attention when asked for any personal information by anyone and don't disclose anything unless you know how it's going to be used.”
+Opt out of data broker lists
+The biggest marketing data companies give users the ability to place their names on “suppression lists” designed to stop their data from being shared. To do this, users must sometimes provide proof of their identity, such a photo of their driver’s license.
+Click on the links in this sentence for information on opting out of data sharing by Acxiom, Experian, Oracle, Lexis Nexis and Epsilon.
+For survivors of domestic violence and others wishing to hide their information from search engines and people-finding sites, the National Network to End Domestic Violence has created a guide for opting out.
+A longer list of links to privacy opt-out pages can be found at StopDataMining.me.
+Limit financial data sharing
+Banks are allowed to share data about their customers, including account balances and names of the stores where they shop, but they are also required to allow any customer to opt out of data sharing. Every bank is different, so it is important to read your financial institution’s privacy policy closely and follow the instructions they provide for opting out. Here are links to the privacy policies of JP Morgan Chase, Citi, Wells Fargo, and Bank of America.
+“These are very significant opt-outs,” said Pam Dixon, executive director of the World Privacy Forum. “Financial info is a core basis of data broker activity.”
+Dixon also recommends using a digital wallet, such as Apple Pay and PayPal, and mixing up your forms of payment to help obscure your transaction patterns.
+Add your name to federal registries
+The Federal Trade Commission maintains a Do Not Call registry to prevent annoying calls from telemarketers, though it has proved ineffective against the recent epidemic of robocallers. You can add your name to the list here.
+For $2, you can also add your name to a Do Not Mail list to prevent your information from being shared with marketers who send out junk mail. That fee is supposed to keep your name on the list for 10 years. The industry group that oversees it, the Direct Marketing Association, also offers a free service for getting the deceased removed from mailing databases.
+Protect student data
+A federal law allows schools to give out “directory information” about K-12 and college students, including name, address, phone number, dates of attendance, subject majors and degrees. The same law, Family Educational Rights and Privacy Act, or FERPA, gives parents and kids the right to prevent the disclosure of this information.
+Each school has its own FERPA form for opting out of data sharing, which can be found by searching the web for FERPA and your school’s name. The opt out form is sometimes called the “Restriction of Directory Information."

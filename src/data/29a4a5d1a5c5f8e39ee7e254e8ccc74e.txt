@@ -1,0 +1,28 @@
+Virtual reality offers benefits for Parkinson's disease patients
+Training in virtual environment helps patients improve balance and avoid obstacles while walking
+Date:
+April 9, 2019
+Source:
+Experimental Biology
+Summary:
+Researchers are reporting early success with a new tool to help people with Parkinson's disease improve their balance and potentially decrease falls with high-tech help: virtual reality. After practicing with a virtual reality system for six weeks, people with Parkinson's disease demonstrated improved obstacle negotiation and balance along with more confidence navigating around obstacles in their path.
+Share:
+     
+FULL STORY
+Researchers are reporting early success with a new tool to help people with Parkinson's disease improve their balance and potentially decrease falls with high-tech help: virtual reality. After practicing with a virtual reality system for six weeks, people with Parkinson's disease demonstrated improved obstacle negotiation and balance along with more confidence navigating around obstacles in their path.
+
+For many people with Parkinson's disease, the simple act of walking through the house or neighborhood can be a treacherous undertaking. The muscle and movement problems caused by the disease decrease a person's range of motion and impair balance, often leading to falls and injuries.
+
+To help patients manage these challenges, researchers created a virtual reality training system that gives patients a safe space to hone their muscle control and balance. Patients walk on a treadmill while stepping over virtual objects that appear before them. If they are successful in one round, the objects become larger in the next round.
+
+"The primary advantage is that they can encounter multiple obstacles and terrains while a safe environment is maintained using equipment such as a fall restraint tether," said K. Bo Foreman, PT, PhD, associate professor and director of the Motion Capture Core Facility at the University of Utah. "Participants enjoyed the experience and thought it was fun, not just exercise. They liked training and challenging themselves without the fear of falling."
+
+Foreman will present the research at the American Association of Anatomists annual meeting during the 2019 Experimental Biology meeting, held April 6-9 in Orlando, Fla.
+
+The researchers tested their training system in 10 patients with Parkinson's disease who used it for three 30-minute sessions a week for six weeks. After the program, participants showed significant improvements in their ability to negotiate over large and small boxes, better balance and a wider range of motion in the hip and ankle, all of which have been previously shown to correlate with a lower risk of falls.
+
+"We are hopeful that this improved performance relates to decreased falls in their everyday life," said Foreman. "Parkinson's disease is a progressive disease, and anything we can do to impact the progression is a step in the right direction."
+
+The team tested their program in the University of Utah's Treadport, a CAVE-like virtual environment with a locomotion interface allowing digital scene projection across multiple walls and the floor. Many universities have CAVEs (a term for room-sized immersive virtual reality environments), though medical centers usually do not. The research team is working with the University of Utah's hospital system to explore adding a Treadport to its rehabilitation facility. In addition, the team hopes to adapt the virtual reality system for head-mounted virtual reality devices, which would make it more widely available and easier to implement for clinical use, Foreman says.
+
+While the initial test did not include any patients who did not undergo the virtual reality training or any people without Parkinson's disease for comparison, as a next step the team plans to investigate how their outcomes compare to studies in which Parkinson's patients have undergone traditional training programs or none at all.

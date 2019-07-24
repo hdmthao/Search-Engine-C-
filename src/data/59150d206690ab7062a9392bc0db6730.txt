@@ -1,0 +1,12 @@
+NASA takes parting look at Hermine
+Tropical Cyclone Hermine was just a swirl of clouds with no rainfall off the coast of southeastern Massachusetts on Thursday, Sept. 8. Just two days earlier, the GPM satellite saw that Hermine was still generating some rainfall. Post Tropical Cyclone Hermine was still rotating in the Atlantic Ocean east of New Jersey when the Global Precipitation Measurement mission or GPM core observatory satellite flew above on Sept. 6 at 2:05 p.m. EDT (1806 UTC). Hermine's power was greatly dissipated from the hurricane that hit Florida on Sept. 2, 2016. Hermine still had maximum sustained winds of about 58 mph (50 knots). Hermine was also still producing some light to moderate showers.
+
+Precipitation data derived from GPM's Microwave Imager (GMI) and Dual-Frequency Precipitation Radar (DPR) instruments showed that rain was falling at a rate of over 1.1 inches (27 mm) per hour in an area of showers located between the Atlantic coast and Hermine's center of circulation. GPM's GMI also showed that moderate rainfall was still occurring in a few bands of rainfall south and southeast of the storm.
+
+GPM's radar (DPR Ku Band) made a 3-D slice through Hermine that showed the structure of precipitation within the storm. This 3-D scan showed that the tops of the storms on Hermine's eastern side were reaching to altitudes of about 5.3 miles (8.5 km). GPM is a joint mission between NASA and the Japan Aerospace Exploration Agency JAXA.
+
+The National Hurricane Center (NHC) discontinued coastal tropical storm warnings and terminated National Hurricane Center advisories on weakening Post-Tropical Cyclone Hermine on Sept. 6 at 2 p.m. EDT (1800 UTC).
+
+Visible imagery from NOAA's GOES-East satellite on Sept. 8 at 9:30 a.m. EDT (1330 UTC) revealed the remnants of Hermine as a swirl of clouds located off of Cape Cod, Massachusetts. A line of clouds over northern New England from an oncoming cold front were located to the northwest of the remnants. The image was created at NASA's Goddard Space Flight Center in Greenbelt, Maryland.
+
+Once the cold front moves through it will absorb the remnant clouds of Hermine, and the storm will go down in hurricane history.

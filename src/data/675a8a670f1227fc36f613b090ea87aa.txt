@@ -1,0 +1,36 @@
+A new analysis of people’s brain waves when surrounded by different magnetic fields suggests that people have a “sixth sense” for magnetism.
+
+Birds, fish and some other creatures can sense Earth’s magnetic field and use it for navigation (SN: 6/14/14, p. 10). Scientists have long wondered whether humans, too, boast this kind of magnetoreception. Now, by exposing people to an Earth-strength magnetic field pointed in different directions in the lab, researchers from the United States and Japan have discovered distinct brain wave patterns that occur in response to rotating the field in a certain way.
+
+These findings, reported in a study published online March 18 in eNeuro, offer evidence that people do subconsciously respond to Earth’s magnetic field — although it’s not yet clear exactly why or how our brains use this information.
+
+“The first impression when I read the [study] was like, ‘Wow, I cannot believe it!’” says Can Xie, a biophysicist at Peking University in Beijing. Previous tests of human magnetoreception have yielded inconclusive results. This new evidence “is one step forward for the magnetoreception field and probably a big step for the human magnetic sense,” he says. “I do hope we can see replications and further investigations in the near future.”
+
+During the experiment, 26 participants each sat with their eyes closed in a dark, quiet chamber lined with electrical coils. These coils manipulated the magnetic field inside the chamber such that it remained the same strength as Earth’s natural field but could be pointed in any direction. Participants wore an EEG cap that recorded the electrical activity of their brains while the surrounding magnetic field rotated in various directions.
+
+This setup simulated the effect of someone turning in different directions in Earth’s natural, unchanging field without requiring a participant to actually move. (Complete stillness prevented motor-control thoughts from tainting brain waves due to the magnetic field.) The researchers compared these EEG readouts with those from control trials where the magnetic field inside the chamber didn’t move.
+
+Joseph Kirschvink, a neurobiologist and geophysicist at Caltech, and colleagues studied alpha waves to determine whether the brain reacts to changes in magnetic field direction. Alpha waves generally dominate EEG readings while a person is sitting idle but fade when someone receives sensory input, like a sound or touch.
+
+Sure enough, changes in the magnetic field triggered changes in people’s alpha waves. Specifically, when the magnetic field pointed toward the floor in front of a participant facing north — the direction that Earth’s magnetic field points in the Northern Hemisphere — swiveling the field counterclockwise from northeast to northwest triggered an average 25 percent dip in the amplitude of alpha waves. That change was about three times as strong as natural alpha wave fluctuations seen in control trials.
+
+
+ROTATION REACTION When downward-pointing magnetic fields were rotated counterclockwise, from northeast to northwest, researchers saw a significant dip in participants’ alpha brain waves (left). Alpha waves are similarly dampened when someone receives sensory input like a sound or smell. This response was not seen when downward fields rotated clockwise (center) or were held steady (right).
+
+Curiously, people’s brains showed no responses to a rotating magnetic field pointed toward the ceiling — the direction of Earth’s field in the Southern Hemisphere. Four participants were retested weeks or months later and showed the same responses.
+
+“It’s kind of intriguing to think that we have a sense of which we’re not consciously aware,” says Peter Hore, a chemist at the University of Oxford who has studied birds’ internal compasses. But “extraordinary claims need extraordinary proof, and in this case, that includes being able to reproduce it in a different lab.”
+
+Questions raised
+If these findings are replicable, they pose several questions — such as why people seem to respond to downward- but not upward-pointing fields. Kirschvink and colleagues think they have an answer: “The brain is taking [magnetic] data, pulling it out and only using it if it makes sense,” Kirschvink says.
+
+Participants in this study, who all hailed from the Northern Hemisphere, should perceive downward-pointing magnetic fields as natural, whereas upward fields would constitute an anomaly, the researchers argue. Magnetoreceptive animals are known to shut off their internal compasses when encountering weird fields, such as those caused by lightning, which might lead the animals astray. Northern-born humans may similarly take their magnetic sense “offline” when faced with strange, upward-pointing fields.
+
+This explanation “seems plausible,” Hore says, but would need to be tested in an experiment with participants from the Southern Hemisphere.
+
+The brain’s attention to counterclockwise but not clockwise rotations “is something surprising that we don’t really have a good explanation for,” says coauthor Connie Wang, who studies magnetoperception at Caltech. Some people may respond to clockwise rotations, just like some people are left-handed rather than right-handed, or clockwise rotations generate brain activity not captured in the alpha wave signal, she says.
+
+Even accounting for which magnetic changes the brain picks up, researchers still don’t know what our minds might use that information for, Kirschvink says. Another lingering mystery is how, exactly, our brains detect Earth’s magnetic field. According to the researchers, the brain wave patterns uncovered in this study may be explained by sensory cells containing a magnetic mineral called magnetite, which has been found in magnetoreceptive trout as well as in the human brain (SN: 8/11/12, p. 13). Future experiments could confirm or eliminate that possibility.
+
+With this first compelling evidence that humans are subconsciously processing magnetic signals, “we can [try to] identify the brain region it originates from and try to identify the nature of the cells” responsible, says Michael Winklhofer, a magnetoreception researcher at the University of Oldenburg in Germany. “This is really the first step.”
+

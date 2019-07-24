@@ -1,0 +1,26 @@
+Parkinson's study could pave way for early detection test
+A test that can detect Parkinson's disease in the early stages of the illness has moved a step closer. Scientists have developed a way of detecting a molecule linked to the condition in samples of spinal fluid from patients.
+
+Experts say that the test needs to be validated with a larger sample group but they are optimistic that it could one day help to improve diagnosis of the disease.
+
+The test detects a protein molecule called alpha-synuclein, which forms sticky clumps called Lewy bodies inside the brain cells of people with Parkinson's and some types of dementia.
+
+Previous efforts to develop a test for alpha-synuclein have produced inconsistent results because the protein is also found in healthy brains. It is only when the protein clumps together that it causes problems.
+
+Researchers at the University of Edinburgh made use of a highly sensitive technology that measures the stickiness of proteins.
+
+The approach - called real-time quaking induced conversion - can detect tiny differences in the properties of proteins in the brain that can mean the difference between disease or not.
+
+In early tests, the technique accurately identified 19 out of 20 samples from patients with Parkinson's disease, as well as three samples from people considered to be at risk of the condition.
+
+There were no false positives in any of the 15 control samples from healthy people.
+
+The technique also identified patients with a type of dementia caused by Lewy bodies, but not other types of dementia such as Alzheimer's disease.
+
+Parkinson's disease is a progressive brain condition caused by the loss of nerve cells. It is not known what causes the condition and there is currently no accurate test for it. Patients often have to wait years for a diagnosis, which is based on physical symptoms, their medical history and the results of simple mental and physical exercises.
+
+Dr Alison Green, of the National CJD Research and Surveillance Unit at the University of Edinburgh, said: "We have already used this technique to develop an accurate test for Creutzfeldt Jacob Disease, another neurodegenerative condition. We hope that with further refinement, our approach will help to improve diagnosis for Parkinson's patients.
+
+"We are also interested in whether it could be used to identify people with Parkinson's and Lewy body dementia in the early stages of their illness. These people could then be given the opportunity to take part in trials of new medicines that may slow, or stop, the progression of disease."
+
+The study was funded by the Chief Scientists Office, Government of Scotland, and The Michael J. Fox Foundation for Parkinson's Research. It is published in the journal Annals of Clinical and Translational Neurology.

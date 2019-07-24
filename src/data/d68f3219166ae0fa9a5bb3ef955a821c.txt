@@ -1,0 +1,36 @@
+Bizarre radio burst traced back to its origin in deep space
+The discovery adds to the mystery of fast radio bursts, which are echoes of extreme cosmic explosions.
+A long time ago, in a galaxy far, far away, something mysterious launched a burst of radio waves into the cosmos. Last September, that powerful pulse collided with an array of radio telescopes in the western Australian Outback. Though the fleeting barrage lasted mere milliseconds, scientists were able to trace the radio burst back to its source: A galaxy roughly four billion light-years away in the constellation Grus, the crane.
+
+While astronomers have seen hundreds of these cosmic pulses over the past decade or so, the latest work marks the first time they’ve caught a single burst in action and subsequently pinpointed its origin. In principle, finding out where these so-called fast radio bursts (FRBs) come from should help scientists narrow down the machinery that powers such extreme explosions.
+
+“The localizations are crucial,” says Keith Bannister of Australia’s Commonwealth Science and Industrial Research Organization, who reports the burst’s home today in the journal Science. “The next few localizations should hopefully show how diverse a phenomenon we’re dealing with, which will really help the theorists work out what’s going on.”
+For now, however, this new observation just deepens the mystery.
+“I don't know that we're any closer to solving what FRBs are, but this takes us closer to getting a more complete picture,” says the University of Amsterdam’s Emily Petroff, one of the leading experts on fast radio bursts.
+
+A good blaster
+Fast radio bursts first made a scene roughly a decade ago, when West Virginia University astronomer Duncan Lorimer spotted a split-second eruption of radio waves in data gathered by Australia’s Parkes Observatory. At the time, some astronomers were skeptical that the burst had a cosmic origin—it was so blazingly powerful, and it appeared to come from so far away, that many astronomers suspected it was a mundane signal masquerading as an exotic intergalactic phenomenon.
+
+But then more bursts appeared, some spotted by different telescopes, and astronomers began hunting for the bursts’ faraway origins in earnest. Early theories included evaporating black holes, cosmic cataclysms, dense dead stars—and yes, intelligent extraterrestrials. But the bursts were so transient that catching and studying them was tricky.
+
+Then, in 2016, astronomers using the Arecibo Observatory in Puerto Rico announced that one burst, called FRB 121102, just kept on bursting. Unlike others of its kind, FRB 121102 still hasn’t shut up, and in 2017, scientists at last mapped it to a weird little smudge of a dwarf galaxy roughly three billion light-years away.
+ARECIBO TELESCOPE
+The Arecibo telescope in Puerto Rico listens for radio waves from space to try and find life.
+Now, one of the leading theories behind these bursts implicates young, extremely magnetic neutron stars called magnetars, the corpses of once-massive suns that lived fast and died hard. But even though hundreds of fast radio bursts have now plowed into telescopes in Australia, Russia, the United States, and Canada, their origins are still fundamentally unknown.
+
+A new hope
+That’s why Bannister and his colleagues were eager to train the Australian Square Kilometer Pathfinder Array on the sky and search for these fleeting astrophysical phenomena.
+
+With 36 radio dishes spread over more than two square miles, astronomers could use slight delays in the burst’s arrival at different dishes to help pinpoint its location on the sky. And on September 24, 2018, while running special software designed to localize single bursts, that array caught its quarry, now known as FRB 180924.
+
+Follow-up observations with optical telescopes in Hawaii and Chile helped the team identify the burst’s home as a galaxy roughly 3.6 billion light-years away. Specifically, the burst hails from the outskirts of large, possibly spiral galaxy that’s perhaps quite similar to a the Milky Way, although dominated by old stars.
+
+“The host galaxy is actually rather boring,” Bannister says. “Most stars in the universe live in galaxies such as this. So, it’s not unusual if you’re a star, but it’s a big difference from the FRB 121102 host.”
+
+The galaxy is roughly a thousand times more massive than the strange, smudgy dwarf that FRB 121102 comes from, and it could be forming stars at a much slower rate. If that's true, it means newly dead stars such as magnetars shouldn’t easily exist there, because the big, ballooning stars that collapse into dense stellar corpses normally live in regions where stars form more quickly.
+
+“It's puzzling that these galaxies are really so different, but I think it tells us that we still have a lot to learn about FRB hosts,” Petroff says. “In a way, it's a relief to me that this one wasn't in a dwarf galaxy like the host of [FRB 121102]—that would be too easy!”
+
+So what are astronomers going to do? As more bursts are snared, intergalactic cartographers will get to work following the radio flashes to their homes and then, they hope, begin to further unravel the tangled story of fast radio bursts. Bannister and others suspect that in the end, they might find more than one cosmic engine that can power a burst.
+
+“I’m leaning toward a ‘multiple ways to make an FRB’ explanation,” Bannister says. “Scientists somehow have a [built-in] desire to unify everything … but sometimes nature outwits us.”

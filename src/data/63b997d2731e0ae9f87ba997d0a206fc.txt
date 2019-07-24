@@ -1,0 +1,95 @@
+Dota 2 Update - January 29th, 2019
+
+GENERAL
+
+
+* Melee creeps average gold bounty reduced by 3
+* Range creeps upgrade cycle gold bounty increased from +3 to +6
+
+* Replaced the primary jungles' ancient camps with big camps
+
+* Heroes no longer gain 25% more benefit from their primary attributes (affects attributes from both items and the hero)
+* All heroes' primary attribute growth values increased by 15%
+* Health per strength increased from 18 to 20
+
+* XP required to reach level 7->12 changed from 640/660/680/800/820/840 to 720/750/780/810/840/870 (the difference is +80/90/100/10/20/30 XP)
+
+
+* The following melee heroes now have +5 movement speed: Naga Siren, Underlord, Monkey King, Nyx Assassin, Bloodseeker, Riki
+* The following melee heroes now have +10 movement speed: Alchemist, Dragon Knight, Meepo
+* The following melee heroes now have +15 movement speed: Legion Commander, Lifestealer, Lycan, Sven, Ursa, Wraith King
+* Ranged heroes with 295 movement speed and above now have 5 less movement speed
+
+* Tier 2 tower armor increased from 14 to 15
+* Tier 3 tower armor increased from 14 to 16
+* Melee Barracks armor increased from 13 to 15
+
+* Tower Protection armor bonus for Tier 2/3/4 increased from 3 to 4
+
+ITEMS
+
+* Animal Courier: Flying movement speed increased from 460 to 470
+
+* Aeon Disk: Active status resistance increased from 50% to 75%
+* Aeon Disk: Recipe cost reduced from 1350 to 1250
+
+* Battle Fury: Percentage damage bonus against non-hero units changed to be a fixed amount matching Quelling Blade
+
+* Bloodstone: Bloodpact changed from 60% of current mana to 30% of max mana
+
+* Bloodthorn: Cooldown reduced from 18 to 15
+
+* Boots of Travel: Level 2 movement speed increased from +32% to +35%
+
+* Buckler: Activated armor bonus duration on heroes reduced from 25 to 15 (carries through to Mek)
+
+* Crimson Guard: Recipe cost increased from 600 to 750
+
+* Drum of Endurance: Passive changed from a 6% movement speed aura to +20 movement speed to yourself only
+
+* Ethereal Blade: Enemy debuff duration increased from 3 to 4 (matching duration when cast on allies)
+
+* Eul's Scepter of Divinity: Movement speed bonus changed from +6% percentage to +20 flat
+
+* Holy Locket: Now uses Energy Booster instead of a Void Stone (provides +325 Mana)
+
+* Iron Branch: Cast range increased from 200 to 400
+
+* Manta Style: Movement speed bonus reduced from +25 to +20
+
+* Mask of Madness: Lifesteal increased from 15% to 20%
+
+* Mekansm: Stack limit is now tied to cooldown on cast (like Greaves and Crimson stack mechanics)
+
+* Meteor Hammer: Radius increased from 300 to 315
+
+* Necronomicon: Last Will damage increased from 550/675/800 to 600/700/800
+
+* Nullifier: Duration increased from 5 to 6
+
+* Phase Boots: Recipe changed from Gloves of Haste to Blades of Attack
+* Phase Boots: Armor bonus increased from 5 to 6
+* Phase Boots: Now gives +18 damage on melee (and +12 on range) instead of +20 attack speed
+* Phase Boots: Melee active speed increased from 20% to 22%
+
+* Power Treads: Recipe changed from Blades of Attack to Gloves of Haste
+* Power Treads: Attribute bonus reduced from 14 to 10
+* Power Treads: Now gives +20 attack speed instead of +12 damage
+
+* Sange and Yasha: Movement speed bonus reduced from +35 to +30
+
+* Solar Crest: Movement speed bonus changed from +6% percentage to +20 flat
+
+* Spirit Vessel: Damage as a percentage of current health increased from 4.5% to 5%
+* Spirit Vessel: Movement speed bonus changed from +6% percentage to +20 flat
+
+* Tranquil Boots: Active form movement speed increased from 24% to 26%
+* Tranquil Boots: Disabled form movement speed reduced from 20% to 18%
+
+* Vladmir's Offering: No longer uses Headdress nor provides its hp regen/stats
+* Vladmir's Offering: Now requires a 525 gold recipe
+
+* Wind Lace: Movement speed bonus changed from +6% percentage to +20 flat
+
+* Yasha: Movement speed bonus reduced from +25 to +20
+* Yasha and Kaya: Movement speed bonus reduced from +35 to +30

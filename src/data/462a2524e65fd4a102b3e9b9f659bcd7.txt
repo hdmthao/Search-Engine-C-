@@ -1,0 +1,60 @@
+https://www.coindesk.com/will-facebooks-libra-be-an-on-ramp-or-dead-end-for-crypto
+
+Will Facebook’s Libra Be an On-Ramp or Dead End for Crypto?
+
+Facebook’s announcement that it would create a stablecoin on a blockchain means more as a competitive answer to WeChat and Alipay’s payment services than it does to the crypto industry, according to AngelList co-founder Naval Ravikant.
+Ravikant told CoinDesk via email:
+“I don’t think it means much for crypto because it’s not really (sovereign-resistant) crypto.”
+The immediate question for the crypto industry following the announcement of Facebook’s ambitious Libra project was whether this new token will lead more users into the broader world of cryptocurrency or insulate them from other projects. That is, will someone who becomes a Libra user be more likely to one day hold bitcoin, ether, EOS or other crypto assets?
+For his part, Ravikant sees a way Libra could meet a need, noting that it could lower the cost of global payments, but, he added, “I struggle to see why it needs to be on a blockchain other than for PR / Marketing.”
+The Asian consumer payments giants Tencent (parent of WeChat) and Alibaba (parent of Alipay) seem to agree: They say they won’t be following Facebook’s lead into cryptocurrency development.
+That said, most of the industry sounds upbeat following the news that the fifth largest company in the world by market capitalization, Facebook, is leading a slew of financial giants (such as Visa, PayPal and Stripe) into the blockchain universe.
+For example, Fred Wilson, a partner at Union Square Ventures, one of the founding members of the Libra Association, wrote on his blog:
+“So as we think about the potential drivers for mainstream crypto adoption, a simple, fully-collateralized, cryptocurrency used inside the world’s largest applications, touching hundreds of millions or billions of consumers, is perhaps the most promising one.”
+In fact, others pointed to specific mechanisms by which individuals might find their way into crypto in a world where Libra becomes a common way of transacting value.
+“It’s good news for exchanges and good news for crypto because you’ll have a lot more vetted users,” Avivah Litan, an analyst at Gartner, told CoinDesk. She foresaw exchanges as being a major source for attaining Libra in the early days. “So now when you’re signing up for Libra you’re going to see more cryptos as well.”
+People who already have access to financial services will be motivated to find ways to get crypto in order to get better deals, Kyle Samani of Multicoin Capital told CoinDesk.
+“The value prop is clear: discounts through merchant partners like Uber and Lyft and Spotify (and many more to be announced),” Samani told CoinDesk via email. For the unbanked, it’s the chance to use a currency that’s potentially more stable than their country’s national currency.
+Preston Byrne, an attorney at Byrne & Storm and an early entrepreneur in the world of permissioned blockchains, told CoinDesk he foresees Libra being helpful at a high level so long as the network is not built in a walled-off way.
+“As long as it requires people who are hooking into the ecosystem to use things that are otherwise good for cryptocurrency, then it’s good for cryptocurrency,” Byrne said.
+Joey Krug, Augur’s creator and an investment officer at Pantera Capital – one of the industry’s largest crypto investors – pointed to one way the infrastructure has already committed to play nice with the rest of the industry.
+“Libra has stated the underlying network will have pseudonymous addresses just like any other crypto network, which means exchanges can list Libra, effectively making it an on-ramp to all of crypto,” Krug told CoinDesk.
+Byrne did note that Facebook and its partners could use their clout to crowd out other cryptocurrencies, if they wanted to. For her part, Arianna Simpson, founder of Autonomous Partners and a former Facebook employee, does not see an existential threat to bitcoin in Libra.
+“Other cryptocurrencies – Stellar and Ripple come to mind – are much more likely to have their raison d’être called into question,” she wrote in a note to her limited partners, which was shared with CoinDesk.
+In fact, on bitcoin, Samani offered another tantalizing bit of speculation. He argued that with interest rates on sovereign bonds moving so widely into negative territory, the Libra reserve is going to have a hard time finding extremely conservative investments with an upside.
+Samani said:
+“I would expect the Libra Association to maintain some of its reserves in permissionless cryptocurrencies like BTC. So that’s one path, though it’s not confirmed.”
+
+Big does not always win
+
+If Facebook is able to convince the world that crypto works, Libra itself will have to work. And that’s no sure thing.
+Industry insiders were quick to recall the many headline-grabbing tech products that never caught on.
+That said, the general response seems to be excitement about Facebook and its partners potentially educating billions of people about public-private keys, payments without intermediaries and money on the internet.
+But there were a lot of notes of caution, particularly about whether or not Facebook could really lead users to use its new blockchain.
+Joel Monegro of Placeholder, a prominent New York City-based venture fund, compared it to the earliest iterations of the Microsoft Network, which was basically Microsoft’s attempt to create its own proprietary internet.
+Monegro told CoinDesk via email:
+“Libra is to Facebook what MSN was to Microsoft. They sense the opportunity, but are missing the point.”
+Similarly, CoinFund founder Jake Brukhman rattled off a list of major failures by other tech giants. Though generally optimistic about Libra’s potential to benefit the whole market, Brukhman cautioned that “people also tend to get excited and underestimate how hard it is to launch successful products even as established exceptional companies.”
+For example, he mentioned Amazon’s Fire Phone. Additionally, Google has had a cascade of failed creations. In social media alone, it failed with Orkut, Buzz, Wave and Google Plus. Apple’s self-driving car product was stillborn.
+But Albert Wenger, also of Union Square Ventures, wrote on his blog about how critical a wide distribution network has been at key moments of technological expansion. He too drew an example from Microsoft: the introduction of Internet Explorer (IE) to all Windows users in 1995.
+IE drove tremendous adoption of the internet. But, as Wenger wrote, “It is useful to remember that Microsoft was not the primary beneficiary of the web.”
+
+But is it my giant?
+
+The 53 co-authors of “The Libra Blockchain” white paper said the blockchain was built to offer “a new global currency — the Libra coin.” Currencies are money’s consumer application, but will be Libra be consumer-friendly?
+William Quigley was a co-founder of the company that created tether, the original stablecoin, and he’s now the CEO of WAX, a startup organized around digital property rights. He thinks Libra will save people money on almost everything they buy.
+“It’s probably 1.5 percent of global GDP is just eaten up in currency conversions,” Quigley estimated. “I think that’s a big part of what Facebook is looking at.”
+Others aren’t betting against the world’s entrenched financial institutions, however.
+As Tyler Cowen, one of the globe’s most influential economists, wrote on his blog: “Have banks ever lost a political battle of this kind?”
+If any coalition could uproot those channels, it may be the group of extremely powerful companies Facebook has assembled. But that sheer size could pose another danger to the masses.
+“It comes with the risks of centralized pain points and vulnerabilities,” ConsenSys founder Joseph Lubin told CoinDesk. “Data silos enable incumbents to maintain pricing power, and also come with the risks of data breaches, privacy, and security issues – problems that many have already begun to associate with Facebook.”
+Maya Zehavi, a blockchain consultant and entrepreneur, offered similar concerns. While Facebook theoretically won’t control the Libra blockchain, earlier iterations of the company have been known to wreak havoc on startups that build businesses dependent on Facebook platforms. Just ask Zynga.
+At this very early date, Zehavi said Libra looks like a “closed loop.”
+“If you want to make an investment or if you want to run a product today, you need to be able to run a node, a full node,” she said. “You need to have the infrastructure in place to be a part of that network.” Plus, there’s the cost.
+Founding members of the Libra Association have paid $10 million each for the privilege of running a node, though there are plans to ultimately open node membership to anyone. (Founding members also get a return on their investment in the form of interest generated by the Libra reserve’s potentially vast pool of coin-backing assets.)
+Still, Quigley, the tether creator, thinks the 10 years of crypto history to date should be the main framework for evaluating Facebook’s Tuesday announcement. Several people CoinDesk spoke to made some version of his same point:
+“Every time a new cryptocurrency has been created it has been additive to the overall crypto experience.”
+
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies. CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
+
+

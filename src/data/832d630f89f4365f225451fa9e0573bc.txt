@@ -1,0 +1,23 @@
+
+Buying cables? Going for gold could mean a rip-off
+From mobile phone chargers to HDMI for TVs, heres how to save on leads for your gadgets
+
+Samuel Gibbs
+
+
+Sat 8 Jun 2019 08.30BST
+
+
+Cables are a necessary evil in our modern world. Whether its the power cord for your phone, the cables jammed in the back of your TV or the wires connecting you to the internet, theyre everywhere.
+And when you need a new one the options are almost limitless, with some costing as much as hundreds of pounds. But do you need to spend all that for a cable? Absolutely not. So heres a quick guide to cables to help you avoid the overpriced.
+Gold connectors and high-quality copper used to make a big difference in the analogue world, but here in the digital 21 century its like lipstick on a pig.
+Shiny gold connectors might look nice, but they make no difference. Digital is binary - it either works or it doesnt. You wont get a better picture from a gold cable.
+As much use as a Ferrari in a snowstorm, fancy Kevlar or nylon braided cables add nothing unless youre working them hard. Most cables spend their life plugged in and left alone, but those taken on the road  heres looking at you, phone cable  might last a bit longer with some strengthening.
+The materials dont really matter for digital cables, but their specifications do. Most are mercifully straightforward.
+HDMI  most commonly used to connect things to your TV  comes in various versions including 1.4, 2.0 and 2.1, which are backwards compatible, for example a 2.1 cable will work with anything earlier. Version 2.0 has been the main standard since 2013, meaning most HDMI cables sold over the last five or so years work with 2.0a/b.
+In January 2017 HDMI 2.1 was released to support higher than 4K content, but very few devices actually use it and most existing cables already support the majority of the new features. Only if youre trying to watch 4K at 120Hz (60Hz is standard) or 8K video do you need new ultra high speed HDMI 2.1 cables  an unlikely event for most consumers.
+There are also HDMI cables that support ethernet connectivity, which are backwards compatible but as barely anything in the home actually uses the ethernet bit dont spend extra on them.
+A good quality high speed HDMI 2.0 cable should cost about 5.
+Speaking of ethernet, not all ethernet cables are born equal. While all the connectors are the same RJ45 jack, you commonly find cat5/5e or cat6 cables. The cat number indicates the quality of the materials and insulation within the cable, which affects its maximum transmission speed.
+The cheaper cat5 can support speeds up to 1Gbps where cat6 supports up to 10Gbps - for reference the average UK broadband speed is just 55Mbps or 0.055Gbps. The actual speed you get is entirely dependent on what youre connecting  a slow internet connection is not going to be made faster by a high spec cable  so unless you know you need to transfer data over 1Gbps dont spend the extra on cat6 cables. You want patch cables if youre connecting a computer or similar to a router. If youre laying ethernet cable into walls or under the floor buy the best you can so you dont have to rip it all up again in the future.
+Cat5 

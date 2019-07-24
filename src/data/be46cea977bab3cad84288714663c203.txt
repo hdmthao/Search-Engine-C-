@@ -1,0 +1,47 @@
+Facebook's latest data lapse draws critique from lawmakers: 'Sure looks like Zuckerberg lied to Congress'
+By SARAH FRIER and STEPHANIE BODONI AND BEN BRODY
+Facebook Inc. is disputing a New York Times report about how it shares data with device makers including Apple, Amazon and Samsung. The companies are privy to Facebook users’ information but it’s nothing like the access that led to the Cambridge Analytica controversy, Facebook said.
+
+But U.S. lawmakers were skeptical and demanded more accountability for Facebook’s privacy lapses.
+
+“Sure looks like [Facebook Chief Executive Mark] Zuckerberg lied to Congress about whether users have ‘complete control’ over who sees our data on Facebook,” Rep. David Cicilline of Rhode Island, the top Democrat on a House subcommittee overseeing antitrust issues, wrote on Twitter. “This needs to be investigated and the people responsible need to be held accountable.”
+
+The New York Times reported that Facebook had struck deals with device manufacturers that allowed them full access to information about users and their friends. But Facebook contends those pacts were intended to help device makers create their own versions of Facebook apps, and the data mostly remained on phones that accessed it. That kind of arrangement was necessary before phone operating systems relied on app stores, it said.
+
+Facebook and other internet companies are grappling with a global backlash over the extent to which they slurp up and handle user data. The New York Times said the vast amounts of information shared with Apple Inc. and other phone makers included data on users’ friends who believed they had barred access.
+
+The report raised questions about whether Zuckerberg misled Congress in testimony this year, and whether the company was in violation of its decree with the Federal Trade Commission to obtain consent from users about how their information is shared.
+
+The revelations are “a troubling reminder that the expectations tech companies set for consumer protection sometimes differ from what is actually delivered,” said a spokeswoman for the House Energy and Commerce Committee, which oversees several tech issues and questioned Zuckerberg in April.
+
+Facebook said it had begun dismantling pacts with device makers dating back as much as a decade — when the social network rarely was directly installed on phones. Hardware manufacturers used Facebook’s software tools to enable their own users to access contacts or post photos to their profiles, among other things, the company said in a blog post.
+
+“There were no app stores at the time and this was the only way to make our product work on their devices. We tightly controlled these [application programming interfaces] from the get-go,” Ime Archibong, Facebook’s vice president of product partnerships, said in an interview. “These partners signed agreements that prevented people’s Facebook information from being used for any other purpose than to re-create Facebook-like experiences.”
+
+Archibong said that Facebook approved each of the experiences that were built, and that they worked differently from its public, platform APIs. The company has since terminated 22 partnerships with device makers, he added.
+
+European lawmakers also voiced concern. Andrea Jelinek, who is in charge of policing the European Union’s data privacy law, said regulators there intend to examine the reports.
+
+Separately, Hamburg, Germany, privacy regulator Johannes Caspar described the reports as “absolutely alarming.”
+
+“It’s high time to stop any illegal practices of Facebook especially transferring user data to third parties,” he said by email.
+
+“The sharing of highly sensitive data of non-consenting users with device manufacturers is an unprecedented violation of privacy laws and user trust. This is exactly one of the scenarios why GDPR was brought into force,” Caspar said, referring to the European privacy law that took effect last month.
+
+Facebook’s stock price plunged 10% in March amid the Cambridge Analytica scandal. Since then, it has more than recovered: On Friday, the shares closed at a record $193.99. They slipped 0.4% to $193.28 on Monday.
+
+Facebook is retooling its approach amid a global consumer and regulatory backlash. Critics accuse its news feed algorithm of spreading misinformation and terrorism content among 2 billion-plus users. (Facebook announced lax policies around sharing data with third parties led to the leak of information to consultancy Cambridge Analytica, which worked on successful Republican campaigns, including that of President Trump.)
+
+An app developer gave information on up to 87 million Facebook users to Cambridge Analytica, mostly without their permission, setting off a scandal over data privacy when it was reported this year. That developer was able to make the deal with the firm because the data was stored on his servers. Facebook said that in the device partnerships described by the New York Times, personal data were mostly processed on users’ phones.
+
+Facebook, however, doesn’t view device makers as outsiders — allowing them deeper access, the New York Times reported. It said it discovered some device partners could retrieve users’ relationship status, religion, political leanings and upcoming events, among other things.
+
+“We’re not aware of any people’s information being misused by these companies,” Archibong said.
+
+Roger McNamee, the Facebook investor who is now one of the company’s top critics, said that although the program may have restricted device makers’ access to Facebook users’ data, Facebook may not be fully aware of what was done with the data and some people may still have misused it.
+
+"We have to allow for the possibility that abuse has occurred," he said.
+
+4:25 p.m.: This article was updated with comments from Rep. David Cicilline, a spokeswoman for the House Energy and Commerce Committee, and investor Roger McNamee, as well as Facebook stock’s closing price.
+
+This article was originally published at 10:45 a.m.

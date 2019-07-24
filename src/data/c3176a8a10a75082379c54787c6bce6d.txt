@@ -1,0 +1,31 @@
+Slack's stock will soon start trading. Here's what you need to know about the non-IPO
+#tech #business
+New York (CNN Business)Slack shares are set to start trading Thursday on the New York Stock Exchange. But don't call it an IPO.
+The messaging tool, popular with big businesses, is not going public through a traditional route. Slack didn't have investment bankers to pitch its shares to institutional investors. There was no splashy roadshow.
+Instead, Slack investors will sell shares directly on the New York Stock Exchange under the ticker symbol WORK.
+The direct listing will allow Slack to avoid a pricey and time-consuming process. But there are risks. Most private companies, large and small, like having Wall Street take part in the IPO process.
+Bankers can help drum up support for a company with larger mutual funds as well as average investors. Newly public companies also tend to get praised by the analysts at the investment banks that helped them debut on Wall Street.
+So is Slack, which is set to be valued at about $17 billion once it begins trading, making a mistake with a direct listing? The last major company that went public this way — Spotify — has underperformed so far as a public company.
+First big direct listing since Spotify
+Shares in Spotify (SPOT) are pretty much flat since they began trading on the NYSE in April 2018. Meanwhile, the Nasdaq is up 15% during the same time frame and rival Apple (AAPL) has gained 18%.
+Spotify's lackluster trading history may be more due to the fact that Apple has stepped up its streaming efforts to take on Spotify more directly — and not because Spotify listed shares directly as opposed to an IPO.
+"Business software companies have a much better business model than something like Spotify. You have a recurring revenue stream and it's not as easy to switch from one provider to another," said Jai Das, president at venture capital firm Sapphire Ventures.
+Nonetheless, Slack will not have the benefit of big Wall Street firms doing all they can to make the IPO succeed. Underwriters often step in and buy a newly traded stock to keep it from falling below a certain price on IPO day.
+For better or for worse, underwriters also help price a stock at just the right level so it can have a big opening surge that can attract even more investor interest.
+"The absence of a potentially notable pop, as seen with traditional IPOs, may also hamper Slack's retail demand," said Alejandro Ortiz, an analyst at SharesPost, a company that lets people sell shares of private companies before an IPO.
+Slack not profitable and sales growth is slowing
+Questions about the company's lack of profits could be a problem as well, just as it has been for fellow unicorns Uber (UBER) and Lyft (LYFT).
+Slack reported a net loss of $138.9 million in its last fiscal year. That follows losses of $140.1 million and $146.9 million in the preceding two years. It also posted a loss of $31.9 million in the first quarter of 2019, up from a loss of $24.9 million a year earlier.
+Losses for a relatively new tech firm aren't surprising. But the bigger problem is the fact that sales growth is already starting to slow too.
+While revenue did surge a healthy 82% last year, that's still a pullback after sales more than doubled in the prior year. And sales growth slowed further in the most recent quarter, rising 67%.
+Slack's slowing sales growth and continued losses should concern investors, says DJ Kang, CEO of consumer finance research firm ValueChampion.
+Kang adds that the company will face increased competition from Microsoft (MSFT) — which reportedly tried to buy Slack a few years ago and was turned down. Microsoft now has its own workplace collaboration tool called Teams that is integrated within its Office 365 cloud platform and Skype.
+Then again, Slack could wind up getting a halo effect from other recent IPOs that have taken Wall Street by storm, such as Beyond Meat (BYND), video conferencing firm Zoom (ZM), cybersecurity company CrowdStrike (CRWD), incident management software firm PagerDuty (PD)and online pet supplies seller Chewy.
+Slack more like successful software debuts than Uber and Lyft
+Slack's big business focus should help it, said Michael Lin, director of accounting and transaction services at consulting firm MorganFranklin.
+"Slack should do really well because it's an enterprise company. Look at PagerDuty, Zoom and CrowdStrike. They all got high valuations," Lin said. "Slack has even stronger brand recognition."
+Lin also noted that the fact that Slack is choosing a direct listing shows that it doesn't have to raise a lot of capital by selling new shares — stock that would hurt the value of its current investors.
+"The direct listing tells me this is a company that is not in need of financing, which is a good sign. Plus, there is no dilution for existing shareholders," Lin said.
+And if all else fails in the public markets, Slack could once again become the subject of takeover rumors.
+James Gellert, CEO of RapidRatings, a research firm that analyzes companies' default risks, said if Slack doesn't stem its losses, he wouldn't be surprised to see big tech companies like Google owner Alphabet (GOOGL) or software firm Salesforce (CRM) try to buy it.
+"This is a classic acquisition target," Gellert said.

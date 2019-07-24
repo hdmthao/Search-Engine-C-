@@ -1,0 +1,49 @@
+Title: To Map a Coral Reef, Peel Back the Seawater
+
+This scientist couple created an airborne observatory to map tropical forests. Now they’re using it to identify threatened reefs.
+
+Coral reefs comprise just 1 percent of the ocean floor yet they are home to 25 percent of the world’s marine fish, a growing source of protein for people. But reefs are imperiled by a range of threats including warming waters, acidifying seas, destructive fishing methods, and agricultural and other runoff.
+
+Moreover, scientists have only a rough idea of the extent of reefs worldwide; a reef thought to be 1,000 acres might be 1,500 or just 500. Of the reefs that have been accurately mapped, little is known about their health, the kinds of fish that live there, or the composition of coral species.
+
+The problem is seawater. The oceans are vast, making reefs hard to pinpoint, and the water’s surface is difficult for satellite and airborne cameras to see through.
+
+Now, a team of scientists led by Greg Asner and Robin Martin of Arizona State University, has developed a suite of technologies to overcome these obstacles. The instruments are mounted on a low-flying plane and together make up the Global Airborne Observatory, which effectively can peel back the seawater and map the seafloor to a depth of 50 feet, in three dimensions. (A huge proportion of the world’s most threatened reefs are in such shallow water, because ocean-warming events mainly occur near the sea surface.)
+
+Mapping reefs typically involves swimming with sonars or dragging them behind a boat, which makes for very slow progress. The Global Airborne Observatory can map 250,000 acres a day, at resolution of 4 centimeters.
+
+“If their methods are good to 50 feet deep, it’s a huge advance,” said Nancy Knowlton, a marine scientist at the Smithsonian Institution’s National Museum of Natural History. “People who work on coral reefs are so hungry for anything that could help in the conservation realm.”
+
+Dr. Asner, director of Arizona State’s new Center for Global Discovery and Conservation Science, and Dr. Martin, a biochemist and remote-sensing expert, are married. They worked side by side for years inventing techniques to map tropical forests. They climbed trees in Madagascar and the Amazon to collect leaf samples, which Dr. Martin would analyze in the lab, to determine their chemical composition. Later, Dr. Asner would fly over the forests in an early version of the observatory: a small plane outfitted with technology capable of measuring the wavelengths of light — most of it invisible to the human eye — that bounce off the forest canopy.
+
+By linking the trees’ spectral signatures to their chemical makeup, the two scientists created the most detailed maps of forests yet devised. Their maps have been used in Peru to identify locations for new national parks, and in South Africa to figure out how to improve lion habitat.
+
+Dr. Asner and Dr. Martin are recreational scuba divers, each with thousands of hours of experience underwater. “We used to keep it separate from the tropical trees career,” Dr. Asner said. But a few years ago they realized their scientific methods had advanced far enough to be applied to coral reefs.
+
+“We’re interested in the ecology of all the corals,” Dr. Asner said. He spoke by phone from a beach on the western side of Hawaii’s Big Island, where he was trying to decide whether the water was calm enough for a dive. In 2016, the Hawaii governor David Ige announced a plan to protect 30 percent of the state’s reefs by 2030 — the Marine 30x30 Initiative. This past winter, Dr. Asner and Dr. Martin went there to generate maps of the corals’ health.
+
+Currently just 12 percent of Hawaii’s waters are under state management. Last year, the Airborne Observatory mapped reefs in the Caribbean that in 2017 were hit hard by back-to-back hurricanes. The initial iteration of that map, produced in collaboration with the Nature Conservancy, already has been used to design the largest marine protected area in the Dominican Republic.
+
+“In the forest work, once we got to scale and saw patterns, then we could say something bigger,” said Dr. Martin. “The reefs community needed that. We realized the spectroscopy from the plane could help us get there.”
+
+The maps created by Dr. Asner and Dr. Martin reveal refuges of live coral — areas where corals are persisting, to be managed and protected — and the types of seafloor habitat that will support coral nurseries and help accelerate restoration efforts.
+
+Mapping corals first requires getting close enough to touch them. Dr. Asner and Dr. Martin dive to collect samples, and later, back in the lab, determine how the corals’ chemical makeup corresponds to their spectral signatures.
+
+Next, the team searches for those spectra from, on average, several thousand feet overhead. Cameras detect colors outside the range of human vision that correspond to the chemistry of the corals. As the chemistry changes with the corals’ health, the cameras pick it up. Bleaching, which can lead to death, is precipitated by a change in the chemistry that the cameras can see before the bleaching begins to take place. With this knowledge, interventions can be planned and reefs can be managed.
+
+The suite of tech onboard the Airborne Observatory, now in its third generation, is unique. Its imaging spectroscopy device, which shows light beyond the visible range, was designed by NASA. Its lidar instrument works like radar but with light instead of radio waves: Twin lasers emit 500,000 pulses of light per second and record the echoes, revealing the location and three-dimensional shape of every object beneath the plane. High-resolution cameras collect data at 4-centimeter resolution. By combining those three methods (with some help from artificial intelligence), Dr. Martin and Dr. Asner made a significant advance in remote mapping.
+
+Each device has different geometries and measurement patterns that must be aligned to make an accurate map, or it would look like a 3-D movie viewed without the glasses. An inertial motion unit, built by Grumman for use on military warheads, and so sensitive that its location must be reported to the State Department to make sure the technology is handled properly, aligns the images.
+
+The flights collect the spectral signature of every pixel, each a mixture of 427 colors. (Imagine a printer with 427 ink cartridges.) Back in the lab, deep-learning algorithms can sift the data to determine whether a coral is alive or dead, whether it is bleached (and therefore at risk of death) or on its way to becoming so, and even, in some cases, which species it is.
+
+In their forest work, Dr. Asner and Dr. Martin have discovered the spectral signatures of 30,000 tree species, almost half the world total. Now they are about 6 percent of the way toward building a spectral-chemical library for all 830 known species of coral.
+
+“Whereas the pool of species is way lower, this is way harder,” Dr. Asner said.
+
+“I’m after conservation applications that have real efficacy. We have plenty of journal papers. We’re pushing the scientific community to make their work much more solutions-based, instead of a latency period where things are being researched forever.”
+
+Author: By Paul Tullis
+Date: June 10, 2019
+Source: 

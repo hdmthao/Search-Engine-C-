@@ -1,0 +1,29 @@
+How atmospheric sounders work
+
+Everything that has a temperature radiates. We radiate. Snow cones and swimming pools and pine trees radiate. So do the molecules of all the gases that make up the atmosphere. If scientists know where in the electromagnetic spectrum to look, they can measure the radiation of different molecules at different altitudes: water, carbon dioxide and ozone, for example. With a knowledge of how these different molecules vibrate or rotate, which has been determined in the lab, plus the use of modern infrared and microwave instruments to secure these measurements, scientists can provide temperature, along with moisture, or gas composition, at those altitudes.  
+
+Kaplan had tapped into the idea that temperature, simply, is a measure of the kinetic motion of molecules. Infrared sounders, which “see” in the infrared part of the electromagnetic spectrum, are highly sensitive to the vibration and rotation of certain molecules as they absorb and emit radiation, which means that temperature can be determined by recording that kinetic motion with great precision. The only problem is infrared sounders cannot see through thick clouds.
+
+Microwave sounders operate in the microwave region of the spectrum. And they have an important advantage when it comes to understanding weather: they can see through clouds. Temperature readings from microwave sounders also play an important role in the global climate record: the measurements that show global temperature trends over time.  
+
+“When we combine the infrared and microwave instruments, we get a more complete story,” Barnet said.  “The sum is greater than the parts. The two instruments complement each other such that we gain insight to clouds, surfaces, temperature from the surface all the way to the mesosphere, and water vapor in the troposphere.”
+
+‘The Kaplan Experiment’
+
+The first satellite to take soundings of the Earth from orbit was Nimbus-3, which launched on April 14, 1969, carrying two spectrometers: the Satellite Infrared Spectrometer (SIRS) and the Infrared Interferometer spectrometer (IRIS), developed by NASA Goddard’s Rudy Hanel. This was known at the time as “the Kaplan experiment.” On launch day, Smith and his colleague, Harold Woolf, stayed up all night processing and hand-plotting a day’s worth of global data and delivered their analysis the following morning to the National Meteorological Center.
+
+“Oh my god, this is incredible,” Smith recalls the head of operations saying, when he looked at the data.
+
+That same morning, in a blow to the airlines, weather forecasts had missed strong headwinds in the Western Pacific. It was the kind of miscalculation that could result in travel delays, added expense to the airlines, and even force planes flying from U.S. to Tokyo to stop and refuel. A meteorologist can determine the direction and intensity of wind by looking at temperature patterns. And temperature data from the brand-new satellite clearly showed the jetstream that forecasts had missed.
+
+People would come to rely on the Nimbus fleet of satellites for forecasts on daily weather and extreme storms, along with search and rescue. And the sounding technology quickly outgrew Earth when planetary scientists realized its value in understanding the climates of far-off worlds. Sounders that flew on the Mariner, Voyager and Cassini missions gave scientists insight into the temperature and composition of Mars and the outer planets.  
+
+60 years of sounders
+
+In his seminal paper, Kaplan had predicted that “Earth satellites hold the promise of continuous and truly global sounding of the atmosphere.” Sixty years later, they’ve achieved just that.
+
+Over the years, atmospheric soundings have become increasingly more sensitive and precise at measuring wavelengths. In the mid-1980s, scientists developed a new way of seeing the Earth from space called “hyperspectral sounding.”  Spectral resolution refers to the ability of a satellite instrument to distinguish features at various wavelengths with high precision. The spectral resolution of the newer operational weather instruments was orders of magnitude higher.
+
+While the Nimbus-3 SIRS instrument, for example, had eight spectral channels for sounding the atmosphere, the Atmospheric Infrared Sounder (AIRS), a hyperspectral instrument that launched in May 2002, has 2,378 channels in the infrared range.  The Suomi-NPP and NOAA-20 satellites, which orbit the Earth from pole to pole, each crossing the equator 14 times a day, have two advanced hyperspectral sounders on board: the Cross-Track Infrared Sounder (CrIS), which has 2,211 channels, and the Advanced Technology Microwave Sounder (ATMS), which has 22 channels.
+
+“This led to a dramatic improvement in weather forecasting,” Smith said in a presentation delivered for the Nimbus 50th Anniversary Celebration in 2014. “The microwave sounding systems and the hyperspectral infrared are the biggest contributors to the weather forecasts now, much greater than the radiosonde. In other words, the forecast accuracy degrades the most if you exclude these instruments.”  

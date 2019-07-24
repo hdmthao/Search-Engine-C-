@@ -1,0 +1,19 @@
+May 24, 2019
+Hubble Spies Curious Galaxy Moving a Little Closer
+M90
+This Hubble image stars Messier 90, a beautiful spiral galaxy located roughly 60 million light-years from the Milky Way in the constellation of Virgo (the Virgin). The galaxy is part of the Virgo Cluster, a gathering of galaxies that is over 1,200 strong.
+
+This image combines infrared, ultraviolet and visible light gathered by the Wide Field and Planetary Camera 2 on the NASA/ESA Hubble Space Telescope. This camera was operational between 1994 and 2009, producing images with an unusual staircase-like shape as seen here. This is because the camera was made up of four light detectors with overlapping fields of view, one of which gave a higher magnification than the other three. When the four images are combined together in one picture, the high-magnification image needs to be reduced in size in order for the image to align properly. This produces an image with a layout that looks like steps.
+
+Messier 90 is remarkable; it is one of the few galaxies seen to be traveling toward the Milky Way, not away from it. The galaxy’s light reveals this incoming motion in a phenomenon known as blueshift. In simple terms, the galaxy is compressing the wavelength of its light as it moves towards us, like a slinky being squashed when you push on one end. This increases the frequency of the light and shifts it towards the blue end of the spectrum. As our universe is expanding, almost all of the galaxies we see in the universe are moving away from us, and we therefore see their light more towards the red end of the spectrum, known as redshift. Messier 90, however, appears to be a rare exception.
+
+Astronomers think that this blueshift is likely caused by the cluster’s colossal mass accelerating its members to high velocities on bizarre and peculiar orbits, sending them whirling around on odd paths that take them both towards and away from us over time. While the cluster itself is moving away from us, some of its constituent galaxies, such as Messier 90, are moving faster than the cluster as a whole, making it so that, from Earth, we see the galaxy heading towards us. However, some are also moving in the opposite direction within the cluster, and thus seem to be streaking away from us at very high velocity.
+
+Messier 90 is featured in Hubble’s Messier catalog, which includes some of the most fascinating objects that can be observed from Earth’s Northern Hemisphere. See the NASA-processed image and other Messier objects at: https://www.nasa.gov/content/goddard/hubble-s-messier-catalog.
+
+Text credit: ESA (European Space Agency)
+Image credit: ESA/Hubble & NASA, W. Sargent et al.
+
+Last Updated: May 30, 2019
+Editor: Rob Garner
+Tags:  Galaxies, Goddard Space Flight Center, Hubble Space Telescope, Universe

@@ -1,0 +1,131 @@
+Kingdom Come: Deliverance Wiki
+Contents
+1	Features
+2	System requirements
+3	Hero
+4	Freedom of choice
+5	The World
+5.1	Freedom to do whatever you want, whenever you want, wherever you want
+5.2	Emergent Gameplay
+5.3	Advanced Reputation and Law System
+6	Quests
+6.1	Death to the Tired Cliches
+6.2	Branching Dialogue
+6.3	Skill-based Minigames
+7	Combat
+7.1	Weapons
+7.2	Battles and Castle Sieges
+7.3	Horses
+8	RPG System
+8.1	Character Customization
+8.2	Technology
+9	FAQ
+See also: Historical background
+Bohemia ? located in the heart of Europe, the region is rich in culture, silver, and sprawling castles. The death of its beloved ruler, Emperor Charles IV, has plunged the kingdom into dark times: war, corruption, and discord are tearing this jewel of the Holy Roman Empire apart.
+
+One of Charles' sons, Wenceslas, has inherited the crown. Unlike his father, Wenceslas is a naive, self-indulgent, unambitious monarch. His half-brother and King of Hungary, Sigismund the Red Fox, senses weakness in Wenceslas. Feigning good will, Sigismund travels to Bohemia and kidnaps his half-brother. With no king on the throne, Sigismund is now free to plunder Bohemia and seize its riches.
+
+In the midst of this chaos, you're Henry, the son of a blacksmith. Your peaceful life is shattered when a mercenary raid, ordered by King Sigismund himself, burns your village to the ground. By bittersweet fortune, you are one of the few survivors of this massacre.
+
+Without a home, family, or future you end up in the service of Lord Radzig Kobyla, who is forming a resistance against the invasion. Fate drags you into this bloody conflict and shoves you into a raging civil war, where you help fight for the future of Bohemia.
+
+Redeem your past and emerge a hero!
+
+Features
+Story.jpg
+The-hero.jpg
+Freedom-of-choice.jpg
+Combat.jpg
+Weapons.jpg
+Technology.jpg
+Character-customization.jpg
+Massive realistic open world: Majestic castles, vast fields, all rendered in stunning high-end graphics.
+Non-linear story: Solve quests in multiple ways, then face the consequences of your decisions.
+Challenging combat: Distance, stealth, or melee. Choose your weapons and execute dozens of unique combos in battles that are as thrilling as they are merciless.
+Character development: Improve your skills, earn new perks, and forge and upgrade your equipment.
+Dynamic world: Your actions influence the reactions of the people around you. Fight, steal, seduce, threaten, persuade, or bribe. ItÅfs all up to you.
+Historical accuracy: Meet real historical characters and experience the genuine look and feel of medieval Bohemia.
+System requirements
+Minimum	Recommended
+Requires a 64-bit processor and operating system
+OS: OS 64-bit Windows 7 or 64-bit Windows 8 (8.1)
+Processor: Intel CPU Core i5-2500K 3.3 GHz, AMD CPU Phenom II X4 940
+Memory: 8 GB RAM
+Graphics: Nvidia GPU GeForce GTX 660, AMD GPU Radeon HD 7870
+DirectX: Version 11
+Storage: 40 GB available space
+Sound Card: Integrated
+Requires a 64-bit processor and operating system
+OS: OS 64-bit Windows 7 or 64-bit Windows 8 (8.1)
+Processor: Intel CPU Core i7 3770 3,4 GHz, AMD CPU AMD FX-8350 4 GHz
+Memory: 16 GB RAM
+Graphics: Nvidia GPU GeForce GTX 1060, AMD GPU Radeon RX 580
+DirectX: Version 11
+Storage: 40 GB available space
+Sound Card: Creative SOUND BLASTER Zx
+Hero
+In the midst of this plunder and chaos, a son of a blacksmith will emerge as a hero. His home destroyed and his family murdered by the invading army, he must redeem his failure to protect those he loved and set things right again. Avenging the dead, safeguarding the kingdomÅfs rightful ruler, and restoring order will prove no small feat for you or our adventurer. But beware - this is not a fantasy fairytale, and you are not the chosen one! This will be a tough, dirty job that only a champion with enough wits and strength will survive.
+
+Freedom of choice
+Your character is defined by your choices. Your abilities and stats grow depending on what you do. You decide how you want to appear. Every quest can be solved in multiple ways. Branched dialogue trees grant you the freedom to express yourself. Your reputation is based on your choices, and every choice you make carries appropriate consequences. There are no class restrictions, you can do anything you want to - Stand tall as a brave knight in powerful armour, sneak behind enemy lines as an invisible thief, or win hearts as a popular bard.
+
+The World
+Freedom to do whatever you want, whenever you want, wherever you want
+The exploration of the world is free. If you donÅft want to play the main quest line, it will ÅgwaitÅh for you, and you can go about exploring the world and doing other stuff ? side quests, random events, hunting, crafting, small side stories, and much more. A giant world based on beautiful, real-world locations. The world covers approx. 9 sq km2 (3.5 sq. miles), with a sprawling city, vast forests, majestic castles, and dozens of villages and hamlets devastated by war. Of course, there will also be underground locations to discover, like mines, secret passages, and catacombs.
+
+Emergent Gameplay
+Our world is a living, breathing, and COMPLEX ecosystem, ready to be toyed with. Everything happens for a reason, every character has his/her daily routine, and every routine can be affected by the player. Characters are able to react properly to all player actions and adjust their routines to them.
+
+Advanced Reputation and Law System
+The world will organically react to your deeds. NPCs will report your crimes to authorities, who will punish you for your crimes accordingly, either with a fine, time in jail, or by subjecting you to the stocks or torture. Crime will affect economics and NPC behavior; people will get suspicious or aggressive after unresolved crimes. Your reputation will spread by word of mouth.
+
+Quests
+WeÅfre not trying to create the biggest game ever; we want to concentrate on quality rather than quantity. Instead of 200 generic dungeons, weÅfd like to focus on just a few, crafting each one as something unique, memorable, and special. Our world is large, but again, the focus is on creating a natural, organic space, not one so overpopulated (find out more about this in our blog, here). The same philosophy applies to quests. We donÅft want to inundate players with an insane amount of quests, but rather ensure that those we have are rich in detail, with multiple solutions (including non-violent approaches, where appropriate) suiting different play styles and making an impact on the world.
+
+Death to the Tired Cliches
+Sick of killing rats in the basement? Or being treated like a messenger, transporting stuff from point A to point B? So are we! ThatÅfs why our quests are different. Play as a medieval investigator searching for a mass murderer, lay siege to a bandit fort with an army at your back, experience epic battles between armoured knights, interrogate, bribe, threaten, love, help, fightÅc ItÅfs up to you to decide what to do. There are multiple ways to finish every quest - use your sword, quick fingers, or your wit.
+
+Branching Dialogue
+Conversation is an integral aspect of Kingdom Come: Deliverance, just as important as combat and just as difficult. It isnÅft possible to absentmindedly click through every dialogue option. Your time to make decisions is limited, your choices affect your relationships with others, and you cannot take back what you say. Just like in real life, you have to think carefully about what you say to whom.
+
+Skill-based Minigames
+Almost everything that can be turned into a game will be playable ? and that extends to crafting, as well. Blacksmithing doesnÅft happen in menus but rather with a hammer at a forge. These mini-games are skill-based and affected by a playerÅfs stats. YouÅfll be able to forge, sharpen, and repair weapons, create potions and ointments through alchemy, pick locks and pockets, distill alcohol, and prepare food.
+
+Combat
+Our combat mechanics are the most challenging feature of our game. TheyÅfre based on actual 15th century techniques and designed in cooperation with medieval martial arts experts to be as authentic as possible. The controls are very similar to first-person shooters and, thanks to a few tricks, we have a large amount of different moves and combos. On top of that, the whole thing is based on real-time physics and inverse kinematics, so when you hit something, your hands and weapon, not just your target, react accordingly, which is something that was not possible on last-gen hardware.
+
+Weapons
+You can specialize in different fighting styles and weapon classes and will constantly learn new moves and techniques, as well as unlock new weapons and armours. Every weapon has its own uses, pros, and cons. The sword is universal, but weak against plate armour; hammers are ideal against plate armour, but weak against sword; the longsword is strong, but slow, and cannot be used from horseback, etc. We will have several weapon classes: swords, longswords, daggers, sabers, axes, hammers, shields, bows, and crossbows.
+
+Battles and Castle Sieges
+You are no superhero - fighting multiple enemies at the same time is very difficult. It is often a good idea to have allies at your side (and, at times, a lot of them). Our goal is to have as many characters in fights as possible and to offer players big battles and castle sieges to take part in. Not many battles, mind you - more like one or two in the first act. For us, a battle is a climax, not a ÅewowÅf moment that needs to happen every two minutes. The precise scope of these battles and the amount of characters on screen are still things we are evaluating ? they are complicated feats to pull off even on next-gen hardware.
+
+Horses
+Horses are your primary means of transportation in our sprawling world, but you can fight from horseback, as well. War horses can be used as living weapons with special moves and attacks (strafing, running backwards, several different kicks, etc.). Horses also serve as a secondary inventory for the player. WeÅfll have three types of horses in-game (courser, destrier, rouncey), and each offers different abilities, stats, skills, and perks. Your steed levels up on its own throughout the journey, and even comes with five slots for armour and attachments.
+
+RPG System
+What would a role-playing game be without character development and customization? Your character in Kingdom Come: Deliverance will have STATS (Strength, Speed, Agility, Vitality, and Speech), CONDITIONS (Stamina, Health, Hunger, and Sleep), SKILLS (Swordsmanship, Archery, Alchemy, and many others), and PERKS (special combat moves, crafting abilities, or varying advantages). Conditions change as you become injured, exhausted, etc. Stats and skills will increase when you use them. Perks can be unlocked or learned. Stats and conditions can be temporarily or permanently modified by alchemy. You must also eat and sleep - you need to keep your character alive, after all!
+
+Character Customization
+Thanks to our clothing system, you can create the ultimate armoured knight. We have 20 slots for weapons, clothes, and attachments, as well as 4 layers (!) of clothing or armour on every character. ThatÅfs a lot of customization options! Different types of armour are effective against different weapons. Your clothes and their state affect your charisma and reputation, which, in turn, influence NPC reactions toward you. They also affect your visibility and the noise you produce, which affect your stealth skills.
+
+Technology
+We are using CryEngine to power our game. ItÅfs a powerful, out-of-the-box toolset that runs on all major platforms and allows us to concentrate on the game instead of technology. It's been used to create cutting-edge games like the Crysis trilogy and Ryse, as well as the crowd-funded project Star Citizen. CryEngine affords us with unparalleled macro and micro details, including unlimited viewing distance, HD textures on all objects, and a functional day/night cycle with varying weather patterns, all set in a vast, beautifully lit, seamless world, free of cumbersome load times.
+
+FAQ
+Q: I donÅft understand the concept of Acts. What is Act I, II and III? Why there is not cheaper tier offering all three Acts?
+A: Kingdom Come: Deliverance, Act I, as it is planned, is a full scale, stand-alone game. It has 30+ hours of gameplay, complete open world map, all quests and closed story line. Most (if not all) game mechanics described above will be included: horse riding, combat, castle sieges, there will be at least one large-scale battle. Acts II & III extend the story, add new environment in separate maps, new quests, gear and weapons. They will also add new quests to the map of Act I. It will be possible to travel between maps of all Acts, some quests will require you to visit all of them.
+We definitely intend to make Acts II & III and release them as soon as possible. However, our funding and schedule does not reach past first Act. We will finalize our plans for the release of Acts II & III when we get closer to the release date of Act I. For these reasons we donÅft want to offer and promise them as a Kickstarter reward in their own right. We want to use them as a token of our gratitude to higher tiers backers, but you should think about it more like 100% discount offer than a guaranteed reward.
+Q: What platforms are offered to backers on Kickstarter and what is minimum requirement of PC version?
+A: We are developing the game to run smoothly on Åggood gaming PCÅh and next-gen consoles. If you have a PC, hardware-wise similar to Xbox One or PS4, you should be able to run Kingdom Come: Deliverance well.
+About platforms: we are using proven technology (Cryengine by CryTek) that runs on both PS4 and Xbox One, as well as on Windows PC, Mac and Linux. While we are developing on PC, we definitely want to bring the game to other platforms. While there should be nothing but technical problems with Linux and Mac, on closed platforms we need to deal with the platform holders and we cannot prejudge their decision. In an ideal world, we would release the game on all five platforms at the same time.
+In our world, we can offer you PC version in all tiers. From the ÅgBaronÅh tier above, you will be able to choose our game on any platform you wish from those mentioned above (i.e. Windows PC / Mac / Linux / Xbox One / PS4), with the proviso that on consoles the game must be approved by the platform holders first. In case we are not able to finish or release the game on the platform you chose for any reason, you will be able to choose again (from available platforms) or demand your money back.
+Q: But how can I choose a specific platform while pledging?
+A: You donÅft need to! Just choose a pledge that suits you. Your pledge will be filed and if itÅfs of Baron tier or higher you will be asked to choose a platform once the release date draws nigh. You can change this any time later ? we will inform you how to do that via an e-mail.
+Q: Can I download the game even if I buy the physical reward tier?
+A: On Soldier, Knight and Baron tiers you have to choose between digital and physical copy of the game. We anticipate that there will be some costs associated with digital distribution (and we know there are going to be costs with the physical copies) and for this reason we have created an option to choose one or the other and we cannot fulfill both. From Earl tier upwards you will get both physical and digital version of the game.
+Q: Do you plan to support Occulust Rift?
+A: Cryengine supports Occulus Rift by default, so general answer is: yes. We plan to support this awesome hardware gadget.
+Q: What language versions do you plan?
+A: WeÅfre creating the game in English and with English voiceovers. We would like to make French, Italian, German and Spanish versions of the game as well.
+Our past experience also suggests there will be a Polish, Russian and Czech version of the game, not necessarily with voiceovers, though.

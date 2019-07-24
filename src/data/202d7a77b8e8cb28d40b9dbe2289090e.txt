@@ -1,0 +1,20 @@
+Seek and you shall find -- bees remain excellent searchers even when ill
+Honeybees are hardwired to efficiently search the landscape enabling them to continue working for the greater good of their hives even when they are sick, according to new research co-authored by Queen Mary University of London (QMUL). Radar technology has been used to show for the first time that bees remain nimble and able to search and respond to their environment even when they have infections or viruses.
+
+Honeybees tirelessly commute between rewarding flower patches and their hive, often hundreds or even thousands of metres apart. Their remarkable navigational skills rely on distinct landmarks, such as trees or houses, which they very efficiently find and memorise on orientation flights.
+
+Experts fitted a transponder, a tiny dipole aerial much lighter than the nectar or pollen normally carried by the bee, to the thorax of the bee. Tracking each bee individually they would pick up a radar signal form the transponder showing where and how it was flying.
+
+Co-author Professor Juliet Osborne from University of Exeter, said: "We tracked the individual flying bees with a harmonic radar system. This involves attaching a very lightweight aerial to their back but it doesn't affect how fast they fly, or how much nectar they collect. It is still the only method for getting these really detailed data on where the bee flies."
+
+Bees, like humans, can fall ill and getting around during periods of sickness can become very challenging. However, this study shows that even very sick bees are still able to optimally search their surroundings in so-called Lévy flight patterns.
+
+Lead author of the study, Dr Stephan Wolf from QMUL's School of Biological and Chemical Sciences, said: "The honeybees we observed had remarkably robust searching abilities, which indicate this might be hardwired in the bees rather than learned, making bees strong enough to withstand pathogens and possibly other stressors, and allowing them to still contribute to their colony by for example, foraging for food."
+
+Lévy search patterns are a natural mathematical pattern found across the animal kingdom, including in early human hunter-gathers, and describe certain movements like stalking for prey or searching for mates. The pattern alternates between clusters of short steps interjected with longer steps in between, which allows the individual to efficiently comb through large surface areas.
+
+Writing in the journal Scientific Reports, the team monitored six groups of bees who were affected with a virus and a fungus-like disease to varying degrees. The flight behaviour of 78 bees was observed.
+
+The researchers discovered that the unhealthy bees didn't fly as far or for as long as the healthy bees but they continued to search in the same manner, suggesting that the pattern was inbuilt.
+
+The work opens up new avenues to better understand and ultimately mitigate a number of adverse factors affecting the way animals interact with their environment, including ecological key species such as bee pollinators.

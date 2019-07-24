@@ -1,0 +1,24 @@
+
+Can I buy a future-proof laptop to last 10 years?
+Ed wants to buy a Windows laptop that will last as long as possible, and is willing to pay up to 2,000
+
+Jack Schofield
+
+
+Thu 30 May 2019 08.00BST
+
+
+Last modified on Thu 30 May 2019 08.01BST
+
+
+I want to buy a Windows laptop that is as future-proof as possible. I have been looking at ones with at least a Core i7 processor, 16GB of memory, USB-C Thunderbolt 3 ports and a 13-14in high-resolution screen. I am really struggling to identify the one I should get.
+I realise the specs are perhaps overkill for my mixture of office productivity programs and media use. However, I intend to keep this laptop for seven to 10 years, and I want it to cope with updates and new software in the future. My budget is about 1,500-2,000. Ed
+Its not easy to buy a future-proof laptop because the industry is moving in the opposite direction. The trend is towards ultra-thin laptops where the processor, memory and storage chips are all soldered in and cannot be upgraded. Further, sealed cases are making it increasingly difficult to replace failing keyboards, cracked screens and glued-in batteries. Unless laptops are still under warranty, it may be simpler to replace them than to repair them.
+If you want to buy a laptop for long-term use, check iFixits website for a teardown and a repairability score. At the moment, Microsofts Surface Laptop is the worst product, with a score of zero. This beats the dozen or so Apple MacBooks that all score 1 out of 10. On the good side, there are products that score 10, such as the HP EliteBook 840 G3 and the Dell Latitude E5270. The HP EliteBook 1050 is among the laptops that score 9.
+iFixit doesnt do many teardowns  and, shockingly, hasnt done a Lenovo ThinkPad  so you should try other sources such as Laptopmain, Notebookcheck and AnandTech. Also, search the web for a laptops service manual to see how easy it is to repair and upgrade. The harder it is, the less future-proof it is.
+In general, its safer to buy laptops designed for business users rather than consumers. Many IT departments expect to be able to replace batteries and install memory and SSD themselves. Business laptops are also built to higher standards, and should be more durable in the long run.
+As the old saying has it, prediction is difficult, especially about the future. A decade ago, you might have opted for fast FireWire ports, but you wouldnt have foreseen the importance of M.2 slots for SSDs, the change from USB Type-A to Type-C ports, or Thunderbolts adoption. And if you had, it wouldnt have mattered, because there is nothing you could have done about them.
+In reality, you only have three things to worry about: memory, storage and battery life.
+Now, the first option is to buy as much as you will ever need. This means you will pay the highest possible price  especially if youre buying a MacBook Pro  and you will almost certainly buy more than you need.
+The alternative is to buy a well-made laptop that you can upgrade in five years or so. Barring disasters, memory chips and SSDs will be cheaper, and your system will benefit accordingly.
+To do this, your laptop must have one or preferably two memory slots, one or two M.2 slots, and possibly 

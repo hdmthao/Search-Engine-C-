@@ -1,0 +1,5 @@
+How to see exactly which Google Chrome tabs, websites, and extensions are slowing down your computer
+It's no secret that Google Chrome is often the culprit behind a slow computer, even if your computer is relatively new.
+Open enough tabs in Chrome and you can easily eat up all your RAM, which doesn't leave much for other things you might be doing on your computer. Extensions can use up your computer's processor, too.
+One way to check whether Chrome is to blame for slowing down a perfectly good computer is to check your computer's processes. On Macs, that means checking Activity Monitor. For Windows PCs, check the Task Manager.
+If you're seeing that Chrome is hogging a bunch of your resources like RAM and CPU, you could go one step further and check exactly which tabs, websites, and extensions are causing the biggest slowdowns on your computer.

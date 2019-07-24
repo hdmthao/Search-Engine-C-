@@ -1,0 +1,42 @@
+The supernova that wasn't: A tale of 3 cosmic eruptions
+1800s, astronomers surveying the night sky in the Southern Hemisphere noticed something strange: Over the course of a few years, a previously inconspicuous star named Eta Carinae grew brighter and brighter, eventually outshining all other stars except Sirius, before fading again over the next decade, becoming too dim to be seen with the naked eye. What had happened to cause this outburst? Did 19th-century astronomers witness some strange type of supernova, a star ending its life in a cataclysmic explosion?
+
+"Not quite," says Megan Kiminki, a doctoral student in the University of Arizona's Department of Astronomy and Steward Observatory. "Eta Carinae is what we call a supernova impostor. The star became very bright as it blew off a lot of material, but it was still there."
+
+Indeed, in the mid-20th century Eta Carinae began to brighten again.
+
+The aftermath of the "Great Eruption" of the mid-1800s, which is now readily visible through a small telescope if you happen to be in the Southern Hemisphere, made Eta Carinae a celebrity among objects in the universe known for their bizarre beauty. An hourglass-shaped, billowing cloud of glowing gas and dust enshrouds the star and its companion. Known as the Homunculus nebula, the cloud consists of stellar material hurled into space during the Great Eruption, drifting away at 2 million miles per hour.
+
+By carefully analyzing images of Eta Carinae taken with NASA's Hubble Space Telescope, Kiminki and her team were surprised to discover that the Great Eruption was only the latest in a series of massive outbursts launched by the star system since the 13th century. Published in the journal Monthly Notices of the Royal Astronomical Society, the paper was co-authored by Nathan Smith, associate professor in the UA's Department of Astronomy, and Megan Reiter, who obtained her Ph.D. from the same department last year and is now a postdoctoral fellow at the University of Michigan.
+
+The expansion rate of gas that was far outside the Homunculus indicated that it was moving slowly and must have been ejected centuries before the observed 19th-century brightening. In fact, the motions of the outer material point to two separate eruptions in the mid-13th and mid-16th centuries.
+
+For scientists trying to piece together what makes star systems such as Eta Carinae tick, the findings are like the stereotypical smoking gun in a detective story.
+
+"From the first reports of its 19th-century outburst up to the most recent data obtained with advanced capabilities on modern telescopes, Eta Carinae continues to baffle us," Smith says. "The most important unsolved problem has always been the underlying cause of its eruption, and now we find that there were multiple previous eruptions. This is a bit like reconstructing the eruption history of a volcano by discovering ancient lava flows."
+
+Although the glowing gases of the Homunculus nebula prevent astronomers from getting a clear look at what's inside, they have figured out that Eta Carinae is a binary system of two very massive stars that orbit each other every 5.5 years. Both are much bigger than our sun and at least one of them is nearing the end of its life.
+
+"These are very large stars that appear very volatile, even when they're not blowing off nebulae," Kiminki says. "They have a dense core and very fluffy envelopes. If you replaced our sun by the larger of the two, which has about 90-100 solar masses, it could very well extend into the orbit of Mars."
+
+Because the Homunculus nebula is such an iconic and visually stunning object, it has been a popular target of astronomical observations. A total of eight images, taken over the course of two decades with Hubble, turned out to be a treasure trove for Kiminki and her co-authors.
+
+The original goal of the team's observing program was to measure proper motions of stars and protostellar jets -- fast streams of matter ejected by young stars during formation -- in the Carina Nebula, but the same data also provided a powerful way to measure the motion of debris ejected by Eta Carinae itself.
+
+"As I was aligning the images, I noticed that the one that Eta Carinae in it was more difficult to align," Kiminki says. "We can only use objects as alignment points that aren't moving, and I thought, 'Wow, a lot of this stuff is really moving.' And then we decided to take a closer look."
+
+By aligning the multi-epoch images of the nebula, the team was able to track the movement of more than 800 blobs of gas Eta Carinae had ejected over time and derived a likely ejection date for each. The analyses showed that the Homunculus nebula and the observed 19th-century brightening tell only part of the story. Measuring the speed with which wisps of ejected material expand outward into space revealed that they must have resulted from two separate eruptions that occurred about 600 and 300 years before the Great Eruption of the 19th century.
+
+In addition to having a separate origin in time, the older material also showed a very different geometry from the Homunculus, where material was ejected out from the star's poles and appears symmetric about its rotation axis.
+
+"We found one of the prior eruptions was similarly symmetric, but at a totally different angle from the axis of the Great Eruption," Kiminki explains. "Even more surprising was that the oldest eruption was very one-sided, suggesting two stars were involved, because it would be very unlikely for one star to blow material out toward just one side."
+
+Though perplexing, the findings are a big step forward for astronomers trying to understand what causes the frequent outbursts.
+
+"We don't really know what's going on with Eta Carinae," Kiminki says. "But knowing that Eta Carinae erupted at least three times tells us that whatever causes those eruptions must be a recurring process, because it wouldn't be very likely that each eruption is caused by a different mechanism."
+
+"Even though we still have not figured out the underlying physical mechanism that caused the 19th-century eruption, we now know that it isn't a one-time event," Smith says. "That makes it harder to understand, but it is also a critical piece of the puzzle of how very massive stars die. Stars like Eta Carinae apparently refuse to go quietly into the night."
+
+Eta Carinae's eruptions provide unique insights into the last unstable phases of a very massive star's life. Researchers who study supernovae have identified a subclass of supernova explosions that appear to suffer violent eruptions shortly before they finally explode. Smith notes that Eta Carinae might be our nearest example of this.
+
+Because it takes light 7,000 years to travel from Eta Carinae to Earth, much could have happened in the meantime, Kiminki says. "Eta Carinae may have gone supernova by now, and we wouldn't know until 7,000 years from now."

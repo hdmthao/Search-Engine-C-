@@ -1,0 +1,39 @@
+Google's eerily human phone bot is ready for the real world
+
+For one minute and ten seconds on Tuesday, I worked in a trendy hummus shop and took a reservation from a guy who punctuated his sentences with "awesome" and "um."
+
+"Hi, I'm calling to make a reservation," the caller said, sounding a lot like a stereotypical California surfer. Then he came clean: "I'm Google's automated booking service, so I'll record the call. Um, can I book a table for Saturday?"
+
+The guy was Google Duplex, the AI-assisted assistant that made a stir in May when CEO Sundar Pichai unveiled it at its Google I/O developer conference. That demo, shown in a slick video, was so impressive that some people said it had to be fake.
+
+Not so, says Google (GOOG), which invited clusters of reporters to Oren's Hummus Shop near its campus in Mountain View, for a hands-on demonstration. Each of us got to field an automated call and test the system's limits.
+
+As we took our turns at the phone -- an old-school contraption with a cord -- it became clear that Duplex works well in limited situations. It can say how many people are in a party, ask what times are available, and provide basic info like a phone number. It stays mum if you ask about dietary restrictions, and politely dodges off-topic questions about the weather.
+
+Related: Google unveils Android P features, Google Assistant updates and more
+
+My reservation was for Saturday at 6pm. I instinctively referred to the bot as "you" and called it "your reservation," even though it was for a fictional fellow named Andrew.
+
+The intimate demo was the opposite of the big to-do at I/O, in which a female Duplex voice called a hair salon, impressing the audience with its liberal use of "uh" and "mhmm" without ever disclosing it wasn't human. Only later did people wonder if it was ethical.
+
+What are the ethics of making people think they're talking to a real person? Do services like Duplex need permission from the person on the other end before recording the call? And just how high a tolerance do people have for something that could be used for creepy, even criminal pursuits, in different hands?
+
+Google has tried to address the criticisms. Duplex now calls itself a "automated booking service," which some may assume is a human, and declares it's recording the call. Many states, including California, require everyone on the line to give consent before recording. If businesses are uncomfortable with the concept, they can opt out of receiving Duplex calls.
+
+Scott Huffman, the VP of engineering for Google Assistant, conceded that the demo at I/O in May "maybe made it look a little too polished." That's because Pichai tends to focus on Google's grand visions for the future, Huffman said.
+
+Tuesday was about the real world. Duplex is trained only to interact with restaurants and hair salons -- not using it to call customer service. An early version of Duplex that Google played sounded like a robot channeling a British butler. Now the system uses natural-sounding male and female voices.
+
+Related: Can Google replace photographers with an algorithm?
+
+Duplex peppers conversations with verbal tics to help conversations progress naturally, said Nick Fox, the VP of product for Google Assistant. A properly placed "um," for example, can indicate to the human that the system is still listening. You can tell something is fishy when Duplex gets confused over simple but unexpected questions, and the when it recites phone numbers in a robotic cadence.
+
+If a conversation goes off the rails, a human operator at a Google's call centers takes over. At one point Tuesday, Duplex told a reporter "I think I got confused. Hold on, let me get my operator" before handing the call over to a human.
+
+Google built Duplex by recording calls between humans and feeding the data into a computer. It used the resulting algorithm to make lots of human-assisted AI calls, before turning the AI lose as a human kept watch. Fox says four out of five calls in its tests are now fully automated without the need for help from a human operator. The company would not say how many tests it has run.
+
+Now it will do tests with real people and companies. It will start with calls about opening hours in the next few weeks. Later this summer, Duplex will make restaurant reservations and hair appointments.
+
+The tests will be limited to an undisclosed number of approved partner restaurants and salons. The product won't be available to the general public yet. Google says it's doing these demos and sharing updates along the way to be more transparent and address concerns as they come up.
+
+In Google's world, Duplex could be so commonplace that perky AI bots would handle both ends of a call while humans enjoy more free time. As the Duplex guy would say, that could be "awesome."

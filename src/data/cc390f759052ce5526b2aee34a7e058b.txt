@@ -1,0 +1,65 @@
+
+nasa.gov
+Exploring the Moon Promises Innovation and Benefit at Home
+Sean Potter
+6-7 minutes
+
+Walking on another world was science fiction until NASA’s Apollo program made it a reality. Fifty years later, we look back on the benefits of Apollo and imagine how the digital age could transform now that America’s sights are set on returning humans to the Moon by 2024 under the Artemis program.
+
+Apollo 16 commander John Young
+
+Iconic photos remind us of the boot prints and flags astronauts left behind, but the lesser known ripple effects of exploring the Moon are more numerous here on Earth.
+
+Credits: NASA
+
+High tech development
+
+Building a computer for space was a challenge that required hundreds of engineers. The Massachusetts Institute of Technology developed the computer that guided astronauts to the Moon and safely returned them to Earth. While less powerful than a smartphone, the technology was about a decade ahead of its time. The computer was considered compact at 70 pounds — miniaturized from the size of seven side-by-side refrigerators to a one-foot cube.
+
+Apollo hardware miniaturization provided the foundation for our current generation of pocket-size devices. The software, a term far less common in the early 1960s than it is today, formed the basis of modern computing.
+
+In preparation of landing the first woman and next man on the Moon in five years, NASA is advancing space-based computing with a small processing chip. “The Apollo Guidance Computer only allowed for 85,000 instructions per second,” explained Game Changing Development Program Executive LaNetra Tate. “Our High Performance Spaceflight Computing platform will allow for 15 billion instructions per second — so, a much faster computer.”
+
+Exciting discoveries
+
+With the help of technology, Apollo changed our understanding of the inner solar system, including our perspective of Earth.
+
+The Apollo 7 and 9 missions stayed in Earth orbit and took photographs of our planet in different wavelengths of light. This new vantage point provided scientists with insights beyond what was possible from the ground and contributed to the Landsat program that began just a few years later. Over the years, this collection of hard-working satellites has collected daily information about the health of our home planet by observing forests, farms, urban areas, freshwater sources and more.
+
+The six crewed Moon landing missions brought back more than 800 pounds of lunar rocks. The samples continue to excite the scientific community. NASA recently selected researchers across the country to study untouched lunar samples with twenty-first century technology.
+
+There is still more to learn. Apollo astronauts only collected samples from a few places on the Moon. Spacecraft in orbit around the Moon revealed unexplored regions of interest to scientists. Future astronauts will land at the Moon’s south pole and use new tools to learn about this area that’s rich with water ice and possibly other resources.
+
+Illustration of astronauts on the lunar surfact
+
+The president directed NASA to land American astronauts on the Moon by 2024, and the agency is working to accelerate humanity’s return to the lunar surface.
+
+Credits: NASA
+
+Unexpected spinoffs
+
+Many Apollo-era technologies resulted in the invention of new products. These spinoffs were an unintended, but welcome, benefit of Apollo. From cordless power tools to reflective insulation, chances are that a bit of the space program has made its way into your home.
+
+Among the most famous Apollo spinoff technologies is the Dustbuster vacuum. Apollo astronauts needed a portable drill capable of extracting core samples as deep as 10 feet below the lunar surface. Black and Decker refined the space technology to develop the first cordless miniature vacuum.
+
+Today, NASA averages about 1,700 inventions per year and continues to transfer technology for public benefit. “The more NASA is tasked with solving difficult challenges, the greater the likelihood that we will need to invent new solutions,” said Technology Transfer Program Executive Daniel Lockney. “Going forward to the Moon in a sustainable way will require new technologies, and these innovations could very well improve everything from household chores to medical procedures.”
+
+STEM workforce
+
+Challenging missions require a robust, talented workforce. Apollo inspired an entire generation to pursue careers in science, technology, engineering and mathematics. Between the mid-1960s and 1970s, there was a threefold increase in STEM-related doctoral degrees.
+
+NASA also poured resources into American education during the Apollo era, building facilities and contributing to the development of faculty and labs at universities and colleges across the country.
+
+The agency still collaborates with academia, industry, small businesses and international partners to solve complex challenges. The expertise and interests of a diverse group of partners are essential to building an open, agile and sustainable architecture for the Moon, and eventually Mars.
+
+The Apollo missions captured the world’s attention. Humanity watched American astronauts venture closer to and ultimately land on the Moon. The benefits of Apollo didn’t stop when the excitement settled. Many can still be felt today, and there’s more to come when NASA returns humans to the Moon — this time, to stay.
+
+Charged with returning to the Moon within five years, NASA’s lunar exploration plans are based on a two-phase approach: the first is focused on speed — landing on the Moon by 2024 — while the second will establish a sustained human presence on and around the Moon by 2028. We then will use what we learn on the Moon to prepare to send astronauts to Mars.
+
+For more information about NASA’s Moon to Mars exploration plans, visit:
+
+https://www.nasa.gov/moontomars
+
+Last Updated: June 6, 2019
+
+Editor: Sean Potter

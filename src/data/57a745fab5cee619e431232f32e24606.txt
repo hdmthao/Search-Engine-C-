@@ -1,0 +1,27 @@
+DNA site's hack is fresh reminder to think twice about ancestry testing
+
+DNA testing packages are becoming increasingly popular, especially as gifts, but the sensitivity of the genetic information they collect has raised privacy alarms.
+
+Now add hacking to that list of concerns.
+
+DNA testing site MyHeritage said this week that more than 92 million users' email addresses and hashed passwords had been stolen, affecting any user who had signed up until October 26. The data had been sitting for months on a private server until an outside security researcher alerted the Israel-based company. MyHeritage said the breach didn't contain sensitive data such as DNA and individuals' family trees.
+
+But that personal data, such as users’ medical histories and biological relationships, can be accessed through legal means.
+
+DNA testing has its upsides, but that cheek swap you send in to a private genome company may mean you’re sacrificing the privacy of you and your family. Buzz60
+
+More: Took an ancestry DNA test? You might be a 'genetic informant' unleashing secrets about your relatives
+
+More: Ancestry DNA tests: How accurate, how secure and how private?
+
+It was Florida-based GEDmatch, which pools raw genetic profiles that people share publicly, that led investigators to identify Joseph James DeAngelo as the "Golden State Killer," a suspect in the rapes and murders that terrorized California in the 1970s and ‘80s.
+
+MyHeritage's website states it only releases user data to third parties in “limited circumstances,” which include requests from legal authorities. Both Ancestry.com and 23AndMe have said they won't release information to the authorities unless they receive a court order.  
+
+Not every DNA testing company has this policy, however: GEDmatch's privacy policy doesn’t have any requirement for a court order to release user data and even says that "users participating in this site should expect that their information will be shared with other users." 
+
+Police in New Orleans used genealogy data from Ancestry.com to identify a local filmmaker as a suspect in a 2014 Idaho murder, but he was cleared after his DNA didn’t match what was found at the crime scene. His DNA had been sold to Ancestry after he had given it to a church-sponsored genealogy project years earlier.
+
+In response to the hack, MyHeritage advised its users to change their passwords and said it would be rolling out two-factor ID authentication. The company was advertising a $59 test kit that would help the user uncover ethnic roots and find new relatives.
+
+Contributing: The Associated Press

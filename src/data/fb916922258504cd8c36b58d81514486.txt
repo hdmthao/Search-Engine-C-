@@ -1,0 +1,33 @@
+Dota Underlords
+
+June 13, 2019 - Dota Team
+A few weeks ago we posted about our love of Auto Chess and how we were working on our own standalone version of it. In that same post we promised we would share information about the game soon. As it turns out, “soon” is today.
+ 
+Dota Underlords
+
+Dota Underlords is a new stand-alone game that pits you against seven opponents in a battle of wits that will have you building, combining, and leveling-up a crew in a battle of dominance for the city of White Spire. In this game, victory is determined not by twitch reflexes, but by superior tactics.
+
+DOTA 2 BATTLE PASS PREVIEW
+
+For the last few weeks, we've been running a Friends and Family Beta, and today we're expanding it to include all Dota 2 Battle Pass owners. With your help, we'll be stress testing our servers as we prepare for our Open Beta. In the preview version, you'll be able to:
+
+Play online against seven other players.
+Practice offline against our lineup of advanced bots (from easy to hardcore difficulty).
+Party up and play together against bots or other players.
+Battle Pass owners can find a link to add Dota Underlords to their Steam library on the Dota 2 dashboard. After approximately a week of stress testing we'll transition to Open Beta.
+
+OPEN BETA
+
+Once the open beta begins, Dota Underlords will be available to everyone for free on Steam (Windows, Mac, and Linux), Android, and iOS. In addition, the team will be enabling the first set of new features, including:
+
+Ranked matchmaking.
+Cross-play across all devices.
+Rank and progression shared across all devices.
+Because the game is in active development, both the Preview and Open Beta have one important thing in common: we'll need your help to make the game the best it can be as we work towards Season One.
+
+BETA FEEDBACK
+
+We're sharing Dota Underlords fairly early in development. And while we intend to constantly be updating the game and adding features throughout the Beta Season, your feedback is critical to help the team know what issues are important to you. On the main screen we've added a ‘Submit Feedback' button to the game. Feel free to wear it out. Tell us what you love, and tell us what could be better. We welcome it all.
+
+See you in the game,
+The Underlords Team

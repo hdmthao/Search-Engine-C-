@@ -1,0 +1,30 @@
+Coinbase is struggling to keep up with customer queries
+This story was delivered to Business Insider Intelligence "Fintech Briefing" subscribers. To learn more and subscribe, please click here.
+
+US-based cryptocurrency company Coinbase has been the subject of many concerns recently, with the US Securities and Exchange Commission (SEC) and the California Department of Business Oversight reportedly receiving 134 pages of complaints from Coinbase users about their issues with the platform.
+The documents were obtained by Mashable following a 5-month FOIA process. This illustrates that the company may be underprepared for its own success and user growth.
+
+Here are the problems that Coinbase is currently facing:
+
+Users are having trouble accessing their funds. Some users have reported that, when trying to send money from one Coinbase account to another, the funds were never received. Others have said they were locked out of their account, which meant they were unable to trade or use cryptocurrencies. Not being able to access funds is a major issue when trading cryptocurrencies, due to their high volatility. Coinbase was reportedly highly unresponsive to those complaints, leading to many customers with still unresolved issues.
+Coinbase's user growth seems to be outpacing its resources. In October 2017, Coinbase boasted 11.7 million users, up 148% from 4.7 million users the year before. This rapid growth is a positive for Coinbase, as it illustrates the company's success and popularity. However, it has also probably made it difficult for Coinbase to keep up with customer queries, thereby inhibiting it from providing many of its users with suitable solutions.
+Coinbase should focus on how it can enhance its customer service. Having so many complaints is bad for Coinbase's reputation, as well as its customers who can't use their crypto funds. Moreover, the fact that both the SEC and the California Department of Business Oversight are aware of these issues further shows how serious the matter is. Therefore, Coinbase should put all its efforts into improving its customer service, to keep its customers happy, but also to ensure that it will be off the regulators' radar.
+
+Of the many technologies reshaping the world economy, distributed ledger technologies (DLTs) are among the most hyped. DLTs are most often associated with cryptocurrencies like Bitcoin, but such coverage sidelines the broader use cases of DLTs, even though they stand to make a far bigger impact on the broader the financial services (FS) industry.
+
+DLT's value lies in its ability to centralize record-keeping, while cutting out the need for authorization by an overseeing party, instead allowing a record to be confirmed by multiple parties with access to the database. This means DLTs have the potential to streamline financial institutions' (FIs) operations, boost data security, improve customer relationships, and drastically cut costs. But many FIs have struggled to implement DLTs and reap the rewards, because of organizational obstacles, but also because of issues rooted in the technology itself. There are a few players working to make the technology more usable for FIs, and progress is now being made.
+
+In a new report, Business Insider Intelligence takes a look at what DLTs are and why they hold so much promise for FS, the sectors in which DLTs are gaining the most traction and why, and the efforts underway to remove the obstacles preventing wider DLT adoption in finance. It also examines the few FIs close to unleashing their DLT projects, and how DLTs might transform the nature of FS if adoption truly takes off.
+
+Here are some of the key takeaways from the report:
+
+DLTs are proving attractive to FIs because of their ability to act as a single source of truth, distribute information securely, cut out middlemen, improve transaction times, and cut redundancy and costs.
+DLTs like blockchain and smart contracts stand to save the FS industry up to $50 billion a year through improved operational efficiencies, reduced human error, and better regulatory compliance.
+The technology is being explored actively across FS, with trade finance, insurance, and capital markets proving especially active. Overall adoption is still low because of organizational and technical hurdles, but these are now being eliminated, promising to boost implementation.
+A few FIs have pulled ahead of the curve and are very close to taking their DLT projects live, if they haven't already. These players can serve as useful case studies for other institutions in getting their DLT solutions live.
+In full, the report:
+
+Looks at what DLTs are, and why the FS industry is working hard to make use of them.
+Gives an overview of the financial segments which are seeing the most DLT activity, and what they stand to gain.
+Outlines efforts being made to make DLT more approachable and usable for the FS industry.
+Examines use cases in which FIs have managed to take their pilots live, and what they can teach their peers.

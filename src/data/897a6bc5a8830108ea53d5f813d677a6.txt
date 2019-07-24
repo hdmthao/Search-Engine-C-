@@ -1,0 +1,22 @@
+NSA reportedly collected US call data without authorization… again
+This comes months after the agency deleted millions of call records.
+
+National Security Agency logo
+The National Security Agency obtained more call records in 2018.
+
+Brooks Kraft/Getty Images
+In 2016, the National Security Agency gathered 151 million call records even though Congress made rules to reduce the federal government's sweeping surveillance of Americans' phone records. A new report shows the NSA might have collected additional call data it wasn't authorized to obtain again last year.
+
+The American Civil Liberties Union released documents on Wednesday that it says show the NSA's "unlawful" collection of call detail records, or CDRs, of Americans in October 2018. This comes months after the NSA purged millions of call records. 
+
+"These documents further confirm that this surveillance program is beyond redemption and a privacy and civil liberties disaster," Patrick Toomey, staff attorney with the ACLU's National Security Project, said in a letter Wednesday. "The NSA's collection of Americans' call records is too sweeping, the compliance problems too many, and evidence of the program's value all but nonexistent. There is no justification for leaving this surveillance power in the NSA's hands."
+
+The organization received the documents after it filed a Freedom of Information Act lawsuit for those records in April.  
+
+In an emailed statement Wednesday, the NSA said it identified additional "data integrity and compliance concerns" since last summer.
+
+"Those data integrity and compliance concerns have also been addressed and reported to NSA's overseers, including the congressional oversight committees and the Foreign Intelligence Surveillance Court," said the NSA. "We are not able to comment further on these concerns because they involve operational details of the program that remain classified."
+
+In 2013, Edward Snowden leaked details of NSA surveillance programs including the collection of CDRs, or data created when phone calls are made. Congress passed the USA Freedom Act of 2015, which revised the Patriot Act of 2001 and curtailed the phone surveillance program.
+
+In March, Luke Murray, the national security adviser for House minority leader Kevin McCarthy, a Republican from California, said the agency hadn't used the system to collect CDRs for the previous six months.

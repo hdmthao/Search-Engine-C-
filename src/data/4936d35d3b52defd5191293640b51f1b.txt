@@ -1,0 +1,32 @@
+Linking RNA structure and function
+Several years ago, biologists discovered a new type of genetic material known as long noncoding RNA. This RNA does not code for proteins and is copied from sections of the genome once believed to be "junk DNA." Since then, scientists have found evidence that long noncoding RNA, or lncRNA, plays roles in many cellular processes, including guiding cell fate during embryonic development. However, it has been unknown exactly how lncRNA exerts this influence.
+
+Inspired by historical work showing that structure plays a role in the function of other classes of RNA such as transfer RNA, MIT biologists have now deciphered the structure of one type of lncRNA and used that information to figure out how it interacts with a cellular protein to control the development of heart muscle cells. This is one of first studies to link the structure of lncRNAs to their function.
+
+"Emerging data points to fundamental roles for many of these molecules in development and disease, so we believe that determining the structure of lncRNAs is critical for understanding how they function," says Laurie Boyer, the Irwin and Helen Sizer Career Development Associate Professor of Biology and Biological Engineering at MIT and the senior author of the study, which appears in the journal Molecular Cell on Sept. 8.
+
+Learning more about how lncRNAs control cell differentiation could offer a new approach to developing drugs for patients whose hearts have been damaged by cardiovascular disease, aging, or cancer.
+
+The paper's lead author is MIT postdoc Zhihong Xue. Other MIT authors are undergraduate Boryana Doyle and Sarnoff Fellow Arune Gulati. Scott Hennelly, Irina Novikova, and Karissa Sanbonmatsu of Los Alamos National Laboratory are also authors of the paper.
+
+Probing the heart
+
+Boyer's lab previously identified a mouse lncRNA known as Braveheart, which is found at higher levels in the heart compared to other tissues. In 2013, Boyer showed that this RNA molecule is necessary for normal development of heart muscle cells.
+
+In the new study, the researchers decided to investigate which regions of the 600-nucleotide RNA molecule are crucial to its function. "We knew Braveheart was critical for heart muscle cell development, but we didn't know the detailed molecular mechanism of how this lncRNA functioned, so we hypothesized that determining its structure could reveal new clues," Xue says.
+
+To determine Braveheart's structure, the researchers used a technique called chemical probing, in which they treated the RNA molecule with a chemical reagent that modifies exposed RNA nucleotides. By analyzing which nucleotides bind to this reagent, the researchers can identify single-stranded regions, double-stranded helices, loops, and other structures.
+
+This analysis revealed that Braveheart has several distinct structural regions, or motifs. The researchers then tested which of these motifs were most important to the molecule's function. To their surprise, they found that removing 11 nucleotides, composing a loop that represents just 2 percent of the entire molecule, halted normal heart cell development.
+
+The researchers then searched for proteins that the Braveheart loop might interact with to control heart cell development. In a screen of about 10,000 proteins, they discovered that a transcription factor protein called cellular nucleic acid binding protein (CNBP) binds strongly to this region. Previous studies have shown that mutations in CNBP can lead to heart defects in mice and humans.
+
+Further studies revealed that CNBP acts as a potential roadblock for cardiac development, and that Braveheart releases this repressor, allowing cells to become heart muscle.
+
+Building a fingerprint
+
+Scientists have not yet identified a human counterpart to the mouse Braveheart lncRNA, in part because human and mouse lncRNA sequences are poorly conserved, even though protein-coding genes of the two species are usually very similar. However, now that the researchers know the structure of the mouse Braveheart lncRNA, they plan to analyze human lncRNA molecules to identify similar structures, which would suggest that they have similar functions.
+
+"We're taking this motif and we're using it to build a fingerprint so we can potentially find motifs that resemble that lncRNA across species," Boyer says. "We also hope to extend this work to identify the modes of action of a catalog of motifs so that we can better predict lncRNAs with important functions."
+
+The researchers also plan to apply what they have learned about lncRNA toward engineering new therapeutics. "We fully expect that unraveling lncRNA structure-to-function relationships will open up exciting new therapeutic modalities in the near future," Boyer says.

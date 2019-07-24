@@ -1,0 +1,68 @@
+June 13, 2019
+NASA’s Fermi Mission Reveals its Highest-energy Gamma-ray Bursts
+For 10 years, NASA’s Fermi Gamma-ray Space Telescope has scanned the sky for gamma-ray bursts (GRBs), the universe’s most luminous explosions. A new catalog of the highest-energy blasts provides scientists with fresh insights into how they work.
+
+“Each burst is in some way unique,” said Magnus Axelsson, an astrophysicist at Stockholm University in Sweden. “It’s only when we can study large samples, as in this catalog, that we begin to understand the common features of GRBs. These in turn give us clues to the physical mechanisms at work.”
+
+The catalog was published in the June 13 edition of The Astrophysical Journal and is now available online. More than 120 authors contributed to the paper, led by Axelsson, Elisabetta Bissaldi at the National Institute of Nuclear Physics and Polytechnic University in Bari, Italy, and Nicola Omodei and Giacomo Vianello at Stanford University in California.
+
+GRBs emit gamma rays, the highest-energy form of light. Most GRBs occur when some types of massive stars run out of fuel and collapse to create new black holes. Others happen when two neutron stars, superdense remnants of stellar explosions, merge. Both kinds of cataclysmic events create jets of particles that move near the speed of light. The gamma rays are produced in collisions of fast-moving material inside the jets and when the jets interact with the environment around the star.
+
+Astronomers can distinguish the two GRB classes by the duration of their lower-energy gamma rays. Short bursts from neutron star mergers last less than 2 seconds, while long bursts typically continue for a minute or more. The new catalog, which includes 17 short and 169 long bursts, describes 186 events seen by Fermi’s Large Area Telescope (LAT) over the last 10 years.
+
+Fermi observes these powerful bursts using two instruments. The LAT sees about one-fifth of the sky at any time and records gamma rays with energies above 30 million electron volts (MeV) — millions of times the energy of visible light. The Gamma-ray Burst Monitor (GBM) sees the entire sky that isn’t blocked by Earth and detects lower-energy emission. All told, the GBM has detected more than 2,300 GRBs so far.
+
+Below is a sample of five record-setting and intriguing events from the LAT catalog that have helped scientists learn more about GRBs.
+
+Fermi all-sky gamma-ray map with some GRBs labeled
+Green dots show the locations of 186 gamma-ray bursts observed by the Large Area Telescope (LAT) on NASA’s Fermi satellite during its first decade. Some noteworthy bursts are highlighted and labeled. Background: Constructed from nine years of LAT data, this map shows how the gamma-ray sky appears at energies above 10 billion electron volts. The plane of our Milky Way galaxy runs along the middle of the plot. Brighter colors indicate brighter gamma-ray sources.
+Credits: NASA/DOE/Fermi LAT Collaboration
+Download this and related multimedia in HD formats from NASA Goddard's Scientific Visualization Studio
+1. GRB 081102B
+The short burst 081102B, which occurred in the constellation Boötes on Nov. 2, 2008, is the briefest LAT-detected GRB, lasting just one-tenth of a second. Although this burst appeared in Fermi’s first year of observations, it wasn’t included in an earlier version of the collection published in 2013.
+
+“The first LAT catalog only identified 35 GRBs,” Bissaldi said. “Thanks to improved data analysis techniques, we were able to confirm some of the marginal observations in that sample, as well as identify five times as many bursts for the new catalog.”
+
+2. GRB 160623A
+Long-lived burst 160623A, spotted on June 23, 2016, in the constellation Cygnus, kept shining for almost 10 hours at LAT energies — the longest burst in the catalog. But at the lower energies recorded by Fermi's GBM instrument, it was detected for only 107 seconds. This stark difference between the instruments confirms a trend hinted at in the first LAT catalog. For both long and short bursts, the high-energy gamma-ray emission lasts longer than the low-energy emission and happens later.
+
+3. GRB 130427A
+
+This animation shows the most common type of gamma-ray burst, which occurs when the core of a massive star collapses, forms a black hole, and blasts particle jets outward at nearly the speed of light. Viewing into a jet greatly boosts its apparent brightness. A Fermi image of GRB 130427A ends the sequence.
+Credits: NASA’s Goddard Space Flight Center
+Download this and related multimedia in HD formats from NASA Goddard's Scientific Visualization Studio
+The highest-energy individual gamma ray detected by Fermi’s LAT reached 94 billion electron volts (GeV) and traveled 3.8 billion light-years from the constellation Leo. It was emitted by 130427A, which also holds the record for the most gamma rays — 17 — with energies above 10 GeV.
+
+A popular model proposed that charged particles in the jet, moving at nearly the speed of light, encounter a shock wave and suddenly change direction, emitting gamma rays as a result. But this model can’t account for the record-setting light from this burst, forcing scientists to rethink their theories.
+
+The original findings on 130427A show that the LAT instrument tracked its emission for twice as long as indicated in the catalog. Due to the large sample size, the team adopted the same standardized analysis for all GRBs, resulting in slightly different numbers than reported in the earlier study.
+
+4. GRB 080916C
+
+This movie shows Fermi Large Area Telescope observations of GRB 080916C. About 8 minutes of data are compressed into 6 seconds. Colored dots represent gamma rays of different energies. The blue dots represent lower-energy gamma rays; green, moderate energies; and red, the highest energies.
+Credits: NASA/DOE/Fermi LAT Collaboration
+Download this and related multimedia in HD formats from NASA Goddard's Scientific Visualization Studio
+The farthest known GRB occurred 12.2 billion light-years away in the constellation Carina. Called 080916C, researchers calculate the explosion contained the power of 9,000 supernovae.
+
+Telescopes can observe GRBs out to these great distances because they are so bright, but pinpointing their exact distance is difficult. Distances are only known for 34 of the 186 events in the new catalog.
+
+5. GRB 090510
+The known distance to 090510 helped test Einstein’s theory that the fabric of space-time is smooth and continuous. Fermi detected both a high-energy and a low-energy gamma ray at nearly the same instant. Having traveled the same distance in the same amount of time, they showed that all light, no matter its energy, moves at the same speed through the vacuum of space.
+
+“The total gamma-ray emission from 090510 lasted less than 3 minutes, yet it allowed us to probe this very fundamental question about the physics of our cosmos,” Omodei said. “GRBs are really one of the most spectacular astronomical events that we witness.”
+
+What’s missing?
+GRB 170817A marked the first time light and ripples in space-time, called gravitational waves, were detected from the merger of two neutron stars. The event was captured by the Laser Interferometer Gravitational Wave Observatory (LIGO), the Virgo interferometer and Fermi's GBM instrument, but it wasn’t observed by the LAT because the instrument was switched off as the spacecraft passed through a region of Fermi’s orbit where particle activity is high.
+
+“Now that LIGO and Virgo have begun another observation period, the astrophysics community will be on the lookout for more joint GRB and gravitational wave events” said Judy Racusin, a co-author and a Fermi deputy project scientist at NASA’s Goddard Space Flight Center in Greenbelt, Maryland. “This catalog was a monumental team effort, and the result helps us learn about the population of these events and prepares us for delving into future groundbreaking finds.”
+
+The Fermi Gamma-ray Space Telescope is an astrophysics and particle physics partnership managed by NASA's Goddard Space Flight Center in Greenbelt, Maryland. Fermi was developed in collaboration with the U.S. Department of Energy, with important contributions from academic institutions and partners in France, Germany, Italy, Japan, Sweden and the United States.
+
+Banner image: This illustration shows NASA’s Fermi Gamma-ray Space Telescope, which observes the sky in gamma rays, the highest-energy form of light. Credit: NASA's Goddard Space Flight Center
+
+By Jeanette Kazmierczak
+NASA’s Goddard Space Flight Center, Greenbelt, Md.
+
+Last Updated: June 14, 2019
+Editor: Rob Garner
+Tags:  Fermi Gamma-Ray Space Telescope, Gamma-Ray Bursts, Goddard Space Flight Center, Universe

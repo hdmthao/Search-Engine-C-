@@ -1,0 +1,20 @@
+Mediterranean diet associated with lower risk of death in cardiovascular disease patients
+28 Aug 2016: The Mediterranean diet is associated with a reduced risk of death in patients with a history of cardiovascular disease, according to results from the observational Moli-sani study presented at ESC Congress 2016 today.1 "The Mediterranean diet is widely recognised as one of the healthier nutrition habits in the world," said Professor Giovanni de Gaetano, head of the Department of Epidemiology and Prevention at the I.R.C.C.S. Neuromed Institute in Pozzilli, Italy. "In fact, many scientific studies have shown that a traditional Mediterranean lifestyle is associated with a lower risk of various chronic diseases and, more importantly, of death from any cause."
+
+"But so far research has focused on the general population, which is mainly composed of healthy people," he added. "What happens to people who have already suffered from cardiovascular disease? Is the Mediterranean diet optimal for them too?"
+
+The answer is yes, according to a study in patients with a history of cardiovascular disease, such as coronary artery disease and stroke. The patients were among the participants enrolled into the Moli-sani project, a prospective epidemiological study that randomly recruited around 25 000 adults living in the Italian region of Molise.2
+
+"Among the participants, we identified 1197 people who reported a history of cardiovascular disease at the time of enrolment into Moli-sani," said Dr Marialaura Bonaccio, lead author of the research.
+
+Food intake was recorded using the European Prospective Investigation into Cancer (EPIC) food frequency questionnaire. Adherence to the Mediterranean diet was appraised with a 9-point Mediterranean diet score (MDS). All-cause death was assessed by linkage with data from the office of vital statistics in Molise.
+
+During a median follow up of 7.3 years there were 208 deaths. A 2-point increase in the MDS was associated with a 21% reduced risk of death after controlling for age, sex, energy intake, egg and potato intake, education, leisure-time physical activity, waist to hip ratio, smoking, hypertension, hypercholesterolaemia, diabetes and cancer at baseline.
+
+When considered as a 3-level categorical variable, the top category (score 6-9) of adherence to the Mediterranean diet was associated with 37% lower risk of death compared to the bottom category (0-3).
+
+Professor de Gaetano said: "We found that among those with a higher adherence to the Mediterranean diet, death from any cause was reduced by 37% in comparison to those who poorly adhered to this dietary regime."
+
+The researchers deepened their investigation by looking at the role played by individual foods that make up Mediterranean diet. "The major contributors to mortality risk reduction were a higher consumption of vegetables, fish, fruits, nuts and monounsaturated fatty acids - that means olive oil," said Dr Bonaccio.
+
+Professor de Gaetano concluded: "These results prompt us to investigate the mechanism(s) through which the Mediterranean diet may protect against death. This was an observational study so we cannot say that the effect is causal. We expect that dietary effects on mediators common to chronic diseases such as inflammation might result in the reduction of mortality from any cause but further research is needed."

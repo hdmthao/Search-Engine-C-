@@ -1,0 +1,10 @@
+Amazon granted patent for surveillance drones service
+Flying robots watching your home may not be a feature customers will want.
+For years, Amazon has shown off how it'll use drones to deliver items to customers, and it's even developed a super-quiet drone for neighborhood deliveries. The company has a new patent that'll give these flying robots a second use: surveillance.
+Amazon received a patent for what it calls "Image creation using geo-fence data" from the US Patent and Trademark Office in early June. The application explains that unmanned aerial vehicles (UAVs), or drones, could be used to provide a secondary service of checking on an individual's property while the robots are out doing deliveries.
+As part of this service, customers can receive images or videos from the drones overlooking the property. UAVs would only be allowed to record the property of the individuals who consented and not those of their neighbors.
+"We take customer privacy very seriously," John Tagle, senior PR manager for Amazon, said in an email Friday. "Some reports have suggested that this technology would spy or gather data on homes without authorization -- to be clear, that's not what the patent says. The patent clearly states that it would be an opt-in service available to customers who authorize monitoring of their home."
+One company you might think would be worried about this is Sunflower Labs, a startup developing home security drones. But Chief Executive Alex Pachikov says he's happy with Amazon's patent.
+"I am actually very excited to see this," Pachikov said. "We've long believed that drones are ideally suited for security, and while Amazon's approach is different from ours, we are happy to see this market validated."
+ike many patents granted to tech companies, there's no telling if this drone security service will actually see the light of day. So far, Amazon's plans for drones and autonomous vehicles are for deliveries sometime in the future.
+CNET reporter Stephen Shankland contributed to this report.

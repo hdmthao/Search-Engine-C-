@@ -1,0 +1,66 @@
+Exclusive: Alexa, when's my next class? This university is giving out Amazon Echo Dots
+Elizabeth Weise, USA TODAY Published 10:11 a.m. ET June 20, 2018 | Updated 1:50 p.m. ET June 20, 2018
+facebook sharetwitter shareemail shareemail share
+Echo Dot
+Echo Dot (Photo: Amazon)
+
+SAN FRANCISCO – Shower caddy? Check. Twin sheets? Check. Echo Dot ... check? 
+
+Starting this fall, some students at Northeastern University in Boston will be given the option of getting an Echo Dot smart speaker linked to their university accounts. They’ll be able to ask Amazon’s Alexa what time their classes are, how much money’s left on their food card and even how much they owe the bursar’s office. 
+
+The program gives students instant access to information they would have to call or go online for, as well as taking pressure off the school’s offices. It also makes Amazon’s digital assistant a go-to source for a generation who will inhabit a world in which talking to computers is commonplace and who will soon have paychecks to spend.
+
+At the same time, it raises questions about security and privacy for young adults living in close quarters, often on their own for the first time.
+
+
+The specialized Alexa skill is called Husky Helper, after Northeastern’s mascot. The developers started their work by asking for a list of the most common questions students asked when calling the school’s student services phone lines. 
+
+“Some students were calling up to ask things like how much they owed on their university account and having to wait on hold for 40 minutes” because the call center representatives had to go through several systems to get the answer, said Somen Saha, co-CEO of n-Powered , the tech start-up that created the school-specific Alexa skill.
+
+They then linked to the different university databases that contained that information and pulled it into the Husky Helper skill so l that would allow students could ask for answers using their voices rather than the phone or a computer.
+
+The skill was piloted with around 60 students in the 2017-2018 school year. In the fall the program will be rolled out to a larger group of students at the school. N-Powered says it's working with several other universities to create similar skills for their students.
+
+The process is by no means one-click. In the pilot, each student was given an Echo Dot,  a smaller Amazon’s Alexa digital assistant-enabled smart speakers. They had to register an account with Amazon, then authenticate it. Then they had to sign a Family Educational Rights and Privacy Act document to allow access to their student records.
+
+Next they logged into the program’s portal with their student ID number, and were in return sent a personalized invitation to their Northeastern email address to validate their account. 
+
+Finally they tied that account to their Amazon account. At that point they were given the option of deciding what information they wanted to make available to it, everything from class schedules to tuition payment information.
+
+The students began using it for a wide range of questions. Some were pretty straightforward. For example, one of the top requests was their current meal card balance
+
+The campus of Northeastern University in Boston, Mass.
+The campus of Northeastern University in Boston, Mass. (Photo: Northeastern University)
+
+Others at first seemed out of left field.
+
+"Is my health insurance waiver on file?” kept coming up, said Joel Evans, n_Powered's co-CEO. Eventually they realized the university requires students to either be signed up for the school’s health plan or file a waiver saying they are on another plan. If they haven’t done either, they’re blocked from many systems until they do.
+
+One telling sequence the developers noticed was student first asking when their next class was, then asking Alexa to set an alarm for 15 minutes before that. 
+
+The students also had access to the general range of Alexa skills and used them to set reminders, listen to music and ask for weather reports. 
+
+One hang-up: If there are multiple Echo devices in earshot, the nearest one always replies. For students who shared a dorm room who each had an Echo, that was a problem.
+
+But they quickly figured out that if they changed the wake word of one of them (Echo, Amazon and computer are all possibilities) they could each get information from their own accounts.
+
+Amazon is already present on some college campuses, where students can pick up Amazon delivery purchases at special Amazon lockers. But extending Amazon Echo and Alexa's platform to these younger customers is newer ground. 
+
+It also raises thorny privacy questions for young adults who are living in close quarters and usually living on their own for the first time. 
+
+Alexa can’t differentiate between different people's voices, so a prying roommate could be an issue, said Paul Bischoff, a privacy advocate with Comparitech.com, a security and privacy review site.
+
+“There's also the problem of third parties simply overhearing otherwise private information spoken aloud by Alexa,” he said.
+
+Some sensitive information isn’t accessible at all. For example, if a student asks for their grades or about a financial hold on their accounts, the skill gives them the contact details for the responsible university personnel, said Saha.
+
+Neither Amazon nor the university store personalized information from the skill about what students ask or how they use the skill. The developers do get to see in aggregate how popular certain topics are, which helps them hone the skill as more students use it.
+
+The “born digital” generation is remarkably savvy about its digital privacy, so students may be able to figure out how to adapt to privacy vulnerabilities. 
+
+ “They might be adapting their behavior and routines to which platform they’re one. They could use the phone for some questions, Alexa for others,” said Leah Plunkett, a law professor at the University of New Hampshire and fellow at the Berkman Klein Center for Internet & Society at Harvard University.
+
+Which isn’t to say someone won’t find a way to misuse it, whether as a prank or simply at a late-night drunken party.
+
+"I’d be surprised," said Plunkett, "if you don’t see a genre of hilarious but privacy-invading stories about Alexa in college dorm rooms.”
+

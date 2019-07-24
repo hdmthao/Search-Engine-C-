@@ -1,0 +1,79 @@
+This laptop is like a better, cheaper MacBook Pro
+
+You might not consider Huawei a major brand in the laptop world, but the Huawei MateBook X Pro (available at Microsoft for $1,499.99) might just change your mind. Despite being better known for smartphones and other tech, the Chinese manufacturer has nevertheless produced one of the most polished laptops we've ever seen. Though it clearly draws inspiration from the 13-inch MacBook Pro, it's way more than just a clone.
+
+This thing will knock your socks off with its snappy performance, and keep them off with its long battery life. With a brilliant display, oversized touchpad, and reasonable starting price, the X Pro has plenty to offer. If you prefer Windows over macOS, it's a great alternative to the MacBook Pro.
+
+That's not to say it's flawless. Heavy processing tasks heat it up in your lap, and the webcam's location in the keyboard (strange, I know) might frustrate some users—and that's not to mention how much of a fingerprint magnet the chassis is. Still, if you're looking for a gorgeous, powerful ultraportable that won't break the bank, the X Pro is an excellent choice.
+
+About the Huawei MateBook X Pro
+The MateBook X Pro comes in just two configurations. The entry-level version ($1,199.99 on the Microsoft store) features an Intel Core i5-8250U processor, 8GB of RAM, and 256GB of SSD storage. We're working with the souped-up model ($1,499.99 on the Microsoft store), which comes equipped with an Intel Core i7-8550U processor and 16GB of RAM. Here are the specs at a glance:
+
+CPU: Intel Core i7-8550U
+GPU: NVIDIA GeForce MX150
+Display: 13.9-inch 3K LTPS touchscreen
+Memory: 16GB RAM
+Storage: 512GB SSD
+Battery: 57 Whr
+Ports: USB-A, USB-C, Bluetooth, WiFi
+Weight: 2.93 lbs
+
+The high-end configuration also has a discrete graphics card, meaning there's a separate processor that handles anything to do with graphics. While we really like the top-tier model, we feel the base configuration is a better option for the average user. It's zippy enough for light tasks and it's about $200 cheaper. That said, for a premium laptop, the top-tier model is aggressively priced.
+
+You also can't upgrade the X Pro after you buy it, as there's no easy way to access the internals. You'd basically need to pop off the feet just to get inside, which is a big no-no. So, if you need additional RAM or storage, make sure you pick those options at checkout. Unless you're a professional or very tech-savvy, I'd advise against going in and tinkering with the components yourself.
+
+What We Like
+The high-res display is lovely
+Emitting well over 500 nits (at max brightness), this display is one of the brightest we've seen in a Windows laptop. When I watched the trailer for Won't You Be My Neighbor?, Mr. Rogers' pastel neighborhood looked really vibrant and welcoming. Between the extremely thin bezels and colorful picture, this is an awesome screen for design work.
+
+The display is also coated in Corning Gorilla Glass, which helps repel fingerprints. Did it work? Eh, not really. After a couple day, smudges started showing up all over the screen. I'm not sure I'd say it's a massive problem or anything, but it's just one of those things to consider. It isn't anything a microfiber cloth can't fix.
+
+Screen
+You're getting a good selection of ports
+The MateBook X Pro has a decent port selection. In addition to two USB Type-C ports, you're also getting one USB Type-A port. This is great for hooking up to an external monitor or mouse. While Huawei includes an adapter at no extra charge, it's nice to have the option to forego it.
+
+Ports 1
+The oversized touchpad is wonderful
+There's nothing more frustrating than dealing with a finicky touchpad. Thankfully, the X Pro has a pretty good one. Not only is it huge, it sits in the center below the keyboard, which is where my hands naturally come to rest. It didn't seem to register any false touches, either. In terms of size and responsiveness, it's comparable to the MacBook Pro touchpad.
+
+Touchpad
+The keyboard is a dream to type on
+Compared to the awful MacBook Pro keyboard, the MateBook's keyboard offers a much more comfortable typing experience. The keys are well-spaced and springy and there's even a nice click to them. In a world of bad shift keys, this is where Huawei really gets it right. I was typing about 77 words-per-minute, which is close to my average of 80 WPM.
+
+Keyboard 2
+It's got oomph
+Between the 16GB of RAM and Intel Core i7-8550U processor, the MateBook X Pro packs a decent punch. I had about fifteen tabs open in Firefox, including one streaming E3 live and one playing the latest episode of Handmaid's Tale. Even when jumping in and out of different tabs, I saw zero slowdown, which is excellent news for multitaskers.
+
+Battery life is excellent
+In our WiFi browsing test, which cycles through various websites like Facebook, Amazon, and CNN on a continuous loop, the Matebook X Pro died in a little over seven hours on a single charge. That's definitely a full work day right there. While I always recommend keeping the power adapter with you, you won't be tethered to an outlet.
+
+We run our battery test at 200 nits, though, so you may get a different result if you set your laptop to max brightness. It really depends on how you plan on using the laptop, though. Basic tasks like surfing the web and checking e-mail aren't as strenuous as streaming video or running games.
+
+What We Didn't Like
+The underside gets warm
+When I streamed live footage of E3, a huge video game conference that takes place in California, I noticed the X Pro getting warm in my lap. The heat wasn't scalding or unbearable, though. For heavier tasks like gaming or streaming, you may want to keep the laptop on a flat surface like a table or desk.
+
+Backpack
+The webcam placement is weird as hell
+The webcam is probably the most serious offense here, as it's in the keyboard. Yes, that's right, it's in the keyboard. Although I applaud Huawei for the unique placement, it renders the webcam unusable. Be prepared for an up-close view of someone's knuckles.
+
+The one good thing is that you don't have to worry about your privacy, as the webcam gets tucked away in the keyboard. Unless you regularly use your laptop for video chatting, it's not much of a deal-breaker.
+
+Webcam
+The shell attracts fingerprints
+From the dark grey color scheme to the minimalistic logo, it's no secret that Huawei borrows inspiration from the original Apple MacBook. While I love the look and believe it transcends Apple's design in some ways, the shell attracts a lot of fingerprints.
+
+In the grand scheme of things, it's not a major problem. For me, performance issues have more weight than design issues. So, if you don't mind occasionally wiping down the exterior with a microfiber cloth, you should be good.
+
+Shell
+Should You Buy It?
+Yes. This is one of the best Windows laptops I've used in a long time hardware-wise
+If you don't want to pay a hefty premium for a swanky ultraportable, the MateBook X Pro is the right choice. With its snappy performance, long battery life, and brilliant display, you're really getting a lot for your money. While we love the oversized touchpad and port selection, we still had a couple of gripes.
+
+The webcam lives inside the keyboard, which is a bit unusual. This makes for a weird upward angle, as the focus is mostly on your knuckles. The underside also gets warm under heavy loads and the shell attracts fingerprints like you wouldn't believe. But to get a better idea of the bigger picture, let's compare it to a few ultraportables with similar specs.
+
+The Dell XPS 13, with its kick-ass internals and stunning display, tics off a lot of boxes. Although it has more customization options, the top-tier configuration ($1,850) is about $500 more than the X Pro. The HP Spectre 13, on the other hand, has a starting price of $1,039 (according to Best Buy), but the connectivity options aren't great.
+
+If you're a photo or video editor, the 13-inch MacBook Pro is a bit behind the curve. Thanks to the discrete graphics card in the high-end model, the X Pro is better equipped to handle heavy tasks. The MacBook Pro is also astronomically expensive ($1,500 - $2,000) and never really goes on sale.
+
+If you're looking for a good productivity machine that won't burn a hole in your wallet, you can't get much better than this.

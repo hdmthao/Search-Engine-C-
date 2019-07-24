@@ -1,0 +1,54 @@
+Where's my iPhone How to find a lost phone
+
+If you're like me, you've made a habit of checking for your phone, wallet, and keys before leaving every bar, restaurant, and movie theater you happen to visit on your travels. But the system doesn't always work, and all it takes is one slip of the mind for your phone to be left behind—on a park bench, at a coffee shop, or on the beach.
+
+But don't fret: If you're quick enough, there are simple steps you can take—whether you're an Android user or an iPhone owner—that'll greatly increase your chances of tracking down your wandering phone.
+
+Time is of the essence. With any luck, you won't have seen the last of your smartphone.
+
+What to do if you lose an iPhone
+iPhone users will be happy to learn that they're already well-equipped to find their misplaced smartphone—Apple includes phone-finding software in every iPhone it currently makes. Hurrah! The app is called Find My iPhone, and it its settings can be accessed via iOS's settings menu.
+
+A word of caution: In order for this feature to be of any use, certain situational requirements need to be met. Let's get into it.
+
+First, the Find my iPhone feature will need to have been enabled in advance in order for it to do its job. If you want to get out in front of any future mishaps, I recommend turning Find my iPhone on if you haven't already.
+
+Next, you're going to need a computer or an additional iOS device (an iPad or another iPhone, for example) that can access iCloud in order to track the current whereabouts of your iPhone. Simply log in to iCloud with your personal credentials and select "Find my iPhone."
+
+Apple iCloud Interface
+Find my iPhone can be accessed from any iOS device or at iCloud.com.
+Once your at the helm, iCloud will display the current location of your phone overlaid on a map. From here, you have the option of pinging your phone with notification sounds, or remotely setting it to "lost mode," which allows you to display a message and phone number on your iPhone until its found.
+
+If all else fails, you can also remotely wipe the device of all its contents. Of course, the possibility of going "scorched Earth" on your lost or stolen iPhone is a good enough reason on its own to maintain backups of all your data.
+
+Find My iPhone Interface
+If you're iPhone is still on and connected to a network, you can ping it, put it in "lost mode," or wipe its contents completely.
+Unfortunately, this scenario is only possible if you're iPhone is connected to a network (WiFi or mobile) and its battery is still alive and kickin' when you try to track it. Once your iPhone disconnects from the network or switches off, its last-known iCloud location will appear for up to 24 hours.
+
+This, my friends, is why I mentioned time being of the essence.
+
+What to do if you lose an Android phone
+Like iPhones, nearly all newly-made Android devices come with location-tracking features baked into the phone's software. Unfortunately, as is the case with iOS, your Android needs to be caught in the proper circumstances for these features to prove effective.
+
+First, the location-tracking services need to be switched on before your Android phone wanders off. If you're reading this and they weren't enabled to begin with, I'm sorry to say that you'll have to find your phone the old fashioned way. If you haven't yet lost your phone, it's probably wise to check to see if these settings are enabled (in case the unthinkable should happen).
+
+Android Lost Phone Settings
+Having these settings enabled ahead of time is the only way to use them in the event of a misplaced phone.
+The settings themselves will most likely be found in pre-installed app called Find My Device by Google. On some Android phones, the features are folded into the phone's settings rather than a separate Google App. I've found the most reliable way to locate these settings is to simply search your entire device for the word "find."
+
+Making sure all of these settings are enabled—particularly Google's location service—will go a long way in boosting the odds of finding your lost Android device.
+
+Android Lost Phone Google Maps
+Like iOS, Android's lost phone features allow you to control the device remotely—as long as it's still on and connected to a network.
+If you manage to successfully secure a line to your phone, you'll be given the option to ping your phone with a sound, secure it via Android's version of "lost mode" (which signs you out of Google and displays a lost-and-found phone number on the lock screen), or wipe the phone of its contents.
+
+Similarly to the iOS process, your Android location-tracking features are only as good as your phone's battery and its connection to the web—once your device is dead or disconnected, you'll find yourself in a proverbial dead end.
+
+Lost Smartphone on the Beach
+A beach is no place for an unattended smartphone.
+Proper planning prevents... well, you get the gist.
+If there's one key takeaway here, it's this: A lost phone is considerably easier to find if the proper precautions have been taken ahead of time, but even those precautions aren't guaranteed to work.
+
+A skilled thief, for example, can disconnect anyone's phone from WiFi or mobile networks, even from the device's lock screen. All of the location tracking in the world won't be able to locate a phone in airplane mode in real time.
+
+Make the most out of your phone's security settings, enable its "lost phone" software, and make backups of your data frequently.

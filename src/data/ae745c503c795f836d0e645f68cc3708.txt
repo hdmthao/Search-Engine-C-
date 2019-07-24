@@ -1,0 +1,31 @@
+Google's Project Fi adds LG, Moto phones to thin portfolio
+
+Google's Project Fi, a phone service that in the U.S. piggybacks off the major carriers and Wi-Fi, has added three new phones that will work with the service, additions that could interest more customers. 
+
+But without Apple's iPhone as an option, the foray is still likely to remain somewhat of a curiosity.
+
+On Wednesday, Google announced that three new handsets will be coming soon to Fi, starting with the budget-oriented $199 moto G6 that is now available for preorder. Motorola’s phone normally goes for $50 more.
+
+The other devices, both from LG, are higher-end smartphones: the $740 LG G7 ThinQ and the $899 LG V35 ThinQ. 
+
+Project Fi quietly has been plugging along since April 2015 when Google launched its then-invitation-only phone service. Very few phones are compatible with the service, which has remained low-key.
+
+These latest phones, each with large screens, portrait mode-equipped cameras and expandable storage, join the only others in what remains a thin Project Fi portfolio: Google’s own Pixel 2 and Pixel 2 XL; the Android One moto x4; plus the older Google devices that are still supported, the Nexus 5X, Nexus 6, Nexus 6P, Pixel and Pixel XL.
+
+Expanding the Fi lineup certainly is a positive, but it’s still difficult to imagine that Fi will suddenly gain a bevy of new customers, especially since it still lacks the most prized phones on the market from Apple and Samsung.
+
+“The handset choice — or better, the lack of it — is a big hurdle,” says Roger Entner, an analyst with Recon Analytics. “Not having iPhones is literally halving its addressable market.” 
+
+Fi never emerged as the disruptive force in wireless that some predicted when rumors first surfaced that Google had designs on becoming an Internet Service Provider. For its part, Google maintained that it wasn’t trying to overtake the cellular business but rather to showcase what was possible when the company could manage the hardware in its devices, the software in Android and the connectivity with Fi. 
+
+The appeal of the service for consumers is that Google charges low rates — $20 a month for unlimited calls and texts, plus $10 for each gigabyte of data up to 6GB. But Google doesn’t charge you for data you don’t use. 
+
+Of course, the environment has changed since 2015, with consumers now having many attractive unlimited wireless plans from which to choose.
+
+Google’s network is actually an MVNO (mobile virtual network operator) that in the U.S.  uses T-Mobile, Sprint and U.S. Cellular and automatically chooses the fastest and strongest available network to glom onto, whether that’s cellular or Wi-Fi.(Overseas, it works with a European provider Three.) 
+
+Google didn’t answer a question on how a T-Mobile/Sprint merger, if approved, might impact Fi.
+
+Nor has Google said how many customers use Fi, though the company claims a "healthy user base" and "high customer satisfaction."
+
+“I don't think it is growing much if any at all,” Entner says. “Advertising and promotion is the lifeblood of any wireless brand. Without it, and I haven't seen any advertising for it, it languishes. As the name indicates it's a project, not a product.”

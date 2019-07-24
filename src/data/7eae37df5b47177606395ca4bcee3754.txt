@@ -1,0 +1,13 @@
+Source: La Liga to appeal €250k fine over 'spy' row
+
+Adriana Garcia
+
+La Liga will appeal against the €250,000 fine imposed by the Spanish Data Protection Agency (AEPD), arguing they "profoundly disagree" with the ruling which suggests they spied on anyone using its official app.
+The AEPD told ESPN FC on Wednesday that La Liga had been fined for a "very serious infraction" regarding the use of the official app.
+The fine was levied because, when active, the app accesses the microphone and the geolocation of its users with the aim of detecting TV signals in bars and venues which are illegally showing La Liga games. La Liga have said that at no time have they "recorded, stored or listened to any conversations" of their users.
+La Liga said in a statement that the technology was implemented to combat piracy, with fraud costing them an estimated €400 million per year..
+However, they said action "has always been in accordance with the law" and that they acted in strict adherence to the "data protection regulation." La Liga added that they considered the fine "unfair" and will go to court.
+According to La Liga, for the microphone function on their app to be activated, the user "must expressly, proactively and, on two occasions, give their consent," hence it cannot be accused of a lack of transparency or information regarding this functionality.
+They said they believe the AEPD "has not made the necessary effort to understand how technology works."
+As they submitted their written plea, La Liga said the technology used is designed to exclusively generate an acoustic fingerprint. That digital fingerprint only has 0.75 percent of the information, with the remaining 99.25 percent discarded, so it is technically impossible "to interpret conversations or human voices."
+La Liga have said it will no longer be used from the end of this season [June 30] as originally planned but added they will "continue to test and implement new technologies to improve the experience of fans around the world, and at the same time, help combat the very serious scourge of piracy."

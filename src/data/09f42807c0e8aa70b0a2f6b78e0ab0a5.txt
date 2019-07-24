@@ -1,0 +1,80 @@
+Microsoft's ambitious plan to build the future of gaming includes a Netflix-style gaming service, blockbuster games streamed to phones from the cloud, and — yes — new consoles
+
+With nearly 80 million PlayStation 4 consoles in the wild, Microsoft's Xbox One is getting trounced. Estimates put Xbox sales number somewhere in the range of 30 to 50 million — Microsoft stopped reporting hardware sales numbers some time ago.
+
+But don't count Xbox out just yet.
+
+Between its Netflix-like Game Pass service, the company's game streaming ambitions, several new studio acquisitions, and the brilliant decision to add backwards compatibility, Microsoft is building a strong foundation for the future.
+
+Here's a look into the future of Xbox, straight from Microsoft's Xbox leader Phil Spencer:
+
+1. Creating the Netflix of gaming with Game Pass.
+For $10/month, Xbox Game Pass offers access to over 100 games. That includes every first-party game that Microsoft makes, loads of indies, and — as of very recently — some heavy-hitters from third-party publishers like Bethesda Softworks.
+
+Instead of streaming the games, a la Netflix, you download each game to your Xbox console. As long as you're paying for Game Pass, you keep all the games you download.
+
+Best of all, any new Xbox One games that come out from Microsoft are included with Game Pass.
+
+When "Forza Horizon 4" arrives this fall, you could drop $10 on a Game Pass subscription to download and play the game — a whopping $50 savings over the normal $60 price of a new game. Microsoft's betting that you'll like the arrangement so much that you'll keep paying for the service every month, like Netflix.
+
+"We're finding people in Game Pass actually play more games," Xbox leader Phil Spencer told me in an interview last week at E3, the annual video game trade show in Los Angeles. "And they're trying some franchises where, if they had to buy the franchise — even if they're $30, $60, whatever the amount might be — it's way easier for them to be invested at $10/month."
+
+In the long term, Spencer said the goal for Game Pass is offer a safe platform for potentially risky, creative games.
+
+"I want it to be a place where creators feel like they can take risks in things that they wanna do, and know that they have an audience of people who are already invested in the service, such that the marginal cost for them to click on the next icon and give it a try is very, very low."
+
+The comparison to Netflix becomes apt once more. Netflix funds lots of creative, bizarre stuff because it can afford to fail — with millions of paying subscribers, Netflix has a sturdy financial foundation from which to experiment. It also has a large platform to surface content that otherwise might get lost in a digital storefront.
+
+2. Building a platform to let people play games anywhere, whether you own a game console or not.
+On a stage in the Microsoft Theater in downtown Los Angeles on June 10, Xbox leader Phil Spencer offered the clearest picture yet into Microsoft's vision for the future of the Xbox brand.
+
+"Our cloud engineers are building a game streaming network to unlock console-quality gaming on any device," Spencer said. "Not only that — we are dedicated to perfecting your experience everywhere you want to play. On your Xbox, your PC, or your phone."
+
+It's an echo of sentiments he's expressed previously, but it's the most definitive testament to Microsoft's plans for the future of gaming.
+
+"There are 2 billion people who play video games on the planet today. We're not gonna sell 2 billion consoles," Spencer told me in an interview following his stage presentation. "Many of those people don't own a television, many have never owned a PC. For many people on the planet, the phone is their compute device," he said. "It's really about reaching a customer wherever they are, on the devices that they have."
+
+That said, logic dictates that the ability to stream "console-quality gaming on any device" depends on some pretty major upgrades to internet speeds around the world. It also faces hurdles like the uncertain future of net-neutrality laws and consumer internet data caps.
+
+In the meantime, Microsoft's Azure cloud platform offers an infrastructure that few other companies have. "Fifty data centers in different parts of the planet? Billions of dollars of investment in building that out? It allows us to accelerate our growth in this space," Spencer told me.
+3. Building the next Xbox.
+In a surprise move, Spencer outright announced Microsoft's work on the successor to the Xbox One.
+
+You read that correctly: Microsoft has already announced the next Xbox, after the Xbox One.
+
+"The same team that delivered unprecedented performance with Xbox One X is deep into architecting the next Xbox consoles," he said on stage on June 10. "Where we will once again deliver on our commitment to set the benchmark for console gaming."
+
+Of note, Spencer said "consoles" — as in Microsoft is apparently working on more than one future console. Perhaps a smaller, less expensive, streaming-focused Xbox, in addition to a more traditional, larger, $300 to $400 Xbox?
+
+Spencer didn't specify, but did offer more information on the announcement during an interview with Giant Bomb's Jeff Gerstmann this week. "Everybody knows what's happening," Spencer said in reference to Sony and Microsoft making new consoles. "It's this kind of unsaid thing, of, like, 'Well, they shipped Xbox One X. They didn't lay off their whole hardware team. What do you think they're doing?'"
+
+He said the announcement was a means of easing potential concerns of longtime console buyers: "It's not tomorrow, but I didn't want people to think that we're walking away from that part of the brand and the business, because it's really important to us."
+
+In terms of what that console (or consoles) will actually be, Spencer isn't offering any major details just yet. From the sound of things, we're still a few years away from new consoles.
+
+4. Buying several game studios to build new franchises.
+If there's one thing Microsoft is lacking, it's major first-party game franchises. Even if such franchises existed, Microsoft only owns so many studios capable of producing blockbuster games.
+
+"Halo" and "Forza" and "Gears of War" are all important franchises — to say nothing of "Minecraft," still one of the biggest games on the planet. With the exception of "Minecraft," many of these franchises are suffering from franchise fatigue.
+
+Sony's PlayStation 4 and Nintendo's Switch, meanwhile, are getting huge first-party games — games that can only be played on their respective consoles — like "God of War" and "Super Mario Odyssey" that re-invented staid franchises.
+
+And that's why Microsoft just announced the acquisition of five studios. "We know that we want to create new franchises," Spencer told me. "We really thought we needed five or six new teams, and products that we really believed in."
+
+"We are committed to building an industry-leading first-party studios organization," Spencer said on stage. "And we are making one of our greatest single year investments in teams by adding five new creative studios."
+
+Why not buy one big publisher, like EA or Activision, with a bunch of major game franchises? It's complicated, but here's Spencer's answer: "I couldn't find a collection out there in one entity to do it."
+6. Multiplayer gaming that crosses Xbox, PlayStation, Nintendo, PC, and mobile platforms.
+Microsoft's been banging the drum for interoperability between competing game consoles for awhile now. Ever since announcing the "Better Together" update for "Minecraft," which allowed players on all "Minecraft" platforms to play the game together, the entire game industry has begun moving toward cross-platform multiplayer.
+
+It makes a lot of logical sense if you think about it: Games like "Call of Duty," "Overwatch," and "Minecraft" are functionally identical across platforms. Why shouldn't I be able to play "Overwatch" on Xbox One with my friend on PlayStation 4?
+
+The reason, of course, is business.
+
+Sony's in the lead by a large margin, and has no real incentive — financially — to work with Microsoft on getting cross-platform play working between PlayStation 4 and Xbox One. That's become a less defensible position for Sony to take as more and more huge games offer cross-platform play, such as "Fortnite" and "Rocket League."
+
+In sort, it makes Sony look like the bad guy for not offering players a choice that the competition is championing.
+
+"I just get stuck in who this is helping," Spencer told me. "It doesn't help the developer — the developer just wants more people to play their game. It doesn't help the player — the players just want to play with their friends who also play games on console."
+
+It's hard to argue with his logic, even if it is easier for him to say from second place.

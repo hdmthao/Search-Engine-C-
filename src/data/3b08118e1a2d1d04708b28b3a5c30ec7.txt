@@ -1,0 +1,28 @@
+April 10, 2019
+CLASP-2: Extreme Rocket Science in the Desert
+Joten Okamoto  (NAOJ), left, David McKenzie, Ryohko Ishikawa, Javier Trujillo Bueno, and Laurel Rachmeler, right.
+CLASP-2 project scientist Joten Okamoto of the National Astronomical Observatory of Japan (NAOJ), left, principal investigator David McKenzie of NASA, principal investigator Ryohko Ishikawa of NAOJ, principal investigator Javier Trujillo Bueno of the Institute of Astrophysics of the Canary Islands, and project scientist Laurel Rachmeler of NASA, right, pose for a photograph Wednesday, March 28, 2019, at White Sands Missile Range in Las Cruces, New Mexico. CLASP-2 is scheduled to launch April 11.
+Credits: U.S. Army Photo by Louis Rosales
+UPDATE --  4:15 p.m. EDT, April 11: The NASA Chromospheric Layer Spectropolarimeter-2 or CLASP-2 sounding rocket mission was successfully conducted April 11 from the White Sands Missile Range in New Mexico, Launched aboard a NASA Black Brant IX sounding rocket at 12:51 p.m. EDT, the CLASP-2 payload flew to an altitude 170 miles before descending by parachute.  The payload was recovered and is reported in good condition. Good data was received and the science team is reported to be happy with the results of the mission.
+
+NASA scientists and engineers are in the New Mexico desert preparing to launch a research rocket equipped with a cutting-edge Sun-gazing instrument to study the solar atmosphere. The CLASP-2 mission is making strides towards its upcoming launch, set for April 11, 2019, from the White Sands Missile Range in the New Mexico desert.
+
+CLASP-2, short for Chromospheric Layer Spectropolarimeter-2, is a sounding rocket mission. Smaller, more affordable and faster to design and build than large-scale satellite missions, sounding rockets offer a way for the team to test their latest ideas and instruments — and achieve rapid science results.
+
+The CLASP-2 instrument uses ultraviolet light to look for hidden details in a complex region of the Sun's atmosphere called the chromosphere. Scientists hope that CLASP-2 experiment will help unlock new clues about how the Sun's energy travels up through the layers of its atmosphere, and eventually out into space.
+
+To achieve that goal, a Black Brandt IX sounding rocket will catapult the instrument above Earth’s atmosphere where it will observe the Sun for about five minutes. There, it will take images, as well as polarization spectra – observations that restrict incoming light to a specific direction and then record the intensity of individual wavelengths of ultraviolet light. The team is focusing on obtaining polarization measurements never before gathered at these ultraviolet wavelengths. The experiment will then parachute back to the desert to be recovered by helicopter.
+
+CLASP-2 is a follow-on mission to the Chromospheric Lyman-Alpha Spectro-Polarimeter, which gave us the first-ever polarization measurements of ultraviolet light emitted from the sun's chromosphere. Previous polarization measurements were restricted to visible and infrared light emitted from other regions of the Sun’s atmosphere.
+
+Polarization measurements are important because they provide information on the strength and direction of the Sun's magnetic field, which plays a central role in sculpting the solar atmosphere. Understanding how the magnetic field works is vital to predicting powerful solar activity and protecting space and Earth technology from potential damage from geomagnetic storms.
+
+On the ground, researchers will use advanced computer modeling to interpret the data collected by CLASP-2, and better understand how the energy moves through the chromosphere. And even as CLASP-2 uncovers new information, scientists working with its data will rely on data from other observatories to help put those details in context.
+
+CLASP-2's launch and data collection will be coordinated with two satellites: NASA's Interface Region Imaging Spectrograph, or IRIS--a satellite observatory that captures non-polarized spectra and images of the Sun’s atmosphere--and the joint JAXA/NASA Hinode satellite observatory, making magnetic measurements at the Sun’s surface as well as images and spectroscopy in the much hotter atmospheric layer known as the corona. Also taking coordinated data are the Dunn Solar Telescope in Sunspot, New Mexico, and the Goode Solar Telescope in Big Bear, California.
+
+Truly a global mission, CLASP-2 is an international collaboration led by NASA's Marshall Space Flight Center with contributions from Japan, Spain and France. CLASP-2 is supported through NASA’s Sounding Rocket Program at the agency’s Wallops Flight Facility in Virginia. NASA’s Heliophysics Division manages the sounding rocket program.
+
+Last Updated: April 12, 2019
+Editor: Lee Mohon
+Tags:  Solar System, Sounding Rockets, Sun, Wallops Flight Facility

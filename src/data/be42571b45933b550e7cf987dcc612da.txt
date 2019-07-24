@@ -1,0 +1,27 @@
+Foundation Wiki
+
+Foundation is a grid-less, sprawling medieval city building simulation with a heavy focus on organic development, monument construction and resource management.
+
+The game is developed by Polymorph Games, a videogame company hailing from Quebec City, Canada.
+
+Overview
+Genre: Simulation/Construction
+Publisher:
+Developer: Polymorph Games
+Release date: Q4 2018
+Platforms: PC / Mac
+Engine: Hurricane
+Soundtrack: Audinity
+Age Rating:
+Kickstarter: Foundation on Kickstarter
+Languages
+French
+English
+Spanish
+German
+Italian
+Russian
+Features
+Organic Urbanism of the Medieval Era
+Modding support
+Unique Monument creation tool

@@ -1,0 +1,35 @@
+What Facebook told Congress It even knows when you need to charge your phone
+
+SAN FRANCISCO — Facebook tracks when you need to recharge your phone and even knows when you're looking at the Facebook page on your computer screen. And it's OK with being regulated, as long as it gets to help write those regulations.
+
+These were some of the disclosures made by the world's largest social network late Monday when the Senate released 454 pages of answers from the Menlo Park, California-based company. 
+
+CEO Mark Zuckerberg had repeatedly promised lawmakers his staff would follow up  on questions about Facebook's approach to privacy during two days of grueling congressional hearings in April. Senators had also sent 2,000 questions in advance of those hearings, which followed outrage over revelations Facebook knew Cambridge Analytica had bought personal data on 87 million users, without the users' consent, for political ad targeting during the 2016 presidential election.
+
+Altogether, the file of answers provided the public with details on some lesser-known ways Facebook has devised to track its 2.2 billion users but left many broader questions unanswered.
+
+For instance, Facebook revealed that it collects data — a lot of data — about the various devices people use to log into Facebook, such as computers, their smartphones and their tablets. Facebook also collects information such as the device's battery level, how much available storage they have and the strength of the Wi-Fi signal the machine is receiving.
+
+The company also knows whether you're actually looking at your Facebook window or if you've just got it open as one of many tabs. In some cases, Facebook can also gather information about nearby devices or other devices on the user's network.
+
+The Cambridge Analytica data revelations, on the heels of the company's belated acknowledgement that a Russian disinformation operation had scammed its users with millions of fake posts designed to sway their voting, turned into a public relations crisis for the high-flying company. Celebrity users vowed to delete their Facebook, lawmakers threatened regulations and Zuckerberg agreed for the first time to testify before Congress. 
+
+The hearings also gave a platform for lawmakers to air some longstanding complaints — such as allegations Facebook's news feed is biased against conservatives. 
+
+As one of his 114 questions, Sen. Ted Cruz, R-Texas, posed a series of detailed queries about what types of speech Facebook might define as hate speech and therefore censor, including statements such as “Islam is a religion of peace” and “Islam is a religion of war,” as well as “All white people are inherently racist” and “All black people are inherently racist.”
+
+In its answer, Facebook said it would define hate speech as something that was violent or dehumanizing, statements of inferiority and calls for exclusion or segregation. It did not answer Cruz’s specific questions about the 27 statements listed in his question. 
+
+Cruz also asked what percentage of the moderators Facebook uses to check posted content were registered as Republicans or Democrats or had donated, volunteered for, interned with or run for office in either party.
+
+Facebook responded, "We do not maintain statistics on these data points."
+
+Last month, Facebook said it would bring in advisers to investigate whether it suppresses conservative voices, part of a post-Cambridge Analytica campaign to rebuild trust with users.
+
+In the answers, the company also detailed ways its partners were able to gather information about users' activities even if they're not logged into Facebook, including information about the purchases they make and the games they play. Questions about how Facebook tracks nonusers during the hearing had illuminated the social network's digital reach, which many users had either ignored or taken for granted.
+
+Despite the length of the responses, many did not actually answer the questions asked. For example, the Committee said it “had become aware that Facebook has surveyed users about whether they trust the company to safeguard their privacy” and asked that Zuckerberg provide the results of any such survey.
+
+But in a 326-word reply, Facebook did not say whether it surveyed its users or what it found if it did, instead reiterating, “Privacy is at the core of everything we do. And our approach to privacy starts with our commitment to transparency and control.”
+
+Lawmakers have continued to raise the specter of regulation after reports that followed the hearings on Facebook's data-sharing deals with device makers and other companies. The company says it's open to privacy regulation —  as long as it was “the right regulation.” In its answer to Sen. Richard Blumenthal, D-Conn., the company offered to write such laws itself.

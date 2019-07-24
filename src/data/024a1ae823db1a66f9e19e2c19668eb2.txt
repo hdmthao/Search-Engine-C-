@@ -1,0 +1,37 @@
+Amazon could radically change how you get prescriptions
+
+In the last 24 hours, Amazon announced a program that all but franchises its last-mile deliveries and bought the popular online pharmacy PillPack. At first glance, these may seem like utterly unrelated deals -- another case of Jeff Bezos digging into his very deep pockets to reach even further into your life.
+
+Step back, though, and you can see these two developments coming together to make dealing with a pharmacy as easy as thumbing your phone: Place your order and an Amazon-branded truck delivers your amoxicillin, along with tissues, all-natural cough drops and organic chicken noodle soup from Whole Foods.
+
+Right now, going to the pharmacy can be a tough pill to swallow. Get your prescription, schlep to the drug store, wait in line. It's even worse when you're fevered and sneezing and generally feeling lousy. Bezos is betting you'd rather have those meds delivered to your door, along with everything else Amazon sells, in almost no time at all.
+
+"This is going to have serious implications for the brick-and-mortar retail pharmacies," said Arielle Trzcinski, a senior analyst at Forrester who covers health care and technology.
+
+Related: Amazon buys online pharmacy PillPack
+
+CVS recently took steps in this direction. Just last week, it announced the start of next-day home delivery of prescriptions -- for $4.99. "To me that's too little too late," Trzcinski said. "They're going to charge people per delivery."
+
+Trzcinski can see Amazon including prescription deliveries in Prime memberships, which cost $119 annually. Amazon already offers same-day delivery in many cities, an advantage over CVS and others. "I could come home from the hospital or doctor's office and my prescription is already waiting for me," Trzcinski said.
+
+Amazon paid about $1 billion for PillPack, according to the Wall Street Journal. PillPack already delivers prescriptions by mail, as do startups like Capsule. But Amazon brings its enormous scale, delivery and logistics expertise to the field, something that promises to make the entire experience faster and more efficient for consumers.
+
+Alexa may play a role in this, too. Amazon's smart speaker could remind you to take your medicine or refill your prescription. Granted, that raises all kinds of privacy issues, such as how Amazon will protect sensitive health information and how it will use the data. And it would require Amazon to take the added step of making sure anything it's doing with your data complies with the federal Health Insurance Portability and Accountability Act.
+
+Amazon declined to comment on the PillPack acquisition beyond its press release.
+
+Related: Amazon wants you to start a business to deliver its packages
+
+Meanwhile, Amazon's decision to essentially franchise so-called "last mile" deliveries gives it another advantage over competitors. The company is launching a program under which most anyone with $10,000 can launch a business delivering Amazon Prime packages in Amazon-branded vans. It's a clever way of gaining greater control over the last leg of a package's trip from an Amazon sorting center to your doorstep.
+
+It also could give Amazon a means of getting that prescription into your hands as quickly as possible.
+
+"When you think about health care and drugs, speed is of the utmost importance to the customer," said Daniel Ives, head of technology research at GBH Insights. "As Amazon gets into health care, the distribution and the time from the order to a customer door step becomes that much more crucial."
+
+Amazon's enormous IT infrastructure, sprawling supply chain, deep understanding of logistics, and its ability to quickly scale up puts it in a unique position to fundamentally shake up health care, said Nicholas Finill, a senior retail analyst at ABI Research. "Amazon has already made plays to disrupt groceries, fashion and now it moving into health care is no surprise at all," he said.
+
+Others aren't so sure. Health care is an enormous, complex industry -- one that "doesn't change that rapidly," said Lawton R. Burns, professor of health-care management at the University of Pennsylvania's Wharton School. "It gives me pause thinking about what's going to drastically change here."
+
+PillPack has been in the game since 2013, and Burns says its not yet clear what Amazon might do with it. And he said other large tech companies have stumbled when trying to enter the health care space. For example, Google discontinued Google Health in 2012 after it didn't have "the broad impact" it hoped for. The service allowed users to voluntarily upload their health records into one consolidated system.
+
+"I would suggest going slowly and deliberately and learning more about the health care market," Burns said.

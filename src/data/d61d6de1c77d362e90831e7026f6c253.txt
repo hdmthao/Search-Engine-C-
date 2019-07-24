@@ -1,0 +1,81 @@
+Conan Exiles is an open-world survival role-playing game being developed by Funcom, set in the brutal lands of Conan the Barbarian and based upon the writings of Robert E. Howard. The events in Conan Exiles take place on Conan’s timeline between the stories Xuthal of the Dusk (The Slithering Shadow) and A Witch Shall be Born.[1]
+In January 2016, Funcom announced it is working on Conan Exiles, an open-world survival game based on the Conan the Barbarian brand. The game released on Steam PC Early Access on January 31, 2017 and launched on the Xbox One as part of the Game Preview program in August 2017.
+Description
+Short description
+“	Conan Exiles is an open-world survival game set in the brutal lands of Conan the Barbarian. Here players must survive in a savage world, build their kingdom, and dominate their enemies in brutal combat and epic warfare. Conan Exiles can be experienced in both local single-player and in persistent online multiplayer.	„
+~ Conan Exiles is Heading East - April 27, 2018	
+Long description
+“	You are an Exile, one of thousands cast out to fend for yourself in a wasteland swept by terrible sandstorms and besieged on every side by Enemies. Here you must fight to survive, build and dominate.
+Hungry, thirsty, and alone, your first battle is against the harsh environment. Grow crops or Hunt animals for food. Harvest Resources to build Weapons and Tools. Build a shelter to survive. Ride across a vast world and explore alone, or band together with other players to build entire Settlements and Strongholds to withstand fierce invasions.
+When strong enough, march into battle and wage war against your enemies to dominate the Exiled Lands. Sacrifice enemy players on the altars of the gods and shift the balance of power your way. Unleash your fury in savage, fast-paced combat and execute bloody and bone-crushing attacks that will see heads rolling and limbs flying.
+Survive. Build. Dominate. Play alone in single-player mode, or forge alliances and make enemies online on both public and private servers. Will you dominate the Exiled lands, or will your enemies sacrifice you on the altar of their god?
+„
+~ Steam	
+Languages
+“	Conan Exiles is one of our most international releases ever and that can only be achieved with strong, local partners	„
+~ Rui Casais (CEO)[2]	
+On April 27, 2018 Funcom teamed up with Spike Chunsoft and H2 Interactive to release Conan Exiles digitally and in retail in Japan, Korea, and several other territories in Asia.
+
+In Japan, Spike Chunsoft will release the PlayStation 4 version both for digital download and in retail stores across Japan during the summer of 2018.
+
+Interface and subtitles are supported for all of the following languages. Available languages as listed[3] on Steam:
+English (Full audio supported)
+French
+German
+Spanish
+Japanese
+Korean
+Polish
+Portuguese-Brazil
+Russian
+Simplified Chinese
+Traditional Chinese
+Italian (Added on release)[4]
+See also: Notes
+Features
+From the Official Website
+Taken from the site:
+Exploration
+Survival
+Building
+Combat; among others Clans, siege weapons and explosives.
+Thralls
+Gods: among others altars and avatars.
+Single-player (called 'Remote Play' on PS4), (Online) Multi-player/(Online) co-op/Dedicated servers.
+On Steam
+Taken from Steam:
+Steam Achievements
+Full controller support (PS4, Xbox)
+Steam Trading Cards
+Steam Workshop
+Features not listed:
+NVIDIA Ansel (Screenshots)[3]
+Rcon compatibility
+Expansions
+The Frozen North
+“	Far to the north, a vast new land has been discovered. A cold and rugged landscape where snow-capped mountains and dark, haunted forests stretch as far as the eye can see. Here, between the desperate howls of wolves and thundering footsteps of Frost Giants, the beating of kettle-drums can be heard as savage tribes of northmen worship Ymir, their Lord of Storm and War.
+Now you must journey beyond the burning sands of the Exiled Lands and survive, build, and dominate in this cold new world full of danger and opportunity.
+„
+~ Site description	
+The Frozen North is a free expansion update. It was published in the second stage of the Conan Exiles Early Access. Listed below are some of its features:
+Terrain: mountains, deep forests, dungeons, people, cultures, and settlements.
+Weather: rain, snow can make you freeze to death and in the desert, the burning sun can be equally deadly. Make sure you dress for the weather to stay cool or warm. Camp fires, torches, drinks, and more can also help you control your temperature.
+Buildings and resources: star metal, black ice, and more. Building pieces and furniture, and insulated materials.
+Religion and avatar: Ymir, the Lord of Storm and War.
+Enemies: Frost Giants, wolves, mammoths, and many other enemies. Dungeon bosses such as Tyros the Deathbringer.
+Brewing and cooking(crafting): mead, wine, absinth, bug soup, demon blood sausage, and more. trapping fish and beekeeping.
+Improvements: combat, artificial intelligence on human enemies, and more.
+Armor and weapons: Star Metal, Black Ice, and Hardened Steel. Vanir Fur Armor.
+The Imperial East Pack (DLC)
+“	the DLCs are paid cosmetic content for the game, which we will also try to release regularly. DLC will help us pay for the official servers and continued development of the game.	„
+~ A look back and the way forward - Natascha, June 6, 2018	
+“	As already mentioned this is a purely cosmetic DLC pack that won’t affect gameplay balance. You’re not buying power, just looks.	„
+~ A look back and the way forward - Natascha, June 6, 2018	
+The Imperial East Pack is a payed, cosmetic only DLC. It released Friday June 22, 2018 on Steam, PS4 and Xbox One(as in-game purchase). This culture pack, inspired by the eastern land of Khitai in Hyboria, is made by the character and 3D artists, whom do not work on the main game.
+It includes the following items:
+3 new armor sets – Khitan Mercenary Armor (Light), Khitan Officer Armor (Medium) and Khitan Imperial Armor (Heavy). These armor sets are available from level 10, with an epic version at level 60 (requires epic tier materials to craft)
+11 new weapons with Khitai themed visuals. These will be available as iron tier and starmetal tier visuals and will have appropriate stats for those levels (and require level appropriate materials to craft)
+25 new placeables in Khitan style. These include new carpets, tables, braziers, lanterns, chairs, screens, drums etc.
+5 new decorative warpaints in Khitan style.
+A new set of Tier 3 building pieces in the Khitan style.
+All of the above recipes become accessible through the Khitan Artisan station, which is available after purchasing the DLC.

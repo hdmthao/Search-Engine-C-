@@ -1,0 +1,33 @@
+Quantum cloud computing with self-check
+New method enables powerful quantum simulation on hardware available today
+Date:
+May 15, 2019
+Source:
+University of Innsbruck
+Summary:
+With a quantum coprocessor in the cloud, physicists have opened the door to the simulation of previously unsolvable problems in chemistry, materials research or high-energy physics. In a new study, researchers report how they simulated particle physics phenomena on 20 quantum bits and how the quantum simulator self-verified the result for the first time.
+FULL STORY
+
+Quantum computing concept.
+Credit: © vchalup / Adobe Stock
+With a quantum coprocessor in the cloud, physicists from Innsbruck, Austria, open the door to the simulation of previously unsolvable problems in chemistry, materials research or high-energy physics. The research groups led by Rainer Blatt and Peter Zoller report in the journal Nature how they simulated particle physics phenomena on 20 quantum bits and how the quantum simulator self-verified the result for the first time.
+
+Many scientists are currently working on investigating how quantum advantage can be exploited on hardware already available today. Three years ago, physicists first simulated the spontaneous formation of a pair of elementary particles with a digital quantum computer at the University of Innsbruck. Due to the error rate, however, more complex simulations would require a large number of quantum bits that are not yet available in today's quantum computers. The analog simulation of quantum systems in a quantum computer also has narrow limits. Using a new method, researchers around Christian Kokail, Christine Maier und Rick van Bijnen at the Institute of Quantum Optics and Quantum Information (IQOQI) of the Austrian Academy of Sciences have now surpassed these limits. They use a programmable ion trap quantum computer with 20 quantum bits as a quantum coprocessor, in which quantum mechanical calculations that reach the limits of classical computers are outsourced. "We use the best features of both technologies," explains experimental physicist Christine Maier. "The quantum simulator takes over the computationally complex quantum problems and the classical computer solves the remaining tasks."
+
+Toolbox for Quantum Modelers
+
+The scientists use the variational method known from theoretical physics, but apply it on their quantum experiment. "The advantage of this method lies in the fact that we can use the quantum simulator as a quantum resource that is independent of the problem under investigation," explains Rick van Bijnen. "In this way we can simulate much more complex problems." A simple comparison shows the difference: an analog quantum simulator is like a doll's house, it represents reality. The programmable variational quantum simulator, on the other hand, offers individual building blocks with which many different houses can be built. In quantum simulators, these building blocks are entanglement gates and single spin rotations. With a classical computer, this set of knobs is tuned until the intended quantum state is reached. For this the physicists have developed a sophisticated optimization algorithm that in about 100,000 requests of the quantum coprocessor by the classical computer leads to the result. Coupled with extremely fast measurement cycles of the quantum experiment, the simulator at IQOQI Innsbruck becomes enormously powerful. For the first time, the physicists have simulated the spontaneous creation and destruction of pairs of elementary particles in a vacuum on 20 quantum bits. Since the new method is very efficient, it can also be used on even larger quantum simulators. The Innsbruck researchers plan to build a quantum simulator with up to 50 ions in the near future. This opens up interesting perspectives for further investigations of solid-state models and high-energy physics problems.
+
+Built-in Self-Check
+
+A previously unsolved problem in complex quantum simulations is the verification of the simulation results. "Such calculations can hardly or not at all be checked using classical computers. So how do we check whether the quantum system delivers the right result," asks the theoretical physicist Christian Kokail. "We have solved this question for the first time by making additional measurements in the quantum system. Based on the results, the quantum machine assesses the quality of the simulation," explains Kokail. Such a verification mechanism is the prerequisite for even more complex quantum simulations, because the necessary number of quantum bits increases sharply. "We can still test the simulation on 20 quantum bits on a classical computer, but with more complex simulations this is simply no longer possible," says Rick van Bijnen. "In our study, the quantum experiment was even faster than the control simulation on the PC. In the end, we had to take it out of the race in order not to slow down the experiment," says the physicist.
+
+Innsbruck Quantum Cloud
+
+This research achievement is based on the unique collaboration between experiment and theory at the Innsbruck quantum research center. The expertise from years of experimental quantum research meets innovative theoretical ideas in Tyrol, Austria. Together, this leads to results that are recognized worldwide and establishes an internationally leading position of Innsbruck's quantum research. "15 years of very hard work have gone into this experiment," emphasizes experimental physicist Rainer Blatt. "It is very nice to see that this is now bearing such beautiful fruit." The theoretical physicist Peter Zoller adds: "We in Innsbruck are not only leaders in the number of available quantum bits, but have now also advanced into the field of programmable quantum simulation and were able to demonstrate for the first time the self-verification of a quantum processor. With this new approach, we are bringing the simulation of everyday quantum problems within reach."
+
+The work now published in Nature was financially supported by the Austrian Science Fund FWF and the European Union, among others.
+
+Story Source:
+
+Materials provided by University of Innsbruck. Note: Content may be edited for style and length.

@@ -1,0 +1,33 @@
+Mathematical rules underlie the ancient art of knitting
+Date:
+March 6, 2019
+Source:
+American Physical Society
+Summary:
+Knitting may be an ancient manufacturing method, but one researcher believes that understanding how different stitch types determine shape and mechanical strength will be invaluable for designing materials for future technologies, and a more detailed understanding of the knitting 'code' could benefit manufacturers around the world. Researchers are delving through the surprisingly complex mathematics that underlies tangles of yarn.
+FULL STORY
+Dating back more than 3,000 years, knitting is an ancient form of manufacturing, but Elisabetta Matsumoto of the Georgia Institute of Technology in Atlanta believes that understanding how stitch types govern shape and stretchiness will be invaluable for designing new "tunable" materials. For instance, tissuelike flexible material could be manufactured to replace biological tissues, such as torn ligaments, with stretchiness and sizing personalized to fit each individual.
+
+At the American Physical Society March Meeting in Boston this week, Matsumoto will present her work on the mathematical rules that underlie knitting.
+
+"By picking a stitch you are not only choosing the geometry but the elastic properties, and that means you can build in the right mechanical properties for anything from aerospace engineering to tissue scaffolding materials," said Matsumoto.
+
+Matsumoto enjoyed knitting as a child and when she later became interested in mathematics and physics, she developed a new appreciation for her hobby.
+
+"I realized that there is just a huge amount of math and materials science that goes into textiles, but that is taken for granted an awful lot," said Matsumoto.
+
+"Every type of stitch has a different elasticity, and if we figure out everything possible then we could create things that are rigid in a certain place using a certain type of stitch, and use a different type of stitch in another place to get different functionality."
+
+Members of the Matsumoto group are beginning to delve through the complex math which encodes mechanical properties within the interlocking series of slip knots of a material. But applying the pure mathematics of knot theory to the huge catalog of knit patterns is a tricky process for Matsumoto's graduate student, Shashank Markande.
+
+"Stitches have some very strange constraints; for instance, I need to be able to make it with two needles and one piece of yarn -- how do you translate that into math?" said Matsumoto.
+
+But Markande is starting to build the knit algebra into larger, more complex patterns, and he feeds this into the elastic modelling of simple latticelike knits, which Matsumoto's post-doc, Michael Dimitriyev is developing.
+
+Dimitriyev's fabric behavior solving code is showing potential beyond material design, in the realm of computer game graphics.
+
+"Fabric and cloth tends to look a little strange in computer games because they use simple bead and spring elasticity models, so if we can come up with a simple set up of differential equations it may help things to look better," said Matsumoto.
+
+For the moment, the Matsumoto group is focusing on very simple stitch patterns and curves in knitted lattices; however, soon they hope to understand how knits behave in 3D.
+
+But as they tease out the math between the stitches, Matsumoto makes sure they keep their eyes on how these patterns come together by arranging the occasional crafting session with the origami group next door.

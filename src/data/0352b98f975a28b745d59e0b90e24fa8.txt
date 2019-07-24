@@ -1,0 +1,12 @@
+Twitter removes Iranian-backed accounts
+Twitter has removed almost 4,800 accounts it claimed were being used by Iran to spread misinformation.
+The accounts were deleted alongside others from several different groups as Twitter tries to tackle interference.
+It revealed the deletions in an update to its transparency report that aims to expose the "spread of misinformation by insidious actors".
+Also removed were accounts used for Russian, Catalonian and Venezuelan propaganda.
+The 4,800 accounts were not a unified block, said Yoel Roth, Twitter's head of site integrity in a blog detailing its actions.
+Mr Roth said one fraction, 1,666 accounts, cumulatively sent more than two million tweets that sought to spread views backing Iran's policies and actions.
+A smaller set, 248 in total, did similar work but were specifically aimed at skewing discussions about Israel.
+The biggest group, 2,865, used "false personas" to steer conversations about social issues in Iran and elsewhere. These accounts were deleted in May.
+Other accounts shut down included 130 set up by supporters of Catalonian independence, 33 run by a "commercial entity in Venezuela and four Russian accounts used by the notorious Internet Research Agency (IRA). The IRA is believed to have sought to influence the 2016 US presidential election via social media.
+Mr Roth wrote: "We believe that people and organisations with the advantages of institutional power and which consciously abuse our service are not advancing healthy discourse but are actively working to undermine it."
+Mr Roth said Twitter had collected all the suspect accounts it had removed since beginning its purge into a data set that it provided to researchers. Currently the data set contains more than 30 million tweets and more than one terabyte of images and video.

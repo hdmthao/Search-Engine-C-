@@ -1,0 +1,9 @@
+The minimap is a HUD element that represents the game map on a smaller scale. It displays in real time the location and status of buildings, heroes, creeps, couriers and wards. The minimap is subject to team vision, with unseen areas covered by the fog of war. Certain events and Terrain items can alter the appearance of the minimap.
+Settings
+These settings can be changed in the game options.
+Location: Changes the minimap to display on the bottom left or bottom right of the interface.
+Simple Colors: Uses a single color for all heroes on the same team.
+Hide Background: Hides graphical background on the minimap, and displays only essential game elements like heroes, couriers, buildings, wards, and creeps.
+Simple Background: Replaces graphical background on the minimap by simple background. Turned on by default.
+Draw Hero Icons: When holding ALT, displays hero icons instead of hero names.
+Always Use Icons/Names: Permanently displays hero icons and names instead of arrows and O's.

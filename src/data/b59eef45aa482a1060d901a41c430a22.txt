@@ -1,0 +1,29 @@
+Mathematics of sea slug movement points to future robots
+Frilly surfaces that help slugs move may motivate future energy-efficient, soft-body robots, according to researchers
+Date:
+March 7, 2019
+Source:
+American Physical Society
+Summary:
+Mathematicians recently discovered a lot of new, powerful geometries involved in frilly surfaces. They developed the mathematics to describe these surfaces -- inflected nonsmooth surfaces, which change the direction in which they bend -- and the combination of new geometry insights and age-old slugs might just be the right combination for a new generation of flexible, energy-efficient soft-bodied robots.
+What do pizza slices, sea slugs and one possible design for future soft-bodied robots have in common? They all have frilly surfaces, and new insights about the surprising geometry of frilly surfaces may help a future generation of energy-efficient and extremely flexible soft-body robots move.
+
+The complex folds of a frilly surface like coral reefs or kale leaves is a surface mathematicians refer to as an "inflected nonsmooth surface." It changes the direction in which it bends.
+
+"People have looked at these hyperbolic surfaces for 200 years, but nobody has thought about the role of smoothness in relation to how these things move, their mechanics," said University of Arizona mathematician Shankar Venkataramani. "Nobody saw a relevance to these things until now."
+
+Venkataramani will present his group's research on nonsmooth surfaces, sea slugs and possible robotic applications this week at the 2019 American Physical Society March Meeting in Boston.
+
+Until recently, Venkataramani said, physicists generally assumed that natural frills occur when the balanced forces between simultaneous bending and stretching of a sheet cause the surface to crumple. However, Venkataramani, in recent work with doctoral students John Gemmer and Toby Shearman and Hebrew University physicist Eran Sharon, showed that there can be nonsmooth surfaces that are simultaneously unstretched yet frilly.
+
+"The idea that these frilly surfaces don't have stretching in them, that was completely counterintuitive," he said.
+
+And, he noted, the research showed that changes from one form to another appear to require very little energy. This is key since the ability to change the geometry of surfaces has big implications for their strength and thus ability to act on the surroundings. Pick up a soggy slice of pizza and it creates a mess but "put a little curvature and it becomes stiff and you can eat it," he said.
+
+Having developed the mathematics to describe these surfaces, his group modeled nonsmooth thin films with six up-and-down portions and wondered how they would move.
+
+"We realized that nature already solved the problem millions of years ago. Some sea slugs and marine worms use this geometry to get around," Venkataramani said.
+
+The challenge now, he said, is determining exactly how the distinctive swimming gait of these soft-bodied marine invertebrates, such as the Spanish dancer sea slug, is related to their nonsmooth geometry.
+
+The answer may provide "a potential avenue for building soft robots that are energy-efficient and extremely flexible," Venkataramani said.

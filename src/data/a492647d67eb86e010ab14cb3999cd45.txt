@@ -1,0 +1,42 @@
+Microsoft agrees to buy coding site GitHub for $7.5 billion
+Microsoft Corp. says it has reached an agreement to buy GitHub Inc., a code repository company popular with many software developers, for $7.5 billion in stock.
+
+The acquisition announced Monday provides a way forward for San Francisco-based GitHub, which has been trying for nine months to find a new chief executive and has yet to make a profit from its popular service that enables coders to share and collaborate on their work. It also helps Microsoft, which is increasingly relying on open-source software, to add programming tools and tie up with a company that has become a key part of the way Microsoft writes its own software.
+
+The acquisition reflects Microsoft’s “ongoing pivot to open-source software, seeking to further broaden its large and growing development community,” said Richard Lane, an analyst at Moody’s Investors Service.
+
+GitHub is to operate independently and be led by Nat Friedman, the former chief executive of Xamarin and a current Microsoft developer tools executive. It will continue to support the programming languages, tools and operating systems of the user’s choice.
+
+The deal will add to Microsoft’s operating income in its fiscal year 2020, the company said in a statement Monday. Microsoft expects the deal to close by the end of 2018. Shares of Microsoft were up 0.5% at $101.30 around 8:15 a.m. Pacific Time.
+
+For Microsoft, acquiring GitHub is both a return to the company’s earliest roots and a sharp turnaround from where it was a decade ago.
+
+Microsoft’s origin story lies in the market for software-development tools, with co-founders Bill Gates and Paul Allen focused on giving hobbyists a way to program a new micro-computer kit. But that vision of software tools was applied very differently under both Gates and former chief executive Steve Ballmer, who championed developers building proprietary software for Microsoft, not the kind of open-source projects found on GitHub.
+
+In the early 2000s, Ballmer and his team were highly critical of that kind of a project, calling it a “cancer” and saying it went against “the American way.” Open-source software enables developers to tinker with, improve upon and share code — an approach that threatened Microsoft’s business model. A lot has changed since then, and under current chief executve Satya Nadella, Microsoft is supporting many flavors of Linux and has used open-source models on some significant cloud and developer products itself. This deal will mark another dramatic step in that direction.
+
+“Microsoft is a developer-first company, and by joining forces with GitHub we strengthen our commitment to developer freedom, openness and innovation,” Nadella said in the statement.
+
+Redmond, Wash.-based Microsoft is now one of the biggest contributors to GitHub, and as Nadella moves the company away from complete dependence on the Windows operating system to more in-house development on Linux, the company needs new ways to connect with the broader developer community.
+
+GitHub preferred selling itself rather than going public, and it chose Microsoft partially because it was impressed by Nadella, a person familiar with the deal said Sunday.
+
+GitHub is an essential tool for coders. Many corporations, including Microsoft and Alphabet Inc.’s Google, use it to store their corporate code and to collaborate. It’s also a social network of sorts for developers.
+
+Still, GitHub’s financial losses have been significant — it lost $66 million over three quarters in 2016. The company had revenue of $98 million in nine months of 2016.
+
+In August, GitHub announced that it was looking for a chief executive to replace Chris Wanstrath, one of the co-founders. In the interim, GitHub’s chief business officer, Julio Avalos, joined the company’s board of directors and took over much of the day-to-day leadership of the company.
+
+Microsoft has talked to GitHub, which hosts more than 28 million software developers working on 80 million repositories of code, on and off for a few years. Recently the companies began talks about a partnership but progressed to discussing an acquisition, according to another person familiar with the situation.
+
+The deal is the third of Nadella’s four-year tenure that is valued at more than $2 billion: Microsoft bought LinkedIn in 2016 for $26.2 billion and Mojang AB, the maker of the Minecraft video game, in 2014 for $2.5 billion.
+
+“The company gained, we understand, confidence in their ability to make large, successful acquisitions with first Minecraft and more recently LinkedIn,” Mark Moerdler, an analyst with Sanford C. Bernstein & Co., said in a note to clients. “Each acquisition has been defined by an asset that was unique in its own way and could be leveraged in multiple parts of Microsoft. We can understand why GitHub would show that same level of uniqueness as it is the primary repository and cloud service developers use to store and share their code.”
+
+GitHub was last valued at $2 billion in 2015, making today’s deal a win for GitHub backers such as Sequoia Capital and Andreessen Horowitz.
+
+Morgan Stanley acted as GitHub’s banker, while Fenwick & West LLP served as legal advisor. Microsoft’s legal advisor was Simpson Thacher & Bartlett LLP.
+
+8:30 a.m.: This article was updated throughout with additional details, comments and background information.
+
+This article was originally published at 6:55 a.m.

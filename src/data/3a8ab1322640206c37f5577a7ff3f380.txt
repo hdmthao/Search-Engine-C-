@@ -1,0 +1,60 @@
+Facebook's tie-up with Chinese smartphone giant Huawei makes a bad situation worse
+Amid the uproar over Facebook’s admission that it shared user data with Chinese device makers is an undercurrent of tension between the United States and China over technological dominance.
+
+Not only was Facebook passing previously undisclosed personal information to other companies, but also one of the dozens of firms involved was Huawei, a Chinese firm flagged by U.S. intelligence officials as a national security risk because of its alleged ties to China’s government.
+
+The response in Washington after Facebook divulged the partnerships late Tuesday was swift and predictable.
+
+“If Facebook granted Huawei special access to social data of Americans, [it] might as well have given it directly to the government of China,” tweeted Sen. Marco Rubio (R-Fla.).
+
+Facebook’s latest controversy stems from a New York Times report published Sunday that said the social network gave data on users and their friends to at least 60 device makers. The companies included Apple, Samsung and BlackBerry.
+
+But it was the inclusion of Huawei among the list of firms that drew the most ire, making a bad situation worse for Facebook and underscoring the inevitable conflict with China as the two countries race to produce the most advanced and coveted tech products.
+
+Six of the top 10 internet companies in the world are American and the remaining four are Chinese. That has spurred healthy competition but also deep-rooted mistrust.
+
+The U.S.-China tech relationship is more fraught than ever, and it’s raising fears that the two sides are barreling toward greater conflict as Beijing remains determined to become self-sufficient in technology.
+
+Experts say it’s imperative that the two sides dial down the tension. Given that virtually all the world’s biggest tech companies hail from either the United States or China, the global economy could suffer a major setback if the sides can’t cooperate, leading to a bifurcated market.
+
+“All the trends indicate that any moderation in the relationship is not happening anytime soon and that things will only get worse,” said Tai Ming Cheung, a China expert at the Institute of Global Conflict and Cooperation at UC San Diego.
+
+In March, the Trump administration blocked a takeover bid of San Diego chipmaker Qualcomm by Singapore’s Broadcom over fears that the United States would cede ground to China in the development of 5G mobile technology.
+
+Last month, the White House said it would introduce new limits on Chinese investment in U.S. technology and announced tariffs on Chinese imports of goods linked to Beijing’s “Made in China 2025” initiative, a national program designed to upgrade China’s technological prowess.
+
+The developments follow punishing stances against Huawei and fellow Chinese telecommunications giant ZTE.
+
+In May, the Pentagon banned the sale of Huawei and ZTE devices to the military. AT&T also canceled a plan to sell Huawei phones. Best Buy, too, said it would stop offering devices made by Huawei, China’s largest smartphone maker.
+
+ZTE was on the brink of shutting down after the Trump administration banned it from purchasing from U.S. suppliers after it violated sanctions against North Korea and Iran. A preliminary deal is in place to reverse the ban.
+
+China has shown no signs of backing down despite the White House’s confrontational approach. President Xi Jinping reiterated his country’s commitment to the “Made in China 2025” program in a speech last week, saying: “Self-determination and innovation is the unavoidable path.”
+
+Complicating the tensions is how much U.S. and Chinese companies rely on each other. The global supply chain for electronic components and devices, for example, is so complex that any unraveling could spell massive pain for corporations and consumers alike. What if China chose to retaliate against the closure of ZTE by preventing Apple from building iPhones in China?
+
+While extreme, experts say Beijing and Washington are veering toward more punitive measures. China is fearful of America dominating all facets of advanced technology to its detriment. And the United States is fed up with Beijing shutting out foreign tech to protect its own while insisting on technology transfers for companies wanting to do business in China.
+
+Cheung said the two sides are hemmed in by mutual distrust. Revelations of mass U.S. government surveillance in the wake of the 2013 Edward Snowden scandal still weigh deeply on Beijing. It’s one of the reasons China has forced companies such as Apple to store local data on Chinese-based servers.
+
+Moreover, Cheung said China’s definition of national security extends further than America’s to include social stability. It’s why social media platforms such as Twitter and Facebook remain banned.
+
+Even outside China, America’s dominance is not assured.
+
+Washington’s ability to dictate the direction of the global tech order is limited by two things, said James Lewis, a senior fellow at the Center for Strategic and International Studies.
+
+First, no U.S. company makes the full range of 5G equipment necessary to build out the nation’s infrastructure — meaning they may have to turn to the very companies that are cited as national security risks.
+
+“American companies will face increasing pressure to buy from Huawei and ZTE,” Lewis said.
+
+Second, China and the European Union are taking the lead on regulating privacy and data sharing, which could set a global standard outside the United States for how Silicon Valley giants such as Facebook and Google must behave.
+
+“We’re not in the driver’s seat anymore,” Lewis said.
+
+For Facebook, the Huawei tie-up is another headache for the embattled social network, which is still facing fallout from the Cambridge Analytica scandal.
+
+Facebook on Wednesday defended its sharing of data, saying such arrangements were common before smartphones featured mobile apps. It and Huawei denied that any data had been misused.
+
+“We want to make clear that all the information from these integrations with Huawei was stored on the device, not on Huawei’s servers,” Francisco Varela, vice president of Facebook mobile partnerships, said in a statement.
+
+Varela added that Facebook has already ended 30 of its partnerships with device makers, including with Huawei.

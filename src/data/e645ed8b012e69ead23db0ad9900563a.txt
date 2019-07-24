@@ -1,0 +1,37 @@
+Engineered bacteria could be missing link in energy storage
+Date:
+May 23, 2019
+Source:
+Cornell University
+Summary:
+One of the big issues with sustainable energy systems is how to store electricity that's generated from wind, solar and waves. At present, no existing technology provides large-scale storage and energy retrieval for sustainable energy at a low financial and environmental cost. Engineered electroactive microbes could be part of the solution.
+FULL STORY
+One of the big issues with sustainable energy systems is how to store electricity that's generated from wind, solar and waves. At present, no existing technology provides large-scale storage and energy retrieval for sustainable energy at a low financial and environmental cost.
+
+Engineered electroactive microbes could be part of the solution; these microbes are capable of borrowing an electron from solar or wind electricity and using the energy to break apart carbon dioxide molecules from the air. The microbes can then take the carbon atoms to make biofuels, such as isobutanol or propanol, that could be burned in a generator or added to gasoline, for example.
+
+"We think biology plays a significant role in creating a sustainable energy infrastructure," said Buz Barstow, assistant professor of biological and environmental engineering at Cornell University. "Some roles will be supporting roles and some will be major roles, and we're trying to find all of those places where biology can work."
+
+Barstow is the senior author of "Electrical Energy Storage With Engineered Biological Systems," published in the Journal of Biological Engineering.
+
+Adding electrically engineered (synthetic or non-biological) elements could make this approach even more productive and efficient than microbes alone. At the same time, having many options also creates too many engineering choices. The study supplies information to determine the best design based on needs.
+
+"We are suggesting a new approach where we stitch together biological and non-biological electrochemical engineering to create a new method to store energy," said Farshid Salimijazi, a graduate student in Barstow's lab and the paper's first author.
+
+Natural photosynthesis already offers an example for storing solar energy at a huge scale, and turning it into biofuels in a closed carbon loop. It captures about six times as much solar energy in a year as all civilization uses over the same time. But, photosynthesis is really inefficient at harvesting sunlight, absorbing less than one percent of the energy that hits photosynthesizing cells.
+
+Electroactive microbes let us replace biological light harvesting with photovoltaics. These microbes can absorb electricity into their metabolism and use this energy to convert CO2 to biofuels. The approach shows a lot of promise for making biofuels at higher efficiencies.
+
+Electroactive microbes also allow for the use of other types of renewable electricity, not just solar electricity, to power these conversions. Also, some species of engineered microbes may create bioplastics that could be buried, thereby removing carbon dioxide (a greenhouse gas) from the air and sequestering it in the ground. Bacteria could be engineered to reverse the process, by converting a bioplastic or biofuel back to electricity. These interactions can all occur at room temperature and pressure, which is important for efficiency.
+
+The authors point out that non-biological methods for using electricity for carbon fixation (assimilating carbon from CO2 into organic compounds, such as biofuels) are starting to match and even exceed microbes' abilities. However, electrochemical technologies are not good at creating the kinds of complex molecules necessary for biofuels and polymers. Engineered electroactive microbes could be designed to convert these simple molecules into much more complicated ones.
+
+Combinations of engineered microbes and electrochemical systems could greatly exceed the efficiency of photosynthesis. For these reasons, a design that marries the two systems offers the most promising solution for energy storage, according to the authors.
+
+"From the calculations that we have done, we think it's definitely possible," Salimijazi said.
+
+The paper includes performance data on biological and electrochemical designs for carbon fixation. The current study is "the first time that anybody has gathered in one place all of the data that you need to make an apples-to-apples comparison of the efficiency of all these different modes of carbon fixation," Barstow said.
+
+In the future, the researchers plan to use the data they have assembled to test out all possible combinations of electrochemical and biological components, and find the best combinations out of so many choices.
+
+The study was supported by Cornell and the Burroughs-Wellcome Fund.

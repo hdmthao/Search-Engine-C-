@@ -1,0 +1,66 @@
+
+nasa.gov
+NASA Mission to Measure Cosmic Rays Follows Nontraditional Path
+Joe Atkinson
+6-7 minutes
+
+The Rapid Response Radiation Survey, or R3S, payload
+
+The Rapid Response Radiation Survey, or R3S, is an instrument that will measure cosmic radiation in low-Earth orbit and improve models that determine cosmic radiation risks to commercial air crews and passengers, space crews, and electronic systems. R3S was conceived at NASA's Langley Research Center in Hampton, Virginia, and is hosted on a rapidly reconfigurable smallsat developed by the Defense Advanced Research Projects Agency. NovaWurks, a company based in Los Alamitos, California, built the smallsat and integrated the R3S sensors.
+
+Credits: Image courtesy of NovaWurks
+
+A cost-efficient, fast-tracked mission conceived at NASA's Langley Research Center in Hampton, Virginia, will soon take a trip to low-Earth orbit to be bombarded by galactic cosmic rays.
+
+That bombardment will provide NASA researchers with critical information about the radiation environment impinging on Earth's atmosphere and inform models that help determine cosmic radiation risks to commercial air crews and passengers, space crews, and electronic systems. 
+
+Artist's rendering of the R3S payload onboard the NovaWurks smallsat
+
+An artist's rendering of the R3S payload onboard the NovaWurks smallsat.
+
+Credits: Photo illustration courtesy of NovaWurks
+
+The Rapid Response Radiation Survey, or R3S, is hosted on a rapidly reconfigurable smallsat developed by the Defense Advanced Research Projects Agency. NovaWurks, a company based in Los Alamitos, California, built the smallsat and integrated the sensors.
+
+The NovaWurks smallsat is one of more than 60 scheduled to launch aboard a SpaceX Falcon 9 rocket 1:32 p.m. EDT Monday, Nov. 19, from Vandenberg Air Force Base in central California as part of Spaceflight Industries' SSO-A: SmallSat Express, an organized rideshare that will deposit multiple satellites into a sun synchronous polar orbit. Using smallsats to study our space environment is a key way to increase our sensors in space, and improve our understanding of space weather the same way that terrestrial sensors help us understand Earth’s weather.
+
+R3S, Langley's first smallsat instrument, incorporates two dosimeters, which measure exposure to ionizing radiation, and a magnetometer, which will allow the instrument to map radiation exposure related to the strength of Earth's geomagnetic field.
+
+"There are good assets doing dosimetry in low-Earth orbit, but all of them are behind shielding," said Ryan Norman, principal investigator for R3S. "This is an opportunity to put these dosimeters in a bare-space environment without interference from any shielding, which isn't something that's done often. Shielding changes the quality and amount of radiation measured by sensors and affects the mass distribution of the galactic cosmic rays that are being recorded."
+
+In humans, ionizing radiation can cause adverse effects such as genetic disorders, cancer and heart problems. It can also have damaging effects on delicate electronics.
+
+Data collected by R3S will be useful in refining NASA's radiation model, the Nowcast of Atmospheric Ionizing Radiation for Aviation Safety, or NAIRAS, which assesses biologically harmful radiation exposure levels experienced by aviators. R3S grew out of the Radiation Dosimetry Experiment, or RaD-X, a balloon-launched Langley mission that measured galactic cosmic rays in Earth's stratosphere and provided crucial data for the NAIRAS model.
+
+R3S didn't just grow out of Rad-X in the conceptual sense, though. It even uses spare parts from that mission.
+
+"We had spare dosimeters. We had a need for more science. We had an opportunity for a ride. And those three things came together," said Norman.
+
+Ryan Norman is the principal investigator for R3S
+
+Ryan Norman is the principal investigator for R3S.
+
+Credits: Courtesy of Ryan Norman
+
+They came together thanks, in large part, to something called Lab 77. Led by researcher Nathanael Miller, Lab 77 is an informal group of loosely affiliated early career researchers and engineers from across Langley's mission directorates. Their goal is to usher NASA missions through nontraditional networks that involve outside partnerships and rapid technology-development techniques. They call the process "mission natural selection."
+
+Miller and Norman sketched out the initial plan for R3S after work one day in October 2015. From that initial sketch, it only took a few months for the project to evolve through to development, testing and hardware integration. The total cost to NASA was only about $50,000 and the equivalent of half a full-time employee.
+
+"We provided the sensors to NovaWurks — literally things you can buy off-the-shelf — specified how they needed to work and handed them over to them," said Miller.
+
+The only snag was in finding a launch vehicle. NovaWurks originally planned to launch its satellite in 2016, but has twice had to rebook due to delays with launch providers.
+
+Regardless, it's an ideal partnership. For NovaWurks, it offers the chance to work with a high-profile customer. For NASA, it offers the chance for researchers to quickly and inexpensively do science that might take years to do otherwise.
+
+"When you bring a low-cost platform into a research area, that low-cost opens up the possibility for a higher-rate of experimentation and increases our learning with new data," said Miller.   
+
+Norman, for one, is pretty excited by the possibilities, which extend well beyond the primary goal of improving the NAIRAS system. The R3S data will be useful for improving models that look at radiation transport in space as well.
+
+"Radiation is one of the big risks for human spaceflight in general," he said, "but it's also of interest to anybody who's doing satellite design because there's lots of money that goes into making sure your instruments don't die. The better we can understand the radiation environment, the better we can inform how they design their engineering safety factors against the radiation environment."
+
+Joe Atkinson
+NASA Langley Research Center
+
+Last Updated: Nov. 17, 2018
+
+Editor: Joe Atkinson

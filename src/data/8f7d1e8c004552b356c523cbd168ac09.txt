@@ -1,0 +1,10 @@
+Paladins is a first-person shooter video game developed by Hi-Rez Studios, the developers of the MOBA SMITE. The game is rooted in a colorful sci-fi fantasy setting featuring Champions, playable characters that have their own unique fire-function and skills. Combat in Paladins is also nearly entirely skillshot-based, meaning projectiles can be dodged. Although each champion has their own personality and abilities, to get around Paladins' maps, the real character variation comes from the Cards and Item Systems that augments a champion in different ways.
+Closed beta phase began on November 17, 2015. The game officially went into open beta on September 16, 2016. An Xbox One and Playstation 4 versions of the game entered their closed beta phases on March 14, 2017. Both of these ports went into open beta on May 3, 2017. Paladins launched out of beta on all platforms on May 8, 2018.
+The PC version of Paladins can be downloaded through the official website and also through Steam. The console versions can be acquired for free through their respective online stores: Microsoft Store, PlaySation Store (NA), PlayStation Store (EU). The game is now also avaiable on the Nintendo Switch: Nintento eShop
+If you have an issue with the installation, please visit the installation troubleshooting thread on the official forums.
+Recommended PC specifications
+The recommended specs for the game are:
+OS Win 7/8/10 64 bit
+Quad core Intel or AMD
+4GB RAM - 1GB Video RAM
+Nvidia GeForce GTX 650+ or ATI Radeon 6950+

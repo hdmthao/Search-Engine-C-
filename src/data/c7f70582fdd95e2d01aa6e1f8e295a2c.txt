@@ -1,0 +1,32 @@
+Virtual assistants, VR headsets and app stores. How tech is changing cars
+#car #tech #business
+It was all about autos at one of China's top tech conferences this week.
+More than 80 companies showed off vehicle technology at the Consumer Electronics Show in Shanghai, filling two of the six conference halls and forming the largest product category at the annual gathering.
+China is the world's biggest auto market, but it's also a crowded marketplace. In recent years, fierce competition, progressive startups and popular mobile "super-apps" such as Tencent's (TCEHY) WeChat have made Chinese consumers more discerning about what they want in their cars, executives say.
+Cashing in on the backseat
+Holoride, a German startup that first began as a moonshot at Audi (AUDVF) and spun off from the automaker in January, wants to bring virtual reality to the backseat.
+Instead of catering to drivers, the company aims to "turn transit time into valuable time" for passengers, said Nils Wollny, the company's CEO.
+"There is so much time already spent in cars, and car manufacturers didn't cater to passengers very well in the past. It was all driver-focused. That's where we started," he told CNN Business.
+Holoride is building an app for watching VR content that is designed to move in line with the car.
+A test drive arranged by the company showed two types of content on passengers' headsets: a deep sea documentary that lets you "swim" next to a whale, and an outer space game that involved "shooting" at asteroids using a handheld clicker.
+The selling point is synchronization: During the 10-minute ride, the car's movements appeared to match up perfectly with the on-screen action, reducing the risk of nausea.
+"Many people get motion sick when they consume visual media in the car," Wollny noted. "For the first time, the vehicle becomes part of this content experience."
+The company plans to start off by bringing Holoride to "controlled environments," like ride-hailing providers or theme parks, with the eventual goal of launching an app to customers in 2021, Wollny said.
+"You can use our technology for entertainment purposes ... relaxation, meditation, education and also working," he added. "I also see people jumping into cars to experience something, not just getting from A to B."
+No longer 'just a car'
+Automakers are increasingly shifting to make their vehicles more compatible with smartphones. Several companies such as Tesla (TSLA), for instance, have begun creating apps to allow users to get into their cars without the keys, and some companies are hoping to take it a step further with keyless entry on smartwatches.
+Mobvoi, a Beijing-based AI startup that produces wearables and vehicle tech, is one of them.
+The billion-dollar company, which is backed by big names such as Volkswagen (VLKAF) and Google (GOOG), has high hopes for its line of Ticwatches, said Yili Lin, vice president of sales and marketing.
+"In China nowadays, you don't usually use your wallet anymore, right? You use mobile payments," he told CNN Business.
+"I think the [house] key is also gradually replaced by your fingerprint, by facial recognition, right? So you don't need to bring a wallet, you don't need to bring a key. Why do you still use a car key when you have a smartwatch?"
+While some have compared Ticwatch to the Apple Watch, Lin says he doesn't see Apple as a competitor. "We do look up to them to learn from them," he noted. "But we're also very confident in our innovation."
+Lin claims what sets Mobvoi apart is its expertise in creating AI for hardware and software.
+Mobvoi, which is short for "mobile voice," is now working to let drivers use voice recognition in Volkswagen's next line of cars through a joint venture with the German automaker, according to Lin.
+"The new generation of vehicles has to be connected," he said.
+"You're no longer buying a car. You are buying into a digital lifestyle, which means the car you drive, the watch you wear, the phone you use, the smartphone device you use, they should be connected. "
+From providers to platforms
+Several automakers at CES played up their efforts to open up their platforms to developers and made the pitch for new partners to join them.
+Alibaba (BABA) announced Tuesday that it would team up with Audi, Renault and Honda to outfit some of their cars with its Tmall Genie virtual assistant, which lets users control smart home systems like heating or air conditioning from the road.
+In the past, Audi was used to developing "its own solutions for customers in the car," said Boris Meiners, senior director of Audi China's digital business. "Now with this next generation, we're opening up totally."
+The company said this week that it would start inviting all Android developers to apply to have their apps featured in cars, meaning that drivers should be able to hook up to accounts on their favorite navigation and music streaming apps instead of conforming to the vehicle's built-in infotainment system.
+"It's like a real app store," said Meiners. "The customer has freedom of choice of what they actually want."

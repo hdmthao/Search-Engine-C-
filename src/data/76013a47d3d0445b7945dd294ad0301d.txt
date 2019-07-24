@@ -1,0 +1,63 @@
+When researchers release a new finding about the brain, it’s often mice or rats who have run the mazes and taken the tests for science. People might wonder: Are rodents good substitutes for humans? Maybe for men, but what about women?
+
+That’s less likely, because most neuroscience experiments don’t use female rodents — a fact one scientist says comes from outdated ideas that should go into the scientific dustbin.
+
+For years, many scientists have dismissed female rodents as too variable to use in the lab, with tricky hormone surges that can affect behavior and compromise study results. In 2009, male lab mammals in neuroscience studies outnumbered females 5.5 to 1, according to a 2011 study in Neuroscience & Biobehavioral Reviews.   
+
+“The idea that women are primarily driven by ovarian hormones [was] a narrative put in place intentionally in the Victorian era,” says Rebecca Shansky, a neuroscientist at Northeastern University in Boston. “That has also infiltrated the way we think about female animals” in science.
+
+Male animals can be just as “hormonal” as their female counterparts, Shansky argues in an essay published May 31 in Science, and it’s time that both sexes got equal attention in the lab. Here are five things to know about the issue of sex in the study of rodent brains.
+
+Yes, females are hormonal
+In humans, reproductive hormones such as estrogen and progesterone ebb and flow over a roughly 28-day cycle. In rodents, that cycle is compressed to four or five days. Estrogen or progesterone levels on one day could be up to four times as much as on the day before.
+
+These hormones affect behavior. Female rats, for example, will self-administer more cocaine during estrous than at other times, and show less anxiety-like behavior immediately before estrous.
+
+With behavioral differences clearly linked to the reproductive cycle, scientists quickly came to believe that the cycle “was the primary thing that would drive your data,” Shansky says. So the scientists thought, why risk it? Better to just study males.
+
+Males are hormonal, too
+Males, whether of mice or men, are hardly paragons of hormonal stability, the evidence suggests.
+
+A male rat bullying another will show a testosterone rise. Let him mate with a female, and his testosterone spikes. Even male rats housed near female rats will have higher testosterone levels than male rats living a monastic life.
+
+Testosterone, a type of hormone called an androgen, “can vary 10-fold over the lifetime of a rat,” says Mark Spritzer, a behavioral neuroendocrinologist at Middlebury College in Vermont. “If we’re arguing estrogens are important, androgens are important too, and highly sensitive,” Spritzer says. “Normal” levels of testosterone in healthy men can range from 215 nanograms per deciliter to four times that amount, and can spike around times of sex or exercise.                                                                                      
+
+In Spritzer’s lab, low testosterone has been associated with poor memory performance. Bring the levels up, and rats begin to ace their mazes. Take testosterone too high, and performance tanks again.
+
+Many scientists have also believed that females’ changing hormone levels would lead to behavior that was more variable than males’ — an assumption that behavioral neuroendocrinologist Irving Zucker says just isn’t true. He and colleagues have studied how male and female mice differ in their body temperatures and movements, reporting the results in 2017 in Biology of Sex Differences.
+
+“When you compare males and females side by side, males are more variable over the course of the day, and females are more variable across days,” says Zucker, of the University of California, Berkeley. Both sexes vary, just in different ways and over different time scales.
+
+Leaving out females cuts crucial information
+Males and females have their hormonal surges. But there are also fundamental differences between the sexes that have nothing to do with those shifting hormones. Shansky’s lab uses a classic test called fear conditioning, in which animals are presented with a tone or light followed by a painful, but harmless, shock to their feet. Show rats the tone or light again, and they’ll freeze, bracing for the shock.
+
+But #notallrats.
+
+After the first painful lesson, female rats start out freezing just like the males. But then, if shocks continue, some females begin to dart around the cage, Shansky has found. You shouldn’t just throw out that data and assume the scurrying female rats hadn’t learned the cue for the coming shock. These females did learn, Shansky argues. They figured out that freezing wasn’t working and switched to a different strategy for avoiding the shock. Further tests showed that the estrous cycle had nothing to do with the different responses; it was a behavioral difference between the sexes caused by something other than hormones.
+
+To dart or not to dart
+Research published in 2015 found that, after multiple fear conditioning trials, male rats tend to freeze as if bracing for a shock. Females may start out freezing but often shift to racing around, or “darting,” displaying a more flexible response.
+
+
+T.M. GRUENE ET AL/ELIFE 2015
+Studies shouldn’t treat male animals as the baseline and females as deviant, says Shansky, whose lab published these findings in 2015 in eLife. These different behaviors simply mean that both sexes have things to tell us, she says. 
+
+By focusing studies on male rodents, scientists risk missing important behavioral and physiological features of female animals — a problem when scientists are attempting to translate their findings to human health. This is especially true in studies related to mental illnesses, such as anxiety and depression, which twice as many women are diagnosed with as men, Shansky notes.
+
+Boys and men, on the other hand, are more frequently diagnosed with autism, hyperactivity and attention deficit disorder than girls and women. These conditions also often present with different symptoms in women and men. “We won’t get the full pictures of what a condition means and is if we tell ourselves we can get a full picture with only one sex,” says neuroscientist Nicola Grissom of the University of Minnesota in Minneapolis. “What’s missing is the opportunity to discover the different ways that brains function.”
+
+The United States is trying to close the rodent gender gap
+The National Institutes of Health has tried to bring more female rodents into laboratories. A 2016 policy mandates that federally funded scientists use both males and females in their studies — or justify why they don’t.
+
+But scientists aren’t always sure how important a sex balance is. In a 2017 survey of 713 scientists serving on grant review committees, which decide how federal funds are doled out, 58 percent said they believed that considering the sex of lab animals in grant applications would improve the quality of research. “That was the majority,” says chemist Nicole Woitowich of Northwestern University in Evanston, Ill. “But that still leaves [more than] 40 percent” who weren’t convinced. And 68 percent of the voluntary respondents said such considerations were important in general, according to the study, conducted by Woitowich and Teresa Woodruff, an endocrinologist also at Northwestern. The researchers published their findings January 10 in the Journal of Women’s Health.
+
+With such varying views, some grant committees might require a strongly argued justification for using only one sex. Others might give the sex balance less weight or ignore it completely. “When it comes down to it,” Woitowich says, the policy is “not a mandate, it’s a strong suggestion.” It is up to the grant reviewers to decide how much the balance between sexes matters in a study’s methodology.
+
+Change takes time
+It’s not always as simple as adding some female test rodents, though. Including both sexes means studies can cost more and take longer to complete, says neuropharmacologist Mike Taffe.
+
+Taffe, of the University of California, San Diego, has been incorporating female animals into his work since 2016. But he says that not all scientists might see the effort as worthwhile for every study. “In a broad general sense, we should be doing this,” he says. But “if [sex differences are] your primary goal, of course it’s worth it. If it’s not your primary goal, is it worth it or not?”
+
+Scientifically, Taffe says he doesn’t lump males and females together and assume there’s no difference. “If you examine in males and females, I think you have to give a chance to find a difference,” he says. But then, if a difference between the sexes is found, a researcher has to pursue that further to find out what’s behind the difference. That means more experiments with more animals, which requires more money and more time. “You’ll get more information” in the end, he says. “But it’s inevitable that it’s going to be slower.”
+
+The National Institutes of Health policy may get more scientists to include females in the studies, but change will be incremental. “As with most things in science,” Taffe says, “it takes a long time to move the ship in a new direction.”

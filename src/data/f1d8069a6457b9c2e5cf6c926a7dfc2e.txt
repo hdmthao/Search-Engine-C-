@@ -1,0 +1,26 @@
+ALMA finds unexpected trove of gas around larger stars
+Astronomers using the Atacama Large Millimeter/submillimeter Array (ALMA) surveyed dozens of young stars -- some Sun-like and others approximately double that size -- and discovered that the larger variety have surprisingly rich reservoirs of carbon monoxide gas in their debris disks. In contrast, the lower-mass, Sun-like stars have debris disks that are virtually gas-free. This finding runs counter to astronomers' expectations, which hold that stronger radiation from larger stars should strip away gas from their debris disks faster than the comparatively mild radiation from smaller stars. It may also offer new insights into the timeline for giant planet formation around young stars.
+
+Debris disks are found around stars that have shed their dusty, gas-filled protoplanetary disks and gone on to form planets, asteroids, comets, and other planetesimals. Around younger stars, however, many of these newly formed objects have yet to settle into stately orbits and routinely collide, producing enough rubble to spawn a "second-generation" disk of debris.
+
+"Previous spectroscopic measurements of debris disks revealed that certain ones had an unexpected chemical signature suggesting they had an overabundance of carbon monoxide gas," said Jesse Lieman-Sifry, lead author on a paper published in Astrophysical Journal. At the time of the observations, Lieman-Sifry was an undergraduate astronomy major at Wesleyan University in Middletown, Connecticut. "This discovery was puzzling since astronomers believe that this gas should be long gone by the time we see evidence of a debris disk," he said.
+
+In search of clues as to why certain stars harbor gas-rich disks, Lieman-Sifry and his team surveyed 24 star systems in the Scorpius-Centaurus Association. This loose stellar agglomeration, which lies a few hundred light-years from Earth, contains hundreds of low- and intermediate-mass stars. For reference, astronomers consider our Sun to be a low-mass star.
+
+The astronomers narrowed their search to stars between five and ten million years old -- old enough to host full-fledged planetary systems and debris disks -- and used ALMA to examine the millimeter-wavelength "glow" from the carbon monoxide in the stars' debris disks.
+
+The team carried out their survey over a total of six nights between December 2013 and December 2014, observing for a mere ten minutes each night. At the time it was conducted, this study constituted the most extensive millimeter-wavelength interferometric survey of stellar debris disks ever achieved.
+
+Armed with an incredibly rich set of observations, the astronomers found the most gas-rich disks ever recorded in a single study. Among their sample of two dozen disks, the researchers spotted three that exhibited strong carbon monoxide emission. Much to their surprise, all three gas-rich disks surrounded stars about twice as massive as the Sun. None of the 16 smaller, Sun-like stars in the sample appeared to have disks with large stores of carbon monoxide.
+
+This finding is counterintuitive because higher-mass stars flood their planetary systems with energetic ultraviolet radiation that should destroy the carbon monoxide gas lingering in their debris disks. This new research reveals, however, that the larger stars are somehow able to either preserve or replenish their carbon monoxide stockpiles.
+
+"We're not sure whether these stars are holding onto reservoirs of gas much longer than expected, or whether there's a sort of 'last gasp' of second-generation gas produced by collisions of comets or evaporation from the icy mantles of dust grains," said Meredith Hughes, an astronomer at Wesleyan University and coauthor of the study.
+
+The existence of this gas may have important implications for planet formation, says Hughes. Carbon monoxide is a major constituent of the atmospheres of giant planets. Its presence in debris disks could mean that other gases, including hydrogen, are present, but perhaps in much lower concentrations. If certain debris disks are able to hold onto appreciable amounts of gas, it might push back astronomers' expected deadline for giant planet formation around young stars, the astronomers speculate.
+
+"Future high-resolution observations of these gas-rich systems may allow astronomers to infer the location of the gas within the disk, which may shed light on the origin of the gas," says co-author Antonio Hales, an astronomer with the Joint ALMA Observatory in Santiago, Chile, and the National Radio Astronomy Observatory in Charlottesville, Virginia. "For instance, if the gas was produced by planetesimal collisions, it should be more highly concentrated in regions of the disk where those impacts occurred. ALMA is the only instrument capable of making these kind of high-resolution images."
+
+According to Lieman-Sifry, these dusty disks are just as diverse as the planetary systems they accompany. The discovery that the debris disks around some larger stars retain carbon monoxide longer than their Sun-like counterparts may provide insights into the role this gas plays in the development of planetary systems.
+
+The National Radio Astronomy Observatory is a facility of the National Science Foundation, operated under cooperative agreement by Associated Universities, Inc.

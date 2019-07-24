@@ -1,0 +1,57 @@
+Mathematicians work out how to predict success in show business
+Date:
+June 4, 2019
+Source:
+Queen Mary University of London
+Summary:
+Mathematicians have found a way to predict whether an actor's career has peaked or if their most successful days lie ahead.
+Mathematicians from Queen Mary University of London have found a way to predict whether an actor's career has peaked or if their most successful days lie ahead.
+
+They discovered that an actors' most productive year, defined as the year with the largest number of credited jobs, is towards the beginning of their career.
+
+Clear signals preceding and following this 'annus mirabilis' enable them to predict with around 85 per cent accuracy if it has passed or not.
+
+The study, published in the journal Nature Communications, also describes how the vast majority of actors and actresses, around 70 per cent, have careers that only last for one year.
+
+These one-hit wonders are the norm rather than the exception as long careers with lots of jobs are rare, suggesting a scarcity of resources in the acting world.
+
+Using data presented by Internet Movie Database (IMDb), the researchers studied the careers of 1,512,472 actors and 896,029 actresses around the world from 1888, when the first film was made, up to 2016 to analyse and predict success on the silver screen.
+
+They found that careers are clustered into 'hot' and 'cold' streaks as individuals do not tend to work at a steady rate in a business where unemployment rates hover at around 90 per cent.
+
+There is also huge evidence of gender bias in the industry, as most of the patterns observed were different for actors and actresses.
+
+For instance, actors are more likely to find work after a cold streak while an actress's most productive year is more likely be at the start of their career.
+
+Also, when careers last more than one year, it is more common to find actresses with shorter career lengths than actors.
+
+The researchers were inspired to look into this after previous studies had analysed the career success of scientists and artists which was found to be unpredictable. They aimed to define, quantify and predict the success of actors and actresses in terms of their ability to maintain a steady flow of jobs.
+
+Oliver Williams, one of the authors of the study from Queen Mary University of London, said: "Only a select few will ever be awarded an Oscar or have their hands on the walk of fame, but this is not important to the majority of actors and actresses who simply want to make a living which is probably a better way of quantifying success in such a tough industry.
+
+"Our results shed light on the underlying social dynamics taking place in show business and raise questions about the fairness of the system. Our predictive model for actors is also far from the randomness that is displayed for scientists and artists."
+
+The researchers found that the total number of jobs in a career is underpinned by a rich-get-richer phenomenon. In other words, the best known actors get the most jobs.
+
+This result is not unexpected, after all, the more well-known an actor is, the more likely producers will want him or her in their next film, if only for commercial purposes.
+
+What is interesting about this observation is that rich-get-richer effects are well known to develop out of arbitrary and unpredictable random events that get amplified. So an actor's success could be down to circumstance rather than their acting ability. This is known as the network effect.
+
+The study also shows that actors with long cold streaks who then experience late comebacks are rare but difficult to predict, and as such the destiny of each actor is not entirely determined.
+
+Dr Lucas Lacasa, another author of the study from Queen Mary University of London, said: "We think the approach and methods developed in this paper could be of interest to the film industry: for example, they could provide complementary data analytics to IMDb. This does also bring with it a number of open questions. We have assumed that there is nothing anyone can do to change their fortunes, but we have not shown that this has to be the case. Consequently we are interested in finding out how an individual might best improve their chances of future success."
+
+The researchers hope that their method will contribute to the new science of success and that refined versions of the prediction model will be even more accurate.
+
+Dr Lacasa added: "This research has sparked a lot of attention from unexpected places including from a screenwriter from the film industry who is now developing a movie script partly based on our findings."
+
+Story Source:
+
+Materials provided by Queen Mary University of London. Note: Content may be edited for style and length.
+
+Related Multimedia:
+
+YouTube video: Mathematicians work out how to predict success in show business
+Journal Reference:
+
+Oliver E. Williams, Lucas Lacasa, Vito Latora. Quantifying and predicting success in show business. Nature Communications, June 4, 2019; DOI: 10.1038/s41467-019-10213-0

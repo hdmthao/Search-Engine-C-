@@ -1,0 +1,18 @@
+A Detailed Timeline of The IMAGE Mission Recovery
+The Imager for Magnetopause-to-Aurora Global Exploration, or IMAGE, spacecraft was re-discovered in January 2018 after more than twelve years of silence. A powerhouse of magnetosphere and aurora research, the IMAGE mission was a key driver of studies of the Sun-Earth connection from its launch on March 25, 2000, until its last contact on Dec. 18, 2005.
+Now a watchful citizen scientist, NASA, and a team of IMAGE scientists and engineers detected and received data from the spacecraft. Here’s how it happened.
+Saturday, Jan. 20
+1:39 AM EST:  Amateur astronomer Scott Tilley in Roberts Creek, British Columbia, using his home satellite detection rig, begins his nightly sky scan then goes to bed.
+Sometime in the afternoon – Reviewing the previous night’s data manually – 4 MHz at a time – Tilley detects an unexpected radio frequency signal. Analyzing the specifics of its Doppler Curve – the way the frequency modulates as it crosses the sky, like the siren of a passing ambulance – and comparing it to the orbital elements logged in the space-track catalog, it came back as NASA spacecraft 26113, corresponding to the IMAGE mission.
+Unaware of any details of the mission, Tilley shrugged, logged the finding into his database, and continued looking through his data. 
+A few minutes later. Reconsidering his findings — why hadn’t he ever detected the satellite in any previous scans? — Tilley took a closer look. Suddenly a portion of the spectrum just below the data he’d read jumped out. The (relatively weak) signal he’d originally detected had only been a harmonic of the spacecraft’s fundamental frequency, which was much stronger – one of the strongest he’d seen.
+Saturday Evening
+A review of public frequency lists – where other amateur astronomers post their findings – came up empty. No one else had detected this satellite in recent years. After some research, Tilley turned up an article on EO PORTAL about the IMAGE mission. “But they were referring to IMAGE in the past-tense,” Tilley said.
+Tilley eventually found IMAGE’s detailed Failure Report which stated that the spacecraft’s power source had likely been tripped, and that NASA had watched to see if it might be rebooted by an extended eclipse. But a 2007 eclipse came and went while IMAGE remained silent, and the mission was declared over.
+“The realization came over me . . . that what I was observing was the fact that the spacecraft had rebooted,” Tilley remarked. “But who’s going to listen to some guy in his basement with a coil of copper wire on his roof?”
+Sunday, Jan. 21
+01:48 am EST – Tilley publishes his findings in a blog post, then spends the next two days at work.
+Tuesday, Jan. 23
+01:38 am EST – Ruminating on his findings with his wife over dinner (who, according to Tilley, admonished him that “someone who’s smart enough to find a lost satellite surely can find the guy who built the thing”), Tilley gets up from the table to do some more research. He discovers the contact information for Dr. James Burch, the IMAGE principal investigator at the Southwest Research Institute in San Antonio, Texas, and emails him about his findings.
+4:41 am EST – Burch responds. “This is very exciting. I really appreciate your doing this and letting me know about it.”
+Burch shares the news with Richard J. Burley, former ground system manager and mission director for IMAGE at Goddard Space Flight Center in Greenbelt, Maryland. Burley (after reportedly having to “clean all the coffee off of my laptop that I spit on it when I saw Jim Burch’s email…”) jumps to action, contacting NASA’s Space Science Mission Operations Office (SSMO) and Deep Space Network (DSN) to alert them.

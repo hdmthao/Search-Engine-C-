@@ -1,0 +1,39 @@
+China Can Hit U.S. Tech Where It Hurts in Tariff Response
+President Donald Trump’s latest move to ratchet up tariffs on Chinese goods raises the specter that China could strike back by tripping up U.S. companies doing business in the Asian nation -- and tech is especially vulnerable.
+
+On Tuesday, the U.S. said it will impose a 10 percent tariff on $200 billion of Chinese-made products, from food to electronics, by Aug. 30. That adds to an already-announced $50 billion in tariffs that could raise prices on almost half of everything the U.S. buys from China. President Xi Jinping has vowed to strike back.
+
+China’s imports from the U.S. aren’t large enough to match Trump’s tariffs dollar for dollar, but the country has other levers it could use, such as imposing new taxes and added regulation on U.S. companies, slowing deal approvals, or encouraging citizens to boycott American products. San Diego-based mobile-chip giant Qualcomm Inc. is still waiting for final clearance from China for its more than $40 billion acquisition of NXP Semiconductors NV.
+
+Combining U.S. corporate revenue in China with exports to the country gives the U.S. a trade surplus of $20 billion, according to Deutsche Bank AG. U.S.-based companies that derive the highest proportion of sales in China are dominated by chipmakers and other electronics manufacturers, according to data compiled by Bloomberg. Monolithic Power Systems Inc., a San Jose, California-based component maker, tops the list with about 60 percent of its revenue from China.
+Big in China
+
+Some of the largest U.S. tech companies rely heavily on China
+
+Source: Company data
+
+China has used non-tariff tactics in the past. South Korean and Japanese companies have been targeted during times of political tension with increased regulation, harsh new consumer safety rules and mass boycotts inspired by China’s state-run media. Apple only recently staged a comeback in China, one of the company’s most important markets. Tesla Inc. just announced plans to build a Chinese assembly plant but still needs to secure approvals and permits.
+
+China is considering delaying merger approvals, The Wall Street Journal reported on Tuesday, citing unnamed Chinese officials. NXP fell as much as 4.7 percent, the most since June 25. Qualcomm fell 1.6 percent.
+
+That chip deal is one of the most prominent hostages of the brewing trade war between the U.S. and China. Qualcomm promised investors that the transaction would be closed by the end of 2017. NXP has given Qualcomm until July 25 to close the deal or their agreement will expire.
+
+Qualcomm already won clearance through the investigation phase of China’s approval process, people familiar with the matter told Bloomberg earlier this year. The final announcement, though, may be held up amid the high-level standoff over broader trade issues and the fate of Chinese telecom equipment company ZTE Corp.
+
+The complexity of politically infused, cross-border acquisition approvals is relatively minor compared to the global electronics supply chain, which binds China and the U.S. and creates domestic tensions for both countries. An Intel Corp. processor made in Oregon or Arizona will often head to Chengdu where it’s packaged for final installation into a computer. That computer can then be assembled for a U.S. company such as HP Inc. by a Chinese subcontractor and shipped to the U.S. for sale. It’s unclear which parts of this process would be affected by U.S.-China tariffs.
+
+China could make it more difficult to obtain operating licenses or building permits, said Ivan Feinseth, chief investment officer at Tigress Financial Partners. "There’s just a lot of small things they could do that would just be annoying," he said. But since U.S. business in China is often done through partnerships with the government, China risks hurting itself if it amps up regulation on U.S. companies as a retaliatory measure, he added.
+
+Apple is the master of global electronics supply chains. While the company is based in the U.S., China has arguably become its most important market. The vast majority of Apple products are manufactured across China, and the company generated just over 20 percent of its revenue there during its most-recent reported quarter.
+
+Since launching bigger-screened iPhones in China and striking expansive wireless carrier partnerships with China Mobile and others, Apple has thrived there. The company has increasingly configured some of its hardware and software for the region -- at a level beyond any customization for other markets. It also released a gold iPhone to appeal to Chinese consumers, added mobile-payment support for some of the country’s transit systems, and developed messaging features that mimic popular functions of local services like WeChat.
+
+The company has also followed local laws, agreeing to relocate data storage for its iCloud services to state-affiliated servers in China. Tim Cook, Apple’s chief executive officer, also visits China regularly for public and private events.
+
+It’s unlikely Trump’s tariffs will immediately hurt Apple, due to its U.S. headquarters. But retaliatory tariffs from China might target consumer devices assembled in the country, raising the already high price tags of the latest iPhones, iPads and Apple Watches.
+
+DA Davidson analyst Tom Forte said American tech companies with manufacturing in China may be more insulated from retaliation, citing Apple and its partnership with Foxconn Technology Group, which assembles iPhones in factories throughout China.
+
+"The Chinese government would not want to do something to damage the Chinese contract manufacturers," Forte said, adding that companies making consumer electronics generate "a lot of job growth" in the country.
+
+— With assistance by Emily McCormick

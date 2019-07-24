@@ -1,0 +1,12 @@
+Microsoft and NASA partner to create space lesson plans
+Middle and high school students will design in 3D, analyze data, build sensors and much more.
+Microsoft's education arm and NASA have joined forces to get students excited about space. The jointly created lesson plans, available online and geared toward middle school and high school students, use academic concepts and hands-on learning to inspire interest in the area.
+The eight online lesson plans range from titles such as Designing Astro Socks to protect astronauts' feet in microgravity to designing your own space station. The curriculum includes 3D design challenges, virtual reality experiences and data analysis lessons.
+Most of the courses require three or four 50-minute time commitments and can cost $2 to $3 per student.
+The partnership between the companies was a result of a meeting at the International Society for Technology Educators Conference last year, according to Karon Weber, Partner Director at the Microsoft Education Workshop. Weber added that the lesson plans are part of a larger collection by Microsoft to complement existing classroom standards.
+"We want to complement what [teachers] are already teaching," said Weber. "We are seeing the opportunity...to model future jobs has been super effective."
+In Analyzing the astronauts' photos of Earth to predict climate change, students will learn the hexadecimal numbering system to find out how computers represent color. The course also creates exposure to machine learning and artificial intelligence modules by asking students to detect seasons from biome images. Students need Windows 10 and a Microsoft Office subscription to finish the class.
+Another lesson, Experiencing microgravity by understanding Newton's 2nd and 3rd laws of motion, weighs objects on Earth, helping students learn the difference between mass and weight.
+Last year, Microsoft teamed with the BBC, the British Broadcasting Corporation, to bring similar lesson plans.
+"...I think this collection is so interesting because now we are celebrating the 50th history of the moon walk...and now that there's this commercial space program, that possibility [of living in space] isn't so far fetched," adds Weber.
+NASA didn't immediately respond to a request for further comment on the lesson plans.

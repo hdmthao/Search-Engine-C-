@@ -1,0 +1,9 @@
+NCBI to help with Rocky Mountain Genomics HackCon, June 17 – 21, 2019
+
+The NCBI will participate in a one-day conference on June 18, 2019 and a hackathon, June 19-21, 2019 as a part of Rocky Mountain Genomics Hackcon 2019 at the BioFrontiers Institute in Boulder Colorado.
+
+The conference will feature technical speakers in precision medicine, metagenomics, and advanced RNA-Seq analysis, as well as an exhibitor and poster session. The hackathon will focus on creating visualization tools for exploratory data analysis.
+
+Many people who attend these events have experience working with large datasets or the development of informatics tools, code, or pipelines; however, researchers who are in earlier stages of their data science journey, including students and postdocs are also encouraged to apply. Some projects are available to other non-scientific developers, mathematicians, or librarians. The event is open to anyone selected for the hackathon and willing to travel to Boulder, Colorado.  
+
+Please visit the Rocky Mountain Genomics Hackcon 2019 site for more details and information on how to attend.

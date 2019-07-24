@@ -1,0 +1,35 @@
+Nokia distances itself from boss's warning over Huawei 5G kit
+Telecoms giant Nokia has disowned the comments one of its senior executives made about rival Huawei.
+Nokia's chief technology officer Marcus Weldon told the BBC that the UK should be wary of using the Chinese hardware.
+He said Huawei's telecoms kit had vulnerabilities that meant it posed a risk to 5G networks.
+In a statement issued after the BBC story was published, the Finnish firm said his comments do "not reflect the official position of Nokia".
+It added: "Nokia is focused on the integrity of its own products and services and does not have its own assessment of any potential vulnerabilities associated with its competitors."
+The statement undermines assertions made by Mr Weldon in which he said Huawei's failings were serious.
+He pointed to a new report from US security firm Finite State, which detailed vulnerabilities in Huawei enterprise networking equipment.
+"In virtually all categories we studied," the report said, "we found Huawei devices to be less secure than comparable devices from other vendors."
+Mr Weldon added: "Some of it seems to be just sloppiness, honestly, that they haven't patched things, they haven't upgraded. But some of it is real obfuscation, where they make it look like they have the secure version when they don't."
+In the UK, Huawei equipment has been subject to close scrutiny by a unit staffed by GCHQ. It has produced reports severely critical of the security of some software, although it has not found backdoors in the firm's products.
+"We read those reports and we think OK, we're doing a much better job than they are," said Mr Weldon. He conceded that Nokia's equipment was not subject to the same checks in the UK as Huawei, but said it did face scrutiny around the world.
+He said Nokia's equipment was "a safer bet" for mobile operators.
+Huawei has denied that its equipment poses a security risk, with a spokesman calling Mr Weldon's comments "misleading".
+US Huawei supplier resumes some shipments
+Huawei smartphone sales hit amid US curbs
+5G: Finally, it's here in the UK - so what?
+In a separate statement given after Nokia disowned the tech boss's comments, Huawei said Nokia's had recognised that "ill-informed loose talk does not help our customers or the industry more widely".
+It added: "We win new business by fair competition and on the basis of our technology and customer focus, not by denigrating our competitors.
+"The best way to improve cyber security and ensure network resilience is for all vendors to agree to independent testing of their equipment and source code - just as we have done in the UK," it said.
+Tough competition
+Nokia and Sweden's Ericsson are competing with Huawei to sell next-generation telecoms equipment.
+Huawei is seen as leading the race in many markets, but the US is putting pressure on allies, including the UK, to bar the firm over security fears.
+Mr Weldon said the pressure from the US was serving as a counterbalance to unfair financial advantages that Huawei had enjoyed in the past.
+"It's fairness returning to the market," he told the BBC
+"We were disadvantaged in the past relative to the practices that the Chinese were allowed to have in terms of funding mechanisms."
+US networks are deploying Nokia's radio antennas as part of their 5G rollout
+A Huawei spokesman said: "We believe secure, resilient networks can only be delivered by collaboration across the whole industry, working to common standards on privacy protection and cyber-security, so that all participants can be judged equally.
+"We have a proven track record of delivering secure, trustworthy and high-quality products to every major telecoms operator in Europe. Cyber-security remains Huawei's top priority and here, in the UK, we are subject to the most rigorous oversight compared to any competitors in our sector."
+Media captionRobert Strayer, a senior US cyber-security official, told the BBC that Huawei's vulnerabilities 'create a bug door'
+The UK government has been conducting a review into the security of Huawei's telecoms supply chain and Mr Weldon said: "That means being wary of adding Chinese vendors into network infrastructure, as long as these security vulnerabilities are either provably there or likely to be there based on past practices."
+He said Huawei represented a risk relative to Nokia and Ericsson.
+Huawei has invested heavily in 5G technologies in the expectation of them driving future profits
+It was reported in April that the prime minister had decided that, while the Chinese firm should not be allowed into the heart of 5G networks, it would not be banned completely. Downing Street has insisted that a final decision has yet to be made
+UK mobile operators are beginning to roll out 5G networks and are all using some Huawei equipment. They have warned that a ban on the Chinese firm would mean a lengthy delay in the 5G roll-out and added costs because of a lack of competition.

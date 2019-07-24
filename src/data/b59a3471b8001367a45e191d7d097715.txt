@@ -1,0 +1,21 @@
+Heroes of the Storm is a Blizzard Entertainment "hero brawler" game, initially inspired by the Defense of the Ancients custom map for Warcraft III. The game features heroes from across the Warcraft, StarCraft, Diablo and Overwatch franchises, as well as older Blizzard games, who are seized by an unknown force and brought together in a mysterious location known as the Nexus to do battle.
+After a lengthy alpha test period, Heroes of the Storm entered closed beta on January 13, 2015, went into open beta on May 19, and was fully released on June 2, 2015.
+Gameplay
+Heroes of the Storm is a team-based competitive game in which each player controls a powerful hero with unique abilities, and works with his or her team to invade and destroy the enemy team's base.
+Heroes of the Storm has a number of features which set it apart from other DOTA-style games:
+Experience is shared between all players on a team, so there is no benefit to last-hitting. When a team reaches a certain experience point threshold, every hero on that team levels up, acquiring slightly amplified powers. Every few levels, players may select a talent which offers a new ability, or augments an existing one. This leveling system emphasizes the importance of teamwork and planning, since a player's action can affect the whole team.
+There are no purchasable items, although characters can be customized by learning talents as they level up.
+All skills are unlocked at the beginning of a match, save for ultimate abilities, which are learned at level 10.
+Players can also mount different animals, such as horses, lizards, or unicorns, to increase their movement speed, automatically dismounting when dealing/receiving damage or using an ability.
+Games are intended to last for about 20 minutes each,
+Each battleground has unique objectives.
+Heroes
+Heroes that have been released since June 30, 2015 include:
+Diablo: Auriel, Azmodan, Cassia, Deckard, Diablo, Johanna, Kharazim, Leoric, Li-Ming, Malthael, Nazeebo, Sonya, The Butcher, Tyrael, Valla, and Xul
+StarCraft: Abathur, Alarak, Artanis, Blaze, Dehaka, Fenix, Kerrigan, Lt. Morales, Nova, Probius, Raynor, Sgt. Hammer, Stukov, Tassadar, Tychus, Zagara, and Zeratul
+Warcraft: Alexstrasza, Anub'arak, Arthas, Brightwing, Chen, Cho'gall, Chromie, E.T.C., Falstad, Garrosh, Gazlowe, Greymane, Gul'dan, Illidan, Jaina, Kael'thas, Kel'Thuzad, Li Li, Lunara, Maiev, Malfurion, Medivh, Muradin, Murky, Ragnaros, Rehgar, Rexxar, Samuro, Stitches, Sylvanas, Thrall, Tyrande, Uther, Valeera, Varian, Yrel and Zul'jin
+Overwatch: Ana, D.Va, Genji, Hanzo, Junkrat, Lúcio, Tracer and Zarya
+The Lost Vikings: The Lost Vikings
+Characters that have been seen in artwork, trailers, or other previews include:
+Warcraft: Mekkatorque
+Other characters Blizzard was considering include Aggra, Aidan, Azshara, Belial, Blackthorne, Brann, Cain, Cenarius, Cydaea, Dagg'um Ty'gor, Deathwing, Dr. Boom, Druid, Gallywix, Ghom, Grom, Harth, Hogger, Hybrid Zerg, Imperius, Kil'jaeden, Kronan, Leah, Mengsk, Moira, Overmind, Paladin, Sapper, SCV, Selendis, Snake, Sorceress, Tosh, Valerian, Varimathras, Vashj, Velen, Vol'jin, Warfield and Zurvan.

@@ -1,0 +1,62 @@
+May 25, 2019
+What is SUBSEA, the Systematic Underwater Biogeochemical Science and Exploration Analog?
+NASA Takes a Deep Dive into the Search for Life
+Deep space and the deep sea are not as different as you might think. In 2018 and 2019, NASA’s search for life beyond Earth is diving beneath the waves here at home to explore hydrothermal systems of underwater volcanoes. These special locations could look a lot like what we'll find on the other ocean worlds in our solar system – prime candidates to potentially support life.
+
+Many projects at NASA study places on Earth that could be analogous to extraterrestrial locations. The project pulling together ocean and space is called SUBSEA, which stands for Systematic Underwater Biogeochemical Science and Exploration Analog. While searching for clues about similar environments on other ocean worlds and their potential to support life, the team will also assess the best ways to conduct a remote science mission and streamline future exploration. This could have implications for near-term human exploration destinations like the Moon and Mars.
+
+This synergy of ocean and space research makes a lot of sense, when you realize that in both fields robotic explorers are sent to work where humans can’t easily go, with input from groups of people both relatively nearby and much farther afield. Combining the two worlds allows the SUBSEA team, led by Darlene Lim of NASA’s Ames Research Center, in California’s Silicon Valley, to help prepare for new types of space exploration missions by practicing now under realistic conditions on Earth.
+
+Simulating a Space Mission at Sea
+NASA’s long-term strategy for deep space exploration may include joint human-robotic missions. One potential design involves astronauts close enough to communicate almost instantaneously with robots exploring a surface site, such as on the Moon – something called low-latency teleoperations, or LLT. The LLT crew could send commands down to robots instantaneously, based on scientific guidance and exploration direction from an Earth-based science team, despite being separated from that team by long communication delays.
+
+The SUBSEA project operations parallel this mission design. Their scientific fieldwork takes place from on board the ship Nautilus, which is equipped with the Hercules and Argus remotely operated vehicles, or ROVs. These underwater robots are controlled by ship-based human operators. They, in turn, receive guidance from a remote science team located at exploration command centers throughout the U.S. Connected to the Nautilus via a communications infrastructure designed for teleoperations, video and other data streams provide science team members with information from the field site.
+
+With the scientists conducting research on seafloor hydrothermal systems in the context of a simulated LLT mission, the whole team can begin to understand how best to accomplish tasks and develop tools that will be needed for science-driven exploration in space. Their approach focuses on three main areas: the scientific research, science operations and information technologies.
+
+Artist rendering showing an interior cross-section of the crust of Enceladus
+Artist rendering showing an interior cross-section of the crust of Enceladus, which shows how hydrothermal activity may be causing the plumes of water at the moon’s surface.
+Credits: NASA-GSFC/SVS, NASA/JPL-Caltech/Southwest Research Institute
+Science
+The warm springs emanating from an underwater volcano off Hawaii Island, called the Lo`ihi seamount were SUBSEA’s first scientific target, in 2018. In 2019, the team will explore Gorda Ridge, located about 75 miles off the U.S. coast where California and Oregon meet.
+
+Both locations offers a good representation of the conditions scientists believe exist on certain moons in the outer solar system, which may have the right combination of factors to support life. Enceladus and Europa are moons of Saturn and Jupiter that hide oceans beneath their icy crusts. Water interacting with rock on their sea floors could potentially yield chemical reactions that would make microbial metabolism possible.
+
+The specific type of volcanic activity at Lo`ihi and Gorda Ridge is thought to be similar to what may exist in these places, and data from their warm springs could have a big impact on scientists’ predictions about conditions on these other ocean worlds.
+
+297191main_Enceladus_full.jpg
+Saturn's moon Enceladus hides an ocean beneath its icy crust. Water interacting with rock on the sea floor could potentially yield chemical reactions that would make microbial metabolism possible.
+Credits: NASA
+Science Operations
+How the research actually gets done – from the steps in each process to the way team members communicate – is called operations. SUBSEA takes a multidisciplinary approach to studying how science is best accomplished within the confines of the simulated deep-space mission. By doing trials like SUBSEA that mimic how real off-world exploration and science might happen, the team evaluates and builds NASA's knowledge and experience with operations to support successful science-driven LLT missions.
+
+IT
+Carrying out scientific research under teleoperation conditions will require software tailored to different space exploration contexts with their own unique requirements. SUBSEA will use prototype IT to evaluate which software features are required for missions with long communication delays and to improve upon these tools based on their ability to support LLT operations focused on science.
+
+Impacts for Ocean World Science and Mission Design
+Ultimately, SUBSEA’s research findings will help mission design teams develop methods for doing science efficiently, productively and safely during low-latency telerobotic operations in deep space environments such as Mars.
+
+With its science results, SUBSEA will also broaden our understanding of the potential for other ocean worlds in the solar system to host life. Scientists will gain a better idea of how a range of water-rock reactions can affect the availability of energy sources to sustain microbial metabolism, and where such conditions are most likely to exist.
+
+Milestones:
+August 2018 – SUBSEA’s first field campaign. This deployment focused on characterizing the geology, the energy that flows through the system, and the microbial communities associated with the Lo`ihi seamount. The telepresence architecture used for expeditions aboard the Nautilus was studied as a model for designing future LLT architectures for NASA missions.
+May-June 2019 – SUBSEA’s second of two field campaigns. The location, Gorda Ridge, is complementary to Lo`ihi, but the project will add a Mars-like communications delay to its mission simulation this year. IT systems designed at Ames to help missions manage operations across great distances and delays will be tested this year – for the first time on a mission with oceanographic goals. SUBSEA researchers will use methods from the social sciences to study how the team responds to the new challenges and solutions.
+Partners:
+The SUBSEA research program is a partnership between government agencies, non-profits and academic research teams that support both Earth and space exploration, including NASA, NOAA, the Ocean Exploration Trust, and various academic centers. Funding is provided by the NASA PSTAR Program, with significant infrastructure and in-kind support from NOAA’s Office of Ocean Exploration and Research.
+
+Learn more:
+NASA Dives Deep into the Search for Life (NASA story about SUBSEA’s science, studying underwater volcanoes on Earth in the search for life on other ocean worlds, May 2018)
+
+NASA in Silicon Valley Live - Searching for Life Beyond Earth (video episode, Oct. 2018)
+
+Underwater Robots Help NASA Plan Future Deep-Space Missions (NASA featured image, Aug. 2018)
+
+For news media:
+To get in touch with someone from the SUBSEA project, please contact the NASA Ames news room.
+
+
+Author: Abby Tabor, NASA's Ames Research Center, Silicon Valley
+
+Last Updated: May 31, 2019
+Editor: Abigail Tabor
+Tags:  Ames Research Center, Astrobiology, Solar System

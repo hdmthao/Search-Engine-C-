@@ -1,0 +1,28 @@
+Forecasting climate change's effects on biodiversity hindered by lack of data
+An international group of biologists is calling for data collection on a global scale to improve forecasts of how climate change affects animals and plants. Accurate model predictions can greatly aid efforts to protect biodiversity from disturbances such as climate change and urban sprawl by helping scientists and decision-makers better understand, anticipate and respond to threats that imperil species and ecosystems.
+
+In a paper published in Science on Thursday (Sept. 8), biologists cite a critical lack of data on key biological mechanisms - such as how animals and plants spread during their lifetime and how they evolve in response to changes in the environment - as the main obstacle to improving models' ability to forecast species' response to climate change.
+
+"This paper is a call to arms," said Patrick Zollner, article co-author and Purdue associate professor of wildlife science. "The world is in dire circumstances. We're losing a lot of species, and we're largely unaware why. How do we need to rethink the kind of data we're collecting so we can take advantage of modern modeling tools to understand the outcomes of climate change for ecological systems? This could help us forestall losing wildlife that we later deeply regret."
+
+The group outlines two key problems that hinder the capability of current models to make realistic predictions about biological responses to climate change.
+
+Most models are descriptive, based on statistical correlations and observations, and fail to capture the underlying processes that produce observed changes. For example, a descriptive model might show that lynx in the northern U.S. are declining while bobcat populations in the same region are on the rise. Understanding what is driving this change requires a different sort of model, one that incorporates biological mechanisms. A mechanistic model that accounts for how warming temperatures affect snow depth, for instance, could provide insights into why bobcats - better adapted to habitats with less snow - are gaining a competitive edge over lynx. But 77 percent of current models of climate change's impacts on wildlife do not include biological mechanisms.
+
+Another challenge is that as models have grown in sophistication, they have far outpaced data collection. Put another way, a model is like a state-of-the-art kitchen, but the cupboards are bare.
+
+"We can now build videogame-like environments with computers where we can create multiple versions of Earth and ask what the implications under different scenarios are," Zollner said. "But our ability to learn from these tools is constrained by the kinds of data we have."
+
+The group advanced several proposals on how to improve models, collect missing data and leverage available data to make broader predictions.
+
+They identified six biological mechanisms that influence wildlife's responses to climate change: physiology; demography and life history; evolutionary potential and adaptation; interactions between species; movement over land or water; and responses to changes in the environment. They ranked the information needed to account for these mechanisms in models and suggested proxies for data that are missing or hard to collect.
+
+A globally coordinated effort to fill data gaps could greatly advance improvements in models and informed conservation approaches, the researchers wrote. They point to the Intergovernmental Panel on Climate Change and its consistent improvements in climate change modeling as a valuable blueprint for such a project.
+
+But local and regional conservation groups need not wait for a global body to coalesce to start using a mechanistic approach in their own region, Zollner said.
+
+"If the ideas put forth in this paper start to be adopted and integrated into climate change work in a grass roots way, that could make a big difference in a region and could scale up over time," he said.
+
+Citizen scientists also have an important role to play in pitching in with data collection, he said.
+
+Working with citizen scientists offers "an opportunity to get huge amounts of data, and it's foolish not to take advantage of it," Zollner said. "The data might not be as rigorous and needs to be treated differently, but it's one more source of valuable information."

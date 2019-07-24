@@ -1,0 +1,11 @@
+Rainbow Six Siege Now Instantly Banning Players Who Use Slurs
+Don't be a jerk.
+Last updated by Eddie Makuch on July 15, 2018 at 10:31PM
+Rainbow Six Siege is making some changes to help weed out hate speech in the popular multiplayer shooter. A new banning system implemented recently in the game will instantly ban players who spout hate speech, according to PC Gamer.
+Players who use hate speech will be banned from all components of Siege for a period of around 30 minutes on their first offence; the second and third instance will carry two-hour bans. According to Siege's official Code of Conduct, players who have three strikes against them could be banned permanently, pending the result of an investigation by Ubisoft.
+"Fighting against toxicity and cleaning up the Siege environment is a very real and important issue," Ubisoft said in a post on Twitter.
+Any ban system will have its issues and imperfections, and Ubisoft said it plans to continue to make changes to its policy over time.
+"No system is perfect, but it is working as intended in a majority of the cases we've been seeing," the studio wrote on Twitter. "This is not our final update for dealing with toxicity--we will continue to observe and make changes and expansions as needed."
+In April, the Rainbow Six Siege development team outlined its stance on toxicity, saying that its overall goal is three-pronged: "to track negative player behavior, manage those that behave poorly, and eventually implement features that will encourage players to improve their behavior."
+The auto-ban system now in the game appears to be the automated system that replaces words that Ubisoft has identified as offensive. You can read more about this policy and Ubisoft's other anti-toxicity efforts in the full blog post.
+Rainbow Six Siege is not the only high-profile game taking steps to make its in-game community more wholesome. Blizzard's Overwatch is also determined to create systems that automatically detect bad behaviour.

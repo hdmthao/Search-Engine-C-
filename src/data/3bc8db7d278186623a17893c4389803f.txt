@@ -1,0 +1,45 @@
+Why Aren’t More Men Working?
+By N. Gregory Mankiw
+June 15, 2018
+
+With unemployment at 3.8 percent, its lowest level in many years, the labor market seems healthy.
+
+But that number hides a perplexing anomaly: The percentage of men who are neither working nor looking for work has risen substantially over the past several decades.
+
+The issue, in economist’s jargon, is labor force participation. When the Bureau of Labor Statistics surveys households, every adult is put into one of three categories. Those who have a job are employed. Those who are not working but are searching for a job are unemployed. Those who are neither working nor looking for work are counted as out of the labor force.
+
+This last group is ignored when calculating the unemployment rate. The presumption is that if a person without a job isn’t looking for one, then he or she doesn’t want one, and the joblessness is not a problem. But is that really accurate?
+
+The data show some striking changes over time. Among women, the share out of the labor force has fallen from 66 percent in 1950 to 43 percent today. That is not surprising in light of changing social norms and the greater career opportunities now open to women.
+
+Men, however, exhibit the opposite long-term trend. In 1950, 14 percent of men were out of the labor force. Today, that figure stands at 31 percent.
+
+Some of this change is easy to explain. People now spend more years in school, delaying their start of work. In addition, as life expectancy rises, people have longer retirements. A man retiring at age 65 in 1950 could expect to live another 13 years. Today, a man retiring at that age has an average retirement of 18 years.
+
+Yet schooling and retirement explain only part of what has occurred. Consider prime-age men, those from the ages of 25 to 54. These men are generally well past their schooling and well before their retirement. Yet this group has also been exiting the labor force.
+
+In 1950, only 4 percent of prime-age men were not working or looking for work. Today, that figure is 11 percent.
+
+Why has that number nearly tripled?
+
+One likely hypothesis, discussed in a recent paper by the economists Katharine G. Abraham and Melissa S. Kearney, is that the rise in nonparticipation is related to declining opportunities for those with low levels of education.
+
+Economists who study rising inequality, like my Harvard colleagues Claudia Goldin and Lawrence F. Katz, attribute a large share of it to skill-biased technological change — the tendency for advances in technology to enhance the productivity and wages of workers who have certain skills while reducing the demand for those who don’t. Unskilled workers are left with the choice of accepting lower wages or leaving the labor force. This hypothesis is consistent with the fact that labor force participation has fallen more for workers with lower levels of educational attainment.
+
+Compounding these trends is international trade, which can have much the same effects as technology. Whether an American manufacturing worker is replaced by a robot or a Chinese worker, the result is the same: job displacement. (The benefit to consumers — lower prices — is the same, too.) If the jobs that remain available are much less attractive than the one a worker just lost, he may give up looking.
+
+One might wonder how these less educated, prime-age men support themselves after leaving the labor force. The social safety net plays a role. In a study for the Mercatus Center of George Mason University, Scott Winship reports that “75 percent of inactive prime-age men are in a household that received some form of government transfer payment.” Mr. Winship believes that government disability benefits in particular are one reason for the lack of interest in work.
+
+Moreover, the social safety net extends beyond government aid. For many young adults, living with their parents is a viable option, even if not an attractive one for all participants. The recent court case brought by a couple to evict their 30-year-old son from the family home is just one facet of a broader social trend.
+
+For many non-workers, being out of the labor force is intermittent rather than permanent. In his recent Harvard Ph.D. dissertation, John Coglianese documented the rise of what he calls “in-and-outs” — prime-age men who temporarily leave the labor force. While not working, these men live off their savings or the income of their spouse or cohabiting partner.
+
+It is an open question how policymakers should respond, or whether they should at all. The decision to look for work is a personal one, and in a free society people will naturally make different choices. Yet it is troubling that rising nonparticipation is most pronounced for those at the bottom of the economic ladder.
+
+One step in the right direction would be to expand opportunity by increasing educational attainment and skills training. Doing so would help expand opportunity, as well as address many other problems facing the economy. But that is easier said than done.
+
+Spending more on education might help, but is a tough political sell. And improving the educational system could require not just more money, but fundamental reforms that are hotly contested by the various stakeholders.
+
+The data on labor force participation show that the economy is changing in profound and disquieting ways. The literature on this phenomenon is growing but has yet to yield any easy answers.
+
+

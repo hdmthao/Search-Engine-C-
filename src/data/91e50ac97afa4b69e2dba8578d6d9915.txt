@@ -1,0 +1,37 @@
+Having more control over your data doesn't mean it's safe
+
+California's new data protection law gives consumers sweeping control over how much personal information companies can collect. It lets people opt out of having their data collected entirely, and even makes it easier to sue companies in the wake of a data breach.
+
+But none of that guarantees any of that data is safe.
+
+Although some privacy advocates hail the California Consumer Privacy Act of 2018 as a model for other states to follow, the legislation says little about what must be done to protect all that data once companies have it.
+
+Big players like Facebook (FB) or Google (GOOG) have robust security protocols and entire teams dedicated to keeping hackers and thieves at bay. But there are an untold number of tech companies, marketing firms, and others that hold troves of information and may not have the resources to ensure its safekeeping.
+
+That point was reinforced with news that Exactis, a data marketing firm in Florida with four employees, inadvertently exposed a database containing personal information on about 230 million consumers and 110 million businesses. The dataset included phone numbers, email addresses, home addresses, and even things like hobbies and political contributions.
+
+Related: The biggest data breaches ever
+
+Security researcher Vinny Troia discovered the leak, first reported by Wired, and confirmed his findings to CNNMoney. Exactis CEO Steve Hardigree told CNNMoney that his company corrected the problem immediately after Troia identified it, and said there is no indication anyone accessed the information. He also stressed that the company does not collect sensitive information like Social Security numbers or credit card information.
+
+Exactis is just one of many companies compiling large datasets. "It's not a unique business," Troia said. "In this case, they just got caught with the door open."
+
+Two days after news of that leak broke, a data breach at the Advanced Law Enforcement Rapid Response Training at Texas State University exposed the personal information of thousands of law enforcement officers. In that case, which was first reported by ZDNet, the personal info was stored on an unsecured web server, a university spokesman told CNNMoney.
+
+Data breaches can happen to anyone, of course -- just ask Equifax (EFX), which experienced a hack that exposed the personal information of over 147 million people last fall. Such incidents show that, by and large, the US is "totally unprepared" to address them, said security expert James Norton. He was the deputy assistant secretary of legislative affairs at the Department of Homeland Security under President George W. Bush and helped launch the department's first cybersecurity team.
+
+"These things are happening so fast and so furiously that we're not in a place to deal with it, whether at the government level, personal level or private sector level," he said. "Unless there's a requirement to protect the data -- whether it's a federal mandate or comes from the consumer -- I'm not sure it's going to change."
+
+The California Consumer Privacy Act of 2018 makes some effort to address that. It specifically states that any consumer whose "nonencrypted or nonredacted personal information" is compromised "as a result of the business' violation of the duty to implement and maintain reasonable security procedures and practices appropriate to the nature of the information" can sue for damages.
+
+"Essentially it requires companies to follow reasonable security procedures, and to protect the information by encrypting or redacting it," said a spokesperson for California state Senator Robert Hertzberg, who co-authored the law. "For anything that is not laid out in the bill, it is likely that those regulations and procedures will be developed by the attorney general over the next 18 months before the bill goes into effect."
+
+Related: Sears and Delta customer data may have been exposed in cyberattack
+
+Working out those details is important, because many companies that collect personal data continue making "fundamental mistakes" in how they protect it, said Richard Forno, assistant director of the UMBC Center for Cybersecurity.
+
+"In 2018, we should not be seeing these types of incidents and breaches," he said.
+
+California's law is not quite as expansive as the European Union's General Data Protection Regulation. But even Europe's tougher regulations can't do much to prevent leaks and breaches, because they don't require companies to tell consumers they have your data, according to Troia.
+
+Ensuring 100% security is impossible. "However, we do have to keep trying to reach that goal," Forno said. To that end, he and other security experts said companies should follow established best practices like encrypting data, drafting comprehensive security protocols, and alerting consumers to breaches. Such things won't stop breaches, but, like locking a front door or installing an alarm, they will make it much harder for the bad guys to get in -- which is the whole point.

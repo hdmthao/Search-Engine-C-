@@ -1,0 +1,73 @@
+Watch your waste The problem with airline food and packaging
+
+(CNN) — Every day, Emirates' airline catering facility prepares 180,000 meals to service its more than 400 daily flights around the globe. The Emirates facility is one of the world's biggest airline food factories, but there are similar operations across the world.
+
+The scale of inflight catering is astonishing -- as is its waste problem.
+
+Half-eaten meals, tossed beers, empty plastic water bottles, napkins, discarded packaging -- look around a cabin at the end of any flight and you can get a sense of the waste on a small scale.
+
+And the big picture? According to the International Air Transport Association, airlines produced 5.2 million tons of waste last year, and will produce over 10 million tons annually by 2030.
+
+While the statistic includes a host of disposable products -- from wine bottles to plastic toothbrushes -- a large chunk is directly related to food service. From harnessing behavioral data and using cups that can be composted to donating nonperishable food items and on-board recycling, here's what airlines are doing to divert cabin waste from landfills.
+
+What's the problem?
+
+The problem is compounded by various factors: the sheer scale of the catering process, international health regulations, varying governmental waste policies and space constraints on board.
+
+Airlines must plan for food safety, hygiene, freshness and weight -- hence the vast amounts of plastic in every plane cabin.
+
+"Dining in the sky is quite different [than] popping down to your local café," Mark Ross-Smith, a big data specialist, airline consultant, and founder of Travel Data Daily, tells CNN Travel. "Individual wrapping is required to keep food fresh, hygienic and free from contamination. Anyone who has eaten a bread roll on a plane that has been out of wrapping for more than a few minutes can attest to how dry air affects food quality!"
+
+There's also a concern about customer satisfaction, which leads airlines to stock more food than required on board flights.
+
+"Our fear of not serving all passengers results in an increased load, which increases waste," says Peter Lawrance, head chef of Scandinavian Airlines (SAS). "Airlines are often doing a best guess of how much passengers will buy or consume."
+
+A finely tuned computer system which can customize catering to changing needs is not yet standard, he adds. "This type of system often needs to be created from scratch."
+
+Digesting data
+
+Flexible catering might not be commonplace now, but Ross-Smith says it's one way airlines could curb waste.
+
+"You can pretty much predict anything with data science -- from how much a hotel guest would be willing to pay for a suite upgrade and how you spend airline miles. The passenger experience will continue to be the focal point but on a deeper, more granular level. This is the type of stuff airlines can win awards for."
+
+How does it work? By tracking passengers' online data -- from location to income, spending habits and consumption -- airlines can predict passenger behavior.
+
+"Businesses using data [that consumers have] published online is as common as having a cup of tea," explains Ross-Smith. "Companies use tools to [scrape data] and turn behavior into actionable insights. Once companies turn data into insights, they own that data. It's no longer yours."
+
+But airlines don't necessarily need to trawl the Internet to learn what type of tea you like to drink. Ross-Smith says data can also be applied to behavioral patterns in flight. By tracking consumption over time, airlines could predict which meal type you're most likely to order on-board -- and adjust stock lists accordingly.
+
+"Based on history of sales and other flight information on specific routes, we are implementing our own developed tool to increase diverse loading instructions to match and predict the passenger needs on every specific route," says Lawrance.
+
+Pay as you go
+
+Another solution is the pay-as-you-go approach, where travelers order meals before a flight.
+
+This is already the status quo for most low-cost carriers (LCCs) around the world, from HK Express in Hong Kong to Norwegian Air Shuttle. By providing this system -- where passengers buy meals using an app or website -- airlines can simultaneously meet demand and minimize waste.
+
+"One might argue that LCCs are more waste-efficient because they don't give free things to every passenger, so people only buy what they consume," says Ross-Smith.
+
+"Pre-ordering of meals also has obvious catering advantages. It lowers costs and weight on board, which translates to lower fuel burn."
+
+This approach is becoming more widely embraced by full-service international airlines as well, with the likes of SAS, Japan Airlines, Singapore Airlines and Qantas creating online and mobile booking portals.
+
+"We are focusing more and more on pre-order food," says Lawrance. "We have made it easier to online pre-order your gluten-free, lactose-free, vegetarian or non-pork meals. This reduces waste and, in the end, cost. Ultimately we believe this will increase passenger satisfaction by offering the products our customer wants at the right time or flight."
+
+That's a wrap
+
+Reliance on plastic and paper also contribute to the issue, but some airlines are experimenting with recycling solutions and packaging alternatives to minimize waste.
+
+In its 2016 Sustainability Report, SAS outlined a few ongoing initiatives: locally sourced food, with a "nose-to-tail" approach to limit waste; access to recycling on board; lightweight reusable plates and silverware; and recyclable or combustible disposable packaging.
+
+Likewise, Qantas has begun to use recycled materials for its packaging as well as plastic-free headsets. The airline has also partnered with OzHarvest -- a food rescue organization that collects 87 tons of food every week across Australia -- to donate unused perishables to those in need. With these changes, Qantas estimates that it will divert 350 tons of waste from landfills annually.
+
+Emirates has also introduced new measures to combat waste, including recycling facilities on board, for easy sorting of glass, plastic, aluminum, and paper products. In addition, the Dubai-based airline has also introduced eco-friendly blankets, made from recycled plastic bottles. The airline expects this amenity to rescue more than 12,000 tons of bottles from landfills by 2019.
+
+Zero cabin waste?
+
+But perhaps the broadest initiative is the European Union's "Life + Zero Cabin Waste" plan, which aims for 80% reduction in aircraft waste arriving at Madrid's Barajas airport by 2020.
+
+An airline participant, Spain-based Iberia has introduced reusable utensils -- and soon, recycling bins attached to service trolleys -- so that in-flight waste can be easily sorted.
+
+Back on solid ground, the program has analyzed types of waste arriving at the airport, and redesigned existing waste management treatment procedures to be more effective.
+
+"There are a number of unique solutions in the market today," says Ross-Smith. "But they can be difficult to see as a traveler, because catering (and waste disposal) is largely done behind the scenes."

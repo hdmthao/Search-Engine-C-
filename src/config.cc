@@ -4,6 +4,7 @@
 // path
 const std::string config::path::DATA = "data/demo.txt";
 const std::string config::path::HISTORY = "history.txt";
+const std::string config::path::NEWS = "data/___index.txt";
 
 // privacy
 bool config::privacy::private_mode = false; // startup mode is default mode
