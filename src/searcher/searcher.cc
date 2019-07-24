@@ -78,3 +78,12 @@ bool Searcher::IsExistWord(const std::string &str) {
  
     return cur->is_end_of_word;
 }
+
+// define Struct ResultComponent ở  file header mới tên là resultcompent.h nghe
+ResultComponent Searcher::HighlightResult(const std::string &origin_query, const std::string &file_name) {
+    std::string path = "data/" + file_name;
+    std::string query = origin_query;
+    ResultComponent* result = new ResultComponent();
+
+    return result;
+}
