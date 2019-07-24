@@ -46,7 +46,7 @@ std::string util::string::Trim(const std::string &s)
 std::string util::string::Normalize(const std::string &s) {
     std::string word = util::string::Trim(s);
 	word = RemoveMark(word);
-	// word = RemoveUnicode(word);
+	word = RemoveUnicode(word);
     return util::string::ToLowerCase(word);
 }
 
