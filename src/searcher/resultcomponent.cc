@@ -2,7 +2,7 @@
 
 ResultComponent *getFile(const std::string &s, std::string filename)
 {
-	std::ifstream fin(filename);
+		std::ifstream fin(filename);
 
 	if (!fin.is_open())
 		return NULL;
@@ -24,9 +24,10 @@ ResultComponent *getFile(const std::string &s, std::string filename)
 
 		int count = 0;
 		getline(fin, str);
+		str = util::string::RemoveUnicode(str);
+		str = util::string::Trim(str);
 		std::vector <std::string> word_str = util::string::Split(util::string::Trim(str));
-		
-		
+			
 		if (fil->title == "") {
 			if (str.length() < 100)
 				fil->title = str;			
@@ -43,12 +44,11 @@ ResultComponent *getFile(const std::string &s, std::string filename)
 				}
 			}
 		}
-		
-
+			
 		for (auto it = words.begin(); it != words.end(); it++) {
-			if (str.find(*it) != -1) {
+			if (util::string::ToLowerCase( str).find(util::string::ToLowerCase( *it)) != -1) {
 				for (auto wo : word_str)
-					if (wo.find(*it)!=-1) {
+					if (util::string::ToLowerCase( wo).find(util::string::ToLowerCase(*it))!=-1) {
 						fil->total_keywords++;
 						++count;
 					}
@@ -59,7 +59,6 @@ ResultComponent *getFile(const std::string &s, std::string filename)
 			line_max = str;
 			max_word = count;
 		}
-
 	}
 	fin.close();
 	if (line_max.length() < 80)
@@ -86,7 +85,7 @@ ResultComponent *getFile(const std::string &s, std::string filename)
 	for (auto wo : word_para) {
 		bool ok = false;
 		for (auto it : words)
-			if (wo.find(it) != -1)
+			if (util::string::ToLowerCase(wo).find(util::string::ToLowerCase( it)) != -1)
 				ok = true;
 		if (ok)
 			para += "<hl>" + wo + "<hl> ";
