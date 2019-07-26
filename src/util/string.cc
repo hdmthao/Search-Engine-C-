@@ -127,3 +127,32 @@ std::string util::string::RemoveUnicode(const std::string &s)
 	}
 	return st;
 }
+
+std::string util::string::RemoveStopWord(const std::string &query)
+{
+	std:: ifstream fin("stopwords.txt");
+	if (!fin.is_open())
+		return query;
+	std::vector <std::string> stopwords;
+	std::vector <std::string> words = util::string::Split(util::string::Trim(query));
+	std::string st = "";
+	while (!fin.eof())
+	{
+		std::string str;
+		getline(fin, str);
+		stopwords.push_back(str);
+	}
+	fin.close();
+	for (auto wo : words) {
+		bool ok = false;
+		for (auto stowo : stopwords)
+			if (wo == stowo) {
+				ok = true;
+				break;
+			}
+		if (!ok)
+			st += wo + " ";
+	}
+	st.pop_back();
+	return st;
+}

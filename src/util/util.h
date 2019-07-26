@@ -20,6 +20,7 @@ namespace util {
         std::string Normalize(const std::string &s);
         std::vector<std::string> DivideToLine(const std::string &, int);
         std::string RemoveUnicode(const std::string &s); // remove unicode
+        std::string RemoveStopWord(const std::string &query);
 
     }
 
