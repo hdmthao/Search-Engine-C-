@@ -145,14 +145,17 @@ double Searcher::BM25(const double& idf, const int& tf, const double& avgdl, con
 
 ResultInfo* Searcher::HighlightResult(const std::string &s, std::string &filename)
 {
-	std::ifstream fin(filename);
+		std::ifstream fin(filename);
 
 	if (!fin.is_open())
 		return NULL;
 
 	ResultInfo *fil = new ResultInfo();
 	std::string st = s;
-	st = util::string::Normalize(s);
+	st = util::string::RemoveUnicode(st);
+	st = util::string::Trim(s);
+	st = util::string::RemoveMark(st);
+
 	std::vector <std::string> words = util::string::Split(st);
 	
 	int max_word = 0;
@@ -161,16 +164,13 @@ ResultInfo* Searcher::HighlightResult(const std::string &s, std::string &filenam
 	while (!fin.eof())
 	{
 		std::string str;
-		std::string cur_str;
+
 		int count = 0;
 		getline(fin, str);
-		str = util::string::Trim(str);
 		str = util::string::RemoveUnicode(str);
-		cur_str = str;
-		str = util::string::ToLowerCase(str);
-		std::vector <std::string> word_str = util::string::Split(str);
-		
-		
+		str = util::string::Trim(str);
+		std::vector <std::string> word_str = util::string::Split(util::string::Trim(str));
+			
 		if (fil->title == "") {
 			if (str.length() < 100)
 				fil->title = str;			
@@ -187,12 +187,11 @@ ResultInfo* Searcher::HighlightResult(const std::string &s, std::string &filenam
 				}
 			}
 		}
-		
-
+			
 		for (auto it = words.begin(); it != words.end(); it++) {
-			if (str.find(*it) != -1) {
+			if (util::string::ToLowerCase( str).find(util::string::ToLowerCase( *it)) != -1) {
 				for (auto wo : word_str)
-					if (wo.find(*it)!=-1) {
+					if (util::string::ToLowerCase( wo).find(util::string::ToLowerCase(*it))!=-1) {
 						fil->total_keywords++;
 						++count;
 					}
@@ -203,7 +202,6 @@ ResultInfo* Searcher::HighlightResult(const std::string &s, std::string &filenam
 			line_max = str;
 			max_word = count;
 		}
-
 	}
 	fin.close();
 	if (line_max.length() < 80)
@@ -230,7 +228,7 @@ ResultInfo* Searcher::HighlightResult(const std::string &s, std::string &filenam
 	for (auto wo : word_para) {
 		bool ok = false;
 		for (auto it : words)
-			if (wo.find(it) != -1)
+			if (util::string::ToLowerCase(wo).find(util::string::ToLowerCase( it)) != -1)
 				ok = true;
 		if (ok)
 			para += "<hl>" + wo + "<hl> ";
