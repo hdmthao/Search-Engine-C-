@@ -5,7 +5,7 @@
 #include <iostream>
 
 
-Migo::Migo() : engine(nullptr), ui(nullptr), state(StateMigo::Loading) { }
+Migo::Migo() : engine(nullptr), ui(nullptr) { }
 
 Migo::~Migo() {
     SAFE_DELETE(engine);
@@ -23,23 +23,12 @@ bool Migo::Run() {
         return false;
     }
 
-    if (state == StateMigo::Loading) {
-        Loading();
-        state = StateMigo::Running;
-    }
+    Loading();
 
+    Running();
 
-    while (state != StateMigo::Stopping) {
-        if (state == StateMigo::Running) {
-            Running();
-        }
-        state = StateMigo::Stopping;
-    }
-
-    if (state == StateMigo::Stopping) {
-        StopUI();
-        StopEngine();
-    }
+    StopUI();
+    StopEngine();
     
     return  true;
 }
@@ -55,9 +44,23 @@ bool Migo::Loading() {
 
 
 bool Migo::Running() {
-    ui->StartSearching(engine);
-    ui->RunSearching();
-    ui->StopSearching();
+    ui->Init(engine);
+    state = StateMigo::Search;
+    std::string query = "";
+    while (1) {
+        if (state == StateMigo::Search) {
+            ui->StartSearching();
+            query = "";
+            ui->GetQuery(state, query);
+            ui->StopSearching();
+        } else if (state == StateMigo::Result) {
+            ui->StartUIResult();
+            ui->ShowResult(state, query);
+            ui->StopUIResult();
+        } else {
+            break;
+        }
+    }
     return true;
 }
 

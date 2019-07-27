@@ -5,7 +5,9 @@
 #include "../speller/speller.h"
 #include "../suggester/suggester.h"
 #include "../ui/loadui/loadui.h"
+#include "../component/component.h"
 
+#include <map>
 #include <vector>
 #include <string>
 
@@ -13,9 +15,10 @@ class Engine {
 private:
     Speller* speller;
     Suggester* suggester;
-
-    bool BuildSearcher(const std::string &path_to_file);
+    
     std::vector<std::string> GetListNewsFromFile(const std::string &path);
+    std::unordered_map<int, std::string> doc_map;
+    
 public:
 
     Searcher* searcher;
@@ -30,6 +33,8 @@ public:
 
     // Searcher 
     bool StartSearcher();
+    bool BuildSearcher(const std::string &path_to_file, int &id);
+    SearchResult* Search(const std::string &query);
     bool StopSearcher();
 
     // Speller

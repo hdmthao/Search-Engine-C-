@@ -3,14 +3,7 @@
 
 #include "engine/engine.h"
 #include "ui/ui.h"
-
-
-enum StateMigo {
-    Loading = 101,
-    Running = 200,
-    Stopping = 404,
-};
-
+#include "command/command.h"
 
 class Migo {
 private:

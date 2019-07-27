@@ -2,7 +2,7 @@
 #define SEARCH_UI
 
 #include "../window/window.h"
-#include "../command.h"
+#include "../../command/command.h"
 
 #include <ncurses.h>
 #include <vector>

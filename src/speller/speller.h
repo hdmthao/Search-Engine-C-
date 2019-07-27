@@ -17,7 +17,7 @@ private:
 public:
     Speller(Searcher* searcher);
     ~Speller();
-	bool Check(const std::string &origin, std::string &fix); // auto correct a sentence
+	std::string GetHint(const std::string &origin); // auto correct a sentence
 };
 
 

@@ -5,7 +5,7 @@
 
 using namespace util::input;
 
-UI::UI() : MAX_WIDTH(0), MAX_HEIGHT(0), main_win(nullptr), engine(nullptr), load_ui(nullptr)
+UI::UI() : MAX_WIDTH(0), MAX_HEIGHT(0), main_win(nullptr), engine(nullptr), load_ui(nullptr), search_ui(nullptr), result_ui(nullptr)
 {}
 
 UI::~UI() {
@@ -14,7 +14,9 @@ UI::~UI() {
 bool UI::Start() {
     initscr();
     raw();
+    noecho();
     curs_set(0);
+    ESCDELAY = 200;
     nodelay(stdscr, true);
     keypad(stdscr, true);
     if (!TurnOnColor()) {
@@ -56,6 +58,10 @@ void UI::Stop() {
     endwin();
 }
 
+bool UI::Init(Engine* engine) {
+    this->engine = engine;
+    return true;
+}
 
 void UI::DestroyWin(WINDOW* win, int h, int w) {
     for(int j = 0; j < h; ++j)
@@ -78,14 +84,13 @@ void UI::StopUILoading() {
 }
 
 // Running Screen
-void UI::StartSearching(Engine* engine) {
-    this->engine = engine;
+void UI::StartSearching() {
     search_ui = new SearchUI();
 
     search_ui->Start();
 }
 
-void UI::RunSearching() {
+void UI::GetQuery(StateMigo &state, std::string &query) {
     std::string cur_query = "";
     int choose = 0;
     SearchCommand command = SearchCommand::HighlightQuery;
@@ -110,11 +115,11 @@ void UI::RunSearching() {
         } 
         search_ui->Draw(suggest_list, choose, command);
         if (command == SearchCommand::SearchCurrentQuery) {
-            std::printf( "Search For: %s", suggest_list[choose].c_str());
-            break;
+            query = suggest_list[choose];
+            state = StateMigo::Result;
+            return; 
         }
     }
-    Update(-1);
 }
 
 void UI::StopSearching() {
@@ -122,20 +127,83 @@ void UI::StopSearching() {
     SAFE_DELETE(search_ui);
 }
 
+void UI::StartUIResult() {
+    result_ui = new ResultUI();
+    result_ui->Start();
+}
+
+void UI::ShowResult(StateMigo &state, std::string &query) {
+    ResultCommand command = ResultCommand::SelectSearchBox;
+    std::vector<std::string> suggest_list;
+    int choose = 0;
+    SearchResult* result;
+    result = engine->Search(query);
+    result_ui->Draw(result, choose, command);
+    while (true) {
+        Update(-1);
+        bool is_get_event = GetEventInResultScreen(query, suggest_list, result, choose, command);
+        if (is_get_event) {
+        }
+        result_ui->Draw(result, choose, command);
+        if (command == ResultCommand::BackToSearch) {
+            state = StateMigo::Search;
+            return;
+        }
+        if (command == ResultCommand::Quit) {
+            state = StateMigo::Stop;
+            return;
+        }
+    }
+}
+
+
+void UI::StopUIResult() {
+    result_ui->Stop();
+    SAFE_DELETE(result_ui);
+}
+
+bool UI::GetEventInResultScreen(std::string &query, std::vector<std::string> &suggest_list, SearchResult* result, int &choose, ResultCommand &command)  {
+
+    if (IsPressed(KEY_DOWN)) {
+        choose++;
+        choose = std::min(choose, (int)result->result_list.size() + 1);
+    } else if (IsPressed(KEY_UP)) {
+        choose--;
+        choose = std::max(choose, 0);
+    } else if (IsPressed('\n') || IsPressed(10)) { // enter
+    } else if (IsPressed(ctrl('c'))) { // Ctrl + c -> quit
+        command = ResultCommand::Quit;
+        return true;
+    } else if (IsPressed(27)) { // Esc -> return search win
+        command = ResultCommand::BackToSearch;
+    } else {
+
+    }
+    if (choose == 0) {
+        command = ResultCommand::SelectSearchBox;
+    } else if (choose == 1) {
+        command = ResultCommand::SelectStatistic;
+    }
+    return true;
+}
+
 bool UI::GetEventInSearchScreen(std::string &query, std::vector<std::string> &suggest_list, int &choose, SearchCommand &command) {
     if (IsPressed(KEY_DOWN)) { // len
         choose++;
-        choose = std::min(choose, (int)suggest_list.size() - 1);
+        if (choose > suggest_list.size() - 1) choose = 0;
         command = SearchCommand::HighlightQuery;
     } else if (IsPressed(KEY_UP)) { // xuong 
         choose--;
-        choose = std::max(choose, 0);
+        if (choose < 0) choose = suggest_list.size() - 1;
         command = SearchCommand::HighlightQuery;
     } else if (IsPressed(127)) { // xoa
         if (command == SearchCommand::SlectAllCurrentQuery) {
             query = "";
             command = SearchCommand::HighlightQuery;
-        } else if (!query.empty()) query.pop_back();
+        } else {
+            query = suggest_list[choose];
+            if (!query.empty()) query.pop_back();
+        }
         choose = 0;
     } else if (IsPressed('\n') || IsPressed(10)) { // enter
         command = SearchCommand::SearchCurrentQuery;

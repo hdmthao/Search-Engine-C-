@@ -1,5 +1,6 @@
 // implement for string
 #include "util.h"
+#include <fstream>
 
 std::string util::string::LTrim(const std::string& s)
 {
@@ -99,16 +100,26 @@ std::string util::string::RemoveMark(const std::string &s)
 {
 	std::string st = s;
 	int i = 0;
-	while (i < st.length())
-	{
-		if (st[i] == ',' || st[i] == '.' || st[i] == '?' || st[i] == '!' || st[i] == ':' || st[i] == ';' 
-			|| st[i] == '-' || st[i] == '_' ||st[i]==char(34)||st[i]==char(96)|| st[i]==char(39)||st[i]=='('||st[i]==')')
-			st[i] = ' ';
-		++i;
+	std::string mark = ",.?!:;-_'`\"()";
+
+	while (i < st.length()) {
+		bool is_mark = false;
+		for (auto c : mark) {
+			if (st[i] == c) {
+				is_mark = true;
+				break;
+			}
+		}
+		if (is_mark) {
+			st.erase(i, 1);
+		} else {
+			++i;
+		}
 	}
 
-	return util::string::Trim(st);
+	return st;
 }
+
 
 std::string util::string::RemoveUnicode(const std::string &s)
 {
@@ -118,19 +129,17 @@ std::string util::string::RemoveUnicode(const std::string &s)
 	{
 		if (int(st[i]) < 0 || int (st[i]) > 255)
 		{
-			for (int j = i; j < st.length() - 1; j++)
-				st[j] = st[j + 1];
-			st.pop_back();
-			--i;
+			st.erase(i, 1);
+		} else {
+			++i;
 		}
-		++i;
 	}
 	return st;
 }
 
 std::string util::string::RemoveStopWord(const std::string &query)
 {
-	std:: ifstream fin("stopwords.txt");
+	std:: ifstream fin("data/stopwords.txt");
 	if (!fin.is_open())
 		return query;
 	std::vector <std::string> stopwords;
@@ -146,7 +155,8 @@ std::string util::string::RemoveStopWord(const std::string &query)
 	for (auto wo : words) {
 		bool ok = false;
 		for (auto stowo : stopwords)
-			if (wo == stowo) {
+			if (ToLowerCase(wo) == ToLowerCase(stowo)) {
+				
 				ok = true;
 				break;
 			}
@@ -154,5 +164,6 @@ std::string util::string::RemoveStopWord(const std::string &query)
 			st += wo + " ";
 	}
 	st.pop_back();
+	printf("%s", st.c_str());
 	return st;
 }

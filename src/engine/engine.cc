@@ -34,11 +34,13 @@ bool Engine::Loading(LoadUI* loadui) {
     std::vector<std::string> file_list;
     util::time::timer::SetTime();
     file_list = GetListNewsFromFile(config::path::NEWS);
-
+    searcher->Init((int)file_list.size());
     int rate = file_list.size() / 100;
-
+    
     for (int i = 1; i <= file_list.size(); ++i) {
-        BuildSearcher(file_list[i - 1]);
+        int id = i - 1;
+        doc_map[id] = file_list[i - 1];
+        BuildSearcher(file_list[i - 1], id);
         if (i >= rate && i % rate == 0) {
             loadui->Draw(i, util::time::timer::GetTimeInterval());
         }
@@ -53,24 +55,52 @@ bool Engine::StartSearcher() {
     return true;
 }
 
-bool Engine::BuildSearcher(const std::string &path_to_file) {
+bool Engine::BuildSearcher(const std::string &path_to_file, int &doc_id) {
     std::string path = "data/" + path_to_file;
     std::ifstream fi(path);
     if (!fi.is_open()) {
         std::cout << "Can not read " << path_to_file << "\n";
         return false;
     }
-    // std::ofstream fo("log.txt", std::ios::app);
+    // std::ofstream fo("log.txt");
     std::string s;
+    int position = 1;
+    std::vector<std::string> word_list;
     while (fi >> s) {
-        // fo << path_to_file <<  s << "\n";
-        searcher->AddData(s);
+        // fo <<  util::string::Normalize(s) << " " << count_index << "\n";
+        s = util::string::Normalize(s);
+        word_list = util::string::Split(s);
+        for (int i =0; i < word_list.size(); ++i) {
+            // fo << word_list[i] << " " << position << "\n";
+            searcher->Insert(word_list[i], doc_id, position);
+            position++;
+        }
     }
 
     // fo.close();
     fi.close();
 
     return true;
+}
+
+SearchResult *Engine::Search(const std::string &query) {
+    util::time::timer::SetTime();
+    SearchResult* result = new SearchResult();
+    
+    int total_result = 0;
+    result->query = query;
+    result->hint = speller->GetHint(query);
+    std::vector<int> result_id_list = searcher->GetResultWithNormalSearch(query, total_result);
+    result->total_result = total_result;
+    std::ofstream fo("log.txt");
+
+    for (auto id : result_id_list) {
+        fo << doc_map[id] << "\n";
+    }
+    result->time_estimation = util::time::timer::GetTimeInterval();
+    fo  << result->time_estimation << "\n";
+    fo.close();
+    return result;
 }
 
 bool Engine::StopSearcher() {
@@ -82,13 +112,6 @@ bool Engine::StopSearcher() {
 bool Engine::StartSpeller() {
     speller = new Speller(searcher);
     return true;
-}
-
-bool Engine::CheckSpell(const std::string &origin, std::string &fix) {
-    // return True if the origin string was fix atleast once word
-    bool spell_status = speller->Check(origin, fix);
-
-    return spell_status;
 }
 
 bool Engine::StopSpeller() {
