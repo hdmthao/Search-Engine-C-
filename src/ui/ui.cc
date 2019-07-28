@@ -98,6 +98,8 @@ void UI::GetQuery(StateMigo &state, std::string &query) {
 
     // just wait for 3 secoond, if not key is press, so show best query history
     Update(3000);
+    curs_set(1);
+
     char c;
     if (GetIcon(c)) {
         cur_query += c;
@@ -138,13 +140,18 @@ void UI::ShowResult(StateMigo &state, std::string &query) {
     int choose = 0;
     SearchResult* result;
     result = engine->Search(query);
-    result_ui->Draw(result, choose, command);
+    curs_set(1);
+    result_ui->Draw(query, result, choose, command);
     while (true) {
         Update(-1);
         bool is_get_event = GetEventInResultScreen(query, suggest_list, result, choose, command);
         if (is_get_event) {
+            if (command == ResultCommand::NewSearch) {
+                result = engine->Search(query);
+                command = ResultCommand::SelectSearchBox;
+            }
         }
-        result_ui->Draw(result, choose, command);
+        result_ui->Draw(query, result, choose, command);
         if (command == ResultCommand::BackToSearch) {
             state = StateMigo::Search;
             return;
@@ -166,24 +173,51 @@ bool UI::GetEventInResultScreen(std::string &query, std::vector<std::string> &su
 
     if (IsPressed(KEY_DOWN)) {
         choose++;
-        if (choose - 2 > result->result_list.size()) choose = 0;
+        if (choose - 1 > (int)result->result_list.size()) {
+            choose = 0;
+        }
     } else if (IsPressed(KEY_UP)) {
         choose--;
         if (choose < 0) choose = result->result_list.size() + 1;
-    } else if (IsPressed('\n') || IsPressed(10)) { // enter
+    } else if (IsPressed('\n') || IsPressed(10)) {// enter
+        if (command == ResultCommand::SelectSearchBox) {
+            command = ResultCommand::NewSearch;
+            choose = 0;
+            return true;
+        }
+    } else if (IsPressed(127)) {
+        if (command == ResultCommand::SelectAll) {
+            query = "";
+            command = ResultCommand::SelectSearchBox;
+        } else {
+            if (!query.empty()) query.pop_back();
+        }
+        choose = 0;
     } else if (IsPressed(ctrl('c'))) { // Ctrl + c -> quit
         command = ResultCommand::Quit;
+        return true;
+    } else if (IsPressed(ctrl('a'))) { // Ctrl + a
+        command = ResultCommand::SelectAll;
         return true;
     } else if (IsPressed(27)) { // Esc -> return search win
         command = ResultCommand::BackToSearch;
         return true;
     } else {
-
+        char c;
+        if (!GetIcon(c)) return false;
+        if (command == ResultCommand::SelectAll) {
+            query = "";
+            command = ResultCommand::SelectSearchBox;
+        }
+        query += c;
+        choose = 0;
     }
     if (choose == 0) {
         command = ResultCommand::SelectSearchBox;
     } else if (choose == 1) {
         command = ResultCommand::SelectStatistic;
+    } else {
+        command = ResultCommand::SelectResult;
     }
     return true;
 }

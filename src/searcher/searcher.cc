@@ -96,15 +96,15 @@ SearcherNode* Searcher::GetNode(const std::string &word) {
 }
 
 // Main search
-std::vector<int> Searcher::GetResultWithNormalSearch(const std::string &origin_query, int &total_result) {
+std::vector<std::pair<int, double>> Searcher::GetResultWithNormalSearch(const std::string &origin_query, int &total_result) {
 
-	std::vector<int> result_list;
+	std::vector<std::pair<int, double>> result_list;
 	std::string query = util::string::Normalize(origin_query);
 	if (query.empty()) return result_list;
 	query = util::string::RemoveStopWord(query);
 	std::vector<std::string> word_list = util::string::Split(query);
 	std::map<int, double> rank;
-	std::ofstream fo("log.txt");
+	std::ofstream fo("log_searcher.txt");
 	// fo << total_worlds << " " << total_news << "\n";
 	fo << query << "\n";
 	float avgdll = total_worlds / total_news;
@@ -125,7 +125,7 @@ std::vector<int> Searcher::GetResultWithNormalSearch(const std::string &origin_q
 	for (auto doc : set_result) {
 		count++;
 		fo << doc.first << " " << doc.second << "\n";
-		result_list.push_back(doc.first);
+		result_list.push_back({doc.first, doc.second});
 		if (count == 5) break;
 	}
 	fo.close();
@@ -223,7 +223,7 @@ ResultInfo Searcher::HighlightResult(const std::string &s, const std::string &fi
 					if (util::string::ToLowerCase(wo).find(util::string::ToLowerCase( it)) != -1)
 				ok = true;
 		if (ok)
-			para += "<hl>" + wo + "<hl> ";
+			para += "<h>" + wo + "</> ";
 		else
 			para += wo + " ";
 	}

@@ -99,7 +99,7 @@ bool Suggester::InsertQuery(const std::string &origin_query, unsigned short int 
 
     if (cur->is_end_of_query) {
         cur->rank += rank;
-        cur->time = util::time::timer::GetCurrentTime();
+        cur->time = time;
     } else {
         cur->is_end_of_query = true;
         cur->rank = rank;

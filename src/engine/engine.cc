@@ -90,16 +90,20 @@ SearchResult *Engine::Search(const std::string &query) {
     int total_result = 0;
     result->query = query;
     result->hint = speller->GetHint(query);
-    std::vector<int> result_id_list = searcher->GetResultWithNormalSearch(query, total_result);
+    std::vector<std::pair<int, double>> result_id_list = searcher->GetResultWithNormalSearch(query, total_result);
     result->total_result = total_result;
     std::ofstream fo("log.txt");
 
-    for (auto id : result_id_list) {
-        std::string file_name = doc_map[id];
-        result->result_list.push_back(searcher->HighlightResult(query, file_name, id));
+    for (auto news : result_id_list) {
+        std::string file_name = doc_map[news.first];
+        ResultInfo info = searcher->HighlightResult(query, file_name, news.first);
+        info.score = news.second;
+        result->result_list.push_back(info);
     }
     result->time_estimation = util::time::timer::GetTimeInterval();
-    fo  << result->time_estimation << "\n";
+    suggester->SaveQuery(query );
+    // fo << result->result_list[4].paragraph << "\n";
+    // fo  << result->time_estimation << "\n";
     fo.close();
     return result;
 }

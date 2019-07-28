@@ -15,6 +15,8 @@ enum SearchCommand{
 };
 
 enum ResultCommand {
+    NewSearch = 788,
+    SelectAll = 777,
     SelectSearchBox = 799,
     SelectStatistic = 800,
     SelectResult = 801,

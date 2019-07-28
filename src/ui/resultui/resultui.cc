@@ -30,12 +30,10 @@ void ResultUI::DrawLogo() {
 }
 
 
-void ResultUI::Draw(SearchResult* result, int &choose, ResultCommand &command) {
+void ResultUI::Draw(std::string &query, SearchResult* result, int &choose, ResultCommand &command) {
     //
-    if (command == ResultCommand::SelectSearchBox)
-        DrawSearchBox(result, true);
-    else
-        DrawSearchBox(result,false);
+    int cur_y = 0, cur_x = 0;
+    DrawSearchBox(query, command, cur_y, cur_x);
 
     if (command == ResultCommand::SelectStatistic)
         DrawStatistic(result, true);
@@ -47,18 +45,44 @@ void ResultUI::Draw(SearchResult* result, int &choose, ResultCommand &command) {
     else
         DrawResult(result, false, choose);
 
+    if (command == ResultCommand::SelectSearchBox) {
+        curs_set(1);
+        wmove(search_win->win, cur_y, cur_x + 2);
+        search_win->Refresh();
+    } else {
+        curs_set(0);
+    }
     return;
 }
 
 
 bool ResultUI::DrawResult(SearchResult* result, bool choose, int pos) {
+    result_win->Reset(false);
     int offset = 1;
     for (int i = 0; i < result->result_list.size(); ++i) {
         if (pos - 2 == i) wattron(result_win->win, A_BOLD);
         ResultInfo news = result->result_list[i];
-        std::string info_ = "File name: "  + news.file_name + " ("  + std::to_string(news.total_keywords) +  " keywords / " + std::to_string(news.total_words) + " words)";
-        mvwaddstr(result_win->win, offset++, 1, info_.c_str());
+        // std::string info_ = "File name: "  + news.file_name + " ("  + std::to_string(news.total_keywords) +  " keywords / " + std::to_string(news.total_words) + " words)";
+        std::string info = "File name: " + news.file_name + " (Score: " + std::to_string(news.score) + " )";
+        mvwaddstr(result_win->win, offset++, 1, info.c_str());
         mvwaddstr(result_win->win, offset++, 1, news.title.c_str());
+        // std::vector<std::string> line = util::string::DivideToLine(news.paragraph, result_win->w - 2);
+        // for (int k = 0; k < line.size(); ++k) {
+        //     int padding = 1, j = 0, len = line[k].length();
+        //     while (j <  len - 2) {
+        //         if (line[k][j] == '<' && line[k][j + 1] == 'h' && line[k][j + 2] == '>') {
+        //             wattron(search_win->win, A_BLINK);
+        //             j += 3;
+        //         } else if (line[k][j] == '<' && line[k][j + 1] == '/' && line[k][j + 2] == '>' ) {
+        //             wattroff(search_win->win, A_BLINK);
+        //             j += 3;
+        //         } else {
+        //             mvwaddch(result_win->win, offset, padding++, line[k][j]);
+        //             j++;
+        //         }
+        //     }
+        //     offset++;
+        // }
         mvwaddstr(result_win->win, offset++, 1, news.paragraph.c_str());
         offset+=2;
         wattroff(result_win->win, A_BOLD);
@@ -67,21 +91,27 @@ bool ResultUI::DrawResult(SearchResult* result, bool choose, int pos) {
     return true;
 }
 
-bool ResultUI::DrawSearchBox(SearchResult *result, bool choose) {
-    if (choose) {
+bool ResultUI::DrawSearchBox(std::string &query, ResultCommand &command, int &cur_y, int &cur_x) {
+    search_win->Reset(false);
+    if (command == ResultCommand::SelectSearchBox || command == ResultCommand::SelectAll) {
         wattron(search_win->win, A_BOLD);
+        if (command == ResultCommand::SelectAll) wattron(search_win->win, COLOR_PAIR(61));
     }
-    std::vector<std::string> list_sub_query = util::string::DivideToLine(result->query, search_win->w - 3);
+    std::vector<std::string> list_sub_query = util::string::DivideToLine(query, search_win->w - 3);
     int offset = 1;
     for (int i = 0; i < list_sub_query.size(); ++i) {
         mvwaddstr(search_win->win, offset++, 2, list_sub_query[i].c_str());
+        cur_x = list_sub_query[i].length();
     }
+    cur_y = offset - 1;
+    wattroff(search_win->win, A_BOLD | COLOR_PAIR(61));
+
     CreateBox(search_win->win, offset - 1);
-    wattroff(search_win->win, A_BOLD);
     return true;
 }
 
 bool ResultUI::DrawStatistic(SearchResult *result, bool choose) {
+    statistic_win->Reset(false);
     if (choose) {
         wattron(statistic_win->win, A_BOLD);
     }

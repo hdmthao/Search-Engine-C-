@@ -30,7 +30,7 @@ bool SearchUI::Draw(std::vector<std::string> &menu, int choose, SearchCommand co
     if (menu.size() == 0) return true;
     int offset = 1;
     int padding = 2;
-
+    int cur_y = 0, cur_x = 0;
     // current query
     if (command == SearchCommand::SlectAllCurrentQuery) {
         wattron(search_win->win, COLOR_PAIR(61));
@@ -39,7 +39,10 @@ bool SearchUI::Draw(std::vector<std::string> &menu, int choose, SearchCommand co
     std::vector<std::string> list_sub_query = util::string::DivideToLine(menu[choose], search_win->w - 3);
     for (int i = 0; i < list_sub_query.size(); ++i) {
         mvwaddstr(search_win->win, offset++, padding, list_sub_query[i].c_str());
+        cur_x = list_sub_query[i].length();
     }
+    if (list_sub_query.size() == 0) offset++;
+    cur_y = offset - 1;
     wattroff(search_win->win,  COLOR_PAIR(61));
     mvwhline(search_win->win, offset++, padding-1, '.', 1000); //horizontal for fist block
     wattroff(search_win->win, A_BOLD);
@@ -64,6 +67,8 @@ bool SearchUI::Draw(std::vector<std::string> &menu, int choose, SearchCommand co
     wattroff(search_win->win, A_INVIS);
     
     CreateBoxSearch(offset - 1);
+    wmove(search_win->win, cur_y, cur_x + 2);
+
     search_win->Refresh();
     return true;
 }
@@ -123,6 +128,7 @@ bool SearchUI::DrawCommand() {
 }
 
 bool SearchUI::Stop() {
+    curs_set(0);
     search_win->DestroyWin();
     title_win->DestroyWin();
     command_win->DestroyWin();
