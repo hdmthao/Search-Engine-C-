@@ -16,6 +16,8 @@ private:
     bool CreateBox(WINDOW* win, int size);
     bool DrawSearchBox(SearchResult *result, bool choose);
     bool DrawStatistic(SearchResult *result, bool choose);
+    bool DrawResult(SearchResult *result, bool choose, int pos);
+
 
 public:
     ResultUI();

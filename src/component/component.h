@@ -6,7 +6,9 @@
 
 struct ResultInfo {
 	std::string title;
+	std::string file_name;
 	int total_keywords;
+	int total_words;
 	std::string paragraph;
 	
 	ResultInfo();

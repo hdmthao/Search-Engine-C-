@@ -2,7 +2,7 @@
 #include "../../util/util.h"
 
 
-ResultUI::ResultUI() : result_win(nullptr), search_win(nullptr), logo_win(nullptr), statistic_win(nullptr) {}
+ResultUI::ResultUI() : search_win(nullptr), logo_win(nullptr), statistic_win(nullptr), result_win(nullptr) {}
 
 ResultUI::~ResultUI() {}
 
@@ -14,8 +14,6 @@ void ResultUI::Start() {
     refresh();
 
     DrawLogo();
-    box(result_win->win, 0, 0);
-    result_win->Refresh();
 }
 
 
@@ -44,9 +42,30 @@ void ResultUI::Draw(SearchResult* result, int &choose, ResultCommand &command) {
     else
         DrawStatistic(result, false);
 
+    if (command == ResultCommand::SelectResult)
+        DrawResult(result, true, choose);
+    else
+        DrawResult(result, false, choose);
+
     return;
 }
 
+
+bool ResultUI::DrawResult(SearchResult* result, bool choose, int pos) {
+    int offset = 1;
+    for (int i = 0; i < result->result_list.size(); ++i) {
+        if (pos - 2 == i) wattron(result_win->win, A_BOLD);
+        ResultInfo news = result->result_list[i];
+        std::string info_ = "File name: "  + news.file_name + " ("  + std::to_string(news.total_keywords) +  " keywords / " + std::to_string(news.total_words) + " words)";
+        mvwaddstr(result_win->win, offset++, 1, info_.c_str());
+        mvwaddstr(result_win->win, offset++, 1, news.title.c_str());
+        mvwaddstr(result_win->win, offset++, 1, news.paragraph.c_str());
+        offset+=2;
+        wattroff(result_win->win, A_BOLD);
+    }
+    result_win->Refresh();
+    return true;
+}
 
 bool ResultUI::DrawSearchBox(SearchResult *result, bool choose) {
     if (choose) {

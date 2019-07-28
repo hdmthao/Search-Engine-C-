@@ -166,16 +166,17 @@ bool UI::GetEventInResultScreen(std::string &query, std::vector<std::string> &su
 
     if (IsPressed(KEY_DOWN)) {
         choose++;
-        choose = std::min(choose, (int)result->result_list.size() + 1);
+        if (choose - 2 > result->result_list.size()) choose = 0;
     } else if (IsPressed(KEY_UP)) {
         choose--;
-        choose = std::max(choose, 0);
+        if (choose < 0) choose = result->result_list.size() + 1;
     } else if (IsPressed('\n') || IsPressed(10)) { // enter
     } else if (IsPressed(ctrl('c'))) { // Ctrl + c -> quit
         command = ResultCommand::Quit;
         return true;
     } else if (IsPressed(27)) { // Esc -> return search win
         command = ResultCommand::BackToSearch;
+        return true;
     } else {
 
     }

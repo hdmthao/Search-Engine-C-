@@ -95,7 +95,8 @@ SearchResult *Engine::Search(const std::string &query) {
     std::ofstream fo("log.txt");
 
     for (auto id : result_id_list) {
-        fo << doc_map[id] << "\n";
+        std::string file_name = doc_map[id];
+        result->result_list.push_back(searcher->HighlightResult(query, file_name, id));
     }
     result->time_estimation = util::time::timer::GetTimeInterval();
     fo  << result->time_estimation << "\n";

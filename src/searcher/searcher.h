@@ -47,7 +47,7 @@ public:
     bool Insert(const std::string &, int&, int&);
     bool IsExistWord(const std::string &str);
     std::vector<int> GetResultWithNormalSearch(const std::string &, int &);
-    ResultInfo* HighlightResult(const std::string &origin_query, std::string &file_name);
+    ResultInfo HighlightResult(const std::string &origin_query, const std::string &file_name, int &id);
 
 };
 
