@@ -126,7 +126,7 @@ std::vector<std::pair<int, double>> Searcher::GetResultWithNormalSearch(const st
 		count++;
 		fo << doc.first << " " << doc.second << "\n";
 		result_list.push_back({doc.first, doc.second});
-		if (count == 5) break;
+		// if (count == 10) break;
 	}
 	fo.close();
 	return result_list;
@@ -259,14 +259,14 @@ ResultInfo Searcher::HighlightResult(const std::string &s, const std::string &fi
 	
 	for (auto wo : word_para) {
 		bool ok = false;
-		int des = 0;
+		int des = -1;
 		int lens = 0;
 		for (auto it : words)
 			if (util::string::ToLowerCase(wo).find(util::string::ToLowerCase(it)) != -1) {
 				ok = true;
-				if(des!=0)
+				if(des==-1)
 				des = util::string::ToLowerCase(wo).find(util::string::ToLowerCase(it));
-				lens = it.length();
+				lens += it.length();
 			}
 		if (ok) {
 			wo.insert(des, "<>");
@@ -284,14 +284,14 @@ ResultInfo Searcher::HighlightResult(const std::string &s, const std::string &fi
 
 	for (auto wo : word_tit) {
 		bool ok = false;
-		int des = 0;
+		int des = -1;
 		int lens = 0;
 		for (auto it : words)
 			if (util::string::ToLowerCase(wo).find(util::string::ToLowerCase(it)) != -1) {
 				ok = true;
-				if(des!=0) 
+				if(des==-1) 
 				des = util::string::ToLowerCase(wo).find(util::string::ToLowerCase(it));
-				lens = it.length();
+				lens += it.length();
 			}
 		if (ok) {
 			wo.insert(des, "<>");

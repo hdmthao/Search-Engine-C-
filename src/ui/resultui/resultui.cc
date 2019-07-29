@@ -59,7 +59,9 @@ void ResultUI::Draw(std::string &query, SearchResult* result, int &choose, Resul
 bool ResultUI::DrawResult(SearchResult* result, bool choose, int pos) {
     result_win->Reset(false);
     int offset = 1;
-    for (int i = 0; i < result->result_list.size(); ++i) {
+    int len = result->result_list.size();
+    int stop = std::max(0, (pos - 6)) + 5;
+    for (int i = 0 + std::max(0, (pos - 6)); i < std::min(len, stop); ++i) {
         if (pos - 2 == i) wattron(result_win->win, A_BOLD);
         ResultInfo news = result->result_list[i];
         // std::string info_ = "File name: "  + news.file_name + " ("  + std::to_string(news.total_keywords) +  " keywords / " + std::to_string(news.total_words) + " words)";

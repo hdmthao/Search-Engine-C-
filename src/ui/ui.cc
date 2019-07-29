@@ -178,7 +178,8 @@ bool UI::GetEventInResultScreen(std::string &query, std::vector<std::string> &su
         }
     } else if (IsPressed(KEY_UP)) {
         choose--;
-        if (choose < 0) choose = result->result_list.size() + 1;
+        // if (choose < 0) choose = result->result_list.size() + 1;
+        if (choose <0) choose = 0;
     } else if (IsPressed('\n') || IsPressed(10)) {// enter
         if (command == ResultCommand::SelectSearchBox) {
             command = ResultCommand::NewSearch;
