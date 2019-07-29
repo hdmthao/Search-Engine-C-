@@ -11,6 +11,7 @@ void ResultUI::Start() {
     search_win = new Window(4, 103, 1, 12);
     statistic_win = new Window(3, 103, 5, 12);
     result_win = new Window(32, 130, 8, 12);
+    page_win = new Window(34, 140, 6, 12);
     refresh();
 
     DrawLogo();
@@ -51,6 +52,10 @@ void ResultUI::Draw(const std::string &query, SearchResult* result, int &choose,
         search_win->Refresh();
     } else {
         curs_set(0);
+    }
+
+    if (command == ResultCommand::ShowFile) {
+
     }
     return;
 }
@@ -164,13 +169,25 @@ bool ResultUI::CreateBox(WINDOW* win, int size) {
     return true;
 }
 
+bool ResultUI::ShowPage(std::vector<std::string> &news, int &page, int &total_page) {
+    page_win->Reset(false);
+    box(page_win->win, 0, 0);
+    page_win->Refresh();
+}
+
+void ResultUI::ClearPage() {
+    page_win->Reset();
+}
 void ResultUI::Stop() {
     logo_win->DestroyWin();
     result_win->DestroyWin();
     statistic_win->DestroyWin();
+    page_win->DestroyWin();
     search_win->DestroyWin();
+    
     SAFE_DELETE(logo_win);
     SAFE_DELETE(result_win);
     SAFE_DELETE(statistic_win);
+    SAFE_DELETE(page_win);
     SAFE_DELETE(search_win);
 }
