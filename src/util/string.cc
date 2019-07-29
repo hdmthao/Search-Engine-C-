@@ -164,6 +164,6 @@ std::string util::string::RemoveStopWord(const std::string &query)
 			st += wo + " ";
 	}
 	st.pop_back();
-	printf("%s", st.c_str());
+	// printf("%s", st.c_str());
 	return st;
 }

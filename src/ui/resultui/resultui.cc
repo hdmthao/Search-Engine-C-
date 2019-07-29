@@ -65,25 +65,42 @@ bool ResultUI::DrawResult(SearchResult* result, bool choose, int pos) {
         // std::string info_ = "File name: "  + news.file_name + " ("  + std::to_string(news.total_keywords) +  " keywords / " + std::to_string(news.total_words) + " words)";
         std::string info = "File name: " + news.file_name + " (Score: " + std::to_string(news.score) + " )";
         mvwaddstr(result_win->win, offset++, 1, info.c_str());
-        mvwaddstr(result_win->win, offset++, 1, news.title.c_str());
-        // std::vector<std::string> line = util::string::DivideToLine(news.paragraph, result_win->w - 2);
-        // for (int k = 0; k < line.size(); ++k) {
-        //     int padding = 1, j = 0, len = line[k].length();
-        //     while (j <  len - 2) {
-        //         if (line[k][j] == '<' && line[k][j + 1] == 'h' && line[k][j + 2] == '>') {
-        //             wattron(search_win->win, A_BLINK);
-        //             j += 3;
-        //         } else if (line[k][j] == '<' && line[k][j + 1] == '/' && line[k][j + 2] == '>' ) {
-        //             wattroff(search_win->win, A_BLINK);
-        //             j += 3;
-        //         } else {
-        //             mvwaddch(result_win->win, offset, padding++, line[k][j]);
-        //             j++;
-        //         }
-        //     }
-        //     offset++;
-        // }
-        mvwaddstr(result_win->win, offset++, 1, news.paragraph.c_str());
+        std::vector<std::string> line = util::string::DivideToLine(news.title, result_win->w - 1);
+        for (int k = 0; k < line.size(); ++k) {
+            int padding = 1, j = 0, len = line[k].length();
+            while (j <  len - 2) {
+                if (line[k][j] == '<'  && line[k][j + 1] == '>') {
+                    wattron(result_win->win, COLOR_PAIR(61));
+                    j += 2;
+                } else if (line[k][j] == '<' && line[k][j + 1] == '/' && line[k][j + 2] == '>' ) {
+                    wattroff(result_win->win, COLOR_PAIR(61));
+                    j += 3;
+                } else {
+                    mvwaddch(result_win->win, offset, padding++, line[k][j]);
+                    j++;
+                }
+            }
+            offset++;
+        }  
+        // mvwaddstr(result_win->win, offset++, 1, news.title.c_str());
+        line = util::string::DivideToLine(news.paragraph, result_win->w - 1);
+        for (int k = 0; k < line.size(); ++k) {
+            int padding = 1, j = 0, len = line[k].length();
+            while (j <  len - 1) {
+                if (line[k][j] == '<'  && line[k][j + 1] == '>') {
+                    wattron(result_win->win, COLOR_PAIR(61));
+                    j += 2;
+                } else if (line[k][j] == '<' && line[k][j + 1] == '/' && line[k][j + 2] == '>' ) {
+                    wattroff(result_win->win, COLOR_PAIR(61));
+                    j += 3;
+                } else {
+                    mvwaddch(result_win->win, offset, padding++, line[k][j]);
+                    j++;
+                }
+            }
+            offset++;
+        }
+        // mvwaddstr(result_win->win, offset++, 1, news.paragraph.c_str());
         offset+=2;
         wattroff(result_win->win, A_BOLD);
     }

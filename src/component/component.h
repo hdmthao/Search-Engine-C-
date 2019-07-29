@@ -9,6 +9,7 @@ struct ResultInfo {
 	std::string file_name;
 	int total_keywords;
 	int total_words;
+	std::vector<std::string> keywords_notFound;
 	double score;
 	std::string paragraph;
 	

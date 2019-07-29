@@ -142,30 +142,35 @@ double Searcher::BM25(const double& idf, const int& tf, const double& avgdl, con
 
 ResultInfo Searcher::HighlightResult(const std::string &s, const std::string &filename, int &id)
 {
-		std::ifstream fin("data/" + filename);
-
+	std::ifstream fin("data/" + filename);
+	// std::ofstream fo("log_highlight.txt", std::ios::app);
 	ResultInfo *fil = new ResultInfo();
 	fil->file_name = filename;
 	fil->total_words = nword[id];
+	// fil->paragraph = "blabalbalbal";
+	// fil->keywords_notFound.push_back("x");
+	// fo << filename << "\n";
+	// fo.close();
 	std::string st = s;
 	st = util::string::RemoveUnicode(st);
-	st = util::string::Trim(s);
-	st = util::string::RemoveMark(st);
+	st = util::string::Trim(st);
+	st = util::string::RemoveStopWord(st);
 	std::vector <std::string> words = util::string::Split(st);
 	
-	int max_word = 0;
+	long long max_word = 0;
 	std::string line_max="";
 	std::string line_se="";
 	while (!fin.eof())
 	{
 		std::string str;
 
-		int count = 0;
+		long long count = 0;
 		getline(fin, str);
 		str = util::string::RemoveUnicode(str);
 		str = util::string::Trim(str);
 		std::vector <std::string> word_str = util::string::Split(util::string::Trim(str));
-				if (fil->title == "") {
+			
+		if (fil->title == "") {
 			if (str.length() < 100)
 				fil->title = str;			
 			else {
@@ -181,10 +186,11 @@ ResultInfo Searcher::HighlightResult(const std::string &s, const std::string &fi
 				}
 			}
 		}
-			for (auto it = words.begin(); it != words.end(); it++) {
-				if (util::string::ToLowerCase( str).find(util::string::ToLowerCase( *it)) != -1) {
+			
+		for (auto it = words.begin(); it != words.end(); it++) {
+			if (util::string::ToLowerCase(str).find(util::string::ToLowerCase(*it)) != -1) {
 				for (auto wo : word_str)
-									if (util::string::ToLowerCase( wo).find(util::string::ToLowerCase(*it))!=-1) {
+					if (util::string::ToLowerCase(wo).find(util::string::ToLowerCase(*it)) != -1) {
 						fil->total_keywords++;
 						++count;
 					}
@@ -195,18 +201,24 @@ ResultInfo Searcher::HighlightResult(const std::string &s, const std::string &fi
 			line_max = str;
 			max_word = count;
 		}
-			}
+	}
 	fin.close();
-	if (line_max.length() < 80)
-		fil->paragraph = line_max + "..." + line_se;
+	//fixed
+	if (line_max.length() < 200) {
+		if (line_se!="" )
+			fil->paragraph = line_se + "..." + line_max;
+		else
+			fil->paragraph =line_max;
+	}
+	//fixed
 	else
-		if (line_max.length() < 150)
+		if (line_max.length() < 300)  //fixed
 			fil->paragraph = line_max;
 		else {
-			if (line_max.find(".") != -1 && line_max.find(".") < 150)
+			if (line_max.find(".") != -1 && line_max.find(".") < 300)  //fixed
 				fil->paragraph = line_max.substr(0, line_max.find("."));
 			else {
-				fil->paragraph = line_max.substr(0, 150);
+				fil->paragraph = line_max.substr(0, 300);  //fixed
 				std::string pa = fil->paragraph;
 				while (pa[pa.length() - 1] != ' ')
 					pa.pop_back();
@@ -214,20 +226,100 @@ ResultInfo Searcher::HighlightResult(const std::string &s, const std::string &fi
 				fil->paragraph = pa + "...";
 			}
 		}
+
+	// //fixed
+	std::ifstream fi("data/" + filename);
+	std::string line = "";
+	while (fil->paragraph.length() < 150 &&(line.find(line_max) == -1) && !fi.eof())
+	{
+		getline(fi, line);
+		line = util::string::RemoveUnicode(line);
+	}
+
+	while (!fi.eof() && fil->paragraph.length() < 150)
+	{
+		getline(fi, line);
+		line = util::string::RemoveUnicode(line);
+		line = util::string::Trim(line);
+		fil->paragraph += " "+line;
+	}
+	fi.close();
+	if (fil->paragraph.length() > 300){
+		fil->paragraph = fil->paragraph.substr(0, 300);
+	std::string pa = fil->paragraph;
+	while (pa[pa.length() - 1] != ' ')
+		pa.pop_back();
+	pa.pop_back();
+	fil->paragraph = pa + "...";
+	}
+	//fixed
+
 	std::vector <std::string> word_para = util::string::Split(util::string::Trim(fil->paragraph));
 	std::string para = "";
 	
 	for (auto wo : word_para) {
 		bool ok = false;
+		int des = 0;
+		int lens = 0;
 		for (auto it : words)
-					if (util::string::ToLowerCase(wo).find(util::string::ToLowerCase( it)) != -1)
+			if (util::string::ToLowerCase(wo).find(util::string::ToLowerCase(it)) != -1) {
 				ok = true;
-		if (ok)
-			para += "<h>" + wo + "</> ";
+				if(des!=0)
+				des = util::string::ToLowerCase(wo).find(util::string::ToLowerCase(it));
+				lens = it.length();
+			}
+		if (ok) {
+			wo.insert(des, "<>");
+			wo.insert(des + lens+2, "</>");
+			para += wo + " "; 
+		}
 		else
 			para += wo + " ";
 	}
 	para.pop_back();
 	fil->paragraph = para;
+	
+	std::vector <std::string> word_tit = util::string::Split(util::string::Trim(fil->title));
+	std::string tit = "";
+
+	for (auto wo : word_tit) {
+		bool ok = false;
+		int des = 0;
+		int lens = 0;
+		for (auto it : words)
+			if (util::string::ToLowerCase(wo).find(util::string::ToLowerCase(it)) != -1) {
+				ok = true;
+				if(des!=0) 
+				des = util::string::ToLowerCase(wo).find(util::string::ToLowerCase(it));
+				lens = it.length();
+			}
+		if (ok) {
+			wo.insert(des, "<>");
+			wo.insert(des + lens + 2, "</>");
+			tit += wo + " ";
+		}
+		else
+			tit += wo + " ";
+	}
+	tit.pop_back();
+	fil->title = tit;
+	//add
+	for (auto wo : words)
+	{
+		std:: ifstream inf("data/" + filename);
+		std::string str;
+		str = util::string::RemoveUnicode(str);
+		bool ok = false;
+		while (!inf.eof()) {
+			getline(inf, str);
+			if (util::string::ToLowerCase(str).find(util::string::ToLowerCase(wo)) != -1) {
+				ok = true;
+				break;
+			}
+		}
+		inf.close();
+		if (!ok)
+			fil->keywords_notFound.push_back(wo);
+	}
 	return *fil;
 }
