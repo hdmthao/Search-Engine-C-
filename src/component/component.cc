@@ -1,7 +1,7 @@
 #include "component.h"
 
 
-ResultInfo::ResultInfo() : title(""), file_name(""), score(0), total_keywords(0), total_words(0), paragraph("") {}
+ResultInfo::ResultInfo() : title(""), file_name(""), score(0), total_keywords(0), paragraph("") {}
 
 ResultInfo::~ResultInfo() {}
 

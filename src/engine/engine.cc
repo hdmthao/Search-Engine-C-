@@ -92,22 +92,26 @@ SearchResult *Engine::Search(const std::string &query) {
     result->hint = speller->GetHint(query);
     std::vector<std::pair<int, double>> result_id_list = searcher->GetResultWithNormalSearch(query, total_result);
     result->total_result = total_result;
-    std::ofstream fo("log_engine.txt");
-
+    // std::ofstream fo("log_engine.txt");
+    // fo << query << "\n";
+    // fo.close();
+    int count = 0;
     for (auto news : result_id_list) {
-
         std::string file_name = doc_map[news.first];
-                fo << file_name << "\n";
-        ResultInfo info = searcher->HighlightResult(query, file_name, news.first);
-        // ResultInfo info;
+        ResultInfo info;
+        if (count < 5)
+            info = searcher->HighlightResult(query, file_name);
+        info.file_name = file_name;
+        // info.total_words = nword[news.first];
         info.score = news.second;
         result->result_list.push_back(info);
+        count++;
     }
     result->time_estimation = util::time::timer::GetTimeInterval();
-    suggester->SaveQuery(query );
+    suggester->SaveQuery(query);
     // fo << result->result_list[4].paragraph << "\n";
     // fo  << result->time_estimation << "\n";
-    fo.close();
+    // fo.close();
     return result;
 }
 

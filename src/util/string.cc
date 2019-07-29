@@ -77,20 +77,68 @@ std::vector<std::string> util::string::Split(const std::string &str)
 std::vector<std::string> util::string::DivideToLine(const std::string &s, int size) {
 	std::string q = s;
 	std::vector<std::string> list;
-	while (q.empty() == false) {
-		if (size >= q.size()) {
-			list.push_back(q);
-			q = "";
-		} else {
-			if (q[size - 1] == ' ') {
-				list.push_back(q.substr(0, size));
-				q.erase(0, size);
-			} else {
-				list.push_back(q.substr(0, size - 1));
-				q.erase(0, size - 1);
-				list[list.size() - 1] += "-";
-			}
+
+	// int i = 0;
+	// while (i < q.size()) {
+	// 	if (i > 1 && q[i] == '>' && q[i - 1] == '<') {
+	// 	size += 2;
+	// 	} else if (i > 2 && q[i] == '>' && q[i - 1] == '/' && q[i - 2] == '<') {
+	// 			size += 3;
+	// 	}
+	// 	i += 1;
+	// }
+	// while (q.empty() == false) {
+	// 	if (size >= q.size()) {
+	// 		list.push_back(q);
+	// 		q = "";
+	// 	} else {
+	// 		if (q[size - 1] == ' ') {
+	// 			list.push_back(q.substr(0, size));
+	// 			q.erase(0, size);
+	// 		} else {
+	// 			list.push_back(q.substr(0, size - 1));
+	// 			q.erase(0, size - 1);
+	// 			list[list.size() - 1] += "-";
+	// 		}
+	// 	}
+	// }
+	int i = 0;
+	int  pre = 0, tmp_size = size;
+	while (i < q.size()) {
+		if (i > 1 && q[i] >= '>' && q[i - 1] == '<') {
+			size += 2;
+		} else if (i > 2 && q[i] == '>' && q[i - 1] == '/' && q[i - 2] == '<') {
+			size += 3;
 		}
+		if (i > size && q[i] != ' ') {
+			if (pre == 0) pre = i;
+			std::string line = q.substr(0, pre);
+			if (line[0] == ' ') line.erase(0, 1);
+			list.push_back(line);
+			q.erase(0, pre);
+			pre = 0;
+			i  = 0;
+			size = tmp_size;
+			continue;
+		} 
+		if (q[i] == ' ' && i > size) {
+			std::string line = q.substr(0, pre);
+			if (line[0] == ' ') line.erase(0, 1);
+			list.push_back(line);
+			q.erase(0, pre);
+
+			pre = 0;
+			size = tmp_size;
+			i = 0;
+			continue;
+		} else {
+			if (q[i] == ' ') pre = i;
+		}
+		i++;
+	}
+	if (q.size() > 0) {
+		if (q[0] == ' ') q.erase(0, 1);
+		if (q.size() > 0) list.push_back(q);
 	}
 	return list;
 }
@@ -100,7 +148,7 @@ std::string util::string::RemoveMark(const std::string &s)
 {
 	std::string st = s;
 	int i = 0;
-	std::string mark = ",.?!:;-_'`\"()";
+	std::string mark = "+^`~><-,.?!:;_'`\"()[]{}/\\";
 
 	while (i < st.length()) {
 		bool is_mark = false;
@@ -163,7 +211,7 @@ std::string util::string::RemoveStopWord(const std::string &query)
 		if (!ok)
 			st += wo + " ";
 	}
-	st.pop_back();
+	if (!st.empty()) st.pop_back();
 	// printf("%s", st.c_str());
 	return st;
 }

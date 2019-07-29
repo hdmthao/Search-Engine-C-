@@ -10,7 +10,7 @@ void ResultUI::Start() {
     logo_win = new Window(4, 12, 1, 2);
     search_win = new Window(4, 103, 1, 12);
     statistic_win = new Window(3, 103, 5, 12);
-    result_win = new Window(34, 130, 8, 12);
+    result_win = new Window(32, 130, 8, 12);
     refresh();
 
     DrawLogo();
@@ -30,7 +30,7 @@ void ResultUI::DrawLogo() {
 }
 
 
-void ResultUI::Draw(std::string &query, SearchResult* result, int &choose, ResultCommand &command) {
+void ResultUI::Draw(const std::string &query, SearchResult* result, int &choose, ResultCommand &command) {
     //
     int cur_y = 0, cur_x = 0;
     DrawSearchBox(query, command, cur_y, cur_x);
@@ -69,12 +69,13 @@ bool ResultUI::DrawResult(SearchResult* result, bool choose, int pos) {
         mvwaddstr(result_win->win, offset++, 1, info.c_str());
         std::vector<std::string> line = util::string::DivideToLine(news.title, result_win->w - 1);
         for (int k = 0; k < line.size(); ++k) {
+            // printf("%s***", line[k].c_str());
             int padding = 1, j = 0, len = line[k].length();
-            while (j <  len - 2) {
-                if (line[k][j] == '<'  && line[k][j + 1] == '>') {
+            while (j <  len) {
+                if (j + 1 < len && line[k][j] == '<'  && line[k][j + 1] == '>') {
                     wattron(result_win->win, COLOR_PAIR(61));
                     j += 2;
-                } else if (line[k][j] == '<' && line[k][j + 1] == '/' && line[k][j + 2] == '>' ) {
+                } else if (j + 2 < len && line[k][j] == '<' && line[k][j + 1] == '/' && line[k][j + 2] == '>' ) {
                     wattroff(result_win->win, COLOR_PAIR(61));
                     j += 3;
                 } else {
@@ -88,11 +89,11 @@ bool ResultUI::DrawResult(SearchResult* result, bool choose, int pos) {
         line = util::string::DivideToLine(news.paragraph, result_win->w - 1);
         for (int k = 0; k < line.size(); ++k) {
             int padding = 1, j = 0, len = line[k].length();
-            while (j <  len - 1) {
-                if (line[k][j] == '<'  && line[k][j + 1] == '>') {
+            while (j <  len) {
+                if (j + 1 < len && line[k][j] == '<'  && line[k][j + 1] == '>') {
                     wattron(result_win->win, COLOR_PAIR(61));
                     j += 2;
-                } else if (line[k][j] == '<' && line[k][j + 1] == '/' && line[k][j + 2] == '>' ) {
+                } else if (j + 2 < len && line[k][j] == '<' && line[k][j + 1] == '/' && line[k][j + 2] == '>' ) {
                     wattroff(result_win->win, COLOR_PAIR(61));
                     j += 3;
                 } else {
@@ -110,7 +111,7 @@ bool ResultUI::DrawResult(SearchResult* result, bool choose, int pos) {
     return true;
 }
 
-bool ResultUI::DrawSearchBox(std::string &query, ResultCommand &command, int &cur_y, int &cur_x) {
+bool ResultUI::DrawSearchBox(const std::string &query, ResultCommand &command, int &cur_y, int &cur_x) {
     search_win->Reset(false);
     if (command == ResultCommand::SelectSearchBox || command == ResultCommand::SelectAll) {
         wattron(search_win->win, A_BOLD);

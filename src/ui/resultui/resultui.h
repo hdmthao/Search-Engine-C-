@@ -14,7 +14,7 @@ private:
 
     void DrawLogo();
     bool CreateBox(WINDOW* win, int size);
-    bool DrawSearchBox(std::string &query, ResultCommand &command, int &cur_y, int &cur_x);
+    bool DrawSearchBox(const std::string &query, ResultCommand &command, int &cur_y, int &cur_x);
     bool DrawStatistic(SearchResult *result, bool choose);
     bool DrawResult(SearchResult *result, bool choose, int pos);
 
@@ -24,7 +24,7 @@ public:
     ~ResultUI();
 
     void Start();
-    void Draw(std::string &query, SearchResult* result, int &choose, ResultCommand &command);
+    void Draw(const std::string &query, SearchResult* result, int &choose, ResultCommand &command);
     void Stop();
 };
 

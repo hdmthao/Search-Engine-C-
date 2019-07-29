@@ -2,6 +2,7 @@
 #include "../util/util.h"
 
 #include <iostream>
+#include <set>
 
 using namespace util::input;
 
@@ -136,19 +137,40 @@ void UI::StartUIResult() {
 
 void UI::ShowResult(StateMigo &state, std::string &query) {
     ResultCommand command = ResultCommand::SelectSearchBox;
+    std::set<int> cache;
     std::vector<std::string> suggest_list;
     int choose = 0;
     SearchResult* result;
-    result = engine->Search(query);
     curs_set(1);
+    result = engine->Search(query);
+    cache.insert(0);
+    cache.insert(1);
+    for (int i = 2; i < std::min(7, 2 + result->total_result); ++i) {
+        cache.insert(i);
+    }
     result_ui->Draw(query, result, choose, command);
     while (true) {
         Update(-1);
         bool is_get_event = GetEventInResultScreen(query, suggest_list, result, choose, command);
         if (is_get_event) {
+            if (cache.find(choose) == cache.end()) {
+                std::string file_name = result->result_list[choose - 2].file_name;
+                int tmp_total = result->result_list[choose - 2].total_keywords;
+                double tmp_score = result->result_list[choose - 2].score;
+                ResultInfo info = engine->searcher->HighlightResult(query, file_name);
+                info.file_name = file_name;
+                info.total_keywords = tmp_total;
+                info.score = tmp_score;
+                result->result_list[choose - 2] = info;
+                cache.insert(choose);
+            }
             if (command == ResultCommand::NewSearch) {
                 result = engine->Search(query);
+                printf("%s", query.c_str());
                 command = ResultCommand::SelectSearchBox;
+                cache.clear();
+                cache.insert(0);
+                cache.insert(1);
             }
         }
         result_ui->Draw(query, result, choose, command);
@@ -166,6 +188,7 @@ void UI::ShowResult(StateMigo &state, std::string &query) {
 
 void UI::StopUIResult() {
     result_ui->Stop();
+    curs_set(0);
     SAFE_DELETE(result_ui);
 }
 
@@ -186,7 +209,7 @@ bool UI::GetEventInResultScreen(std::string &query, std::vector<std::string> &su
             choose = 0;
             return true;
         }
-    } else if (IsPressed(127)) {
+    } else if (IsPressed(127)) { // xoa
         if (command == ResultCommand::SelectAll) {
             query = "";
             command = ResultCommand::SelectSearchBox;
