@@ -11,7 +11,7 @@ public:
     std::string query;
 
     bool operator < (const Query &b) const {
-        return rank < b.rank;
+        return rank > b.rank;
     }
 
     Query(int rank, const std::string &query) : rank(rank), query(query) {};
@@ -39,10 +39,13 @@ private:
     void CleanSuggester(SuggesterNode* root);
     bool InsertQuery(const std::string &origin_query, unsigned short int rank, unsigned int time);
     bool CollectQueryForSuggest(SuggesterNode* cur, std::string &query, std::vector<Query> &suggest_list);
+    bool SaveQueryToFile(const std::string &query, unsigned short int rank, unsigned int time);
+
 public:
     Suggester();
     ~Suggester();
 
+    bool RemoveQuery(std::string &query);
     bool SaveQuery(const std::string &origin_query);
     std::vector<std::string> GetSuggest(const std::string &origin_query);
 };

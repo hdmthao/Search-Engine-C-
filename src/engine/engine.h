@@ -6,6 +6,7 @@
 #include "../suggester/suggester.h"
 #include "../ui/loadui/loadui.h"
 #include "../component/component.h"
+#include "../command/command.h"
 
 #include <map>
 #include <vector>
@@ -16,9 +17,10 @@ private:
     Speller* speller;
     Suggester* suggester;
     
-    std::vector<std::string> GetListNewsFromFile(const std::string &path);
+    std::vector<std::string> GetListNewsFromIndexFile(const std::string &path);
     std::unordered_map<int, std::string> doc_map;
-    
+    SearchTypeInfo* Migo_OP(const std::string &origin_query);
+
 public:
 
     Searcher* searcher;
@@ -46,6 +48,10 @@ public:
     bool StartSuggester();
     std::vector<std::string> GetSuggest(const std::string &orgin_query);
     bool StopSuggester();
+    bool UpdateFile(int &total_file_update, double &time);
+    std::vector<std::string> GetNews(std::string &file_name, int &size);
+    std::vector<std::string> GetHistory();
+    bool RemoveHistory(std::string &query);
 };
 
 #endif

@@ -3,6 +3,7 @@
 #include "../util/util.h"
 
 #include <fstream>
+#include <vector>
 #include <iostream>
 #include <algorithm>
 #include <math.h>
@@ -17,7 +18,9 @@ SuggesterNode::~SuggesterNode() {
 int SuggesterNode::GetRealRank(unsigned int real_time) {
     int diff = real_time - time;
     int real_rank = rank;
-    if (diff <= 3600) { // the last hour, so rank * 4
+    if (diff <= 300) {
+        real_rank *= 10;
+    } else if (diff <= 3600) { // the last hour, so rank * 4
         real_rank *= 4;
     } else if (diff <= 24 * 3600) { // the last day, so rank * 2
         real_rank *= 2;
@@ -53,7 +56,7 @@ bool Suggester::Start() {
     std::string time_s = "";
     while (getline(fi, query, ',')) {
         getline(fi, rank_s,',');
-        getline(fi, time_s,',');
+        getline(fi, time_s);
         unsigned short int rank = std::stoul(rank_s);
         unsigned int time = std::stoul(time_s);
         // std::cout << query << " " << rank << " " << time << "\n";
@@ -74,8 +77,8 @@ bool Suggester::SaveQuery(const std::string &origin_query) {
 
     unsigned short int rank = 1;
     unsigned int real_time = util::time::timer::GetCurrentTime();
+    SaveQueryToFile(origin_query, rank, real_time);
     InsertQuery(origin_query, rank, real_time);
-
     return true;
 }
 
@@ -83,7 +86,10 @@ bool Suggester::SaveQuery(const std::string &origin_query) {
 bool Suggester::InsertQuery(const std::string &origin_query, unsigned short int rank, unsigned int time) {
     // Insert query to history tree, if there already in tree so up the rank,
     // Normalize query for sure
-    std::string query = util::string::Normalize(origin_query);
+    // std::string query = util::string::Normalize(origin_query);
+    std::string query = util::string::RemoveUnicode(origin_query);
+    // query = util::string::RemoveMark(query);
+    query = util::string::Trim(query);
 
     if (root == nullptr) {
         root = new SuggesterNode();
@@ -99,7 +105,7 @@ bool Suggester::InsertQuery(const std::string &origin_query, unsigned short int 
 
     if (cur->is_end_of_query) {
         cur->rank += rank;
-        cur->time = time;
+        cur->time = std::max(time, cur->time);
     } else {
         cur->is_end_of_query = true;
         cur->rank = rank;
@@ -112,7 +118,9 @@ bool Suggester::InsertQuery(const std::string &origin_query, unsigned short int 
 std::vector<std::string> Suggester::GetSuggest(const std::string &origin_query) {
     // return at least 3 suggester for this query
     
-    std::string query = util::string::Trim(origin_query);
+    std::string query = util::string::RemoveUnicode(origin_query);
+    // query = util::string::RemoveMark(query);
+    query = util::string::Trim(query);
     // vector to save all posible query
     std::vector<std::string> suggest_list;
 
@@ -178,6 +186,60 @@ bool Suggester::CollectQueryForSuggest(SuggesterNode* cur, std::string &query, s
     return true;
 }
 
+bool Suggester::RemoveQuery(std::string &origin_query) {
+    std::string query = util::string::RemoveUnicode(origin_query);
+    query = util::string::Trim(query);
+
+    if (root == nullptr) {
+        root = new SuggesterNode();
+    }
+
+    SuggesterNode* cur = root;
+    for (auto c : query) {
+        if (cur->children.find(c) == cur->children.end()) {
+            return false;
+        }
+        cur = cur->children[c];
+    }
+
+    if (cur->is_end_of_query) {
+        cur->is_end_of_query = false;
+    }
+    return true;
+}
+
+bool Suggester::SaveQueryToFile(const std::string &cur_query, unsigned short int rank, unsigned int cur_time) {
+    std::ifstream fi(config::path::HISTORY);
+
+    std::vector<std::pair<std::string, std::pair<unsigned short int, unsigned int>>> list;
+    std::string query = "";
+    std::string rank_s = "";
+    std::string time_s = "";
+    bool ok = true;
+    while (!fi.eof() && getline(fi, query, ',')) {
+        if (query == "") break;
+        getline(fi, rank_s,',');
+        getline(fi, time_s);
+        unsigned short int rank = std::stoul(rank_s);
+        unsigned int time = std::stoul(time_s);
+        // std::cout << query << " " << rank << " " << time << "\n";
+        if (query == cur_query) {
+            ok = false;
+            rank++;
+            time = cur_time;
+        }
+        list.push_back({query, {rank, time}});
+
+    }
+    fi.close();
+    std::ofstream fo(config::path::HISTORY);
+    for (auto info : list) {
+        fo << info.first << "," << info.second.first << "," << info.second.second << "\n";
+    }
+    if (ok) fo << cur_query << "," << rank << "," << cur_time <<"\n";
+    fo.close();
+    return true;
+}
 
 void Suggester::CleanSuggester(SuggesterNode* root) {
     if (root == nullptr) {

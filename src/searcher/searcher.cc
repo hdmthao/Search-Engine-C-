@@ -6,6 +6,7 @@
 #include <map>
 #include <iostream>
 #include <fstream>
+#include <algorithm>
 
 // Constructor for searcher node
 SearcherNode::SearcherNode() : is_end_of_word(false) {
@@ -96,18 +97,173 @@ SearcherNode* Searcher::GetNode(const std::string &word) {
 }
 
 // Main search
-std::vector<std::pair<int, double>> Searcher::GetResultWithNormalSearch(const std::string &origin_query, int &total_result) {
-
+std::vector<std::pair<int, double>> Searcher::GetResultWithExcludeSearch(const std::string &origin_query, const std::string &exclude_word) {
 	std::vector<std::pair<int, double>> result_list;
 	std::string query = util::string::Normalize(origin_query);
 	// std::ofstream fo("log_searcher.txt");
-	
-	
+		
 	query = util::string::RemoveStopWord(query);
-	// fo << "here\n";
-	// fo.close();
-	if (query.empty()) return result_list;
+	if (query.empty()) {
+		std::string tmp_query = util::string::Trim(origin_query);
+		tmp_query = util::string::RemoveMark(tmp_query);
+		if (!tmp_query.empty()) query = tmp_query;
+	}
 	std::vector<std::string> word_list = util::string::Split(query);
+	std::map<int, double> rank;
+	// fo << total_worlds << " " << total_news << "\n";
+	// fo << query << "\n";
+	float avgdll = total_worlds / total_news;
+	for (auto word : word_list) {
+		SearcherNode* cur_node = GetNode(word);
+		if (cur_node == nullptr) continue;
+		double idf_ = idf(total_news, cur_node->posting_list.size());
+		for (auto it : cur_node->posting_list) {
+			int doc_id = it.first;
+			int D = nword[doc_id];
+			rank[it.first] += BM25(idf_, (int)it.second.size(), avgdll, D);
+		}
+	}
+	std::vector<SearcherNode> list;
+	std::vector<int> list_doc;
+	SearcherNode* cur_node = GetNode(exclude_word);
+	if (cur_node != nullptr) {
+		list.push_back(*cur_node);
+		list_doc = GetChung(list);
+	}
+	std::set<int> list_id;
+	for (auto id : list_doc) list_id.insert(id);
+	std::set<std::pair<int, double>, comp> set_result;
+
+	for (auto doc: rank) {
+		int id = doc.first;
+		double score = doc.second;
+		if (list_id.find(id) != list_id.end()) continue;
+		set_result.insert({id, score});
+	}
+	for (auto doc : set_result) {
+		// fo << doc.first << " " << doc.second << "\n";
+		result_list.push_back({doc.first, doc.second});
+	}
+	return result_list;
+}
+
+
+std::vector<std::pair<int, double>> Searcher::GetResultWithAndSearch(const std::string &origin_query) {
+	std::vector<std::pair<int, double>> result_list;
+	std::string query = util::string::Normalize(origin_query);
+
+	query = util::string::RemoveStopWord(query);
+	std::vector<std::string> word_list = util::string::Split(query);
+	std::map<int, double> rank;
+
+	float avgdll = total_worlds / total_news;
+	std::vector<SearcherNode> list;
+
+	for (auto word : word_list) {
+		SearcherNode* cur_node = GetNode(word);
+		if (cur_node == nullptr) continue;
+		list.push_back(*cur_node);
+	}
+	std::vector<int> list_doc = GetChung(list);
+
+	for (auto word : word_list) {
+		SearcherNode* cur_node = GetNode(word);
+		if (cur_node == nullptr) continue;
+		double idf_ = idf(total_news, cur_node->posting_list.size());
+		for (auto it : cur_node->posting_list) {
+			int doc_id = it.first;
+			int D = nword[doc_id];
+			rank[it.first] += BM25(idf_, (int)it.second.size(), avgdll, D);
+		}
+	}
+	std::set<std::pair<int, double>, comp> set_result;
+
+	for (auto id: list_doc) {
+		set_result.insert({id, rank[id]});
+	}
+	for (auto doc : set_result) {
+		// fo << doc.first << " " << doc.second << "\n";
+		result_list.push_back({doc.first, doc.second});
+	}
+
+	return result_list;
+}
+
+std::vector<std::pair<int, double>> Searcher::GetResultWithExaclytWord(const std::string &origin_query) {
+	std::vector<std::pair<int, double>> result_list;
+
+	std::string query = util::string::Normalize(origin_query);
+
+	std::vector<std::string> word_list = util::string::Split(query);
+	std::map<int, double> rank;
+
+	float avgdll = total_worlds / total_news;
+	std::vector<SearcherNode> list;
+
+	for (auto word : word_list) {
+		SearcherNode* cur_node = GetNode(word);
+		if (cur_node == nullptr) continue;
+		list.push_back(*cur_node);
+	}
+	std::vector<std::pair<int, int>> list_doc = GetExact(list);
+
+	for (auto doc : list_doc) {
+		// fo << doc.first << " " << doc.second << "\n";
+		result_list.push_back({doc.first, doc.second});
+	}
+
+	return result_list;	
+}
+
+std::vector<std::pair<int, double>> Searcher::GetResultWithWildcard(const std::string &origin_query) {
+	std::vector<std::pair<int, double>> result_list;
+	std::string query = util::string::Normalize(origin_query);
+
+	std::vector<std::string> word_list = util::string::Split(query);
+	std::map<int, double> rank;
+	float avgdll = total_worlds / total_news;
+	std::vector<SearcherNode> list;
+	
+	for (auto word : word_list) {
+		if (word == "*") {
+			SearcherNode* cur_node = new SearcherNode();
+			cur_node->posting_list[-1].push_back(-1);
+			list.push_back(*cur_node);
+		} else {
+			SearcherNode* cur_node = GetNode(word);
+			if (cur_node == nullptr) continue;
+			list.push_back(*cur_node);
+		}
+	}
+
+	std::vector<std::pair<int, int>> list_doc = GetWildcard(list);
+
+	for (auto doc : list_doc) {
+		result_list.push_back({doc.first, doc.second});
+	}
+
+	return result_list;
+}
+
+
+std::vector<std::pair<int, double>> Searcher::GetResultWithIncludeSearch(const std::string &origin_query, const std::string &include_word) {
+
+	std::vector<std::pair<int, double>> result_list;
+	std::string query = util::string::Normalize(origin_query);
+	std::ofstream fo("log_searcher.txt");
+		
+	query = util::string::RemoveStopWord(query);
+	query = " " + include_word;
+	if (query.empty()) {
+		std::string tmp_query = util::string::Trim(origin_query);
+		tmp_query = util::string::RemoveMark(tmp_query);
+		if (!tmp_query.empty()) query = tmp_query;
+	}
+	std::vector<std::string> word_list = util::string::Split(query);
+	// for (auto word : word_list) {
+	// 	fo << word << "\n";
+	// }
+	fo.close();
 	std::map<int, double> rank;
 	// fo << total_worlds << " " << total_news << "\n";
 	// fo << query << "\n";
@@ -124,16 +280,113 @@ std::vector<std::pair<int, double>> Searcher::GetResultWithNormalSearch(const st
 	}
 	std::set<std::pair<int, double>, comp> set_result(
 			rank.begin(), rank.end());
-	int count = 0;
-	total_result = set_result.size();
 	for (auto doc : set_result) {
-		count++;
 		// fo << doc.first << " " << doc.second << "\n";
 		result_list.push_back({doc.first, doc.second});
-		// if (count > 20) break;
 	}
 	// fo.close();
 	return result_list;
+}
+std::vector<std::pair<int, double>> Searcher::GetResultWithNormalSearch(const std::string &origin_query) {
+
+	std::vector<std::pair<int, double>> result_list;
+	std::string query = util::string::Normalize(origin_query);
+	std::ofstream fo("log_searcher.txt");
+		
+	query = util::string::RemoveStopWord(query);
+	if (query.empty()) {
+		std::string tmp_query = util::string::Trim(origin_query);
+		tmp_query = util::string::RemoveMark(tmp_query);
+		if (!tmp_query.empty()) query = tmp_query;
+	}
+	std::vector<std::string> word_list = util::string::Split(query);
+	// for (auto word : word_list) {
+	// 	fo << word << "\n";
+	// }
+	fo.close();
+	std::map<int, double> rank;
+	// fo << total_worlds << " " << total_news << "\n";
+	// fo << query << "\n";
+	float avgdll = total_worlds / total_news;
+	for (auto word : word_list) {
+		SearcherNode* cur_node = GetNode(word);
+		if (cur_node == nullptr) continue;
+		double idf_ = idf(total_news, cur_node->posting_list.size());
+		for (auto it : cur_node->posting_list) {
+			int doc_id = it.first;
+			int D = nword[doc_id];
+			rank[it.first] += BM25(idf_, (int)it.second.size(), avgdll, D);
+		}
+	}
+	std::set<std::pair<int, double>, comp> set_result(
+			rank.begin(), rank.end());
+	for (auto doc : set_result) {
+		// fo << doc.first << " " << doc.second << "\n";
+		result_list.push_back({doc.first, doc.second});
+	}
+	// fo.close();
+	return result_list;
+}
+
+std::vector<std::pair<int, double>> Searcher::GetResultWithTitleSearch(const std::string &origin_query, std::unordered_map<int, std::string> &doc_map) {
+
+	std::vector<std::pair<int, double>> result_list;
+	std::string query = util::string::Normalize(origin_query);
+	std::ofstream fo("log_searcher.txt");
+		
+	// query = util::string::RemoveStopWord(query);
+	if (query.empty()) {
+		std::string tmp_query = util::string::Trim(origin_query);
+		tmp_query = util::string::RemoveMark(tmp_query);
+		if (!tmp_query.empty()) query = tmp_query;
+	}
+	std::vector<std::string> word_list = util::string::Split(query);
+	// for (auto word : word_list) {
+	// 	fo << word << "\n";
+	// }
+	fo.close();
+	std::map<int, double> rank;
+	// fo << total_worlds << " " << total_news << "\n";
+	// fo << query << "\n";
+	float avgdll = total_worlds / total_news;
+
+	for (auto word : word_list) {
+		SearcherNode* cur_node = GetNode(word);
+		if (cur_node == nullptr) continue;
+		double idf_ = idf(total_news, cur_node->posting_list.size());
+		for (auto it : cur_node->posting_list) {
+			int doc_id = it.first;
+			if (!CheckTitle(doc_map[doc_id], word)) continue;
+			int D = nword[doc_id];
+			rank[it.first] += BM25(idf_, (int)it.second.size(), avgdll, D);
+		}
+	}
+	std::set<std::pair<int, double>, comp> set_result(
+			rank.begin(), rank.end());
+	for (auto doc : set_result) {
+		// fo << doc.first << " " << doc.second << "\n";
+		result_list.push_back({doc.first, doc.second});
+	}
+	// fo.close();
+	return result_list;
+}
+
+bool Searcher::CheckTitle(std::string &file_name, std::string &word) {
+	std::ifstream fi("data/" + file_name);
+	std::string title;
+	while (!fi.eof()) {
+		getline(fi, title);
+		std::vector<std::string> line = util::string::Split(title);
+
+		int count = 0;
+		for (auto w : line) {
+			count += w.length();
+			if (count >= 120) break;
+			if (w == word) return true;
+		}
+		break;
+	}
+	return false;
 }
 
 double Searcher::idf(const int& N, const int& nqi) {
@@ -288,7 +541,7 @@ ResultInfo Searcher::HighlightResult(const std::string &s, const std::string &fi
 		int des = -1;
 		int lens = 0;
 		for (auto it : words)
-			if (util::string::ToLowerCase(wo).find(util::string::ToLowerCase(it)) != -1) {
+			if (util::string::ToLowerCase(wo).find(util::string::ToLowerCase(it)) != -1 && des == -1)  {
 				ok = true;
 			if(des==-1)
 				des = util::string::ToLowerCase(wo).find(util::string::ToLowerCase(it));
@@ -314,7 +567,7 @@ ResultInfo Searcher::HighlightResult(const std::string &s, const std::string &fi
 		int des = -1;
 		int lens = 0;
 		for (auto it : words)
-			if (util::string::ToLowerCase(wo).find(util::string::ToLowerCase(it)) != -1) {
+			if (util::string::ToLowerCase(wo).find(util::string::ToLowerCase(it)) != -1 && des == -1) {
 				ok = true;
 				//if(des==-1) 
 				des = util::string::ToLowerCase(wo).find(util::string::ToLowerCase(it));
@@ -355,4 +608,126 @@ ResultInfo Searcher::HighlightResult(const std::string &s, const std::string &fi
 	fo << fil->file_name << "\n";
 	fo.close();
 	return *fil;
+}
+
+
+std::vector <std::string> Searcher::GetSynonym(const std::string &origin_word) {
+	std::vector<std::string> result;
+	result.push_back(origin_word);
+	std::ifstream inp;
+	inp.open(("synonym_data/" + origin_word));
+	if (inp.is_open()) {
+		std::string synonym_new;
+		while (getline(inp, synonym_new)) {
+			if (synonym_new != origin_word)
+				result.push_back(synonym_new);
+		}
+	}
+	inp.close();
+	// note : chuan hoa lai data
+	//      : loai bo stopword
+	return result;
+}
+
+
+bool Searcher::cmp(std::pair<int, int> x, std::pair<int, int> y) {
+	return x.second > y.second;
+}
+
+
+std::vector< std::pair<int, int> > Searcher::GetExact(std::vector<SearcherNode> &wordList){
+	std::vector< std::pair<int, int> > result;
+	std::unordered_map<int, std::vector<int>>::iterator it, it1;
+	for (it = wordList.begin()->posting_list.begin(); it != wordList.begin()->posting_list.end(); it++) {
+		bool flag = 0;// find for orther word;
+		for (int i = 0; i < wordList.size(); i++) {
+			if (wordList[i].posting_list.find(it->first) == wordList[i].posting_list.end()){
+				flag = 1;
+				break;
+			}
+		}
+		if (flag)
+			continue;
+		result.push_back(std::make_pair(it->first, 0));
+		for (int i = 0; i < it->second.size(); i++) {
+			flag = 1;
+			for (int j = 1; j < wordList.size(); j++) {
+				std::vector<int>::iterator pos;
+				pos = std::lower_bound(wordList[j].posting_list[it->first].begin(), wordList[j].posting_list[it->first].end(), it->second[i] + j);
+				if (pos == wordList[j].posting_list[it->first].end() || wordList[j].posting_list[it->first][pos-wordList[j].posting_list[it->first].begin()] != it->second[i] + j) {
+					flag = 0;
+					break;
+				}
+			}
+			result.back().second += flag;
+		}
+		if (result.back().second == 0)
+			result.pop_back();
+	}
+	sort(result.begin(), result.end(), cmp);
+	return result;
+}
+
+std::vector<int> Searcher::GetChung(std::vector<SearcherNode> &wordList) {
+	std::vector<int> result;
+	std::unordered_map<int, std::vector<int>>::iterator it;
+
+	for (it = wordList.begin()->posting_list.begin(); it != wordList.begin()->posting_list.end(); it++) {
+		bool flag = 0;// find for orther word;
+		for (int i = 0; i < wordList.size(); i++) {
+			if (wordList[i].posting_list.find(it->first) == wordList[i].posting_list.end()){
+				flag = 1;
+				break;
+			}
+		}
+		if (flag)
+			continue;
+		result.push_back(it->first);
+	}
+	return result;
+}
+
+std::string Searcher::GetSynonym_string(const std::string &originword) {
+	std::vector<std::string> result = GetSynonym(originword);
+	std::string st = "";
+	for (auto re : result)
+		st += re + " ";
+	st.pop_back();
+	return st;
+}
+
+
+std::vector< std::pair<int, int> > Searcher::GetWildcard(std::vector<SearcherNode> &wordList){
+	std::vector< std::pair<int, int> > result;
+	std::unordered_map<int, std::vector<int>>::iterator it, it1;
+	for (it = wordList.begin()->posting_list.begin(); it != wordList.begin()->posting_list.end(); it++) {
+		bool flag = 0;// find for orther word;
+		for (int i = 0; i < wordList.size(); i++) {
+			if (wordList[i].posting_list.find(-1) == wordList[i].posting_list.end() && wordList[i].posting_list.find(it->first) == wordList[i].posting_list.end()){
+				flag = 1;
+				break;
+			}
+		}
+		if (flag)
+			continue;
+		result.push_back(std::make_pair(it->first, 0));
+		for (int i = 0; i < it->second.size(); i++) {
+			flag = 1;
+			for (int j = 1; j < wordList.size(); j++) {
+				if (wordList[j].posting_list.find(-1) != wordList[j].posting_list.end())
+					continue;
+				std::vector<int>::iterator pos;
+				pos = std::lower_bound(wordList[j].posting_list[it->first].begin(), wordList[j].posting_list[it->first].end(), it->second[i] + j);
+				if (pos == wordList[j].posting_list[it->first].end() || wordList[j].posting_list[it->first][pos- wordList[j].posting_list[it->first].begin()] != it->second[i] + j) {
+					flag = 0;
+					break;
+				}
+			}
+			result.back().second += flag;
+		}
+		if (result.back().second == 0)
+			result.pop_back();
+	}
+	sort(result.begin(), result.end(), cmp);
+	return result;
 }

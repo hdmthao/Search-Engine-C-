@@ -9,8 +9,8 @@ const std::string config::path::NEWS = "data/___index.txt";
 // privacy
 bool config::privacy::private_mode = false; // startup mode is default mode
 
-void config::privacy::SetMode(bool is_private_mode) {
-    config::privacy::private_mode = is_private_mode;
+void config::privacy::SetMode() {
+    if (private_mode == false) private_mode = true; else private_mode = false;
 }
 
 // search

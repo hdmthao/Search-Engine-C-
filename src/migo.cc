@@ -57,6 +57,9 @@ bool Migo::Running() {
             ui->StartUIResult();
             ui->ShowResult(state, query);
             ui->StopUIResult();
+        } else if (state == StateMigo::ChangeMode) {
+            config::privacy::SetMode();
+            state = StateMigo::Search;
         } else {
             break;
         }

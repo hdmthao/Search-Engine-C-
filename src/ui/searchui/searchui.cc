@@ -105,10 +105,10 @@ bool SearchUI::DrawLogo() {
 
 bool SearchUI::DrawCommand() {
     std::vector<std::string> list_description = {
-        "Open History", "Select All",
+        "Open History", "Select All", "Exit"
     };
     std::vector<std::string> list_command = {
-        "^h", "^a",
+        "^h", "^a", "^c",
     };
 
     int y_offset = 1, x_offset = (command_win->w - 1) / 8;

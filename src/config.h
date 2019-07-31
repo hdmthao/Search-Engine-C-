@@ -14,7 +14,7 @@ namespace config {
 
     namespace privacy {
         extern bool private_mode;
-        void SetMode(bool is_private_mode); // false is default mode, true is private mode
+        void SetMode(); // false is default mode, true is private mode
     }
 
     namespace search {
