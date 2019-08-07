@@ -52,6 +52,7 @@ public:
     std::vector<std::string> GetNews(std::string &file_name, int &size);
     std::vector<std::string> GetHistory();
     bool RemoveHistory(std::string &query);
+    bool TestQuery(double &time_estimate);
 };
 
 #endif

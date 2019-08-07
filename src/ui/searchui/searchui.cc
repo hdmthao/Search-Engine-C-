@@ -1,5 +1,6 @@
 #include "searchui.h"
 #include "../../util/util.h"
+#include "../../config.h"
 
 #include <iostream>
 
@@ -15,8 +16,11 @@ SearchUI::~SearchUI() {
 
 bool SearchUI::Start() {
     search_win = new Window(26, 84, 14, (COLS - 80) / 2);
-    title_win = new Window(5, 22, 6, (COLS - 22) / 2);
-    command_win = new Window(3, COLS - 4, 40, 1);
+    title_win = new Window(5, 36, 6, (COLS - 22) / 2);
+    command_win = new Window(2, COLS - 4, 41, 1);
+    msg_win = new Window(6, 50, 34, (COLS - 50) / 2);
+    history_win = new Window(34, 140, 6, 12);
+
     refresh();
     DrawLogo();
     DrawCommand();
@@ -98,6 +102,9 @@ bool SearchUI::DrawLogo() {
     for (int i = 0; i < title.size(); ++i) {
         mvwaddstr(title_win->win, i,0,title[i].c_str());
     }
+    if (config::privacy::private_mode) {
+        mvwaddstr(title_win->win, title.size() - 1, title.back().size() + 2, "Private Mode");
+    }
     title_win->Refresh();
 
     return true;
@@ -105,11 +112,18 @@ bool SearchUI::DrawLogo() {
 
 bool SearchUI::DrawCommand() {
     std::vector<std::string> list_description = {
-        "Open History", "Select All", "Exit"
+        "Search Query", "Update Data", "Remove Selected History", "Show History",
     };
     std::vector<std::string> list_command = {
-        "^h", "^a", "^c",
+        "^M/Enter", "^u", "^x", "^g",
     };
+
+    if (config::privacy::private_mode) {
+        list_description.push_back("Normal Mode"); list_command.push_back("^n");
+    } else {
+        list_description.push_back("Private Mode"); list_command.push_back("^n");
+    }
+    list_description.push_back("Exit"); list_command.push_back("^c");
 
     int y_offset = 1, x_offset = (command_win->w - 1) / 8;
     int x_pos = x_offset;
@@ -119,11 +133,59 @@ bool SearchUI::DrawCommand() {
         wattron(command_win->win, A_STANDOUT | A_BOLD);
         mvwaddstr(command_win->win, y_offset, x_pos, list_command[i].c_str());
         wattroff(command_win->win, A_STANDOUT);
-        mvwaddstr(command_win->win, y_offset, x_pos + 3, list_description[i].c_str());
-        x_pos += x_offset;
+        mvwaddstr(command_win->win, y_offset, x_pos + list_command[i].size() + 1, list_description[i].c_str());
+        x_pos += list_command[i].size() + list_description[i].size() + 6;
         wattroff(command_win->win, A_BOLD);
     }
     command_win->Refresh();
+    return true;
+}
+
+bool SearchUI::ShowUpdate(bool update, int total_file_update, double time_estimate) {
+    curs_set(0);
+    box(msg_win->win, 0, 0);
+    std::string title = "Update News";
+    std::string info = "";
+    std::string time = "";
+    if (!update) {
+        info = "Everything is up to date!!!";
+    } else {
+        info = "Updated " + std::to_string(total_file_update) + " News!!!";
+        time = std::to_string(time_estimate);
+    }
+    mvwaddstr(msg_win->win, 0, (msg_win->w - title.size()) / 2, title.c_str());
+    mvwaddstr(msg_win->win, 2, (msg_win->w - info.size()) / 2, info.c_str());
+    mvwaddstr(msg_win->win, 3, (msg_win->w - info.size()) / 2, time.c_str());
+    msg_win->Refresh();
+    util::input::Update(-1);
+    msg_win->Reset(true);
+    curs_set(1);
+    return true;
+}
+
+bool SearchUI::ShowHistory(std::vector<std::string> &list, int &page, int &total_page) {
+    history_win->Reset(false);
+    // Box
+    wattron(history_win->win, COLOR_PAIR(25));
+    box(history_win->win, 0, 0);
+    wattroff(history_win->win, COLOR_PAIR(25));
+    wattron(history_win->win, A_BOLD);
+
+    // Print title
+    std::string title = "History";
+    mvwaddstr(history_win->win, 0, (history_win->w - title.length()) / 2, title.c_str());
+    // print page number
+    std::string page_number = "(Page " + std::to_string(page) + " of " + std::to_string(total_page) + ")";
+    mvwaddstr(history_win->win, 0, (history_win->w - page_number.size() - 2), page_number.c_str());
+    // print content
+    int max_line = 28, offset = 2;
+    int start = (page - 1) * max_line;
+    int stop = std::min(start + max_line, (int)list.size());
+    for (int i = start; i < stop; ++i) {
+        mvwaddstr(history_win->win, offset++, 2, list[i].c_str());
+    }
+    wattroff(history_win->win, A_BOLD);
+    history_win->Refresh();
     return true;
 }
 

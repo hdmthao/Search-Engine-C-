@@ -1,5 +1,0 @@
-34.txt
-Data110.txt
-Data437.txt
-Data764.txt
-062.txt

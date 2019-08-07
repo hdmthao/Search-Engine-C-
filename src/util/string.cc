@@ -215,3 +215,33 @@ std::string util::string::RemoveStopWord(const std::string &query)
 	// printf("%s", st.c_str());
 	return st;
 }
+
+bool util::string::isNum(char ch)
+{
+	if (ch <= '9'&& ch >= '0')
+		return true;
+	else
+		return false;
+}
+
+bool util::string::isNum_string(std::string st) {
+	for (int i = 0; i < st.length(); i++)
+	{
+		if( !isNum(st[i]))
+			return false;
+	}
+	return true;
+}
+
+std::string util::string::range_string(int n1, int n2, std::string ch, int pos) {
+	std::string str = "";
+	if (n2 < n1 || (n2 - n1)>1000000)
+		return "invalid numbers";
+	if (pos == 1)
+		for (int i = n1; i <= n2; i++)
+			str += ch + std::to_string(i) + " ";
+	else
+		for (int i = n1; i <= n2; i++)
+			str += std::to_string(i) + ch + " ";
+	return str;
+}

@@ -366,7 +366,7 @@ SearchTypeInfo* Engine::Migo_OP(const std::string &query) {
                     int des = st.find(wo);
 					st.erase(des, wo.length());
 					wo.erase(0, 1);
-					inFo->word_exclude = wo;
+					inFo->word_exclude = util::string::ToLowerCase(wo);
 					inFo->query = st;
 					type = SearchType::Exclude;
 					break;
@@ -374,21 +374,23 @@ SearchTypeInfo* Engine::Migo_OP(const std::string &query) {
 				else
 					if (wo.find("+") == 0 && wo.length() > 1) {
 						wo.erase(0, 1);
-						inFo->word_include = wo;
+                        st.erase(st.find("+"),1);
+                        inFo->query=st;
+						inFo->word_include = util::string::ToLowerCase(wo);
 						type = SearchType::Include;
 						break;
 					}
 					else
 						if (util::string::ToLowerCase(wo).find("intitle:") == 0 && wo.length()>8 ) {
 							st.erase(st.find("intitle"), 8);
-							inFo->query = st;
+							inFo->query = util::string::ToLowerCase(st);
 							type = SearchType::Intitle;
 							break;
 						}
 						else
 							if (util::string::ToLowerCase(wo).find("filetype:") == 0 && wo.length()>9) {
 								wo.erase(0, 9);
-								inFo->query = wo;
+								inFo->query = util::string::ToLowerCase(wo);
 								type = SearchType::Filetype;
 								break;
 							}
@@ -397,6 +399,7 @@ SearchTypeInfo* Engine::Migo_OP(const std::string &query) {
                                     int des = st.find(wo);
 									st.erase(des, wo.length());
 									wo.erase(0, 1);
+                                    wo = util::string::ToLowerCase(wo);
 									wo = searcher->GetSynonym_string(wo)+" ";
 									st.insert(des, wo);
 									inFo->query = st;
@@ -491,4 +494,25 @@ SearchTypeInfo* Engine::Migo_OP(const std::string &query) {
 	}
 	inFo->type = type;
 	return inFo;
+}
+
+bool Engine::TestQuery(double &time_estimate) {
+
+    std::ifstream fi("data/100query.txt");
+    std::ofstream fo("analysic.txt");
+
+    double total = 0;
+    while (!fi.eof()) {
+        std::string query;
+        getline(fi, query);
+        if (query == "") continue;
+        fo << query << "\n";
+        SearchResult* result = Search(query);
+        total += result->time_estimation;
+        fo << result->time_estimation << " " << result->total_result << "\n";
+    }
+    fo << total*10;
+    time_estimate = total * 10;
+    fo.close();
+    return true;
 }

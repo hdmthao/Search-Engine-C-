@@ -21,7 +21,9 @@ namespace util {
         std::vector<std::string> DivideToLine(const std::string &, int);
         std::string RemoveUnicode(const std::string &s); // remove unicode
         std::string RemoveStopWord(const std::string &query);
-
+        bool isNum(char ch);
+        bool isNum_string(std::string st);
+        std::string range_string(int n1, int n2, std::string ch, int pos);
     }
 
     // function for time

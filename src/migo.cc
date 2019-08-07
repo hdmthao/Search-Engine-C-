@@ -38,6 +38,12 @@ bool Migo::Loading() {
     ui->StartUILoading();
     engine->Loading(ui->load_ui);
     util::input::Update(-1);
+    if (util::input::IsPressed(util::input::ctrl('p'))) {
+        double time = 0;
+        engine->TestQuery(time);
+        ui->load_ui->ShowTest(time);
+        util::input::Update(-1);
+    }
     ui->StopUILoading();
     return true;
 }

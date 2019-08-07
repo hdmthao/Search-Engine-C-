@@ -288,7 +288,7 @@ Resident Evil 2 remake What you need to know,3,17273532
 Dell is ready to return to Wall Street,10,17414135
 Capgemini to buy IT firm Kanbay Intl for $1 25 bln,6,17933822
 WOLVES 101,7,17441000
-Heat Humidity on the Way for the Weekend,7,18205581
+Heat Humidity on the Way for the Weekend,8,18278022
 For it don't above our,7,17775961
 Bacteria supply their allies with munitions,7,17692370
 Stanford flamboyant Texan faces criminal charges,2,16565899
@@ -699,7 +699,7 @@ Cook Serve Delicious Wiki,9,15659493
 Celebrating 50 years of discovery,10,17123430
 ON THE STREETS of Khartoum the capital of Sudan people are breathing a heady,6,16184111
 Poisonous books found in library of University of Southern Denmark,2,16150600
-Fallout 76 Everything we know about Bethesda's shared world shooter,9,18127710
+Fallout 76 Everything we know about Bethesda's shared world shooter,10,18281784
 Jeremy Kyle Show criticised over,6,17477793
 Rescued Thai boys might be monitored for 'cave disease ' other conditions,7,16413075
 Democratic debates First 10 candidates hoping to oust Trump,6,16746303
@@ -1082,7 +1082,7 @@ Russian hackers targeted Ukraine's water supply security service claims,4,160540
 Facebook is putting secrecy,5,18157144
 ON A nippy January evening Clare walks the streets of north,10,17114107
 'Police called' as Build A Bear teddy sale sparks chaos,10,17304821
-Fallout 76 Everything we know about Bethesda's shared world shooter,8,16426354
+Fallout 76 Everything we know about Bethesda's shared world shooter,9,18281784
 Fiz The Brewery Management Game Wiki,5,16626008
 The tallest lifeforms of all time,1,18036682
 'Men in Black' can't catch lightning despite 'Thor' duo,4,16679598
@@ -1430,7 +1430,7 @@ How Men and Women Email,3,17061750
 Detection and Monitoring of Tumor Associated Circulating DNA in Patient Biofluids,7,17029182
 Raptors relishing opportunity 'This is,1,16657639
 Bernie Sanders says government should look into breaking up big,6,16784315
-Heat Humidity on the Way for the Weekend,8,18205581
+Heat Humidity on the Way for the Weekend,9,18278022
 Man fined $8 for masturbating,6,15900510
 Bullying gets worse as children with,1,17727405
 THE great limestone peaks of the,9,16634660
@@ -1726,7 +1726,7 @@ Treatment for the Soviet era nerve gas Novichok,8,18070993
 Tab Hunter iconic 1950s,7,16026298
 Ronaldo on whether he will stay at Juventus next season '1 000 percent',6,15566926
 Ryanair cancels 30,4,18039119
-Heat Humidity on the Way for the Weekend,8,18205581
+Heat Humidity on the Way for the Weekend,9,18278022
 Airbus chief backs Theresa May's Brexit stance,3,16020832
 Here's What Happens When a Plane Is Struck by Lightning,6,15589042
 DR AG Ortiz shooting case of mistaken identity,8,16637256
@@ -2003,7 +2003,7 @@ Source Suarez I lost 3kg (6 6 lbs) for Copa America,5,17001372
 Adventurers Oddities,2,16138240
 IMAGINE building a small pile of wood and kindling in the smallest,4,17783304
 A prequel to 'The Hunger Games' will arrive May 2020,8,17588344
-Heat Humidity on the Way for the Weekend,3,18205581
+Heat Humidity on the Way for the Weekend,4,18278022
 Respect history payback what each team in groups is playing,2,17469862
 WATCH POLAR BEARS,5,15915811
 Fiz The Brewery Management Game Wiki,6,17069505
@@ -2472,7 +2472,7 @@ A prequel to 'The Hunger Games' will arrive May 2020,6,17264224
 Crab from the Chinese pet market turns out to be a new species of a new genus,4,16466270
 Kids suing governments about climate It's a global,4,16483081
 Super Mario Odyssey Review,2,17282111
-Heat Humidity on the Way for the Weekend,7,18205581
+Heat Humidity on the Way for the Weekend,8,18278022
 Thousands gather in London to mark 100 years of RAF,7,17843402
 You voted Here’s our top photo of the year,1,17969515
 Facebook Is Launching a New Dating Feature to Compete With Tinder,2,17665206
@@ -4198,7 +4198,7 @@ Political Machine Wiki,3,16592633
 NHL Stanley Cup Final 2018 Start time how to watch and more,3,17970788
 Heartbeat actor William Simons who played PC Alf Ventress dies aged 79,9,17963922
 Paladins is a first person,7,15937574
-Heat Humidity on the Way for the Weekend,11,18205581
+Heat Humidity on the Way for the Weekend,12,18278022
 Harry Maguire reacts after England fan gets tattoo of,6,17564467
 Microsoft may have foldable Surface that runs Android apps in works,10,15774390
 Japan's Suntory considering merger with Kirin,5,18065382
@@ -4375,13 +4375,13 @@ Jony Ive the Apple design chief who played key role in,3,16032719
 Customers report Verizon Cloudflare disruptions,10,15985315
 Countries across Africa Asia Pacific vulnerable to Zika virus new study,2,15838688
 Review Kevin Costner's 'Yellowstone' is all style,4,16262574
-Heat Humidity on the Way for the Weekend,7,18205581
+Heat Humidity on the Way for the Weekend,8,18278022
 Oxygen Not Included Wiki,10,16566437
 You voted Here’s our top photo of the year,4,16963010
 Nissan Q2 operating profit dips,7,17253390
 European shares extend rally as oil stocks climb higher,1,18152802
 Elton John slams Russian distributor's censorship of 'Rocketman' gay,10,16468950
-Fallout 76 Everything we know about Bethesda's shared world shooter,7,17925950
+Fallout 76 Everything we know about Bethesda's shared world shooter,8,18281784
 The impact of chemically enhanced primary treatment on the downstream liquid and solid,5,15584270
 Historical analysis examines sugar industry role in heart disease research,10,16436991
 Porn age verification scheme delayed for,9,16499625
@@ -4800,16 +4800,16 @@ The Metal Gear Movie Passes A,6,16450125
 Sector rotation may resume jobs,5,17202588
 The NBA is about to have,4,17973518
 Ronaldo on whether he will stay at Juventus next season '1 000 percent',3,16878236
-face,71,18277056
+face,73,18282616
 UK vietnam,1,18180610
-google,9,18273939
+google,26,18286675
 long hai,1,18181682
 sa,1,18187157
-facebook,14,18274608
-hello,4,18188579
+facebook,16,18288227
+hello,6,18286673
 bello,2,18188743
-helo,14,18271964
-halo,9,18212116
+helo,15,18280128
+halo,10,18280131
 she,1,18188755
 what or ,1,18190033
 what,1,18190214
@@ -4820,7 +4820,7 @@ huu nghia,1,18212091
 google ,1,18212102
 $100,16,18272717
 $10,2,18227060
-$1,1,18212175
+$1,19,18285968
 1,3,18212181
 s,2,18216015
 ncurses,1,18216805
@@ -4833,13 +4833,13 @@ a OR b,1,18227001
 a AND b,2,18227009
 a -b c,1,18227018
 filetyp:txt,1,18227030
-filetype:txt,4,18275959
+filetype:txt,5,18277707
 #helovietbam mess,1,18227074
 "bla bla bla",1,18227083
 thien * long,1,18227095
 "thien * long",1,18227106
-~hello,1,18227259
-thien,3,18271978
+~hello,2,18288210
+thien,4,18277698
 thien and long,2,18231524
 thien AND long,2,18231530
 facebook and google,1,18231616
@@ -4862,11 +4862,11 @@ rocket ranch,1,18234968
 facebook ~ability google,2,18236845
 hii,1,18271967
 hai,1,18271976
-100..200,1,18272468
-$100..$110,3,18272966
+100..200,2,18281012
+$100..$110,4,18280040
 $100..$1000,1,18272545
-$100..$110,1,18272966
-$100..$110,1,18272966
+$100..$110,2,18280040
+$100..$110,2,18280040
 $10..$99,2,18273164
 $11..$100,1,18273014
 camera $10..$99,6,18273189
@@ -4881,11 +4881,11 @@ $200,2,18274633
 1%..10%,1,18273377
 %25,2,18273797
 25$,1,18273771
-25%,2,18273800
+25%,3,18281177
 %25..%100,1,18273796
-10..100,1,18273930
-$10..$100,1,18273936
-viet nam,3,18274063
+10..100,2,18281018
+$10..$100,4,18287307
+viet nam,12,18281169
 intitle:face,5,18277061
 intitle:google,3,18277074
 intitle:summer,4,18277080
@@ -4897,5 +4897,222 @@ intitle:w,1,18276963
 intitle:who,1,18277063
 intitle:summser,1,18277077
 10..1000,1,18277091
-~power,1,18277122
-~ability,1,18277127
+~power,2,18280163
+~ability,3,18286032
+google google ,1,18277850
+google google google google,1,18277873
+google google google google google,1,18277875
+google google google google google google,1,18277877
+free free free free free,1,18277891
+"youtube * and spotify",1,18279936
+youtube and spotify,1,18279968
+"youtube * spotify",1,18279998
+"youtube * and",1,18280003
+"google",1,18280034
+intitile:Soccer,1,18280053
+~earth,1,18280064
+helol,1,18280134
+Every AND Floating,19,18285968
+Somalia OR Companies ,18,18285968
+Last -modified ,18,18285968
+intitle:Monitoring,18,18285968
+YouTubes +and haphazard,18,18285968
+iphone $1000,18,18285968
+#Perfectly,18,18285968
+"Kim Jong-un",18,18285968
+"Reeling from a * Dropbox price hike",18,18285968
+~Suddenly,18,18285968
+"THEY forced",18,18285968
+SHOULD OR Deaths,18,18285968
+Victoria AND Australian,18,18285968
+radio -programme,18,18285968
+Dutch +and prosecutors,18,18285968
+intitle:Pakistan,18,18285968
+#Mexican,18,18285968
+"man and woman",18,18285968
+12-foot,18,18285968
+"Gove * and Hunt" ,18,18285968
+going OR devised,18,18285968
+intitle:THE REMOVALS ,18,18285968
+pro-European,18,18285968
+music AND classroom,18,18285968
+Somali OR World Cup,18,18285968
+"The government",18,18285968
+~perched ,18,18285968
+"Last month * Peter Mason",18,18285968
+#Applying,18,18285968
+systems were $48,18,18285968
+Football +and France,18,18285968
+~Protects,18,18285968
+intitle:THE AVERAGE,18,18285969
+salary of just $200,18,18285969
+"Serve largely dominated",18,18285969
+"We started working * in Amazonia",18,18285969
+#Nirvana's,18,18285969
+ARCHITECTURE +and STUDENTS,18,18285969
+ARTICLES OR Donald Trump,18,18285969
+~Climate,18,18285969
+non-human,18,18285969
+Dozens AND Instagram,18,18285969
+AIR-CONDITIONING,18,18285969
+intitle:SQUATTING,18,18285969
+"Libra currency ",18,18285969
+Amanda * makes pastries,18,18285969
+#Nicola,18,18285969
+Mark +AND Steward,18,18285969
+Perhaps OR Contact,18,18285969
+Yes AND no,18,18285969
+~Manchester,18,18285969
+Paulo Dybala -The forward ,18,18285969
+camera $400,18,18285969
+#Reproduction,18,18285969
+intitle:My babys,18,18285969
+New York OR schoolchildren,18,18285969
+"personnel",18,18285969
+#ABOUT,18,18285969
+house costs around $11,0,1
+"The training was * often pointless",18,18285969
+rather AND world ,18,18285969
+YOU +and have,18,18285969
+ ~environment,18,18285969
+election —and,18,18285969
+Guardian AND view ,18,18285969
+Apollo AND You,18,18285969
+#Artificial ,18,18285969
+intitle:WEIGHT,18,18285969
+"rubber filled",18,18285969
+" Discovery Reserve * American",18,18285969
+young OR scientists,18,18285969
+~YouTubes,18,18285969
+pet-keeping,18,18285969
+costing $35,18,18285969
+Vatican +and considers,18,18285969
+"she is * the soul of discretion",18,18285969
+"MY CHILDHOOD",18,18285969
+#Booking,18,18285969
+just over $8,300,1
+THINGS OR longer,18,18285969
+"Brazilians * are falling",18,18285969
+~Erdogan,18,18285969
+Pregnant AND women,18,18285969
+ease -tensions,18,18285969
+Vladimir +and Putin,18,18285969
+intitle:Francesco Totti,18,18285969
+Conservative +and party,18,18285969
+intitle:USA ,18,18285969
+#European,18,18285969
+PREMISES OR newsletterUpgrade,18,18285969
+market of $1.7,18,18285969
+government AND announces,18,18285969
+toe-curling,18,18285969
+"Sky News",18,18285969
+combined $363.3,18,18285969
+"Premier League * players released",18,18285969
+~Plans,18,18285969
+East +and Suffolk,18,18285969
+intitle:Asadero Chikali,18,18285969
+free free,1,18280997
+25%..100%,1,18281185
+25..100,1,18281197
+$2000,1,18281206
+$2,0,1
+$2,0,1
+$2,0,1
+10..200,1,18281401
+10..3000,1,18281418
+$100000,1,18281590
+$1000,1,18281592
+$1000..$2000,1,18281600
+house costs around $11,0,1
+just over $8,300,1
+multiplayer,1,18281802
+"N.N.A.K.",1,18281853
+"N. N. T",1,18281867
++"Anh Khoa",1,18281918
+"Anh Khoa",1,18281927
+Anh,2,18281963
+Anh +Khoa,3,18282431
++Khoa,1,18281943
+Khoa,1,18281945
+Anh -Khoa,1,18281952
+Anh +khoa,2,18281965
+anh +Khoa,1,18282212
+anh +khoa,10,18282440
+hai +long,1,18282444
+long,1,18282452
+Hours +Long,3,18282463
+intile:summer,1,18282631
+intitle:amazon,1,18282637
+intitle:Amazon,4,18282866
+intitle:music,1,18282648
+amazon,1,18282655
+#nasa,2,18283223
+#mobile,1,18283216
+#music,1,18283220
+#moon,1,18283236
+googel,2,18286202
+gogel,1,18283530
+gogle,1,18283540
+eggloe,1,18283587
+eggloeee,7,18283602
+pron,2,18283634
+prom,1,18283631
+house costs around $11,0,1
+just over $8,300,1
+house costs around $11,0,1
+just over $8,300,1
+house costs around $11,0,1
+just over $8,300,1
+house costs around $11,0,1
+just over $8,300,1
+house costs around $11,0,1
+just over $8,300,1
+house costs around $11,0,1
+just over $8,300,1
+house costs around $11,0,1
+just over $8,300,1
+house costs around $11,0,1
+just over $8,300,1
+house costs around $11,0,1
+just over $8,300,1
+house costs around $11,0,1
+just over $8,300,1
+house costs around $11,0,1
+just over $8,300,1
+house costs around $11,0,1
+just over $8,300,1
+house costs around $11,0,1
+just over $8,300,1
+house costs around $11,0,1
+just over $8,300,1
+house costs around $11,0,1
+just over $8,300,1
+house costs around $11,0,1
+just over $8,300,1
+google AND facebook,1,18286016
+goole,1,18286051
+$100..$200,1,18286058
+ubuntu,1,18286568
+manjaro,1,18286658
+majaho,1,18286669
+the,1,18286882
+just over $8,300,1
+24%..30%,1,18287320
+24%..100%,1,18287366
+24%..200%,1,18287381
+24%..100000%,2,18287871
+3$..4$,1,18288093
+"pussy",1,18288103
+Pussy,1,18288165
+con cat,1,18288169
+con cu,1,18288175
+con chim,1,18288179
+chim,1,18288183
+cat,1,18288185
+cet,1,18288187
+cac,1,18288190
+lol,1,18288197
+~pussy,1,18288204
+~set,1,18288207
+~hi,1,18288213
+~google,1,18288216

@@ -12,7 +12,7 @@ void ResultUI::Start() {
     statistic_win = new Window(3, 130, 5, 12);
     result_win = new Window(32, 130, 8, 12);
     page_win = new Window(34, 140, 6, 12);
-    command_win = new Window(3, COLS - 4, 40, 1);
+    command_win = new Window(2, COLS - 4, 41, 1);
 
     refresh();
     DrawCommand(0); // result screen;
@@ -70,21 +70,23 @@ bool ResultUI::DrawResult(SearchResult* result, bool choose, int pos) {
     int stop = std::max(0, (pos - 6)) + 5;
     for (int i = 0 + std::max(0, (pos - 6)); i < std::min(len, stop); ++i) {
         if (pos - 2 == i) wattron(result_win->win, A_BOLD);
+        // wattron(result_win->win, A_BOLD);
         ResultInfo news = result->result_list[i];
         // std::string info_ = "File name: "  + news.file_name + " ("  + std::to_string(news.total_keywords) +  " keywords / " + std::to_string(news.total_words) + " words)";
         std::string info = "File name: " + news.file_name + " (Score: " + std::to_string(news.score) + " )";
         mvwaddstr(result_win->win, offset++, 1, info.c_str());
-        std::vector<std::string> line = util::string::DivideToLine(news.title, result_win->w - 1);
+        std::string title = ">> " + news.title;
+        std::vector<std::string> line = util::string::DivideToLine(title, result_win->w - 1);
         for (int k = 0; k < line.size(); ++k) {
             // printf("%s***", line[k].c_str());
             int padding = 1, j = 0, len = line[k].length();
             while (j <  len) {
                 if (j + 1 < len && line[k][j] == '<'  && line[k][j + 1] == '>') {
-                    wattron(result_win->win, COLOR_PAIR(61));
+                    wattron(result_win->win, A_BOLD | COLOR_PAIR(9));
                     // wattron(result_win->win, A_REVERSE);
                     j += 2;
                 } else if (j + 2 < len && line[k][j] == '<' && line[k][j + 1] == '/' && line[k][j + 2] == '>' ) {
-                    wattroff(result_win->win, COLOR_PAIR(61));
+                    if (pos - 2 != i) wattroff(result_win->win, A_BOLD | COLOR_PAIR(9)); else wattroff(result_win->win, COLOR_PAIR(9));
                                         // wattroff(result_win->win, A_REVERSE);
 
                     j += 3;
@@ -101,10 +103,10 @@ bool ResultUI::DrawResult(SearchResult* result, bool choose, int pos) {
             int padding = 1, j = 0, len = line[k].length();
             while (j <  len) {
                 if (j + 1 < len && line[k][j] == '<'  && line[k][j + 1] == '>') {
-                    wattron(result_win->win, COLOR_PAIR(61));
+                    wattron(result_win->win, COLOR_PAIR(9));
                     j += 2;
                 } else if (j + 2 < len && line[k][j] == '<' && line[k][j + 1] == '/' && line[k][j + 2] == '>' ) {
-                    wattroff(result_win->win, COLOR_PAIR(61));
+                    wattroff(result_win->win, COLOR_PAIR(9));
                     j += 3;
                 } else {
                     mvwaddch(result_win->win, offset, padding++, line[k][j]);

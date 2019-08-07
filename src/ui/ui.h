@@ -21,6 +21,7 @@ private:
     bool GetEventInSearchScreen(std::string &query, std::vector<std::string> &suggest_list, int &choose, SearchCommand &command);
     bool GetEventInResultScreen(std::string &query, std::vector<std::string> &suggest_list, SearchResult* result, int &choose, ResultCommand &command);
     bool GetEventWhenOpenPage(ResultCommand &command, int &page, int &total_page);
+    bool GetEventWhenOpenHistory(SearchCommand &command, int &page, int &total_page);
 
 public:
     LoadUI* load_ui;

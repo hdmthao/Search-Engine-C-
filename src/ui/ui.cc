@@ -110,6 +110,15 @@ void UI::GetQuery(StateMigo &state, std::string &query) {
     if (GetIcon(c)) {
         cur_query += c;
     }
+    if (IsPressed(ctrl('u'))) {
+        int total_file_update = 0;
+        double time = 0;
+        bool status = engine->UpdateFile(total_file_update, time);
+        search_ui->ShowUpdate(status, total_file_update, time);
+    } else if (IsPressed(ctrl('n'))) {
+        state = StateMigo::ChangeMode;
+        return;
+    }
     suggest_list = engine->GetSuggest(cur_query);
     suggest_list.insert(suggest_list.begin(), cur_query);
 
@@ -118,6 +127,50 @@ void UI::GetQuery(StateMigo &state, std::string &query) {
         Update(-1);
         bool is_get_event = GetEventInSearchScreen(cur_query, suggest_list, choose, command);
         if (is_get_event) {
+            if (command == SearchCommand::UpdateData) {
+                int total_file_update = 0;
+                double time = 0;
+                bool status = engine->UpdateFile(total_file_update, time);
+
+                if (search_ui->ShowUpdate(status, total_file_update, time)) {
+                    command = SearchCommand::HighlightQuery;
+                }
+                
+            } else if (command == SearchCommand::RemoveHistory) {
+                if (choose != 0) {
+                    engine->RemoveHistory(suggest_list[choose]);
+                    suggest_list.erase(suggest_list.begin() + choose, suggest_list.begin() + choose + 1);
+                    choose = 0;
+                }
+                command = SearchCommand::HighlightQuery;
+            } else if (command == SearchCommand::ShowHistory) {
+                curs_set(0);
+                std::vector<std::string> list = engine->GetHistory();
+                int max_line = 28, max_size = 135;
+                int page = 1, total_page = list.size() / max_line + 1;
+                search_ui->ShowHistory(list, page, total_page);
+                while (1) {
+                    Update(-1);
+                    bool is_get_event = GetEventWhenOpenHistory(command, page, total_page);
+                    if (is_get_event) {
+                        if (command == SearchCommand::HighlightQuery) {
+                            break;
+                        }
+                        if (command == SearchCommand::Quit) {
+                            state = StateMigo::Stop;
+                            return;
+                        }
+                        search_ui->ShowHistory(list, page, total_page);
+                    }
+                }
+                search_ui->history_win->Reset(true);
+                search_ui->DrawLogo();
+                curs_set(1);
+                command = SearchCommand::HighlightQuery;
+            } else if (command == SearchCommand::ChangeMode) {
+                state = StateMigo::ChangeMode;
+                return;
+            }
             if (cur_query != suggest_list.front()) { 
                 if (cur_query != "") {
                     suggest_list = engine->GetSuggest(cur_query);
@@ -319,6 +372,14 @@ bool UI::GetEventInSearchScreen(std::string &query, std::vector<std::string> &su
         command = SearchCommand::SlectAllCurrentQuery;
     } else if (IsPressed(ctrl('c'))) {
         command = SearchCommand::Quit;
+    } else if (IsPressed(ctrl('u'))) {
+        command = SearchCommand::UpdateData;
+    } else if (IsPressed(ctrl('x'))) {
+        command = SearchCommand::RemoveHistory;
+    } else if (IsPressed(ctrl('g'))) {
+        command = SearchCommand::ShowHistory;
+    } else if (IsPressed(ctrl('n'))) {
+        command = SearchCommand::ChangeMode;
     } else {
         char c;
         if (!GetIcon(c)) return false;
@@ -347,6 +408,23 @@ bool UI::GetEventWhenOpenPage(ResultCommand &command, int &page, int &total_page
         command = ResultCommand::Quit;
     } else if (IsPressed(27)) {
         command = ResultCommand::SelectResult;
+    } else {
+        return false;
+    }
+    return true;
+}
+
+bool UI::GetEventWhenOpenHistory(SearchCommand &command, int &page, int &total_page) {
+    if (IsPressed(KEY_UP) || IsPressed(KEY_LEFT)) {
+        page--;
+        if (page < 1) page = 1;
+    } else if (IsPressed(KEY_DOWN) || IsPressed(KEY_RIGHT)) {
+        page++;
+        if (page > total_page) page = total_page;
+    } else if (IsPressed(ctrl('c'))) {
+        command = SearchCommand::Quit;
+    } else if (IsPressed(27)) {
+        command = SearchCommand::HighlightQuery;
     } else {
         return false;
     }

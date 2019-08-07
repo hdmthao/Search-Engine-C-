@@ -8,6 +8,8 @@
 #include <fstream>
 #include <algorithm>
 
+using util::string::isNum_string;
+
 // Constructor for searcher node
 SearcherNode::SearcherNode() : is_end_of_word(false) {
 }
@@ -382,7 +384,7 @@ bool Searcher::CheckTitle(std::string &file_name, std::string &word) {
 		for (auto w : line) {
 			count += w.length();
 			if (count >= 120) break;
-			if (w == word) return true;
+			if (util::string::ToLowerCase(w) == word) return true;
 		}
 		break;
 	}
@@ -534,6 +536,31 @@ ResultInfo Searcher::HighlightResult(const std::string &s, const std::string &fi
 	// //fixed
 
 	std::vector <std::string> word_para = util::string::Split(util::string::Trim(fil->paragraph));
+	// std::string para = "";
+	
+	// for (auto wo : word_para) {
+	// 	bool ok = false;
+	// 	int des = -1;
+	// 	int lens = 0;
+	// 	for (auto it : words)
+	// 		if (util::string::ToLowerCase(wo).find(util::string::ToLowerCase(it)) != -1 && des == -1)  {
+	// 			ok = true;
+	// 		if(des==-1)
+	// 			des = util::string::ToLowerCase(wo).find(util::string::ToLowerCase(it));
+	// 			lens += it.length();
+		
+	// 		}
+	// 	if (ok) {
+	// 		wo.insert(des, "<>");
+	// 		wo.insert(des + lens+2, "</>");
+	// 		para += wo + " "; 
+	// 	}
+	// 	else
+	// 		para += wo + " ";
+	// }
+	// para.pop_back();
+	// fil->paragraph = para;
+
 	std::string para = "";
 	
 	for (auto wo : word_para) {
@@ -541,16 +568,27 @@ ResultInfo Searcher::HighlightResult(const std::string &s, const std::string &fi
 		int des = -1;
 		int lens = 0;
 		for (auto it : words)
-			if (util::string::ToLowerCase(wo).find(util::string::ToLowerCase(it)) != -1 && des == -1)  {
-				ok = true;
-			if(des==-1)
-				des = util::string::ToLowerCase(wo).find(util::string::ToLowerCase(it));
-				lens += it.length();
+			if (util::string::ToLowerCase(wo).find(util::string::ToLowerCase(it)) != -1)  {
+				if (!isNum_string(wo) && des != util::string::ToLowerCase(wo).find(util::string::ToLowerCase(it))) {
+					ok = true;
+					//if(des==-1)
+					des = util::string::ToLowerCase(wo).find(util::string::ToLowerCase(it));
+					lens = it.length();//+
+					(wo).insert(des, "<>");
+					(wo).insert(des + lens + 2, "</>");
+				}
+				else if (isNum_string(wo) && wo == it) {
+					des = util::string::ToLowerCase(wo).find(util::string::ToLowerCase(it));
+					lens = it.length();//+
+					(wo).insert(des, "<>");
+					(wo).insert(des + lens + 2, "</>");
+					ok = false;
+				}
 		
 			}
 		if (ok) {
-			wo.insert(des, "<>");
-			wo.insert(des + lens+2, "</>");
+			// wo.insert(des, "<>");
+			// wo.insert(des + lens+2, "</>");
 			para += wo + " "; 
 		}
 		else
@@ -558,7 +596,7 @@ ResultInfo Searcher::HighlightResult(const std::string &s, const std::string &fi
 	}
 	para.pop_back();
 	fil->paragraph = para;
-	
+
 	std::vector <std::string> word_tit = util::string::Split(util::string::Trim(fil->title));
 	std::string tit = "";
 

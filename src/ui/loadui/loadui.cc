@@ -30,11 +30,15 @@ void LoadUI::Start() {
 };
     title_win = new Window(title.size(), title[0].size(), 10, (COLS - title[0].size()) / 2);
 
+    wattron(title_win->win, COLOR_PAIR(17));
+
     wattron(title_win->win, A_BOLD);
     for (int i = 0; i < title.size(); ++i) {
         mvwaddstr(title_win->win, i,0,title[i].c_str());
     }
-        
+
+    wattroff(title_win->win, COLOR_PAIR(17));
+
     // Loading status
     progress_bar = new Window(4, 102, 20, (COLS - 102) / 2);
 
@@ -72,8 +76,8 @@ void LoadUI::Start() {
     }
     mvwhline(info_win->win, 4, 1, '_', info_win->w - 2);
     wattroff(info_win->win, A_INVIS);
-
-
+    abc_win = new Window(3, 38, 35, (COLS - 38) / 2);
+    abc_win->Refresh();    
     refresh();
     progress_bar->Refresh();
     title_win->Refresh();
@@ -95,12 +99,19 @@ void LoadUI::Draw(int total_file, float time) {
     info_win->Refresh();
 }
 
+void LoadUI::ShowTest(double &time_estimate) {
+    std::string info = "Test 100 Query Take " + std::to_string(time_estimate) + " ms!!!";
+    mvwaddstr(abc_win->win, 0, 1, info.c_str());
+    abc_win->Refresh();
+}
 
 void LoadUI::Stop() {
     progress_bar->DestroyWin();
     title_win->DestroyWin();
+    abc_win->DestroyWin();
     info_win->DestroyWin();
     SAFE_DELETE(title_win);
     SAFE_DELETE(progress_bar);
+    SAFE_DELETE(abc_win);
     SAFE_DELETE(info_win);
 }
