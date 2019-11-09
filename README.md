@@ -17,7 +17,7 @@ The search engine should support several operator such as:
 
 1. AND
 2. OR
-3. Manchester –united
+3. Manchester –United
 4. intitle:hammer nails
 5. Peanut Butter +and Jam
 6. filetype:txt
